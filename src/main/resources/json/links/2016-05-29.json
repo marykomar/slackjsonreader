@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U16MYNMDJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16MYNMDJ|olegk> has joined the channel",
+        "ts": "1464533886.000123"
+    },
+    {
+        "user": "U183A2LTF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U183A2LTF|dm1triy> has joined the channel",
+        "ts": "1464544457.000124"
+    },
+    {
+        "user": "U16G70Z50",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16G70Z50|denees> has joined the channel",
+        "ts": "1464563408.000125"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<http:\/\/www.slant.co\/topics\/5984\/~productivity-enhancing-well-designed-and-concise-rather-than-just-popular-or-time-tested-programming-la>",
+        "attachments": [
+            {
+                "service_name": "Slant",
+                "title": "Slant - What are the \"best\" (productivity-enhancing, well-designed, and concise, rather than just popular or time-tested) programming languages?",
+                "title_link": "http:\/\/www.slant.co\/topics\/5984\/~productivity-enhancing-well-designed-and-concise-rather-than-just-popular-or-time-tested-programming-la",
+                "text": "Get the answer to \"What are the \"best\" (productivity-enhancing, well-designed, and concise, rather than just popular or time-tested) programming languages?\" See a list of the top 70 options and learn their pros and cons.",
+                "fallback": "Slant: Slant - What are the \"best\" (productivity-enhancing, well-designed, and concise, rather than just popular or time-tested) programming languages?",
+                "from_url": "http:\/\/www.slant.co\/topics\/5984\/~productivity-enhancing-well-designed-and-concise-rather-than-just-popular-or-time-tested-programming-la",
+                "thumb_url": "https:\/\/ucarecdn.com\/963f7f09-8ac8-4fe1-b12c-593d983a1bbc\/",
+                "thumb_width": 120,
+                "thumb_height": 91,
+                "service_icon": "http:\/\/www.slant.co\/images\/favicon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1464583698.000126"
+    }
+]

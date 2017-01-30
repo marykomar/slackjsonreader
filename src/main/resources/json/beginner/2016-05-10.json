@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U16PKF98T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16PKF98T|txtilya> has joined the channel",
+        "ts": "1462880127.000075"
+    },
+    {
+        "user": "U17ND83C3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17ND83C3|matraz> has joined the channel",
+        "ts": "1462915011.000076"
+    }
+]

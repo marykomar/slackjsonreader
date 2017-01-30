@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "<@U150DHUL9>: \u0441\u043f\u0430\u0441\u0438\u0431\u043e, \u044f \u043f\u0440\u0430\u0432\u0434\u0430 \u043d\u0435 \u043f\u043e\u043d\u044f\u043b \u043a\u0430\u043a \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c )) \u0440\u0435\u0448\u0438\u043b \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u043b\u0443\u0447\u0448\u0435 \u0432 general \u043f\u0438\u0441\u0430\u0442\u044c, \u043e\u043f\u0438\u0441\u0430\u043b \u0442\u0430\u043c \u0437\u0430\u0434\u0430\u0447\u0443 \u0438 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0447\u0442\u043e\u0431\u044b \u0431\u044b\u043b\u043e \u043f\u043e\u043d\u044f\u0442\u043d\u043e",
+        "ts": "1463309498.000611"
+    },
+    {
+        "user": "U191FGZD4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U191FGZD4|domvit> has joined the channel",
+        "ts": "1463312408.000612"
+    },
+    {
+        "user": "U192DDTDX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U192DDTDX|staze> has joined the channel",
+        "ts": "1463328474.000613"
+    },
+    {
+        "user": "U1912DD9R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1912DD9R|dema> has joined the channel",
+        "ts": "1463335440.000614"
+    },
+    {
+        "user": "U192HDDFZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U192HDDFZ|mightyvika> has joined the channel",
+        "ts": "1463337262.000615"
+    },
+    {
+        "user": "U192CF1SM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U192CF1SM|kytsmen> has joined the channel",
+        "ts": "1463343198.000616"
+    },
+    {
+        "user": "U18Q31MTN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18Q31MTN|oleksandrdres> has joined the channel",
+        "ts": "1463345672.000617"
+    },
+    {
+        "user": "U191H16D9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U191H16D9|zubr13> has joined the channel",
+        "ts": "1463347149.000618"
+    }
+]

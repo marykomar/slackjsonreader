@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U17SLNNG3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17SLNNG3|alvas> has joined the channel",
+        "ts": "1463657008.000233"
+    },
+    {
+        "user": "U1A9SKB7S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1A9SKB7S|vitalii> has joined the channel",
+        "ts": "1463683357.000234"
+    }
+]

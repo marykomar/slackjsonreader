@@ -1,0 +1,407 @@
+[
+    {
+        "user": "U15EAFHME",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15EAFHME|zver> has joined the channel",
+        "ts": "1462692476.000007"
+    },
+    {
+        "user": "U156H597E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156H597E|vladyslav> has joined the channel",
+        "ts": "1462692624.000008"
+    },
+    {
+        "user": "U154G64BV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U154G64BV|dee> has joined the channel",
+        "ts": "1462696198.000009"
+    },
+    {
+        "user": "U172BSKF1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172BSKF1|micton> has joined the channel",
+        "ts": "1462696527.000010"
+    },
+    {
+        "user": "U15BCC547",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15BCC547|dim> has joined the channel",
+        "ts": "1462698841.000011"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "<@U156DP6FN>: \u043a\u043b\u0435\u0432\u0430 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c, \u0443 \u043c\u0435\u043d\u044f \u043a\u0440\u0430\u0441\u0438\u0432\u0435\u0435\u0435 \u043d\u0438\u043a\u0430\u043a",
+        "ts": "1462700150.000013"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": ":+1:",
+        "ts": "1462700160.000014"
+    },
+    {
+        "type": "message",
+        "user": "U156DP6FN",
+        "text": "\u0441\u043f\u0430\u0441\u0438\u0431\u043e)",
+        "ts": "1462700748.000015"
+    },
+    {
+        "user": "U16FRNMJ9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16FRNMJ9|slisnychyi> has joined the channel",
+        "ts": "1462701519.000016"
+    },
+    {
+        "user": "U158BGZF1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U158BGZF1|dmytro_sokolov> has joined the channel",
+        "ts": "1462703128.000017"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!channel> \u0437\u0430\u0434\u0430\u0447\u0430 \u043d\u043e\u043c\u0435\u0440 3. \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0434\u0430\u043d\u043d\u044b\u0445 \u043f\u043e \u0442\u0438\u043f\u0443 ArrayList \u043f\u0440\u0438 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0435\u043b\u0435\u043c\u0435\u043d\u0442 \u0438 \u0434\u0443\u0431\u043b\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439. \u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443 \u0435\u0441\u043b\u0438 \u0432 \u0432\u0430\u0448\u0443 \u043f\u0443\u0441\u0442\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c 2, \u0442\u043e \u0432\u043d\u0443\u0442\u0440\u0438 \u0431\u0443\u0434\u0435\u0442 [2,2]. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0439 \u0437\u0430\u043f\u0440\u0435\u0449\u0430\u0435\u0442\u0441\u044f. \u0420\u0430\u0437\u043c\u0435\u0440 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u043c\u043e\u0436\u0435\u0442 \u0440\u0430\u0441\u0448\u0438\u0440\u044f\u0442\u044c\u0441\u044f (\u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439).",
+        "ts": "1462707370.000018"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16UQ8LAZ|gr8web> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/gr8web\/F172KJTUG\/enum_class.java|Enum class>",
+        "file": {
+            "id": "F172KJTUG",
+            "created": 1462708158,
+            "timestamp": 1462708158,
+            "name": "Enum_class.java",
+            "title": "Enum class",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U16UQ8LAZ",
+            "editable": true,
+            "size": 1555,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F172KJTUG\/enum_class.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F172KJTUG\/download\/enum_class.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/gr8web\/F172KJTUG\/enum_class.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F172KJTUG-cfe30eafee",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/gr8web\/F172KJTUG\/enum_class.java\/edit",
+            "preview": "import java.time.LocalDate;\r\nimport java.util.*;\r\n\r\npublic enum ZodiacType {\r\n    ARIES(LocalDate.of(0, 3, 21)),\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">time<\/span>.<span class=\"cm-variable\">LocalDate<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">util<\/span>.<span class=\"cm-operator\">*<\/span>;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">public<\/span> <span class=\"cm-keyword\">enum<\/span> <span class=\"cm-def\">ZodiacType<\/span> {<\/pre><\/div>\n<div><pre>    <span class=\"cm-variable\">ARIES<\/span>(<span class=\"cm-variable\">LocalDate<\/span>.<span class=\"cm-variable\">of<\/span>(<span class=\"cm-number\">0<\/span>, <span class=\"cm-number\">3<\/span>, <span class=\"cm-number\">21<\/span>)),<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 46,
+            "lines_more": 41,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U16UQ8LAZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U16UQ8LAZ|gr8web>",
+        "bot_id": null,
+        "ts": "1462708158.000019"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16UQ8LAZ|gr8web> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/gr8web\/F172SKEJV\/converter.java|Converter>",
+        "file": {
+            "id": "F172SKEJV",
+            "created": 1462708170,
+            "timestamp": 1462708170,
+            "name": "Converter.java",
+            "title": "Converter",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U16UQ8LAZ",
+            "editable": true,
+            "size": 372,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F172SKEJV\/converter.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F172SKEJV\/download\/converter.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/gr8web\/F172SKEJV\/converter.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F172SKEJV-fa8d55fe74",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/gr8web\/F172SKEJV\/converter.java\/edit",
+            "preview": "import java.time.LocalDate;\r\nimport java.time.format.DateTimeFormatter;\r\n\r\npublic class ZodiacConverter {\r\n    public void getMyZodiac(String somedate) {\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">time<\/span>.<span class=\"cm-variable\">LocalDate<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">time<\/span>.<span class=\"cm-variable\">format<\/span>.<span class=\"cm-variable\">DateTimeFormatter<\/span>;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">public<\/span> <span class=\"cm-keyword\">class<\/span> <span class=\"cm-def\">ZodiacConverter<\/span> {<\/pre><\/div>\n<div><pre>    <span class=\"cm-keyword\">public<\/span> <span class=\"cm-variable-3\">void<\/span> <span class=\"cm-variable\">getMyZodiac<\/span>(<span class=\"cm-variable-3\">String<\/span> <span class=\"cm-variable\">somedate<\/span>) {<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 11,
+            "lines_more": 6,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U16UQ8LAZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U16UQ8LAZ|gr8web>",
+        "bot_id": null,
+        "ts": "1462708170.000020"
+    },
+    {
+        "type": "message",
+        "user": "U16UFMQ5S",
+        "text": "<@U150DHUL9>:  \u0432 \u0442\u0430\u0441\u043a\u0435 3 \u043f\u0438\u0441\u0430\u0442\u044c \u0432\u0441\u0435 \u0442\u0435 \u0436\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0447\u0442\u043e \u0438 \u0432 ArrayList?",
+        "ts": "1462709282.000021"
+    },
+    {
+        "user": "U172MPHTK",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172MPHTK|oam> has joined the channel",
+        "ts": "1462714370.000022"
+    },
+    {
+        "user": "U1541UWDC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1541UWDC|namesake> has joined the channel",
+        "ts": "1462717799.000023"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0435\u0442, \u043f\u0440\u043e\u0441\u0442\u043e \u043d\u0430\u043f\u0438\u0448\u0438\u0442\u0435 \u043c\u0435\u0442\u043e\u0434 add() \u0438 \u043c\u0435\u0442\u043e\u0434-\u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0443 \u0442\u0438\u043f\u0430 getAll() \u0438\u043b\u0438 toString()",
+        "ts": "1462720725.000024"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16UFMQ5S|vanya> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/vanya\/F172WAU1J\/task_3.java|Task.3>",
+        "file": {
+            "id": "F172WAU1J",
+            "created": 1462724794,
+            "timestamp": 1462724794,
+            "name": "Task_3.java",
+            "title": "Task.3",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U16UFMQ5S",
+            "editable": true,
+            "size": 1240,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F172WAU1J\/task_3.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F172WAU1J\/download\/task_3.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/vanya\/F172WAU1J\/task_3.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F172WAU1J-aa012a5e8f",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/vanya\/F172WAU1J\/task_3.java\/edit",
+            "preview": "public class DoubleList {\r\n    private Object[] array;\r\n    private int size;\r\n\r\n    public DoubleList(){\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">public<\/span> <span class=\"cm-keyword\">class<\/span> <span class=\"cm-def\">DoubleList<\/span> {<\/pre><\/div>\n<div><pre>    <span class=\"cm-keyword\">private<\/span> <span class=\"cm-variable-3\">Object<\/span>[] <span class=\"cm-variable\">array<\/span>;<\/pre><\/div>\n<div><pre>    <span class=\"cm-keyword\">private<\/span> <span class=\"cm-variable-3\">int<\/span> <span class=\"cm-variable\">size<\/span>;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre>    <span class=\"cm-keyword\">public<\/span> <span class=\"cm-variable\">DoubleList<\/span>(){<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 47,
+            "lines_more": 42,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "num_stars": 1
+        },
+        "user": "U16UFMQ5S",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U16UFMQ5S|vanya>",
+        "bot_id": null,
+        "ts": "1462724794.000025"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U16UFMQ5S>: \u0432\u0441\u0435 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e, \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0447\u0442\u043e\u0431\u044b \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u044d\u0442\u043e \u0443\u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u043d\u044b\u0439 `toString()` \u0432 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u0441 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u043c\u0430\u0441\u0441\u0438\u0432\u0430 \u0438\u043b\u0438 \u043b\u044e\u0431\u043e\u0439 \u0434\u0440\u0443\u0433\u043e\u0439 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0441 \u0447\u0438\u0441\u043b\u0430\u043c\u0438.",
+        "ts": "1462727880.000026"
+    },
+    {
+        "type": "message",
+        "user": "U156DP6FN",
+        "text": "\u0430 \u0432 42 \u0441\u0442\u0440\u043e\u043a\u0435 \u0442\u043e\u0447\u043d\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \"\u0438\" ?",
+        "ts": "1462728430.000027"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0434\u0430, \u043f\u043e \u043c\u043e\u0435\u043c\u0443 \u043e\u0431\u0430 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e",
+        "ts": "1462728886.000028"
+    },
+    {
+        "type": "message",
+        "user": "U16UFMQ5S",
+        "text": "\u0421\u043e\u0433\u043b\u0430\u0441\u0435\u043d, \u044d\u0442\u043e \u0431\u0430\u0433)",
+        "ts": "1462729773.000029"
+    },
+    {
+        "user": "U16U8SRMH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16U8SRMH|proexpression> has joined the channel",
+        "ts": "1462734441.000030"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U150DHUL9|lozenko> shared a file: <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F173Q3B55\/Zadacha_4|\u0417\u0430\u0434\u0430\u0447\u0430 4>",
+        "file": {
+            "id": "F173Q3B55",
+            "created": 1462738310,
+            "timestamp": 1462738568,
+            "name": "Zadacha_4",
+            "title": "\u0417\u0430\u0434\u0430\u0447\u0430 4",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U150DHUL9",
+            "editable": true,
+            "size": 1206,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F173Q3B55\/Zadacha_4?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F173Q3B55\/download\/Zadacha_4?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F173Q3B55\/Zadacha_4",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F173Q3B55-b4189c01d3",
+            "preview": "<document><p>\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043c\u0435\u0442\u043e\u0434 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0438\u0440\u0443\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0435\u043d\u044c\u043a\u0438\u0439 XML \u0432 JSON. \u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u0432\u043b\u043e\u0436\u0435\u043d\u0438\u0439 (<i>node<\/i>) \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0447\u0435\u043c 1<\/p><p><\/p><p>\u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443 \u0442\u0430\u043a\u043e\u0439 XML \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 1 \u043d\u043e\u0434\u0443<\/p><pre>&lt;example&gt;\n\t&lt;name&gt;Steven&lt;\/name&gt;<\/pre><\/document>",
+            "updated": 1462738568,
+            "editor": "U150DHUL9",
+            "last_editor": "U150DHUL9",
+            "state": "locked",
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "user": "U150DHUL9",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U150DHUL9|lozenko>",
+        "bot_id": null,
+        "ts": "1462738559.000031"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U150DHUL9|lozenko> commented on <@U150DHUL9|lozenko>'s file <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F173Q3B55\/Zadacha_4|\u0417\u0430\u0434\u0430\u0447\u0430 4>: <!channel> \u0417\u0430\u0434\u0430\u0447\u0430 4",
+        "file": {
+            "id": "F173Q3B55",
+            "created": 1462738310,
+            "timestamp": 1462738568,
+            "name": "Zadacha_4",
+            "title": "\u0417\u0430\u0434\u0430\u0447\u0430 4",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U150DHUL9",
+            "editable": true,
+            "size": 1206,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F173Q3B55\/Zadacha_4?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F173Q3B55\/download\/Zadacha_4?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F173Q3B55\/Zadacha_4",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F173Q3B55-b4189c01d3",
+            "preview": "<document><p>\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043c\u0435\u0442\u043e\u0434 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0438\u0440\u0443\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0435\u043d\u044c\u043a\u0438\u0439 XML \u0432 JSON. \u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u0432\u043b\u043e\u0436\u0435\u043d\u0438\u0439 (<i>node<\/i>) \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0447\u0435\u043c 1<\/p><p><\/p><p>\u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443 \u0442\u0430\u043a\u043e\u0439 XML \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 1 \u043d\u043e\u0434\u0443<\/p><pre>&lt;example&gt;\n\t&lt;name&gt;Steven&lt;\/name&gt;<\/pre><\/document>",
+            "updated": 1462738568,
+            "editor": "U150DHUL9",
+            "last_editor": "U150DHUL9",
+            "state": "locked",
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "comment": {
+            "id": "Fc173GT78W",
+            "created": 1462738560,
+            "timestamp": 1462738560,
+            "user": "U150DHUL9",
+            "is_intro": false,
+            "comment": "<!channel> \u0417\u0430\u0434\u0430\u0447\u0430 4",
+            "channel": "C171F6QRY"
+        },
+        "is_intro": false,
+        "ts": "1462738559.000032"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "<@U150DHUL9>: \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0441\u0442\u0430\u0441",
+        "ts": "1462738731.000033",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U16UQ8LAZ",
+                    "U1541UWDC",
+                    "U154201DJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U156DP6FN",
+        "text": "<@U150DHUL9>: \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u0434\u043b\u044f \u043f\u0430\u0440\u0441\u0438\u043d\u0433\u0430 XML \u0438 JSON \u043c\u043e\u0436\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c ?",
+        "ts": "1462739135.000034"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0435 \u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u043e",
+        "ts": "1462739226.000035"
+    },
+    {
+        "user": "U16NVCQHE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16NVCQHE|karienomen> has joined the channel",
+        "ts": "1462739550.000036"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1A3QBXV4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1A3QBXV4|vr> has joined the channel",
+        "ts": "1464254767.000587"
+    },
+    {
+        "user": "U1BTEGYRW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BTEGYRW|grubjakc> has joined the channel",
+        "ts": "1464263938.000588"
+    }
+]

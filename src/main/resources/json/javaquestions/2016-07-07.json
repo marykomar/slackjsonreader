@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U180N3VD2",
+        "text": "<@U180N3VD2|fedor> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467891077.000055"
+    }
+]

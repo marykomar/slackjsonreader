@@ -1,0 +1,32 @@
+[
+    {
+        "user": "U1S1V4W9J",
+        "text": "<@U1S1V4W9J|marv> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480332721.000030"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0412\u0441\u0435 \u0432\u0435\u043b\u0438\u043a\u043e\u0435 \u0431\u044b\u0432\u0430\u0435\u0442  \u0432\u043f\u0435\u0440\u0432\u044b\u0435. \u041f\u0435\u0440\u0432\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u041b\u0438\u043d\u0443\u0441\u0430 \u0422\u043e\u0440\u0432\u0430\u043b\u044c\u0441\u0430 \"\u043c\u043e\u043b \u0440\u0435\u0431\u044f\u0442 \u044f \u0442\u0443\u0442 \u043f\u0440\u0438\u043a\u0440\u0443\u0442\u0438\u043b \u0431\u0430\u0448 \u0438 gcc - \u043d\u0430\u0437\u0432\u0430\u043b \u044d\u0442\u043e linux\" \u0432 \u0444\u043e\u0440\u0443\u043c\u0435 <https:\/\/groups.google.com\/forum\/#!msg\/comp.os.minix\/dlNtH7RRrGA\/SwRavCzVE7gJ>",
+        "edited": {
+            "user": "U150DHUL9",
+            "ts": "1480343928.000000"
+        },
+        "ts": "1480343732.000031",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1BTEGYRW",
+                    "U16NVCQHE",
+                    "U1KFLB248",
+                    "U15B9DZ0T",
+                    "U174DPXUL"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

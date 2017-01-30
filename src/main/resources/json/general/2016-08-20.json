@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U20LKVARK",
+        "item_type": "F",
+        "text": "<@U20LKVARK|bigbunny> pinned <@U16K115QT|dmitry>'s Plain Text <https:\/\/3monthjunior.slack.com\/files\/dmitry\/F22TEVBDF\/-.txt|Untitled> to this channel.",
+        "item": {
+            "id": "F22TEVBDF",
+            "created": 1471587097,
+            "timestamp": 1471587097,
+            "name": "-.txt",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U16K115QT",
+            "editable": true,
+            "size": 6167,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": true,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F22TEVBDF\/-.txt?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F22TEVBDF\/download\/-.txt?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/dmitry\/F22TEVBDF\/-.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F22TEVBDF-b1e9f8e8b0",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/dmitry\/F22TEVBDF\/-.txt\/edit",
+            "preview": "\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435:\r\n1. \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c Tomcat.\r\n2. \u0411\u0430\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445 (\u0411\u0414): MySQL, H2, HSQLDB (\u0434\u043b\u044f \u0442\u0435\u0441\u0442\u043e\u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u00abIn-memory database mode\u00bb).\r\n3. \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0411\u0414.\r\n4. \u0412 \u0411\u0414 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0434\u0432\u0435 \u0442\u0430\u0431\u043b\u0438\u0446\u044b: \u041e\u0442\u0434\u0435\u043b\u044b \u0438 \u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438.\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435:<\/pre><\/div>\n<div><pre>1. \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c Tomcat.<\/pre><\/div>\n<div><pre>2. \u0411\u0430\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445 (\u0411\u0414): MySQL, H2, HSQLDB (\u0434\u043b\u044f \u0442\u0435\u0441\u0442\u043e\u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u00abIn-memory database mode\u00bb).<\/pre><\/div>\n<div><pre>3. \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0411\u0414.<\/pre><\/div>\n<div><pre>4. \u0412 \u0411\u0414 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0434\u0432\u0435 \u0442\u0430\u0431\u043b\u0438\u0446\u044b: \u041e\u0442\u0434\u0435\u043b\u044b \u0438 \u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438.<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 42,
+            "lines_more": 37,
+            "preview_is_truncated": true,
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "num_stars": 1,
+            "pinned_to": [
+                "C14VCJCDS"
+            ],
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U1B73237S",
+                        "U20TLRFFC",
+                        "U172MPHTK",
+                        "U1JU85K97",
+                        "U17V9A0EQ"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        "ts": "1471709693.002005"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "user": "U2T7A8QK1",
+        "text": "<@U2T7A8QK1|bagrat> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477298838.000666"
+    },
+    {
+        "user": "U2T7Q6CAG",
+        "text": "<@U2T7Q6CAG|kateyoukos> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477303603.000667"
+    },
+    {
+        "user": "U2TH0AKAR",
+        "text": "<@U2TH0AKAR|sajel> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477338857.000668"
+    },
+    {
+        "user": "U2THU7K7A",
+        "text": "<@U2THU7K7A|svyat> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477342794.000669"
+    },
+    {
+        "user": "U2TK97LCE",
+        "text": "<@U2TK97LCE|lucker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477349906.000670"
+    }
+]

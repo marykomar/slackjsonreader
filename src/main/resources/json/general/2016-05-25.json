@@ -1,0 +1,160 @@
+[
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u0420\u0435\u0431\u044f\u0442\u0430, \u043a\u0442\u043e \u043a\u0430\u043a\u0438\u043c \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u043c \u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f GET POST \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432?",
+        "ts": "1464166940.002988"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u044f Postman\/Fiddler \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e.",
+        "edited": {
+            "user": "U150DHUL9",
+            "ts": "1464167102.000000"
+        },
+        "ts": "1464167093.002989",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U17SM7N78",
+                    "U17V9A0EQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u0441\u043f\u0430\u0441\u0438\u0431\u043e",
+        "ts": "1464167119.002991"
+    },
+    {
+        "type": "message",
+        "user": "U16KX5EAU",
+        "text": "Advanced Rest Client",
+        "ts": "1464167493.002992",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U17SM7N78"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U17073E95",
+                    "U156623BK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!everyone>: \u044f \u0441\u043e\u0437\u0434\u0430\u043b \u043a\u0430\u043d\u0430\u043b \u0434\u043b\u044f \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0445 \u0441\u0441\u044b\u043b\u043e\u043a <#C1BJW06S1> \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043a\u0430\u0436\u0434\u044b\u0439 \u043c\u043e\u0436\u0435\u0442 \u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439 \u043f\u043e Java",
+        "ts": "1464170712.002993",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16HN7N3Z",
+                    "U16FRNMJ9",
+                    "U15EAFHME",
+                    "U19BNJCF5",
+                    "U17U5RTKN",
+                    "U17073E95",
+                    "U16N8RLU8",
+                    "U173XSJ74"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U1BL3H8P9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BL3H8P9|andriy_levchenko> has joined the channel",
+        "ts": "1464182278.002994"
+    },
+    {
+        "user": "U1BLEGVFS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BLEGVFS|sergio> has joined the channel",
+        "ts": "1464185085.002995"
+    },
+    {
+        "user": "U1BLJ0ZKP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BLJ0ZKP|sanlak> has joined the channel",
+        "ts": "1464185092.002996"
+    },
+    {
+        "user": "U1BLD0YFQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BLD0YFQ|rostyslav.rozhko> has joined the channel",
+        "ts": "1464185603.002997"
+    },
+    {
+        "user": "U1BPDV77X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BPDV77X|kaiv> has joined the channel",
+        "ts": "1464202457.002999"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U150DHUL9>: \u043a\u0430\u043a\u0438\u043c \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u043c \u0434\u043b\u044f RSS \u043b\u0443\u0447\u0448\u0435 \u0432\u0441\u0435\u0433\u043e \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f?",
+        "ts": "1464211924.003002"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043a\u0430\u043a\u0438\u043c \u0442\u0435\u0431\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0440\u0430\u0432\u0438\u0442\u044c\u0441\u044f, \u0443 \u043c\u0435\u043d\u044f \u043a\u043e\u0433\u0434\u0430 \u0442\u043e Pocket \u0441\u0442\u043e\u044f\u043b",
+        "ts": "1464212217.003003"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U17073E95>: \u043a\u0441\u0442\u0430\u0442\u0438 \u044f \u043d\u0430\u0434\u0435\u044e\u0441\u044c \u044d\u0442\u043e \u0443 \u0442\u0435\u0431\u044f \u0443\u0436\u0435 \u0432 \u0438\u0437\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043b\u0435\u0436\u0438\u0442 <http:\/\/martinfowler.com\/feed.atom>",
+        "ts": "1464212919.003004"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u0435\u0449\u0435 \u043d\u0435\u0442. \u041d\u0435\u043c\u043d\u043e\u0433\u0438\u043c \u0440\u0430\u043d\u0435\u0435 \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u043b \u043c\u0435\u043b\u044c\u043a\u043e\u043c, \u043d\u043e \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043d\u0435 \u0443\u043b\u043e\u0432\u0438\u043b.",
+        "ts": "1464213096.003005"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u044e \u0434\u0435\u0442\u0430\u043b\u044c\u043d\u0435\u0435",
+        "ts": "1464213107.003006"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0411\u0443\u0434\u0438\u043c \u0441\u0447\u0438\u0442\u0430\u0442\u044c \u044f \u043d\u0435 \u0432\u0438\u0434\u0435\u043b \u0442\u0432\u043e\u0438\u0445 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439. ",
+        "ts": "1464213118.003007",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U17073E95",
+                    "U1D6HSP44"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

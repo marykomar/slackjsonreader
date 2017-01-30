@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1D7Y50Q2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1D7Y50Q2|o2mz> has joined the channel",
+        "ts": "1464771859.000636"
+    },
+    {
+        "user": "U1D6HSP44",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1D6HSP44|skylow> has joined the channel",
+        "ts": "1464786308.000637"
+    },
+    {
+        "user": "U1DCKTYKE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1DCKTYKE|anroypaul> has joined the channel",
+        "ts": "1464809022.000638"
+    }
+]

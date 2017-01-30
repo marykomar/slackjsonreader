@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U184HBM37",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U184HBM37|maliken> has joined the channel",
+        "ts": "1465490556.000014"
+    },
+    {
+        "user": "U19PN5MGE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U19PN5MGE|vaano> has joined the channel",
+        "ts": "1465493718.000015"
+    }
+]

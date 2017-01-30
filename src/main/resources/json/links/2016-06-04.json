@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U16AR4DT9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16AR4DT9|boykodm> has joined the channel",
+        "ts": "1465043520.000145"
+    },
+    {
+        "user": "U1E6NPZE3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E6NPZE3|krostysav> has joined the channel",
+        "ts": "1465063025.000146"
+    }
+]

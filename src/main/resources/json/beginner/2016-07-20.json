@@ -1,0 +1,322 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U19PN5MGE|vaano> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/vaano\/F1TCH3L74\/sql_help.txt|SQL help>",
+        "file": {
+            "id": "F1TCH3L74",
+            "created": 1469004590,
+            "timestamp": 1469004590,
+            "name": "SQL_help.txt",
+            "title": "SQL help",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U19PN5MGE",
+            "editable": true,
+            "size": 760,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1TCH3L74\/sql_help.txt?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1TCH3L74\/download\/sql_help.txt?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/vaano\/F1TCH3L74\/sql_help.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1TCH3L74-f220e48916",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/vaano\/F1TCH3L74\/sql_help.txt\/edit",
+            "preview": "\u0417\u043d\u0430\u0442\u043e\u043a\u0438 SQL, \u043f\u043e\u043c\u043e\u0433\u0438\u0442\u0435 :)\r\n\u0415\u0441\u0442\u044c \u0442\u0430\u0431\u043b\u0438\u0447\u043a\u0430 nobel c \u043f\u043e\u043b\u044f\u043c\u0438 yr, subject \u0438 winner. \r\n\u0412\u043e\u0442 \u0442\u0430\u043a\u043e\u0435 \u0432\u043e\u0442 \u0437\u0430\u0434\u0430\u043d\u0438\u0435: \r\nThe expression subject IN ('Chemistry','Physics') can be used as a value - it will be 0 or 1.\r\nShow the 1984 winners and subject ordered by subject and winner name; but list Chemistry and Physics last. \r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>\u0417\u043d\u0430\u0442\u043e\u043a\u0438 SQL, \u043f\u043e\u043c\u043e\u0433\u0438\u0442\u0435 :)<\/pre><\/div>\n<div><pre>\u0415\u0441\u0442\u044c \u0442\u0430\u0431\u043b\u0438\u0447\u043a\u0430 nobel c \u043f\u043e\u043b\u044f\u043c\u0438 yr, subject \u0438 winner. <\/pre><\/div>\n<div><pre>\u0412\u043e\u0442 \u0442\u0430\u043a\u043e\u0435 \u0432\u043e\u0442 \u0437\u0430\u0434\u0430\u043d\u0438\u0435: <\/pre><\/div>\n<div><pre>The expression subject IN ('Chemistry','Physics') can be used as a value - it will be 0 or 1.<\/pre><\/div>\n<div><pre>Show the 1984 winners and subject ordered by subject and winner name; but list Chemistry and Physics last. <\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 17,
+            "lines_more": 12,
+            "preview_is_truncated": false,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U19PN5MGE",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U19PN5MGE|vaano>",
+        "bot_id": null,
+        "ts": "1469004590.000016"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "yr \u043a\u0430\u043a\u043e\u0433\u043e \u0442\u0438\u043f\u0430?",
+        "ts": "1469008209.000017"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u0447\u0438\u0441\u043b\u043e \u043e\u0431\u044b\u0447\u043d\u043e\u0435, \u044d\u0442\u043e \u043d\u0435 \u043e\u0441\u043e\u0431\u043e \u0432\u0430\u0436\u043d\u043e",
+        "ts": "1469008256.000018"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041d\u0430\u0432\u0441\u043a\u0438\u0434\u043a\u0443 \u043c\u043e\u0436\u043d\u043e \u0447\u0442\u043e \u0442\u043e \u0442\u0438\u043f\u0430 \u0442\u0430\u043a\u043e\u0433\u043e",
+        "ts": "1469009410.000019"
+    },
+    {
+        "type": "message",
+        "user": "U1RKU8GER",
+        "text": "<http:\/\/stackoverflow.com\/questions\/32934106\/how-to-list-mysql-query-result-in-particular-sequence>",
+        "attachments": [
+            {
+                "title": "how to list mysql query result in particular sequence?",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/32934106\/how-to-list-mysql-query-result-in-particular-sequence",
+                "text": "the problem #14 from SQLZoo for table nobel(yr, subject, winner)goes as \"Show the 1984 winners and subject ordered by subject and winner name; but list Chemistry and Physics last.\"my soluti...",
+                "fallback": "how to list mysql query result in particular sequence?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/32934106\/how-to-list-mysql-query-result-in-particular-sequence",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1469015791.000022",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19PN5MGE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1RKU8GER",
+        "text": "<http:\/\/sqlzoo.net\/wiki\/SELECT_from_Nobel_Tutorial>",
+        "ts": "1469015850.000024"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442.\n\u041a\u0442\u043e \u043d\u0438\u0431\u0443\u0434\u044c \u0437\u043d\u0430\u0435\u0442, \u0432 \u0442\u043e\u043c\u043a\u0430\u0442\u0435 \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044e \u0431\u044b\u043b \u0447\u0435\u0440\u0435\u0437 80 \u043f\u043e\u0440\u0442 \u043a\u0440\u043e\u043c\u0435 \u043a\u0430\u043a \u0447\u0435\u0440\u0435\u0437 \u043f\u0440\u043e\u043a\u0441\u0438\/\u043f\u0440\u044f\u043c\u043e\u0439 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043d\u0430 80 \u043f\u043e\u0440\u0442?",
+        "ts": "1469023456.000025"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "\u0442\u0443\u0442 \u0438\u043b\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043d\u0430 80 \u043f\u043e\u0440\u0442 \u0438\u043b\u0438 \u0444\u043e\u0440\u0432\u0430\u0440\u0434\u0438\u0442\u044c \u0441 80 \u043d\u0430 8080",
+        "edited": {
+            "user": "U1BTEGYRW",
+            "ts": "1469024088.000000"
+        },
+        "ts": "1469024071.000026"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043e\u043a\u0430\u0439, \u0437\u043d\u0430\u0447\u0438\u0442 \u043d\u0435 \u0432\u044b\u0439\u0434\u0435\u0442 \u043f\u043e\u0445\u043e\u0436\u0435. \u043d\u0435 \u0445\u043e\u0442\u0435\u043b \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u0443\u044e \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u043c\u0435\u043d\u044f\u0442\u044c, \u0433\u0434\u0435 \u0442\u043e \u043d\u0430\u043f\u0438\u0441\u0430\u043b\u0438 \u0447\u0442\u043e \u043d\u0435\u0445\u043e\u0440\u043e\u0448\u043e \u0442\u0430\u043a \u0434\u0435\u043b\u0430\u0442\u044c?\n\u0441\u0435\u0439\u0447\u0430\u0441 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u043f\u043e: IP:8080\/app\n\u044f \u0441\u0434\u0435\u043b\u0430\u043b Alias,  \u0442\u0435\u043f\u0435\u0440\u044c \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u0442\u0430\u043a\u0436\u0435 \u043f\u043e: <http:\/\/x.y.com:8080\/app|x.y.com:8080\/app>\n\n\u0434\u0443\u043c\u0430\u043b \u043c\u043e\u0436\u0435\u0442 \u0435\u0449\u0451 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u043a\u0430\u043a \u0442\u043e \u043f\u043e\u0440\u0442 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0447\u0442\u043e\u0431\u044b url \u043d\u0435 \u0442\u0430\u043a \u201e\u043a\u0440\u0438\u0432\u043e\u201c \u0441\u043c\u043e\u0442\u0440\u0435\u043b\u0441\u044f",
+        "ts": "1469024476.000028"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "\u0432\u0438\u043d\u0434\u0430?",
+        "ts": "1469024903.000029"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043d\u0435\u0442, \u0443\u0431\u0443\u043d\u0442\u0443 \u043d\u0430 digital ocean",
+        "ts": "1469024936.000030"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "\u0442\u0430\u043a \u0444\u043e\u0440\u0432\u0430\u0440\u0434\u043d\u0438",
+        "edited": {
+            "user": "U1BTEGYRW",
+            "ts": "1469025054.000000"
+        },
+        "ts": "1469025050.000031"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "\u0438 \u0432 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u043d\u0430\u0434\u043e \u0431\u0443\u0434\u0435\u0442 \u043c\u0435\u043d\u044f\u0442\u044c",
+        "ts": "1469025106.000033"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1BTEGYRW|grubjakc> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/grubjakc\/F1TF0DCQ7\/Untitled.txt|Untitled>",
+        "file": {
+            "id": "F1TF0DCQ7",
+            "created": 1469025182,
+            "timestamp": 1469025182,
+            "name": "Untitled.txt",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U1BTEGYRW",
+            "editable": true,
+            "size": 192,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1TF0DCQ7\/Untitled.txt?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1TF0DCQ7\/download\/Untitled.txt?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/grubjakc\/F1TF0DCQ7\/Untitled.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1TF0DCQ7-e45db9a68c",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/grubjakc\/F1TF0DCQ7\/Untitled.txt\/edit",
+            "preview": "iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080\r\niptables -A INPUT -p tcp -i $EXT_IF --dport 80 -j ACCEPT",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>iptables -t nat -I PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080<\/pre><\/div>\n<div><pre>iptables -A INPUT -p tcp -i $EXT_IF --dport 80 -j ACCEPT<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 2,
+            "lines_more": 0,
+            "preview_is_truncated": false,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1BTEGYRW",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1BTEGYRW|grubjakc>",
+        "bot_id": null,
+        "ts": "1469025182.000034"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "\u0438 \u0431\u0443\u0434\u0435\u0442 \u0442\u0435\u0431\u0435 \u0441\u0447\u0430\u0441\u0442\u044c\u0435",
+        "ts": "1469025193.000035"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "$EXT_IF - \u0442\u0432\u043e\u0439 wan \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441",
+        "ts": "1469025219.000036"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "\u0445\u043e\u0442\u044f \u0442\u0435\u0431\u0435 \u0445\u0432\u0430\u0442\u0438\u0442 \u0438 \u043f\u0435\u0440\u0432\u043e\u0439 \u0441\u0442\u0440\u043e\u0447\u043a\u0438",
+        "edited": {
+            "user": "U1BTEGYRW",
+            "ts": "1469025778.000000"
+        },
+        "ts": "1469025240.000037"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0441\u043f\u0430\u0441\u0438\u0431\u043e",
+        "ts": "1469026314.000040"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "<@U16UQ8LAZ>: \u0427\u0435\u043c \u043f\u0440\u044f\u043c\u0430\u044f \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 \u043d\u0430 80\u0439 \u043d\u0435 \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442?",
+        "ts": "1469029933.000041"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u0412\u043e\u043e\u0431\u0449\u0435 \u0434\u0430\u0432\u0430\u0442\u044c \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u043f\u0440\u044f\u043c\u043e\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043d\u0430 \u0442\u043e\u043c\u043a\u0435\u0442 \u0438\u0437\u0432\u043d\u0435 - \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u044e\u0442.",
+        "ts": "1469029977.000042"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u0421 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0441\u0435\u043a\u044c\u044e\u0440\u043d\u043e\u0441\u0442\u0438",
+        "ts": "1469030017.000043"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u041a\u0430\u043a \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438?",
+        "ts": "1469030305.000044"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0413\u0443\u0433\u043b \u043d\u0430\u0448\u0435\u043b \u0447\u0435\u0440\u0435\u0437 &lt;Host&gt; \u0432 server.xml \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0438\u043b\u0438 \u043a\u0430\u043a\u043e\u0439 \u043d\u0438\u0431\u0443\u0434\u044c \u043f\u0440\u043e\u043a\u0441\u0438 \u043f\u043e\u0440\u0442\u0430 \u0447\u0435\u0440\u0435\u0437 Connector.\n\u042f \u0432\u0441\u0435\u0433\u043e \u0442\u043e \u0445\u043e\u0442\u0435\u043b \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0431\u044b\u043b\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u043d\u0435 \u0447\u0435\u0440\u0435\u0437 IP:8080 \u0430 \u0447\u0435\u0440\u0435\u0437 \u0434\u043e\u043c\u0435\u043d.\n\n\u041d\u0430 digital ocean \u0438 DNS \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0442\u044c, \u043d\u043e \u044f \u0441 \u044d\u0442\u0438\u043c \u043d\u0435 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043b\u0441\u044f \u043f\u043e\u043a\u0430.",
+        "edited": {
+            "user": "U16UQ8LAZ",
+            "ts": "1469030914.000000"
+        },
+        "ts": "1469030747.000045"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u042f \u0447\u0442\u043e \u0442\u043e \u043f\u0440\u043e \u0431\u0443\u0442 \u043f\u043e\u0434\u0443\u043c\u0430\u043b \u0441\u0440\u0430\u0437\u0443, \u0442\u0430\u043c \u043f\u0440\u043e\u043f\u0435\u0440\u0442\u044f \u043d\u0430 \u043f\u043e\u0440\u0442 \u0435\u0441\u0442\u044c, \u0438 \u0435\u043c\u0431\u0435\u0434\u0435\u0434 \u0441\u0435\u0440\u0432\u0435\u0440.",
+        "ts": "1469030964.000047"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u0412\u043e\u043e\u0431\u0449\u0435 \u0434\u0430, \u0447\u0435\u0440\u0435\u0437 server.xml \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043c\u043e\u0436\u043d\u043e",
+        "ts": "1469030977.000048"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0443 \u043c\u0435\u043d\u044f \u0441\u043f\u0440\u0438\u043d\u0433 \u0431\u0443\u0442",
+        "ts": "1469031096.000049"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u0421\u0440\u0430\u0437\u0443 \u043d\u0430 \u0437\u0430\u043c\u0435\u0442\u043a\u0443, \u0441\u0435\u0439\u0447\u0430\u0441 \u0441\u043a\u0430\u0439\u043f \u0443\u043f\u043e\u0440\u043e\u043b\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0435\u0442\u0441\u044f \u0441\u0440\u0430\u0437\u0443 \u043f\u044b\u0442\u0430\u0435\u0442\u0441\u044f \u0437\u0430\u043d\u044f\u0442\u044c 80\u0439 \u043f\u043e\u0440\u0442, \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 80\u043c \u043f\u043e\u0440\u0442\u0443 \u043c\u043e\u0436\u0435\u0442 \u043d\u0435 \u0440\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f.\n\u0414\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u043d\u0443\u0436\u043d\u043e \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0432\u044b\u0440\u0443\u0431\u0438\u0442\u044c \u0441\u043a\u0430\u0439\u043f, \u0440\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438 \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0441\u043a\u0430\u0439\u043f, \u043e\u043d \u0435\u0441\u043b\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0442 \u0447\u0442\u043e 80\u0439 \u0437\u0430\u043d\u0442 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0438 \u044d\u0442\u043e\u0433\u043e \u0441\u0435\u0430\u043d\u0441\u0430 \u043d\u0430 \u043d\u0435\u0433\u043e \u043b\u0435\u0437\u0442\u044c.",
+        "ts": "1469031103.000050"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043d\u0430\u0434\u043e \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u0433\u0443\u0433\u043b\u0438\u0442\u044c",
+        "ts": "1469031164.000051"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "&gt;\u0443 \u043c\u0435\u043d\u044f \u0441\u043f\u0440\u0438\u043d\u0433 \u0431\u0443\u0442\n\u0412 application.properties server.port=80",
+        "ts": "1469031213.000052"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "<http:\/\/docs.spring.io\/spring-boot\/docs\/current\/reference\/html\/common-application-properties.html>\n\u042d\u0442\u043e \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0438, \u0431\u0443\u0442 \u0447\u0435\u0440\u0435\u0437 \u043f\u0440\u043e\u043f\u0435\u0440\u0442\u0438 \u043c\u043d\u043e\u0433\u043e \u0432\u0441\u044f\u043a\u0438\u0445 \u0432\u043a\u0443\u0441\u043d\u043e\u0441\u0442\u0435\u0439 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0443\u043c\u0435\u0435\u0442.",
+        "ts": "1469031290.000053"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0441\u043f\u0430\u0441\u0438\u0431\u043e, \u044f \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u044e.",
+        "ts": "1469031325.000054"
+    },
+    {
+        "type": "message",
+        "user": "U1579F6SW",
+        "text": "\u0412\u043e\u043e\u0431\u0449\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c \u043f\u043e\u0440\u0442\u044b \u0434\u043e 1024\u0433\u043e \u043f\u043b\u043e\u0445\u043e\u0439 \u0442\u043e\u043d",
+        "ts": "1469032542.000055"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u0416\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0432\u043e\u043e\u0431\u0449\u0435 \u0431\u0440\u0430\u0442\u044c \u0432\u044b\u0448\u0435 10000",
+        "ts": "1469059304.000056"
+    }
+]

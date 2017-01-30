@@ -1,0 +1,463 @@
+[
+    {
+        "user": "U172BSKF1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172BSKF1|micton> has joined the channel",
+        "ts": "1462696165.001029"
+    },
+    {
+        "user": "U172MPHTK",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172MPHTK|oam> has joined the channel",
+        "ts": "1462702251.001030"
+    },
+    {
+        "type": "message",
+        "user": "U158BGZF1",
+        "text": "<@U150DHUL9>: \u0442\u043e\u0436\u0435 \u0437\u0430\u0434\u0430\u044e \u0432\u043e\u043f\u0440\u043e\u0441 \u043f\u0440\u043e \u0441\u043f\u043e\u0441\u043e\u0431\u044b \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043d\u0430 \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e, \u043d\u0438\u043a\u0442\u043e \u0435\u0449\u0435 \u043d\u0438 \u0440\u0430\u0437\u0443 \u0432\u0441\u0435 \u043d\u0435 \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0438\u043b)\n6-\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 - Enum",
+        "ts": "1462703276.001031",
+        "reactions": [
+            {
+                "name": "simple_smile",
+                "users": [
+                    "U150DHUL9",
+                    "U154201DJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "unsafe.allocateInstance",
+        "ts": "1462706217.001032"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "\u041e\u0443, \u043d\u0435\u0432\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0447\u0438\u0442\u0430\u043b, \u0441\u0432\u0435\u0440\u0445\u0443 \u0443\u0436\u0435 \u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e\u0431 \u044d\u0442\u043e\u043c)",
+        "ts": "1462706801.001033"
+    },
+    {
+        "user": "U172M2S5B",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172M2S5B|tarasol> has joined the channel",
+        "ts": "1462707140.001034"
+    },
+    {
+        "type": "message",
+        "user": "U1717NTM2",
+        "text": "\u042f\u043a\u0456 \u043f\u043e\u0440\u0430\u0434\u0438\u0442\u0435 \u043a\u043d\u0438\u0433\u0438 \u0442\u0430 \u0440\u0435\u0441\u0443\u0440\u0441\u0438 \u0434\u043b\u044f \u043e\u0441\u0432\u043e\u0454\u043d\u043d\u044f \u0434\u0436\u0430\u0432\u0438 JDK  ?",
+        "edited": {
+            "user": "U1717NTM2",
+            "ts": "1462708490.000000"
+        },
+        "ts": "1462708474.001035"
+    },
+    {
+        "user": "U172FC746",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172FC746|savchenkoarts> has joined the channel",
+        "ts": "1462709346.001037"
+    },
+    {
+        "user": "U172T216K",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172T216K|shoom> has joined the channel",
+        "ts": "1462713624.001038"
+    },
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "<@U1717NTM2>: <https:\/\/dou.ua\/users\/staslozenko\/articles\/> \u0442\u0430\u043c \u043d\u0430\u0439\u0434\u0435\u0448\u044c",
+        "attachments": [
+            {
+                "service_name": "\u0414\u041e\u0423",
+                "title": "DOU",
+                "title_link": "https:\/\/dou.ua\/users\/staslozenko\/articles\/",
+                "text": "Senior Software Engineer \u0432 SDL. \u0423\u043a\u0440\u0430\u0438\u043d\u0430, \u041a\u0438\u0435\u0432. \u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d 22 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2011.",
+                "fallback": "\u0414\u041e\u0423: DOU",
+                "thumb_url": "https:\/\/s.dou.ua\/files\/dou-200x200.png",
+                "from_url": "https:\/\/dou.ua\/users\/staslozenko\/articles\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1
+            }
+        ],
+        "ts": "1462713905.001039"
+    },
+    {
+        "user": "U1731PWHF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1731PWHF|xquant1x> has joined the channel",
+        "ts": "1462717096.001041"
+    },
+    {
+        "user": "U172VS484",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172VS484|grimer> has joined the channel",
+        "ts": "1462724422.001042"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u0417\u0430\u0434\u0430\u043d\u0438\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u0438\u043b \u0432 \u043c\u0435\u0440\u0443 \u0441\u0432\u043e\u0438\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439. JavaDoc \u043d\u0435\u0442 )))).  \u0412\u044b\u043f\u043e\u043b\u043d\u0438\u043b \u043e\u043f\u0438\u0440\u0430\u044f\u0441\u044c \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u0440 \u0438\u0437 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430.  \u041d\u0435 \u043c\u043e\u0433\u0443 \u0441\u043a\u0437\u0430\u0442\u044c, \u0447\u0442\u043e \u0441\u043c\u043e\u0433\u0443 \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u044c ))) \u0421 \u0430\u043d\u043d\u043e\u0442\u0430\u0446\u0438\u044f\u043c\u0438 \u0438 \u0440\u0435\u0444\u043b\u0435\u043a\u0448\u0435\u043d\u043e\u043c \u043f\u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u043b\u0441\u044f \u0447\u0443\u0442\u044c \u043f\u043e\u0431\u043e\u043b\u0435\u0435... \u0423\u0437\u043d\u0430\u043b \u043f\u0440\u043e Proxy. \u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 -  <https:\/\/github.com\/andrewpanasyuk\/Logging>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "andrewpanasyuk\/Logging",
+                "title_link": "https:\/\/github.com\/andrewpanasyuk\/Logging",
+                "text": "Logging - Running method counter",
+                "fallback": "GitHub: andrewpanasyuk\/Logging",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/12432320?v=3&s=400",
+                "from_url": "https:\/\/github.com\/andrewpanasyuk\/Logging",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U1552UTDH",
+            "ts": "1462732053.000000"
+        },
+        "ts": "1462732031.001043"
+    },
+    {
+        "user": "U173TRG9G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U173TRG9G|boolean-true> has joined the channel",
+        "ts": "1462733123.001046"
+    },
+    {
+        "user": "U173XSJ74",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U173XSJ74|alex4ip> has joined the channel",
+        "ts": "1462736095.001047"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0443 \u0438 \u0447\u0442\u043e \u0443 \u043d\u0430\u0441 \u0441 Logger-\u043e\u043c? :simple_smile:",
+        "ts": "1462737888.001048"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U1552UTDH>: LogItInvocationHandker? HandKer? \u041d\u043e\u0432\u0430\u044f \u0440\u0430\u0437\u043d\u043e\u0432\u0438\u0434\u043d\u043e\u0441\u0442\u044c Handler-\u043e\u0432?",
+        "ts": "1462737947.001049"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u043e\u0447\u0435\u043f\u044f\u0442\u043a\u0430 (((",
+        "ts": "1462738181.001050"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0438 \u043a\u043b\u0430\u0441\u0441 \u0438 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440? :simple_smile:",
+        "ts": "1462738584.001051"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u0421\u0443\u043c\u0435\u043b!!!:sunglasses:",
+        "ts": "1462738672.001052"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!everyone>: \u0435\u0441\u043b\u0438 \u0447\u0442\u043e \u0442\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0410\u043d\u0434\u0440\u0435\u0439 \u0441\u043c\u043e\u0433 \u0443\u043c\u0435\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u0432 \u0434\u0435\u0434\u043b\u0430\u0439\u043d - \u044f \u0436\u0434\u0430\u0442\u044c \u0434\u0440\u0443\u0433\u0438\u0445 \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c, \u0447\u0435\u0440\u0435\u0437 10 \u043c\u0438\u043d\u0443\u0442 \u043d\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435",
+        "ts": "1462738910.001053"
+    },
+    {
+        "user": "U173RH00M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U173RH00M|mmsmv> has joined the channel",
+        "ts": "1462739232.001054"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U150DHUL9|lozenko> shared a file: <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F17414ZMG\/JavaDoc_Utility|JavaDoc Utility>",
+        "file": {
+            "id": "F17414ZMG",
+            "created": 1462738602,
+            "timestamp": 1462739348,
+            "name": "JavaDoc_Utility",
+            "title": "JavaDoc Utility",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U150DHUL9",
+            "editable": true,
+            "size": 2600,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F17414ZMG\/JavaDoc_Utility?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F17414ZMG\/download\/JavaDoc_Utility?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F17414ZMG\/JavaDoc_Utility",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F17414ZMG-028883a7dd",
+            "preview": "<document><p>\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0443\u0442\u0438\u043b\u0438\u0442\u0443 \u0432 \u0432\u0438\u0434\u0435 JAR \u0444\u0430\u0439\u043b\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u0443\u0434\u0435\u0442 \u0438\u0441\u043a\u0430\u0442\u044c *.java \u043a\u043b\u0430\u0441\u0441\u044b \u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0432\u0435\u0441\u0442\u044c JavaDoc \u0441 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u0438 \u0448\u0430\u043f\u043e\u043a \u043a\u043b\u0430\u0441\u0441\u0430 \u0432 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0439 \u0444\u0430\u0439\u043b \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c <code>report.info<\/code>.<\/p><p><\/p><p>\u0423\u0442\u0438\u043b\u0438\u0442\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u0437\u043d\u0430\u0442\u044c \u0441 \u043a\u0430\u043a\u043e\u0439 \u043f\u0430\u043f\u043a\u0438 \u0441\u043a\u0430\u043d\u0438\u0442\u044c \u043a\u043b\u0430\u0441\u0441\u044b:<\/p><p><code>java -jar %YOUR_JAR% scan C:\\some_file<\/code><\/p><p><\/p><p>\u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443 \u0435\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u043a\u043b\u0430\u0441\u0441:<\/p><\/document>",
+            "updated": 1462739348,
+            "editor": "U150DHUL9",
+            "last_editor": "U150DHUL9",
+            "state": "locked",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "num_stars": 1
+        },
+        "user": "U150DHUL9",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U150DHUL9|lozenko>",
+        "bot_id": null,
+        "ts": "1462739369.001055"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U150DHUL9|lozenko> commented on <@U150DHUL9|lozenko>'s file <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F17414ZMG\/JavaDoc_Utility|JavaDoc Utility>: <!everyone> \u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u0437\u0430\u0434\u0430\u0447\u0430.",
+        "file": {
+            "id": "F17414ZMG",
+            "created": 1462738602,
+            "timestamp": 1462739348,
+            "name": "JavaDoc_Utility",
+            "title": "JavaDoc Utility",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U150DHUL9",
+            "editable": true,
+            "size": 2600,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F17414ZMG\/JavaDoc_Utility?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F17414ZMG\/download\/JavaDoc_Utility?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F17414ZMG\/JavaDoc_Utility",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F17414ZMG-028883a7dd",
+            "preview": "<document><p>\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0443\u0442\u0438\u043b\u0438\u0442\u0443 \u0432 \u0432\u0438\u0434\u0435 JAR \u0444\u0430\u0439\u043b\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0431\u0443\u0434\u0435\u0442 \u0438\u0441\u043a\u0430\u0442\u044c *.java \u043a\u043b\u0430\u0441\u0441\u044b \u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0432\u0435\u0441\u0442\u044c JavaDoc \u0441 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u0438 \u0448\u0430\u043f\u043e\u043a \u043a\u043b\u0430\u0441\u0441\u0430 \u0432 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0439 \u0444\u0430\u0439\u043b \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c <code>report.info<\/code>.<\/p><p><\/p><p>\u0423\u0442\u0438\u043b\u0438\u0442\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u0437\u043d\u0430\u0442\u044c \u0441 \u043a\u0430\u043a\u043e\u0439 \u043f\u0430\u043f\u043a\u0438 \u0441\u043a\u0430\u043d\u0438\u0442\u044c \u043a\u043b\u0430\u0441\u0441\u044b:<\/p><p><code>java -jar %YOUR_JAR% scan C:\\some_file<\/code><\/p><p><\/p><p>\u041a \u043f\u0440\u0438\u043c\u0435\u0440\u0443 \u0435\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u043a\u043b\u0430\u0441\u0441:<\/p><\/document>",
+            "updated": 1462739348,
+            "editor": "U150DHUL9",
+            "last_editor": "U150DHUL9",
+            "state": "locked",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "num_stars": 1
+        },
+        "comment": {
+            "id": "Fc173RMN6R",
+            "created": 1462739369,
+            "timestamp": 1462739369,
+            "user": "U150DHUL9",
+            "is_intro": false,
+            "comment": "<!everyone> \u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u0437\u0430\u0434\u0430\u0447\u0430.",
+            "channel": "C14VCJCDS"
+        },
+        "is_intro": false,
+        "ts": "1462739369.001056"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u0431\u0443\u0434\u0443 \u043f\u0440\u043e\u0431\u044b\u0432\u0430\u0442\u044c.... +",
+        "ts": "1462739546.001057"
+    },
+    {
+        "type": "message",
+        "user": "U16PF87K8",
+        "text": "+",
+        "ts": "1462739569.001058"
+    },
+    {
+        "type": "message",
+        "user": "U16HN7N3Z",
+        "text": "FileFilter \u0442\u0430\u043a\u0443 \u0448\u0442\u0443\u043a\u0443 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0432\u043c\u0456\u0454 \u0440\u043e\u0431\u0438\u0442\u0438. \u041f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e?",
+        "ts": "1462739569.001059"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0435\u0441\u043b\u0438 \u0442\u044b Swing \u0438\u043c\u0435\u0435\u0448\u044c \u0432\u0432\u0438\u0434\u0443, \u0442\u043e \u044f \u0445\u043e\u0447\u0443 \u0447\u0442\u043e\u0431\u044b \u0432\u044b \u0441\u0430\u043c\u0438 \u0440\u0443\u043a\u0430\u043c\u0438 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u043b\u0438 \u0434\u0432\u0438\u0436\u043e\u043a \u043f\u0430\u0440\u0441\u0438\u043d\u0433\u0430 \u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438",
+        "ts": "1462739633.001060"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0442\u0443\u0442 \u0438 \u0440\u0430\u0431\u043e\u0442\u0430 \u0441 I\/O, \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u044b\u0439 \u043f\u0430\u0440\u0441\u0438\u043d\u0433, \u0440\u0435\u043d\u0434\u0435\u0440\u0438\u043d\u0433 \u0438 \u0441\u043a\u0430\u043d\u043d\u0438\u043d\u0433",
+        "ts": "1462739656.001061"
+    },
+    {
+        "type": "message",
+        "user": "U16HN7N3Z",
+        "text": "\u043e\u043a, \u0433\u0430\u0440\u043d\u0430 \u0437\u0430\u0434\u0430\u0447\u0430, \u0434\u044f\u043a\u0443\u044e.",
+        "ts": "1462739682.001062"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u0430 \u0432 \u044d\u0442\u043e\u043c \u0437\u0430\u0434\u0430\u043d\u0438\u0438 \u0442\u043e\u0436\u0435 \u0441 \u0440\u0435\u0444\u043b\u0435\u043a\u0448\u0435\u043d\u043e\u043c \u043f\u0440\u0438\u0439\u0434\u0435\u0442\u0441\u044f \u043f\u043e\u043f\u0440\u0430\u043a\u0442\u0438\u043a\u043e\u0432\u0430\u0442\u044c\u0441\u044f?",
+        "ts": "1462739803.001063"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!everyone> \u0420\u0435\u0431\u044f\u0442\u0430 \u043f\u043b\u044e\u0441\u0438\u043a\u0438 \u043c\u043e\u0436\u043d\u043e \u043d\u0435 \u0441\u0442\u0430\u0432\u0438\u0442, \u043f\u043e\u0441\u043b\u0435 22-00 \u0432\u0441\u0435 \u0440\u0430\u0431\u043e\u0442\u044b \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0441\u0441\u044b\u043b\u043a\u0438 - \u043f\u0440\u043e\u0441\u0442\u043e \u043d\u0435 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f. \u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0434\u0435\u043b\u0430\u0442\u044c \u0430 \u043c\u043e\u0436\u0435\u0442\u0435 \u043d\u0435 \u0434\u0435\u043b\u0430\u0442\u044c - \u0432\u0430\u0448 \u0432\u044b\u0431\u043e\u0440. \u0415\u0441\u043b\u0438 \u0440\u0430\u0431\u043e\u0442 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u043e\u043e\u0431\u0449\u0435, \u0447\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0438 \u0442\u0430\u043a\u0430\u044f \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u0435\u0442\u0441\u044f \u0432\u0442\u043e\u0440\u043e\u0439 \u0440\u0430\u0437 - \u0437\u0430\u0434\u0430\u0447 \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0438\u043d\u0430\u0447\u0435 \u043a\u0430\u043a\u043e\u0439 \u0441\u043c\u044b\u0441\u043b, \u0432\u0435\u0440\u043d\u043e? :simple_smile: \u0423\u0434\u0430\u0447\u0438",
+        "ts": "1462739842.001064"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0410 \u043f\u043e \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0435 \u0441\u043a\u0430\u0436\u0443 \u0432\u0430\u043c \u043b\u0443\u0447\u0448\u0435 \u043d\u0435\u0434\u043e\u0434\u0435\u043b\u0430\u0442\u044c \u0438 \u0441\u0434\u0430\u0442\u044c, \u0447\u0435\u043c \u043d\u0435 \u0441\u0434\u0430\u0442\u044c.",
+        "ts": "1462739893.001065",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16H3P5G8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u043f\u043b\u044e\u0441\u0438\u043a - \u043a\u0430\u043a \u0431\u044b \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u0443\u0435\u0442... \u0442\u0438\u043f\u0430: \"\u043f\u043e\u043e\u0431\u0435\u0449\u0430\u043b - \u0434\u0435\u043b\u0430\u0439\"",
+        "ts": "1462739897.001066"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0437\u0430\u044f\u0432\u0438\u043b \u043c\u0438\u0440\u0443 - \u0441\u0442\u0443\u043a\u043d\u0443\u043b \u0432 \u0433\u0440\u0443\u0434\u044c?)))",
+        "ts": "1462739921.001067"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u0442\u0438\u043f\u0430 \u0442\u043e\u0433\u043e :simple_smile:",
+        "ts": "1462739938.001068"
+    },
+    {
+        "type": "message",
+        "user": "U16PF87K8",
+        "text": "\u041a\u0441\u0442\u0430\u0442\u0438 \u043d\u0430\u0441\u0447\u0435\u0442 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0441 Logger. \u0423 andrush \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f ? \u0418\u043b\u0438 \u0432\u0441\u0435-\u0442\u0430\u043a\u0438 \u0435\u0441\u0442\u044c \u043a\u0430\u043a\u043e\u0439-\u0442\u043e \u0434\u0440\u0443\u0433\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431?",
+        "ts": "1462740274.001069"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0420\u0435\u0432\u044c\u044e \u0437\u0430\u0432\u0442\u0440\u0430, \u044f \u043d\u0435 \u0441\u043c\u043e\u0442\u0440\u0435\u043b \u0435\u0449\u0435",
+        "ts": "1462740293.001070"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "<@U150DHUL9>: \u0421\u0442\u0430\u0441, \u0430 \u043a\u0430\u043a \u0436\u0435 \u0432\u0441\u0435-\u0442\u0430\u043a\u0438 \u043f\u0440\u043e\u0448\u043b\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u0434\u0435\u043b\u0430\u0442\u044c... \u041f\u043e \u043b\u043e\u0433\u0438\u043a\u0435, \u043a\u043e\u0434 \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u0435\u043d, \u0447\u0442\u043e \u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u0430\u043d\u043d\u043e\u0442\u0430\u0446\u0438\u0438 \u0438 \u044d\u0442\u0443 \"\u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0443\"... \u043d\u043e \u043a\u0430\u043a \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c - \u043d\u0435 \u0437\u043d\u0430\u044e... \u0427\u0442\u043e \u043d\u0430\u0434\u043e \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c? )))",
+        "ts": "1462740334.001071"
+    },
+    {
+        "type": "message",
+        "user": "U16PF87K8",
+        "text": "\u041e\u043a",
+        "ts": "1462740343.001072"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U1552UTDH>: \u043b\u043e\u0433\u0433\u0435\u0440 \u0438\u043c\u0435\u0435\u0442\u0441\u044f \u0432\u0432\u0438\u0434\u0443? \u0438\u043b\u0438 \u0435\u0449\u0435 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0435?",
+        "ts": "1462740412.001073"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u043b\u043e\u0433\u0433\u0435\u0440",
+        "ts": "1462740434.001074"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "*\u0420\u0435\u0432\u044c\u044e \u0437\u0430\u0432\u0442\u0440\u0430, \u044f \u043d\u0435 \u0441\u043c\u043e\u0442\u0440\u0435\u043b \u0435\u0449\u0435*",
+        "ts": "1462740453.001075"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u043e\u043a",
+        "ts": "1462740464.001076"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u042f \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u043b \u0447\u0442\u043e \u0441\u0441\u044b\u043b\u043a\u0430 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0438 \u0443\u0432\u0438\u0434\u0435\u043b \u0447\u0442\u043e Handker \u0437\u0430\u043f\u0438\u0441\u0430\u043b",
+        "ts": "1462740486.001077"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "HandKer.... \u043e\u043d \u043c\u043e\u0436\u0435\u0442 ))))))))))))))))",
+        "ts": "1462740531.001078"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U150DHUL9>: \u0430 \u044d\u0442\u043e \u0432\u0441\u0435 \u0436\u0435\u043b\u0430\u044e\u0449\u0438\u0435 \u0434\u0435\u043b\u0430\u044e\u0442 \u0438\u043b\u0438 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u044b\u0435 \u043b\u0438\u0446\u0430? :simple_smile:",
+        "ts": "1462742681.001079"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0432\u0441\u0435 \u0436\u0435\u043b\u0430\u044e\u0449\u0438\u0435",
+        "ts": "1462742700.001080"
+    },
+    {
+        "user": "U172KDPDZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172KDPDZ|a.kushilun> has joined the channel",
+        "ts": "1462747571.001081"
+    },
+    {
+        "user": "U17482UGH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17482UGH|igor> has joined the channel",
+        "ts": "1462749655.001082"
+    },
+    {
+        "user": "U174DPXUL",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U174DPXUL|w.tyurin> has joined the channel",
+        "ts": "1462762361.001083"
+    }
+]

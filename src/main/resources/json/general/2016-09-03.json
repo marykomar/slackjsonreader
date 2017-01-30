@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U21DXT2KH",
+        "text": "<https:\/\/github.com\/qos-ch\/logback-contrib\/wiki\/MongoDB>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "qos-ch\/logback-contrib",
+                "title_link": "https:\/\/github.com\/qos-ch\/logback-contrib\/wiki\/MongoDB",
+                "text": "logback-contrib - logback contributions project reserved for contributors with CLAs on file",
+                "fallback": "GitHub: qos-ch\/logback-contrib",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/1521407?v=3&s=400",
+                "from_url": "https:\/\/github.com\/qos-ch\/logback-contrib\/wiki\/MongoDB",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1472896061.000072"
+    },
+    {
+        "type": "message",
+        "user": "U180HAFRS",
+        "text": "<@U21DXT2KH> \u044d\u0442\u043e \u044f \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u043b, \u0441\u043f\u0430\u0441\u0438\u0431\u043e. \u043d\u043e \u043a\u0440\u0430\u0441\u0438\u0432\u0435\u0435 \u0432\u0441\u0435-\u0440\u0430\u0432\u043d\u043e \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c, \u0435\u0441\u043b\u0438 \u0438\u043c\u043f\u043b\u0435\u043c\u0435\u043d\u0442\u0438\u0442\u044c \u0447\u0435\u0440\u0435\u0437 log4j",
+        "ts": "1472915292.000074"
+    },
+    {
+        "type": "message",
+        "user": "U180HAFRS",
+        "text": "\u0432\u0442\u043e\u0440\u043e\u0439",
+        "ts": "1472915301.000075"
+    }
+]

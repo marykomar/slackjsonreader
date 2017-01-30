@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U15G85DQX",
+        "text": "\u043d\u0430 heroku postgreSQL, \u043a\u0430\u0436\u0435\u0442\u0441\u044f",
+        "attachments": [
+            {
+                "fallback": "[June 23rd, 2016 2:45 PM] vaano: \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439 heroku",
+                "author_subname": "vaano",
+                "ts": "1466682339.000109",
+                "channel_id": "C171F6QRY",
+                "channel_name": "beginner",
+                "is_msg_unfurl": true,
+                "text": "\u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439 heroku",
+                "author_name": "Ivan Kravchenko",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/vaano",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-10\/49873266608_8f14d855632353126cf5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/beginner\/p1466682339000109",
+                "is_share": true,
+                "footer": "Posted in #beginner"
+            }
+        ],
+        "ts": "1466756286.000116"
+    }
+]

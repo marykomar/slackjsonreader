@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1JJ0GPBL",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1JJ0GPBL|paradox> has joined the channel",
+        "ts": "1466448405.000120"
+    }
+]

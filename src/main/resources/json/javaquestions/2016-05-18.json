@@ -1,0 +1,247 @@
+[
+    {
+        "user": "U156DP6FN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156DP6FN|salttotaste> has joined the channel",
+        "ts": "1463556391.000203"
+    },
+    {
+        "user": "U15EAFHME",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15EAFHME|zver> has joined the channel",
+        "ts": "1463558952.000204"
+    },
+    {
+        "user": "U19PN5MGE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U19PN5MGE|vaano> has joined the channel",
+        "ts": "1463562794.000205"
+    },
+    {
+        "user": "U154M646N",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U154M646N|praxiskwg> has joined the channel",
+        "ts": "1463568220.000206"
+    },
+    {
+        "user": "U1731PWHF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1731PWHF|xquant1x> has joined the channel",
+        "ts": "1463571223.000207"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/3monthjunior.slack.com\/services\/B19RW4J3C|incoming-webhook>",
+        "bot_id": "B19RW4J3C",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U150DHUL9",
+        "ts": "1463572593.000208"
+    },
+    {
+        "text": "<@U18USSTLJ|alex_pinta> now has 1 points!",
+        "username": "Prowd",
+        "bot_id": "B19RW4J3C",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-18\/43861454070_48.png"
+        },
+        "attachments": [
+            {
+                "fallback": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "text": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "title": "\n+1 from <@U150DHUL9|lozenko>",
+                "id": 1,
+                "color": "875ca5",
+                "mrkdwn_in": [
+                    "text",
+                    "title"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463572687.000210"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0422\u0435\u043f\u0435\u0440\u044c \u0443 \u043d\u0430\u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0436\u0438\u0432\u0430\u044f \u0442\u0430\u0431\u043b\u0438\u0446\u0430 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0435\u0439.",
+        "ts": "1463572724.000211"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041a\u0430\u043a \u043c\u043e\u0436\u0435\u0442 \u0442\u0430\u0431\u043b\u0438\u0446\u0430 \u043e\u0442\u043e\u0431\u0440\u0430\u0437\u0438\u0442\u044c \u0442\u043e, \u0447\u0442\u043e \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0447\u0430\u0441\u0442\u043e \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u0441\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u043c \u0440\u0430\u0437\u0443\u043c\u043e\u043c?",
+        "ts": "1463572846.000212"
+    },
+    {
+        "user": "U156YLY57",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156YLY57|jenchen> has joined the channel",
+        "ts": "1463573232.000213"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432\u044b\u0432\u043e\u0434\u044f\u0442\u044c\u0441\u044f \u0430 \u043d\u0435 \u043d\u0430\u0445\u043e\u0434\u044f\u0442\u044c\u0441\u044f \u0438\u0437 \u043a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0443\u043c\u0430",
+        "ts": "1463575522.000214"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u044d\u0442\u043e \u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u0447\u0442\u043e \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u044c \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043d\u0435 \u043e\u0434\u0438\u043d",
+        "ts": "1463575551.000215"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0432\u0441\u0435 \u043e\u0442 \u0432\u043e\u043f\u0440\u043e\u0441\u0430 \u0437\u0430\u0432\u0438\u0441\u0438\u0442",
+        "ts": "1463575560.000216"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u043e\u0442 \u0441\u0435\u0431\u044f \u043c\u043e\u0433\u0443 \u0441\u043a\u0430\u0437\u0430\u0442\u044c - \u0433\u043b\u0430\u0432\u043d\u043e\u0435 \u0443\u0447\u0430\u0441\u0442\u0438\u0435, \u0430 \u043d\u0435 \u043f\u043e\u0431\u0435\u0434\u0430\n\u043d\u0443 \u0438 \u043a \u0442\u043e\u043c\u0443 \u0436\u0435 \u043e\u0446\u0435\u043d\u043a\u0438 \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442 \u0442\u0435\u0431\u0435 \u0436\u0438\u0437\u043d\u044c :slightly_smiling_face:",
+        "ts": "1463576445.000217",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U158M6X0X",
+                    "U16P352LQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U157BASRG",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U157BASRG|valerii.kukharchuk> has joined the channel",
+        "ts": "1463580749.000218"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0432\u043d\u0435\u0441\u0443 \u0438 \u044f \u0441\u0432\u043e\u044e \u043b\u0435\u043f\u0442\u0443 \u0432 \u043a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u0440\u0430\u0437\u0443\u043c:\n<http:\/\/www.javaworld.com\/article\/2078623\/core-java\/jvm-performance-optimization-part-1-a-jvm-technology-primer.html>\n<http:\/\/www.javaworld.com\/article\/2078635\/enterprise-middleware\/jvm-performance-optimization-part-2-compilers.html>\n<https:\/\/docs.oracle.com\/cd\/E13150_01\/jrockit_jvm\/jrockit\/geninfo\/diagnos\/underst_jit.html>",
+        "attachments": [
+            {
+                "service_name": "JavaWorld",
+                "title": "JVM performance optimization, Part 1: A JVM technology primer",
+                "title_link": "http:\/\/www.javaworld.com\/article\/2078623\/core-java\/jvm-performance-optimization-part-1-a-jvm-technology-primer.html",
+                "text": "JVM technology evangelist Eva Andreasson gives an overview of the Java virtual machine, including the pros and cons of Java's write-once, run-anywhere engine, garbage collection basics, and a sampling of common GC algorithms and compiler optimizations.",
+                "fallback": "JavaWorld: JVM performance optimization, Part 1: A JVM technology primer",
+                "image_url": "http:\/\/www.javaworld.com\/www.idge.jvw\/images\/JVW_logo_300x300.png",
+                "from_url": "http:\/\/www.javaworld.com\/article\/2078623\/core-java\/jvm-performance-optimization-part-1-a-jvm-technology-primer.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 6448,
+                "id": 1
+            },
+            {
+                "service_name": "JavaWorld",
+                "title": "JVM performance optimization, Part 2: Compilers",
+                "title_link": "http:\/\/www.javaworld.com\/article\/2078635\/enterprise-middleware\/jvm-performance-optimization-part-2-compilers.html",
+                "text": "Start with an overview of the different types of Java compiler and the pros and cons of each one for your Java applications, then learn about common JVM optimizations such as dead-code elimination, inlining, and loop optimization.",
+                "fallback": "JavaWorld: JVM performance optimization, Part 2: Compilers",
+                "image_url": "http:\/\/www.javaworld.com\/www.idge.jvw\/images\/JVW_logo_300x300.png",
+                "from_url": "http:\/\/www.javaworld.com\/article\/2078635\/enterprise-middleware\/jvm-performance-optimization-part-2-compilers.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 6448,
+                "id": 2
+            }
+        ],
+        "ts": "1463585694.000219"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0438 \u0435\u0449\u0435 \u043e\u0434\u0438\u043d \u0432\u043a\u0443\u0441\u043d\u044b\u0439 \u0440\u0435\u0441\u0443\u0440\u0441: <https:\/\/dzone.com\/refcardz\/java-performance-optimization>",
+        "attachments": [
+            {
+                "service_name": "dzone.com",
+                "title": "Java Performance Optimization - DZone - Refcardz",
+                "title_link": "https:\/\/dzone.com\/refcardz\/java-performance-optimization",
+                "text": "Getting Java apps to run is one thing. But getting them to run fast is another. Performance is a tricky beast in any object-oriented environment, but the complexity of the JVM adds a whole new level of performance-tweaking trickiness -- and opportunity.This Refcard covers JVM internals, class loading (updated to reflect the new Metaspace in Java 8), garbage collection, troubleshooting, monitoring, concurrency, and more.",
+                "fallback": "dzone.com: Java Performance Optimization - DZone - Refcardz",
+                "from_url": "https:\/\/dzone.com\/refcardz\/java-performance-optimization",
+                "id": 1
+            }
+        ],
+        "ts": "1463585869.000221"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u0432\u0447\u0435\u0440\u0430 \u043a\u0430\u043a \u0440\u0430\u0437 \u0432\u0438\u0434\u0435\u043b \u044d\u0442\u043e\u0442 \u0446\u0438\u043a\u043b",
+        "ts": "1463585881.000223"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "Sep 5, 2012 - \u044d\u0442\u043e \u0443\u0436\u0435 \u043d\u0435 \u0430\u0434\u0435\u043a\u0432\u0430\u0442\u043d\u044b\u0435 \u0441\u0441\u044b\u043b\u043a\u0438",
+        "ts": "1463585892.000224"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0430\u0441\u0447\u0435\u0442 dzone - \u0432\u0441\u0435 \u043e\u043a",
+        "ts": "1463585930.000225"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "<http:\/\/www.slideshare.net\/CharlesNutter\/redev-2011-jvm-jit-for-dummies-what-the-jvm-does-with-your-bytecode-when-youre-not-looking>\n\n\u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b \u043a\u043e\u043d\u0435\u0447\u043d\u043e 2011 \u0433\u043e\u0434\u0430, \u043d\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u0441 \u043f\u0440\u0438\u043c\u0435\u0440\u0430\u043c\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u0445\u043e\u0440\u043e\u0448\u043e \u0438 \u0432 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0435 \u043e\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u0438 \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0445 \u0432\u0435\u0440\u0441\u0438\u044f\u0445",
+        "attachments": [
+            {
+                "title": "\u00d8redev 2011 - JVM JIT for Dummies (What the JVM Does With Your Byteco\u2026",
+                "title_link": "http:\/\/www.slideshare.net\/CharlesNutter\/redev-2011-jvm-jit-for-dummies-what-the-jvm-does-with-your-bytecode-when-youre-not-looking",
+                "text": "A talk on how the JVM's JIT works, how to monitor it, and how to interpret the results for great justice.",
+                "fallback": "\u00d8redev 2011 - JVM JIT for Dummies (What the JVM Does With Your Byteco\u2026",
+                "from_url": "http:\/\/www.slideshare.net\/CharlesNutter\/redev-2011-jvm-jit-for-dummies-what-the-jvm-does-with-your-bytecode-when-youre-not-looking",
+                "id": 1
+            }
+        ],
+        "ts": "1463586688.000226",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19BNJCF5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U16T3MCR0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16T3MCR0|zaiets.andrii> has joined the channel",
+        "ts": "1463590698.000228"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u041d\u0430\u0441\u0447\u0435\u0442 JVM. \u0425\u0440\u0435\u043d \u0437\u043d\u0430\u0435\u0442 \u0433\u0434\u0435 \u0447\u0438\u0442\u0430\u043b, \u0434\u0430 \u0438 \u0434\u0430\u0432\u043d\u043e \u044d\u0442\u043e \u0431\u044b\u043b\u043e, \u043d\u043e \u0432 \u0446\u0435\u043b\u043e\u043c JVM \u0434\u043e\u043b\u0436\u043d\u0430 \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e. \u0422\u0430\u043a \u043a\u0430\u043a \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440 - \u0448\u0442\u0443\u043a\u0430 \u043d\u0435\u043f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0443\u0435\u043c\u0430\u044f \u0438 \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043e\u0447\u0435\u0440\u0435\u0434\u0438 \u0438\u0437 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 \u043d\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0443, \u0442\u043e \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0438 \u043c\u043e\u0433\u0443\u0442 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c\u0441\u044f \u043d\u0435 \u0441\u043e\u0432\u0441\u0435\u043c \u043f\u043e-\u043f\u043e\u0440\u044f\u0434\u043a\u0443. \u0418\u043d\u043a\u0440\u0435\u043c\u0435\u043d\u0442\u044b, \u043b\u043e\u043a\u0438 \u0438 \u0442.\u0434. \u041f\u043e\u0442\u043c\u043e\u0443 \u044e\u0437\u0430\u0435\u0442\u0441\u044f \u043c\u043e\u0434\u0435\u043b\u044c happens-before, \u0441\u0442\u0440\u043e\u0433\u043e \u0440\u0435\u0433\u043b\u0430\u043c\u0435\u043d\u0442\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u043f\u043e\u0440\u044f\u0434\u043e\u043a \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439.\n\u041d\u043e \u044d\u0442\u043e \u0441\u043a\u043e\u0440\u0435\u0435 \u043a JMM. \u041a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e \u043f\u043e \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u0430\u0448\u0438\u043d\u0435, \u043a \u043f\u0440\u0438\u043c\u0435\u0440\u0443, \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \u043c\u043e\u0436\u043d\u043e \u0441\u0447\u0438\u0442\u0430\u0442\u044c \u0438\u0437\u0431\u0438\u0440\u0430\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0446\u0438\u044e \u0431\u0430\u0439\u0442-\u043a\u043e\u0434\u0430 \u0432 \u043c\u0430\u0448\u0438\u043d\u043d\u044b\u0439 (JIT), \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043f\u0440\u043e\u0433\u043e\u043d \u043e\u0434\u043d\u043e\u0433\u043e \u0438 \u0442\u043e\u0433\u043e \u0436\u0435 \u043a\u043e\u0434\u0430 \u0443\u0441\u043a\u043e\u0440\u044f\u0435\u0442\u0441\u044f. \u041d\u0435 \u0434\u043e \u043f\u0440\u0435\u0434\u0435\u043b\u0430, \u043a\u043e\u043d\u0435\u0447\u043d\u043e, \u043d\u043e \u0442\u043e\u0436\u0435 \u043f\u0440\u0438\u044f\u0442\u043d\u043e. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0442\u0430 \u0436\u0435 \u043a\u043e\u043d\u043a\u0430\u0442\u0435\u043d\u0430\u0446\u0438\u044f \u0441\u0442\u0440\u043e\u043a \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u043e\u043c \u0434\u0435\u043b\u0430\u0435\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 StringBuilder, \u0447\u0442\u043e\u0431\u044b \u0431\u044b\u043b\u043e \u0431\u044b\u0441\u0442\u0440\u0435\u0435. \u041f\u0440\u0438 \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0446\u0438\u0438 \u0432\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u0438 \u0432\u044b\u0437\u043e\u0432\u044b \u0434\u0435\u0444\u043e\u043b\u0442-\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u043e\u0432 \u0441\u0443\u043f\u0435\u0440\u043a\u043b\u0430\u0441\u0441\u043e\u0432 \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e, \u043f\u0440\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u044b \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0432 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430\u0445, \u0432 \u044d\u043d\u0443\u043c\u0430\u0445, \u043c\u043d\u043e\u0433\u043e \u0433\u0434\u0435.",
+        "edited": {
+            "user": "U17073E95",
+            "ts": "1463605030.000000"
+        },
+        "ts": "1463604786.000229"
+    },
+    {
+        "user": "U18VAGREG",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18VAGREG|maximpedich> has joined the channel",
+        "ts": "1463619490.000232"
+    }
+]

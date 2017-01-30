@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "<http:\/\/www.ibm.com\/developerworks\/views\/java\/libraryview.jsp?search_by=5+things+you+did>",
+        "attachments": [
+            {
+                "title": "IBM developerWorks : Java Technology :  Technical library",
+                "title_link": "http:\/\/www.ibm.com\/developerworks\/views\/java\/libraryview.jsp?search_by=5+things+you+did",
+                "text": "Browse the Java technology technical library view for technical articles and tips, tutorials, standards, and IBM Redbooks. View the list by product, title, topic, or keyword and sort your results.",
+                "fallback": "IBM developerWorks : Java Technology :  Technical library",
+                "from_url": "http:\/\/www.ibm.com\/developerworks\/views\/java\/libraryview.jsp?search_by=5+things+you+did",
+                "service_icon": "http:\/\/www.ibm.com\/favicon.ico",
+                "service_name": "ibm.com",
+                "id": 1
+            }
+        ],
+        "ts": "1478240515.000020"
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "+ \u0435\u0441\u043b\u0438 \u043c\u043d\u043e\u0433\u043e \u0447\u0435\u0433\u043e \u0442\u044f\u0436\u0435\u043b\u043e\u0433\u043e \u043f\u043e\u0434\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f,  \u043c\u043e\u0436\u043d\u043e lazy init \u0434\u0435\u043b\u0430\u0442\u044c\n<http:\/\/stackoverflow.com\/questions\/9500188\/override-default-lazy-init-true-for-spring-bean-definitions>",
+        "attachments": [
+            {
+                "title": "Override default-lazy-init=true for Spring bean definitions",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/9500188\/override-default-lazy-init-true-for-spring-bean-definitions",
+                "text": "I am maintaining a large Java EE system. Most of the business logic is converted from EJB:s into POJO:s configured in several spring context configuration files. EJB:s are mostly used as Facades, t...",
+                "fallback": "Override default-lazy-init=true for Spring bean definitions",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/9500188\/override-default-lazy-init-true-for-spring-bean-definitions",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1468225061.000871"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0438\u043b\u0438 \u0442\u0430\u043a\n\n<http:\/\/stackoverflow.com\/questions\/15092898\/spring-default-behavior-for-lazy-init>",
+        "attachments": [
+            {
+                "title": "Spring default behavior for lazy-init",
+                "title_link": "http:\/\/stackoverflow.com\/questions\/15092898\/spring-default-behavior-for-lazy-init",
+                "text": "I am beginner to spring, ESP Inversion of control. I was puzzled understanding the difference between the following &lt;bean id=\"demo\" class=\"Demo\" lazy-init=\"false\"\/&gt; &lt;bean id=\"demo\" cla...",
+                "fallback": "Spring default behavior for lazy-init",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/questions\/15092898\/spring-default-behavior-for-lazy-init",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ],
+        "ts": "1468225139.000873"
+    },
+    {
+        "user": "U1QF50EKS",
+        "text": "<@U1QF50EKS|poster834> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468227286.000875"
+    },
+    {
+        "type": "message",
+        "user": "U1JU85K97",
+        "text": "<@U150DHUL9>:  \u0441\u0443\u0434\u044f \u0438\u0437 \u043c\u043e\u043a \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e, \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u043e\u0432 `java core vs java ee` \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e 60\/40. \u041f\u043e\u0445\u043e\u0436\u0435 \u043d\u0430 \u043f\u0440\u0430\u0432\u0434\u0443 \u0432 \u0440\u0435\u0430\u043b\u044c\u043d\u043e \u0436\u0438\u0437\u043d\u0438?",
+        "ts": "1468244067.000876"
+    },
+    {
+        "type": "message",
+        "user": "U1JU85K97",
+        "text": "<@U150DHUL9>: \u043f\u043e \u043f\u043e\u0432\u043e\u0434\u0443 \u0432\u043e\u043f\u0440\u043e\u0441\u043e\u0432 \u043f\u043e JavaEE, \u0432\u044b\u0445\u043e\u0434\u0438\u0442 \u0447\u0442\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u044d\u0444\u0438\u0440 \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 spring \u0438 hibernate?",
+        "ts": "1468244229.000877"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "<@U1JU85K97> Java EE \u044d\u0442\u043e \u043d\u0435 Spring \u0438 Hibernate :slightly_smiling_face:",
+        "ts": "1468244426.000878"
+    },
+    {
+        "type": "message",
+        "user": "U1JU85K97",
+        "text": "<@U19PN5MGE>: \u0441\u043f\u0430\u0441\u0438\u0431\u043e :+1:",
+        "ts": "1468244526.000879"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0432\u0441\u0435 \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u0440\u0435\u0430\u043b\u044c\u043d\u043e \u043e\u0442 \u0441\u0442\u0435\u043a\u0430 \u043d\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0435 \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0442\u0441\u044f \u043d\u0430\u043d\u044f\u0442\u044c \u0434\u0436\u0443\u043d\u0430...  \n\u0435\u0441\u043b\u0438 \u0445\u0438\u0431\u0435\u0440 \u043d\u0435 \u044e\u0437\u0430\u044e\u0442, \u0430 row jdbc \u0442\u043e \u0431\u0443\u0434\u0443\u0442 \u043f\u043e \u0431\u0430\u0437\u043e\u0432\u043e\u043c\u0443 SQL \/ \u0437\u043d\u0430\u043d\u0438\u044e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u043e\u0439 RDBMS  - \u0442\u044f\u0433\u0430\u0442\u044c \u043a\u0440\u0443\u0447\u0435 \u0421\u0442\u0430\u0441\u0430",
+        "ts": "1468244552.000880"
+    },
+    {
+        "type": "message",
+        "user": "U1JU85K97",
+        "text": "\u0438\u043c\u0435\u043b \u0432\u0432\u0438\u0434\u0443 java core vs \u043d\u0435 java core",
+        "ts": "1468244582.000881"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u043e\u0439 \u0434\u0430 \u043b\u0430\u0434\u043d\u043e..... \u0443\u0436\u0435 \u0431\u0443\u0434\u0435\u0442\u0435 \u0446\u0435\u043f\u043b\u044f\u0442\u044c\u0441\u044f \u043a \u0441\u043b\u043e\u0432\u0430\u043c :slightly_smiling_face: spring and hiber == (impl. of: EJB and JPA) == Java EE",
+        "edited": {
+            "user": "U18USSTLJ",
+            "ts": "1468244715.000000"
+        },
+        "ts": "1468244656.000882"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<!here|@here> \u043a\u0442\u043e-\u043d\u0438\u0431\u0443\u0434\u044c \u0442\u0440\u043e\u0433\u0430\u043b ip-\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044e \u043d\u0430 Java?",
+        "ts": "1468247824.000884"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u044f \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u043b sms sender \u0434\u0435\u043b\u0430\u0442\u044c \u043d\u0430  <http:\/\/www.twilio.com|www.twilio.com> - \u043d\u0443 5 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0445 \u0441\u043c\u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b :slightly_smiling_face:",
+        "ts": "1468247995.000885"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u044f \u0438\u043c\u0435\u044e \u0432 \u0432\u0438\u0434\u0443 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440",
+        "ts": "1468248035.000886"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0442\u0430\u043c \u0436\u0435 \u0438 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440",
+        "ts": "1468248043.000887"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0432\u043e\u043e\u0431\u0449\u0435 \u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0442\u0430\u043a\u0438\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u044b",
+        "ts": "1468248058.000888"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u0440\u0435\u0447\u044c \u0438\u0434\u0435\u0442 \u043e \u0442\u043e\u043c, \u0447\u0442\u043e\u0431\u044b \u043f\u0438\u0441\u0430\u0442\u044c \u043c\u043e\u0434\u0443\u043b\u044c",
+        "ts": "1468248111.000889"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c",
+        "ts": "1468248122.000890"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u043d\u0430\u0447\u043d\u0438 \u043a\u043e\u043f\u0430\u0442\u044c \u043e\u0442\u0441\u044e\u0434\u0430 <http:\/\/www.javaworld.com\/article\/2071781\/java-web-development\/sip-programming-for-the-java-developer.html>",
+        "attachments": [
+            {
+                "service_name": "JavaWorld",
+                "title": "SIP programming for the Java developer",
+                "title_link": "http:\/\/www.javaworld.com\/article\/2071781\/java-web-development\/sip-programming-for-the-java-developer.html",
+                "text": "In this article, Wei Chen introduces the basic concepts of SessionInitiation Protocol and SIP servlets. He reviews the steps involvedin developing SIP servlets and presents a complete example fordeveloping, deploying, and running a SIP servlet on SIPMethodApplication Server.",
+                "fallback": "JavaWorld: SIP programming for the Java developer",
+                "image_url": "http:\/\/www.javaworld.com\/www.idge.jvw\/images\/JVW_logo_300x300.png",
+                "from_url": "http:\/\/www.javaworld.com\/article\/2071781\/java-web-development\/sip-programming-for-the-java-developer.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 6448,
+                "service_icon": "http:\/\/www.javaworld.com\/www.idge.jvw\/images\/JVW_logo_300x300.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468248493.000891"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u044d\u0442\u043e \u0432\u0438\u0434\u0435\u043b",
+        "ts": "1468248573.000893"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u0438\u0441\u043a\u0430\u043b \u0447\u0442\u043e \u043f\u043e\u043f\u0440\u043e\u0449\u0435)",
+        "ts": "1468248586.000894"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": ")))",
+        "ts": "1468248592.000895"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u043f\u044b\u0442\u0430\u043b\u0441\u044f \u043d\u0430\u0439\u0442\u0438 \u0447\u0442\u043e \u0442\u043e  \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0435 \u0441 mkyong - \u043d\u0435 \u043d\u0430\u0448\u0435\u043b :slightly_smiling_face:\n\u0432\u043e\u043e\u0431\u0449\u0435 \u0437\u0434\u0435\u0441\u044c \u0441\u043a\u043e\u0440\u0435\u0435 \u0438\u043b\u0438 \u0432\u043b\u0430\u0437\u0438\u0442\u044c \u0441 \u0443\u0448\u0430\u043c\u0438 \u0438 \u0440\u043e\u0437\u0431\u0438\u0440\u0430\u0442\u044c\u0441\u044f \u0432\u043e \u0432\u0441\u0435\u043c \u044d\u0442\u043e\u043c \u0438\u043b\u0438 \u043b\u0443\u0447\u0448\u0435 \u0438\u0441\u043a\u0430\u0442\u044c \u0432\u043d\u0435\u0448\u043d\u0438\u0438 \u0441\u0435\u0440\u0432\u0438\u0441\u044b \u0438 \u0438\u0445 \u043d\u0435\u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u044e\u0437\u0430\u0442\u044c",
+        "ts": "1468249026.000896"
+    },
+    {
+        "type": "message",
+        "user": "U1QDEV7GD",
+        "text": "\u0442\u0430\u043a\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 <https:\/\/asterisk-java.org\/>",
+        "attachments": [
+            {
+                "title": "Asterisk-Java",
+                "title_link": "https:\/\/asterisk-java.org\/",
+                "text": "The free Java library for Asterisk PBX integration.",
+                "fallback": "Asterisk-Java",
+                "from_url": "https:\/\/asterisk-java.org\/",
+                "service_name": "asterisk-java.org",
+                "id": 1
+            }
+        ],
+        "ts": "1468252077.000897"
+    },
+    {
+        "type": "message",
+        "user": "U1QDEV7GD",
+        "text": "\u0438\u043b\u0438 \u0442\u0435\u0431\u0435 \u043a\u043b\u0438\u0435\u043d\u0442 \u043f\u0438\u0441\u0430\u0442\u044c?",
+        "ts": "1468252096.000899"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u0447\u0442\u043e-\u0442\u043e \u0432\u0440\u043e\u0434\u0435",
+        "ts": "1468255756.000900"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "\u043c\u043e\u0434\u0443\u043b\u044c \u0434\u043b\u044f \u0441\u043b\u0443\u0436\u0431\u044b \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0435\u0434\u044b",
+        "ts": "1468255764.000901"
+    },
+    {
+        "type": "message",
+        "user": "U18FHTQGM",
+        "text": "\u0437\u0430\u0434\u0430\u043d\u0438\u0435 \u0441 Node \u043e\u0441\u0432\u0435\u0436\u0438\u043b\u043e \u0432 \u043f\u0430\u043c\u044f\u0442\u0438 1 \u043a\u0443\u0440\u0441 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430.",
+        "ts": "1468261883.000902"
+    },
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "\u0443\u0433\u043c\u0443, \u043f\u043e\u043c\u043d\u044e, \u0442\u0430\u043a\u0443\u044e \u0448\u0442\u0443\u043a\u0443 \u0435\u0449\u0435 \u043d\u0430 \u043f\u0430\u0441\u043a\u0430\u043b\u0435 \u043f\u0438\u0441\u0430\u043b\u0438..",
+        "ts": "1468263049.000903"
+    },
+    {
+        "type": "message",
+        "user": "U18FHTQGM",
+        "text": "class Node {\n\tint data;\n\tNode next;\n\n\tNode insertInTail(Node head, int data) {\n\n\t\tNode node = head;\n\t\twhile (head.next != null) {\n\t\t\thead = head.next;\n\t\t}\n\t\thead.next = new Node();\n\t\thead.next.data = data;\n\t\thead.next.next = null;\n\t\treturn node;\n\t}\n}",
+        "ts": "1468263991.000904"
+    },
+    {
+        "type": "message",
+        "user": "U18FHTQGM",
+        "text": "\u043d\u0430\u0432\u0435\u0440\u043d\u043e\u0435 \u043f\u043e\u043b\u044c\u0437\u0430 \u043e\u0442 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0432\u0441\u0435 \u0436\u0435 \u0435\u0441\u0442\u044c",
+        "ts": "1468264009.000905"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "head \u0434\u043e\u043b\u0436\u0435\u043d \u043e\u0441\u0442\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u043c\u0435\u0441\u0442\u0435",
+        "ts": "1468301884.000906"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0438 null \u043c\u043e\u0436\u0435\u0442 \u0432 head \u0431\u044b\u0442\u044c",
+        "edited": {
+            "user": "U16UQ8LAZ",
+            "ts": "1468302638.000000"
+        },
+        "ts": "1468302609.000907"
+    },
+    {
+        "type": "message",
+        "user": "U15A8DXMF",
+        "text": "<@U17073E95>: \u0412 2013-\u043c \u0441\u0442\u043e\u044f\u043b\u0430 \u0437\u0430\u0434\u0430\u0447\u0430 \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c OpenMeetings. \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b \u0432\u0441\u0435 \u043c\u043e\u0434\u0443\u043b\u0438, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b OM \u043d\u043e \u043f\u0440\u0438 \u043d\u0430\u0433\u0440\u0443\u0437\u043e\u0447\u043d\u043e\u043c \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438 \u043f\u0440\u0438 \u043a\u0430\u043d\u0430\u043b\u0430\u0445 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 &lt;10ms \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043c\u044f\u0433\u043a\u043e \u0433\u043e\u0432\u043e\u0440\u044f \u0434\u0430\u0432\u0430\u043b\u0430 \u0441\u0431\u043e\u0438.  \u0414\u0430\u043b\u0435\u0435 \u043d\u0443\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u043a\u0440\u0443\u0442\u0438\u0442\u044c open source OpenMeetings-a. \u0421 \u0442\u0435\u0445 \u043f\u043e\u0440 \u043d\u0430\u0447\u0430\u043b \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u0442\u044c\u0441\u044f \u0432 \u041e\u041e\u041f \u0438 \u0443\u0447\u0438\u0442\u044c Java... :blush::mortar_board:",
+        "ts": "1468303467.000909",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U17073E95"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

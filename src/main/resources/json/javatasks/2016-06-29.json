@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U182UTY3H",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U182UTY3H|aveowl> has joined the channel",
+        "ts": "1467212519.000087"
+    },
+    {
+        "user": "U1MD25VHU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MD25VHU|djartur> has joined the channel",
+        "ts": "1467216858.000088"
+    },
+    {
+        "user": "U1MGCE0BE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MGCE0BE|roma> has joined the channel",
+        "ts": "1467235051.000089"
+    }
+]

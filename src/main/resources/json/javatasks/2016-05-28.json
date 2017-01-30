@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "\u0431\u0440\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e Hibernate Validator \u043d\u043e \u043d\u0435 \u0432\u0435\u0441\u044c \u0445\u0438\u0431\u0435\u0440?",
+        "ts": "1464440350.001319"
+    },
+    {
+        "type": "message",
+        "user": "U158M6X0X",
+        "text": "\u0414\u0430",
+        "ts": "1464440478.001320"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "\u041f\u043e\u0433\u043e\u0434\u0438\u0442\u0435, \u0432 \u0437\u0430\u0434\u0430\u043d\u0438\u0438 \u043d\u0435\u0442 \u0437\u0430\u043f\u0440\u0435\u0442\u0430 \u043d\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 hibernate. \u041f\u043e\u0447\u0435\u043c\u0443 \u043d\u0435\u043b\u044c\u0437\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0438\u0445 \u0432\u043c\u0435\u0441\u0442\u0435?",
+        "ts": "1464440582.001321"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "<@U150DHUL9>: \u043c\u043e\u0436\u0435\u0442 \u043d\u0435 Javadoc, \u0430 \u043a\u043d\u0438\u0436\u043a\u0443 \u043a\u0430\u043a\u0443\u044e \u0432\u044b\u0441\u043b\u0430\u0442\u044c?) \u0420\u0430\u0441\u043f\u0435\u0447\u0430\u0442\u0430\u043d\u043d\u0443\u044e)",
+        "ts": "1464448151.001322"
+    },
+    {
+        "user": "U1CAQ3D43",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CAQ3D43|romach007> has joined the channel",
+        "ts": "1464458661.001323"
+    },
+    {
+        "user": "U1CGEKUUF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CGEKUUF|korotkikh> has joined the channel",
+        "ts": "1464469921.001324"
+    }
+]

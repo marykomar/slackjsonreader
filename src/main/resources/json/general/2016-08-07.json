@@ -1,0 +1,211 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U150DHUL9|lozenko> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F1Z242DRQ\/_________________.jpg|\u041d\u0430\u043a\u0440\u044b\u043b\u0441\u044f> and commented: \u0421\u0435\u0433\u043e\u0434\u043d\u044f\u0448\u043d\u0438\u0439 \u0432\u044b\u043f\u0443\u0441\u043a \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f. \u041d\u0430\u043a\u0440\u044b\u043b\u0430\u0441\u044c \u0437\u0430\u0440\u044f\u0434\u043a\u0430. \u041e\u043a\u043e\u043d\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e ",
+        "file": {
+            "id": "F1Z242DRQ",
+            "created": 1470594296,
+            "timestamp": 1470594296,
+            "name": "\u041d\u0430\u043a\u0440\u044b\u043b\u0441\u044f .jpg",
+            "title": "\u041d\u0430\u043a\u0440\u044b\u043b\u0441\u044f",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U150DHUL9",
+            "editable": false,
+            "size": 1725654,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1Z242DRQ\/_________________.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1Z242DRQ\/download\/_________________.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Z242DRQ-682920b2ef\/__________________64.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Z242DRQ-682920b2ef\/__________________80.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Z242DRQ-682920b2ef\/__________________360.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Z242DRQ-682920b2ef\/__________________480.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Z242DRQ-682920b2ef\/__________________160.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Z242DRQ-682920b2ef\/__________________720.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Z242DRQ-682920b2ef\/__________________960.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Z242DRQ-682920b2ef\/__________________1024.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 2448,
+            "original_h": 3264,
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F1Z242DRQ\/_________________.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1Z242DRQ-a8669eef7a",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc1Z1L2YUE",
+                "created": 1470594296,
+                "timestamp": 1470594296,
+                "user": "U150DHUL9",
+                "is_intro": true,
+                "comment": "\u0421\u0435\u0433\u043e\u0434\u043d\u044f\u0448\u043d\u0438\u0439 \u0432\u044b\u043f\u0443\u0441\u043a \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f. \u041d\u0430\u043a\u0440\u044b\u043b\u0430\u0441\u044c \u0437\u0430\u0440\u044f\u0434\u043a\u0430. \u041e\u043a\u043e\u043d\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e ",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "learn",
+                    "users": [
+                        "U150DHUL9"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "neudachnik",
+                    "users": [
+                        "U150DHUL9"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "trollface",
+                    "users": [
+                        "U150DHUL9"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "grandfather",
+                    "users": [
+                        "U150DHUL9"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "japanese_ogre",
+                    "users": [
+                        "U150DHUL9"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "see_no_evil",
+                    "users": [
+                        "U17TYL28M",
+                        "U156H597E"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "what",
+                    "users": [
+                        "U17TYL28M",
+                        "U1BTEGYRW"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U150DHUL9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U150DHUL9|lozenko>",
+        "bot_id": null,
+        "ts": "1470594301.001373"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "shiiit",
+        "ts": "1470595545.001381"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "\u0443 \u0441\u043e\u0441\u0435\u0434\u0435\u0439 \u043f\u043e\u0437\u044b\u0447",
+        "ts": "1470595795.001384"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0437\u0430\u0447\u0435\u043c. \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u0435\u0440\u0435\u043d\u0435\u0441\u0442\u0438 \u043d\u0430 \u0434\u0440\u0443\u0433\u043e\u0435 \u0432\u0441\u043a. \u0438 \u0432\u0441\u0451",
+        "ts": "1470596220.001385"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "*\u043e\u043d\u0430 \u043f\u0435\u0440\u0435\u043d\u0435\u0441\u0435\u043d\u0430 \u043d\u0430 14\/08 22-00*",
+        "ts": "1470596375.001386",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16UQ8LAZ",
+                    "U17073E95",
+                    "U17TYL28M",
+                    "U16HN7N3Z",
+                    "U1BTEGYRW",
+                    "U15A8DXMF",
+                    "U172MPHTK",
+                    "U1N9RCL03"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U15A8DXMF",
+        "text": "IOException (",
+        "ts": "1470597342.001387"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "<https:\/\/github.com\/spring-projects\/spring-framework\/wiki\/What's-New-in-the-Spring-Framework>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "spring-projects\/spring-framework",
+                "title_link": "https:\/\/github.com\/spring-projects\/spring-framework\/wiki\/What's-New-in-the-Spring-Framework",
+                "text": "spring-framework - The Spring Framework",
+                "fallback": "GitHub: spring-projects\/spring-framework",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/317776?v=3&s=400",
+                "from_url": "https:\/\/github.com\/spring-projects\/spring-framework\/wiki\/What's-New-in-the-Spring-Framework",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1470633947.001389"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "Spring 5",
+        "ts": "1470633965.001391"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "Minimum requirement: Tiles 3 and Hibernate 5 now.",
+        "ts": "1470634029.001392"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "Dropped support: Portlet, Velocity, JasperReports, XMLBeans, JDO, Guava.",
+        "ts": "1470634046.001393"
+    }
+]

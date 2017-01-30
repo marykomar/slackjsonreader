@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0412\u044b\u0448\u043b\u0430 \u043a\u043d\u0438\u0433\u0430 Spring Microservices In Action <https:\/\/www.manning.com\/books\/spring-microservices-in-action> \u0444\u0438\u0448\u043a\u0430 \u043a\u043d\u0438\u0433\u0438 \u043d\u0435 \u0432 \u0442\u043e\u043c, \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u0443\u0447\u0438\u0442\u044c \u0432\u0430\u0441 \u043c\u0438\u043a\u0440\u043e\u0441\u0435\u0440\u0432\u0438\u0441\u0430\u043c \u043d\u0430 Spring, \u0430 \u043a\u0430\u043a \u0440\u0430\u0437 \u0442\u043e\u043c\u0443 \u043a\u0430\u043a \u044d\u0442\u0438 \u0441\u0435\u0440\u0432\u0438\u0441\u044b \u0438\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 orchestration \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a\u0438, \u0447\u0442\u043e \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u0446\u0435\u043d\u0435\u0435. Spring Cloud, Zuul, Eureka, Ribbon - \u044d\u0442\u043e \u0432\u0441\u0435 \u043f\u043e\u043a\u0440\u044b\u0442\u043e \u0432 \u044d\u0442\u043e\u0439 \u043a\u043d\u0438\u0433\u0435. \u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u044e.",
+        "attachments": [
+            {
+                "title": "Spring Microservices in Action",
+                "title_link": "https:\/\/www.manning.com\/books\/spring-microservices-in-action",
+                "fallback": "Spring Microservices in Action",
+                "image_url": "https:\/\/images.manning.com\/100\/125\/resize\/book\/6\/30588db-27a2-495d-be13-28babd654fae\/Carnell-Spring-MEAP-HI.png",
+                "from_url": "https:\/\/www.manning.com\/books\/spring-microservices-in-action",
+                "image_width": 100,
+                "image_height": 125,
+                "image_bytes": 7119,
+                "service_icon": "https:\/\/images.manning.com\/152\/152\/crop\/book\/6\/30588db-27a2-495d-be13-28babd654fae\/Carnell-Spring-MEAP-HI.png",
+                "service_name": "Spring Microservices in Action",
+                "id": 1
+            }
+        ],
+        "ts": "1476190751.000013",
+        "reactions": [
+            {
+                "name": "javaguru",
+                "users": [
+                    "U16UQ8LAZ",
+                    "U173XSJ74"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U16UQ8LAZ",
+                    "U17TMDLC8",
+                    "U16NVCQHE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U20H46RB7",
+        "text": "\u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043e \u0447\u0442\u043e \u0432\u044b\u0439\u0434\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0432\u0435\u0441\u043d\u043e\u0439 17",
+        "ts": "1476192512.000015"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043a\u0443\u043f\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e, \u0442\u043e\u043b\u044c\u043a\u043e \u043a\u043e\u043d\u0442\u0435\u043d\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e \u043c\u0435\u0440\u0435 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u044f",
+        "ts": "1476192760.000016"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041c\u0415\u0410\u0420 Rought Cut \u0432\u0435\u0440\u0441\u0438\u044f \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0430 ",
+        "ts": "1476202000.000017"
+    }
+]

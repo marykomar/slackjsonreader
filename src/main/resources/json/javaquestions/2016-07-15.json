@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1JJ0GPBL",
+        "text": "<@U1JJ0GPBL|paradox> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468602938.000071"
+    },
+    {
+        "user": "U1912DD9R",
+        "text": "<@U1912DD9R|dema> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468612213.000072"
+    },
+    {
+        "user": "U1RMSPPEJ",
+        "text": "<@U1RMSPPEJ|ujum> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468622784.000073"
+    }
+]

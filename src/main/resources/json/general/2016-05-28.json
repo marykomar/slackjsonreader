@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U1CFZJUQY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CFZJUQY|booxman> has joined the channel",
+        "ts": "1464459669.003047"
+    },
+    {
+        "user": "U1CGH1MNV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CGH1MNV|evgeniy> has joined the channel",
+        "ts": "1464467121.003048"
+    },
+    {
+        "user": "U1CGEKUUF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CGEKUUF|korotkikh> has joined the channel",
+        "ts": "1464469852.003049"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "<@U17073E95>: <https:\/\/slack.com\/apps\/category\/At0EFY3MJ4-project-management>",
+        "attachments": [
+            {
+                "service_name": "Slack App Directory",
+                "title": "Project Management",
+                "title_link": "https:\/\/slack.com\/apps\/category\/At0EFY3MJ4-project-management",
+                "text": "View apps in the Project Management category of the Slack App Directory",
+                "fallback": "Slack App Directory: Project Management",
+                "from_url": "https:\/\/slack.com\/apps\/category\/At0EFY3MJ4-project-management",
+                "thumb_url": "https:\/\/slack.com\/img\/slack_hash_128.v1464126652.png",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/a.slack-edge.com\/66f9\/img\/icons\/ios-152.png",
+                "id": 1
+            }
+        ],
+        "ts": "1464472899.003050"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "<http:\/\/toggl.com|toggl.com>  \u0442\u0430\u0439\u043c (\u0432\u043a\u043b\u044e\u0447\u0430\u044f \u043e\u0431\u0449\u0438\u0439 \u0438 \u043f\u043e\u043c\u043e\u0434\u043e\u0440\u043e) \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043f\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0443\u043c\/\u043a\u043e\u043c\u0430\u043d\u0434\u0430\u043c\/\u0442\u0430\u0441\u043a\u0430\u043c - \u0435\u0441\u0442\u044c \u0430\u0434\u0434\u043e\u043d \u043a \u0445\u0440\u043e\u043c\u0443",
+        "ts": "1464474051.003053"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "trello",
+        "ts": "1464475884.003055"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "<@U17073E95>: \u0435\u0441\u0442\u044c \u0431\u043e\u0442 \u0434\u043b\u044f Redmine \u0438 \u0431\u043e\u0442 \u0434\u043b\u044f Bitbucket, \u0443 \u043d\u0430\u0441 \u0432 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u043c Slack \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f, \u0432\u0435\u0441\u044c\u043c\u0430 \u0443\u0434\u043e\u0431\u043d\u043e",
+        "ts": "1464477681.003056"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "<https:\/\/github.com\/sciyoshi\/redmine-slack>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "sciyoshi\/redmine-slack",
+                "title_link": "https:\/\/github.com\/sciyoshi\/redmine-slack",
+                "text": "redmine-slack - Slack notification plugin for Redmine",
+                "fallback": "GitHub: sciyoshi\/redmine-slack",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/39950?v=3&s=400",
+                "from_url": "https:\/\/github.com\/sciyoshi\/redmine-slack",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1464477764.003057"
+    }
+]

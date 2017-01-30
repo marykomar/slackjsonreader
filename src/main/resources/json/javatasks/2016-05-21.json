@@ -1,0 +1,316 @@
+[
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "<https:\/\/habrahabr.ru\/post\/257223\/>",
+        "attachments": [
+            {
+                "title": "Spring Boot: \u043e\u0442 \u043d\u0430\u0447\u0430\u043b\u0430 \u0434\u043e \u043f\u0440\u043e\u0434\u0430\u043a\u0448\u0435\u043d\u0430",
+                "title_link": "https:\/\/habrahabr.ru\/post\/257223\/",
+                "text": "\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u044f \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u044e \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u0442\u044c \u0432\u0441\u0435 \u0448\u0430\u0433\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u044e\u0442\u0441\u044f \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u043d\u0430 Spring Boot \u0438 \u0440\u0430\u0437\u0432\u0435\u0440\u0442\u044b\u0432\u0430\u043d\u0438\u044f \u0435\u0433\u043e \u043d\u0430 \u0431\u043e\u0435\u0432\u043e\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u0435. \u041d\u0435...",
+                "fallback": "Spring Boot: \u043e\u0442 \u043d\u0430\u0447\u0430\u043b\u0430 \u0434\u043e \u043f\u0440\u043e\u0434\u0430\u043a\u0448\u0435\u043d\u0430",
+                "thumb_url": "https:\/\/habrastorage.org\/files\/0ed\/0bc\/1f8\/0ed0bc1f8ab842d1b0d30e4a26c76482.png",
+                "from_url": "https:\/\/habrahabr.ru\/post\/257223\/",
+                "thumb_width": 252,
+                "thumb_height": 150,
+                "id": 1
+            }
+        ],
+        "ts": "1463814517.000865",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U154G64BV",
+                    "U180SDV2R",
+                    "U16UQ8LAZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "<http:\/\/farenda.com\/spring\/spring-boot-hello-world>",
+        "attachments": [
+            {
+                "service_name": "Java Programming Tutorials",
+                "title": "Spring Boot \"Hello, World\" - Java Programming Tutorials",
+                "title_link": "http:\/\/farenda.com\/spring\/spring-boot-hello-world",
+                "text": "Spring Boot is fantastic new framework for creating standalone Spring applications very fast. Learn on this simple example how to start new Java project using Spring Boot!",
+                "fallback": "Java Programming Tutorials: Spring Boot \"Hello, World\" - Java Programming Tutorials",
+                "ts": 1433696700,
+                "from_url": "http:\/\/farenda.com\/spring\/spring-boot-hello-world",
+                "id": 1
+            }
+        ],
+        "ts": "1463818597.000868",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U154G64BV",
+                    "U180SDV2R",
+                    "U19BNJCF5",
+                    "U16UQ8LAZ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U16NVCQHE",
+        "text": "<http:\/\/itutorial.thymeleaf.org>. \u041c\u043d\u0435 \u043f\u043e\u043c\u043e\u0433 \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0441 Thymeleaf.",
+        "ts": "1463821726.000870",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U16UQ8LAZ",
+                    "U19BNJCF5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "<https:\/\/www.youtube.com\/channel\/UCrXb8NaMPQCQkT8yMP_hSkw>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "Spring Framework Guru",
+                "title_link": "https:\/\/www.youtube.com\/channel\/UCrXb8NaMPQCQkT8yMP_hSkw",
+                "text": "Spring Framework Expert. Former Spring Source Consultant. Speaker at Spring One G2X. The Spring Framework is the #1 framework for building enterprise applica...",
+                "fallback": "YouTube: Spring Framework Guru",
+                "thumb_url": "https:\/\/yt3.ggpht.com\/-WGNApnEjh-U\/AAAAAAAAAAI\/AAAAAAAAAAA\/ch4opRW1McI\/s900-c-k-no-rj-c0xffffff\/photo.jpg",
+                "from_url": "https:\/\/www.youtube.com\/channel\/UCrXb8NaMPQCQkT8yMP_hSkw",
+                "thumb_width": 900,
+                "thumb_height": 900,
+                "id": 1
+            }
+        ],
+        "ts": "1463822386.000871"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "\u043c\u043e\u0436\u0435\u0442 \u043a\u043e\u043c\u0443 \u043f\u0440\u0438\u0433\u043e\u0434\u0438\u0442\u0441\u044f, \u0437\u0430\u043e\u0434\u043d\u043e \u0438 \u0430\u043d\u0433\u043b \u043f\u0440\u043e\u043a\u0430\u0447\u0430\u0442\u044c \u043c\u043e\u0436\u043d\u043e )",
+        "ts": "1463822412.000873",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16UQ8LAZ",
+                    "U16HN7N3Z",
+                    "U19BNJCF5"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U16UQ8LAZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "<https:\/\/www.youtube.com\/watch?v=15ryys0Mvlg>  \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0434\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0434\u043e 40-\u0439 \u0441\u0435\u043a\u0443\u043d\u0434\u044b...  ))",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How to Configure and Run a Spring Project in 1 Minute",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=15ryys0Mvlg",
+                "author_name": "IntelliJ IDEA",
+                "author_link": "https:\/\/www.youtube.com\/user\/intellijideavideo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/15ryys0Mvlg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to Configure and Run a Spring Project in 1 Minute",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/15ryys0Mvlg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=15ryys0Mvlg",
+                "id": 1
+            }
+        ],
+        "ts": "1463825233.000874",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U19BNJCF5",
+                    "U180SDV2R",
+                    "U17T2T80N"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U19TNFSRK",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U19TNFSRK|alteranium> has joined the channel",
+        "ts": "1463826493.000876"
+    },
+    {
+        "type": "message",
+        "user": "U16HN7N3Z",
+        "text": "<!here|@here>: \u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0432\u0435\u0447\u043e\u0440\u0430.\n\u041f\u0456\u0434\u043a\u0430\u0436\u0456\u0442\u044c \u0445\u0442\u043e \u0432 \u043a\u0443\u0440\u0441\u0456:\n\n\u0420\u043e\u0437\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u0456\u0437 JPA\n\u0417\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439 Maven Java project \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0454\u0442\u044c\u0441\u044f \u0456 CRUD \u0432\u0456\u0434\u043f\u0440\u0430\u0446\u044c\u043e\u0432\u0443\u0454 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e.\n\u0410 \u043e\u0442 \u0456\u0437 Maven Web \u0442\u0430\u043a\u0430 \u0448\u0442\u0443\u043a\u0430 \u043d\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u044c.\npom\/persistence\/web.xml \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0456 \u0454, \u0432\u0441\u0435\u043e\u0434\u043d\u043e \u0432\u0438\u043a\u0438\u0434\u0430\u0454 \u043d\u0435 \u0437\u0440\u043e\u0437\u0443\u043c\u0456\u043b\u0443 \u0434\u043b\u044f \u043c\u0435\u043d\u0435 \u043f\u043e\u043c\u0438\u043b\u043a\u0443.\n\u041c\u043e\u0436\u043b\u0438\u0432\u043e \u044f \u043d\u0435 \u0432\u0440\u0430\u0445\u0443\u0432\u0430\u0432 \u0449\u0435 \u044f\u043a\u0438\u0439\u0441\u044c \u043a\u043e\u043d\u0444\u0456\u0433\u0443\u0440\u0443\u044e\u0447\u0438\u0439 \u0444\u0430\u0439\u043b \u0430\u0431\u043e \u043d\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u043e\u043f\u0438\u0441\u0430\u0432 \u044f\u043a\u0438\u0439\u0441\u044c \u0456\u0437 \u043f\u0435\u0440\u0435\u0440\u0430\u0445\u043e\u0432\u0430\u043d\u0438\u0445.",
+        "ts": "1463858691.000877"
+    },
+    {
+        "type": "message",
+        "user": "U155S3N69",
+        "text": "<@U16HN7N3Z>: \u041b\u043e\u0433 \u043e\u0448\u0438\u0431\u043a\u0438 \u0432 \u0441\u0442\u0443\u0434\u0438\u044e )))",
+        "ts": "1463859823.000878"
+    },
+    {
+        "type": "message",
+        "user": "U158M6X0X",
+        "text": "\u0418 \u0434\u0440\u0443\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0438\u043c \u0432 general",
+        "ts": "1463859864.000879"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16HN7N3Z|amarok> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/amarok\/F1APKMBPY\/test6exception.jpg|test6exception.jpg>",
+        "file": {
+            "id": "F1APKMBPY",
+            "created": 1463859866,
+            "timestamp": 1463859866,
+            "name": "test6exception.jpg",
+            "title": "test6exception.jpg",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U16HN7N3Z",
+            "editable": false,
+            "size": 1031769,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1APKMBPY\/test6exception.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1APKMBPY\/download\/test6exception.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1APKMBPY-291ee02c5b\/test6exception_64.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1APKMBPY-291ee02c5b\/test6exception_80.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1APKMBPY-291ee02c5b\/test6exception_360.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360_w": 360,
+            "thumb_360_h": 255,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1APKMBPY-291ee02c5b\/test6exception_480.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_480_w": 480,
+            "thumb_480_h": 339,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1APKMBPY-291ee02c5b\/test6exception_160.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1APKMBPY-291ee02c5b\/test6exception_720.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_720_w": 720,
+            "thumb_720_h": 509,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1APKMBPY-291ee02c5b\/test6exception_960.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_960_w": 960,
+            "thumb_960_h": 679,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1APKMBPY-291ee02c5b\/test6exception_1024.jpg?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 724,
+            "image_exif_rotation": 1,
+            "original_w": 3508,
+            "original_h": 2480,
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/amarok\/F1APKMBPY\/test6exception.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1APKMBPY-56dacb233f",
+            "channels": [
+                "C180DPKGS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U16HN7N3Z",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U16HN7N3Z|amarok>",
+        "bot_id": null,
+        "ts": "1463859872.000880"
+    },
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "<!here|@here> \u0420\u0435\u0431\u044f\u0442 \u0430 \u043c\u043e\u0436\u0435\u0442 \u043c\u044b \u0441\u043c\u043e\u0436\u0435\u043c \u0434\u0440\u0443\u0436\u043d\u043e \u0443\u0431\u0435\u0434\u0438\u0442\u044c checkstyle-plugin \u0438 <@U150DHUL9> \u0432 \u0442\u043e\u043c \u0447\u0442\u043e 80 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u043d\u0430 \u0441\u0442\u0440\u043e\u043a\u0443 \u044d\u0442\u043e \u043f\u0440\u043e\u0448\u043b\u044b\u0439 \u0432\u0435\u043a.\n\u0418 \u043f\u043e\u0440\u043e\u0441\u0438\u043c \u0441\u0434\u0432\u0438\u043d\u0443\u0442\u044c \u043f\u043b\u0430\u043d\u043a\u0443 \u043d\u0430 120?\n\n\u041d\u0435 \u043e\u0441\u0442\u0430\u0432\u0430\u0439\u0442\u0435\u0441\u044c \u0440\u0430\u0432\u043d\u043e\u0434\u0443\u0448\u043d\u044b\u043c\u0438! \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0442\u0435 \u043f\u0435\u0442\u0438\u0446\u0438\u044e! ))",
+        "ts": "1463860404.000881",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U173XSJ74",
+                    "U1EP8LV8X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U173XSJ74"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U17TS4G5V",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U17TS4G5V|alexhap> has left the channel",
+        "ts": "1463860451.000882"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "<@U15KGKN2J> \u0434\u0443\u043c\u0430\u044e \u0435\u0441\u043b\u0438 \u0442\u044b \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u043b\u0441\u044f \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u043e \u0447\u044c\u0438\u043c \u0442\u043e \u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c, \u0442\u043e \u043c\u0435\u043d\u044f\u0442\u044c \u0438\u0445 \u0443\u0436 \u0442\u043e\u0447\u043d\u043e \u043d\u0435 \u043d\u0430\u043c :slightly_smiling_face:\n\u043a\u0441\u0442\u0430\u0442\u0438, \u043c\u043d\u043e\u0433\u043e \u0432\u0435\u0449\u0435\u0439 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0445 \u0443\u0437\u043d\u0430\u043b, \u043f\u043e\u043a\u0430 \u043e\u0448\u0438\u0431\u043a\u0438 \u043f\u043e checkstyle \u043f\u0440\u043e\u0448\u0435\u043b",
+        "ts": "1463866208.000883"
+    },
+    {
+        "type": "message",
+        "user": "U19TNFSRK",
+        "text": "\u043d\u0443 80 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 - \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u0440\u043e\u0448\u043b\u044b\u0439 \u0432\u0435\u043a, \u0434\u0430\u0436\u0435 \u0441 \u0431\u043e\u043a\u043e\u0432\u044b\u043c\u0438 \u043f\u0430\u043d\u0435\u043b\u044f\u043c\u0438 \u0432 IDE  \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u043e\u0447\u0435\u043d\u044c \u043c\u043d\u043e\u0433\u043e \u043c\u0435\u0441\u0442\u0430.",
+        "ts": "1463866430.000884"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0412\u0441\u0435\u043c \u0434\u043e\u0431\u0440\u043e\u0435 \u0443\u0442\u0440\u043e. \u0414\u043b\u0438\u043d\u0430 \u0432 80 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u044d\u0442\u043e \u0440\u0435\u0430\u043b\u044c\u043d\u043e \u043c\u0430\u043b\u043e. \u041d\u0430 \u0432\u0441\u0435\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0440\u0430\u0437 120. \u0421\u043c\u0435\u043b\u043e \u043c\u0435\u043d\u044f\u0439\u0442\u0435, \u044d\u0442\u043e \u044f \u043d\u0435\u0434\u043e\u0433\u043b\u044f\u0434\u0435\u043b. ",
+        "ts": "1463893509.000885",
+        "reactions": [
+            {
+                "name": "relaxed",
+                "users": [
+                    "U17T2T80N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U173XSJ74",
+                    "U1EP8LV8X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "\u0418 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0434\u043e\u0431\u0440\u043e\u0435 \u0443\u0442\u0440\u043e )",
+        "ts": "1463893604.000886"
+    }
+]

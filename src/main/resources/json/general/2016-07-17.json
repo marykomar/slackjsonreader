@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1SF1BTGE",
+        "text": "<@U1SF1BTGE|vladimir.pivovar> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468774253.000002"
+    },
+    {
+        "user": "U1SFGKBQE",
+        "text": "<@U1SFGKBQE|micsol95> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468784994.000003"
+    },
+    {
+        "user": "U1SG017DF",
+        "text": "<@U1SG017DF|megadrummer> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468787072.000004"
+    }
+]

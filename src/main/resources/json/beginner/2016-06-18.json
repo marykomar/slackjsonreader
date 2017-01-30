@@ -1,0 +1,134 @@
+[
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u043e\u0439",
+        "ts": "1466284373.000061"
+    },
+    {
+        "type": "message",
+        "user": "U17UP61QW",
+        "text": "\u0442\u0430\u043a \u044d\u0442\u0443 \u0437\u0430\u0434\u0430\u0447\u0443 \u0443\u0436\u0435 \u043d\u0435 \u043d\u0430\u0434\u043e \u0434\u0435\u043b\u0430\u0442\u044c",
+        "ts": "1466284387.000062"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u043d\u0443 \u044f \u0435\u0435 \u0434\u043e\u043f\u0438\u043b\u0438\u0432\u0430\u044e)",
+        "ts": "1466284395.000063"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u043c\u043d\u0435 \u0442\u0440\u0435\u0432\u0438\u0441 \u043f\u0438\u0448\u0435\u0442 \u043e\u0448\u0438\u0431\u043a\u0443 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0434\u0435\u043f\u043b\u043e\u044f: Messaging\/Publisher.java:[29,44] local variable user is accessed from within inner class; needs to be declared final\n\u0432\u043e\u0442 \u043a\u0430\u043a\u043e\u0439 \u043a\u043e\u0434: \n@Component\npublic class Publisher {\n  \n    @Autowired\n    private JmsTemplate jmsTemplate;\n    \n    public void publishMessage(User user) {\n        MessageCreator messageCreator = new MessageCreator() {\n            @Override\n            public Message createMessage(Session session) throws JMSException {\n                return session.createObjectMessage(user);\n            }\n        };\n        jmsTemplate.send(\"mailbox-destination\", messageCreator);\n    }\n\n}",
+        "edited": {
+            "user": "U19PN5MGE",
+            "ts": "1466284497.000000"
+        },
+        "ts": "1466284429.000064"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u0447\u0435\u043a\u0441\u0442\u0430\u0439\u043b \u043d\u0430 \u0441\u0432\u043e\u0435\u0439 \u043c\u0430\u0448\u0438\u043d\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442, \u043a\u0430\u043a \u0431\u044b\u0442\u044c?",
+        "ts": "1466284468.000065"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u0410 \u044d\u0442\u043e \u0442\u043e\u0447\u043d\u043e \u043e\u0448\u0438\u0431\u043a\u0430 \u0447\u0435\u043a\u0441\u0442\u0430\u0439\u043b \u0430 \u043d\u0435 \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u0430? ",
+        "ts": "1466284909.000067"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u043f\u0440\u043e\u0435\u043a\u0442 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0435\u0442\u0441\u044f",
+        "ts": "1466284925.000068"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u0410\u0433\u0430",
+        "ts": "1466284935.000069"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u043a\u0430\u043a \u0432\u0430\u0440\u0438\u0430\u043d\u0442: \u0442\u0440\u044d\u0432\u0438\u0441 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u043c\u043e\u0439 \u0447\u0435\u043a\u0441\u0442\u0430\u0439\u043b \u0432\u0437\u044f\u0442\u044c, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0441\u0432\u043e\u0438\u043c",
+        "ts": "1466284946.000070"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u042d\u0442\u043e \u044f \u043f\u0440\u043e\u0442\u0443\u043f\u0438\u043b",
+        "ts": "1466284952.000071"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u041f\u043e\u0445\u043e\u0436\u0435 \u043d\u0430 \u0442\u043e, \u0430 \u0432 \u043f\u043e\u043c \u043f\u0440\u043e\u043f\u0438\u0441\u0430\u043d \u043f\u0443\u0442\u044c \u043a \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438? ",
+        "ts": "1466284975.000072"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u0427\u0435\u043a\u0441\u0442\u0430\u0439\u043b\u0430",
+        "ts": "1466284982.000073"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u041e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
+        "ts": "1466284997.000074"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u0434\u0430, \u0432 \u0440\u0443\u0442\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f: &lt;configLocation&gt;checkstyle.xml&lt;\/configLocation&gt;",
+        "ts": "1466285008.000075"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u0421\u0442\u0440\u0430\u043d\u043d\u043e, \u0443 \u043d\u0430\u0441 \u0442\u0440\u0435\u0432\u0438\u0441 \u043f\u043e\u0434\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u043b",
+        "ts": "1466285044.000076"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u0418 \u043f\u0443\u0442\u044c \u0442\u043e\u0447\u043d\u043e \u0442\u0430\u043a \u0436\u0435 \u0443\u043a\u0430\u0437\u0430\u043d",
+        "ts": "1466285195.000077"
+    },
+    {
+        "type": "message",
+        "user": "U17UP61QW",
+        "text": "<https:\/\/3monthjunior.slack.com\/archives\/beginner\/p1466284373000061>     \u0430 \u043d\u044b\u043d\u0435\u0448\u043d\u0438\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u0434\u0435\u043b\u0430\u0435\u0448\u044c?",
+        "attachments": [
+            {
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/beginner\/p1466284373000061",
+                "fallback": "[June 18th, 2016 2:12 PM] vaano: \u043e\u0439",
+                "author_subname": "vaano",
+                "ts": "1466284373.000061",
+                "channel_id": "C171F6QRY",
+                "channel_name": "beginner",
+                "is_msg_unfurl": true,
+                "text": "\u043e\u0439",
+                "author_name": "Ivan Kravchenko",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/vaano",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-06-10\/49873266608_8f14d855632353126cf5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #beginner"
+            }
+        ],
+        "ts": "1466285639.000078"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "<@U17UP61QW> \u041d\u0435\u0442 \u0435\u0449\u0435, \u0443 \u043c\u0435\u043d\u044f \u0434\u0438\u043f\u043b\u043e\u043c \u0433\u043e\u0440\u0438\u0442, \u0441 \u044d\u0442\u0438\u043c \u0431\u044b \u0435\u0449\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c",
+        "ts": "1466285904.000080"
+    }
+]

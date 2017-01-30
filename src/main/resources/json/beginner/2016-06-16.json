@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U1HCN4Z35",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1HCN4Z35|aidan> has joined the channel",
+        "ts": "1466067585.000048"
+    },
+    {
+        "user": "U1HES6W2C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1HES6W2C|staszp> has joined the channel",
+        "ts": "1466074639.000049"
+    },
+    {
+        "type": "message",
+        "user": "U185K50H1",
+        "text": "\u0414\u043e\u0431\u0440\u043e\u0435 \u0443\u0442\u0440\u043e!  \u0411\u044b\u043b\u043e \u0431\u044b \u0437\u0434\u043e\u0440\u043e\u0432\u043e, \u0435\u0441\u043b\u0438 \u0431\u044b \u0441\u044e\u0434\u0430 \u0435\u0449\u0435 \u043a\u0430\u043a\u0443\u044e-\u043d\u0438\u0431\u0443\u0434\u044c \u0437\u0430\u0434\u0430\u0447\u043a\u0443 \u043f\u043e\u0434\u043a\u0438\u043d\u0443\u043b\u0438.... \u043f\u043e\u043c\u043e\u0449\u044c \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u043c - \u0432\u0435\u0440\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u043a\u0430\u0440\u043c\u0443",
+        "ts": "1466139303.000052"
+    }
+]

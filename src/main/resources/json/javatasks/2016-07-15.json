@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1S90C44E",
+        "text": "<@U1S90C44E|samokisha> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468617857.000099"
+    },
+    {
+        "user": "U1RMSPPEJ",
+        "text": "<@U1RMSPPEJ|ujum> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468622826.000100"
+    }
+]

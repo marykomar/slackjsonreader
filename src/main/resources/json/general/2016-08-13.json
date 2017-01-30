@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0411\u043b\u043e\u0433 \u0431\u0443\u0434\u0435\u0442 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u043d\u0430 \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0435 (\u043f\u0435\u0440\u0435\u0445\u043e\u0436\u0443 \u043d\u0430 \u0431\u043e\u043b\u0435\u0435 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0434\u0432\u0438\u0436\u043e\u043a).",
+        "ts": "1471082098.001732"
+    },
+    {
+        "user": "U214SEN5C",
+        "text": "<@U214SEN5C|tebuchet> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471100821.001733"
+    }
+]

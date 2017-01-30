@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U2F40TBV1",
+        "text": "<@U2F40TBV1|vio1990> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474630914.000007"
+    }
+]

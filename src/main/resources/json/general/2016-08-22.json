@@ -1,0 +1,138 @@
+[
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "\u0432\u043e\u043f\u0440\u043e\u0441 \u0447\u0443\u0442\u044c \u0432\u0441\u0442\u043e\u0440\u043e\u043d\u0443: \u043a \u0447\u0435\u043c\u0443 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0447\u0443\u0432\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u0435\u043d \u0431\u0438\u043b\u0434 \u043f\u0440\u043e\u044d\u043a\u0442\u0430? \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u0441\u043b\u043e\u0432\u0430\u043c\u0438, \u0447\u0442\u043e \u043d\u0443\u0436\u043d\u043e \u0430\u043f\u0433\u0440\u0435\u0439\u0434\u0438\u0442\u044c \u0432 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c (HDD, \u043f\u0430\u043c\u044f\u0442\u044c, \u043f\u0440\u043e\u0446), \u043d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043e\u0449\u0443\u0442\u0438\u043c \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0438\u0440\u043e\u0441\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438 \u0437\u0430\u043c\u0435\u043d\u0435 DVD \u043d\u0430 SSD \u0432 \u043d\u043e\u0443\u0442\u0435?",
+        "edited": {
+            "user": "U172MPHTK",
+            "ts": "1471860107.000000"
+        },
+        "ts": "1471859794.002006"
+    },
+    {
+        "type": "message",
+        "user": "U20H46RB7",
+        "text": "DVD ?",
+        "ts": "1471860969.002008"
+    },
+    {
+        "type": "message",
+        "user": "U20E922FM",
+        "text": "\u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e \u0443\u0437\u043a\u0438\u043c \u043c\u0435\u0441\u0442\u043e\u043c \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0432 \u043d\u043e\u0443\u0442\u0435 \u0432\u0441\u0435\u0433\u0434\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f HDD",
+        "ts": "1471861142.002009"
+    },
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "\u0414\u0430, \u0447\u0442\u043e\u0431 HDD \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0434\u043b\u044f \u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0430 + SSD \u0432 \u0441\u043b\u043e\u0442 DVD...",
+        "attachments": [
+            {
+                "fallback": "[August 22nd, 2016 1:16 PM] alximik: DVD ?",
+                "ts": "1471860969.002008",
+                "author_subname": "alximik",
+                "channel_id": "C14VCJCDS",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "DVD ?",
+                "author_name": "Stas Grishaev",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/alximik",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/2cd78b3ea0123eadaac8f877016cd168.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0016-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/general\/p1471860969002008",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1471861539.002010"
+    },
+    {
+        "type": "message",
+        "user": "U155TM71A",
+        "text": "\u043a\u0430\u043a \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430, \u043b\u0443\u0447\u0448\u0435 ssd \u043d\u0430 \u043c\u0435\u0441\u0442\u043e hdd (\u0435\u0441\u043b\u0438 \u043d\u0430 ssd \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043f\u0435\u0440\u0435\u043d\u0435\u0441\u0442\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0443), \u0430 \u043d\u0430 \u043c\u0435\u0441\u0442\u043e dvd \u0443\u0436\u0435 hdd",
+        "edited": {
+            "user": "U155TM71A",
+            "ts": "1471861896.000000"
+        },
+        "ts": "1471861789.002011",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U17SM7N78",
+                    "U1QTFRCNA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U172MPHTK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U155TM71A",
+        "text": "\u0430 \u0442\u0432\u043e\u0439 \u0431\u0438\u043b\u0434 \u0443\u043f\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0432 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\n\u0438, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u044c \u0447\u0442\u0435\u043d\u0438\u044f (\u043f\u0440\u0438 \u0431\u043e\u043b\u044c\u0448\u043e\u043c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435 \u0444\u0430\u0439\u043b\u043e\u0432)",
+        "ts": "1471861835.002012"
+    },
+    {
+        "type": "message",
+        "user": "U155TM71A",
+        "text": "\u0435\u0441\u043b\u0438 \u043c\u0430\u043b\u043e \u043f\u0430\u043c\u044f\u0442\u0438, \u0442\u043e \u0435\u0449\u0435 \u0438 \u0441\u0432\u043e\u043f\u0438\u0442\u044c \u043c\u043e\u0436\u0435\u0442 \u043d\u0430\u0447\u0430\u0442\u044c",
+        "ts": "1471861855.002013"
+    },
+    {
+        "type": "message",
+        "user": "U17TYL28M",
+        "text": "\u0441\u043a\u043e\u0440\u0435\u0435 \u043e\u043d \u0443\u043f\u0440\u0435\u0442\u0441\u044f \u0432 \u0441\u043f\u0435\u043a\u0443 \u0441\u0430\u0442\u0430, \u0435\u0441\u043b\u0438 \u043d\u043e\u0443\u0442 \u0441\u0442\u0430\u0440\u044b\u0439",
+        "ts": "1471862144.002015",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U172MPHTK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U17TDH3SQ",
+        "text": "\u0410 \u0447\u0442\u043e \u0437\u0430 \u043c\u043e\u0434\u0435\u043b\u044c \u043d\u043e\u0443\u0442\u0430?\n\u042f \u0431\u0443\u043a\u0432\u0430\u043b\u044c\u043d\u043e \u043d\u0435\u0434\u0430\u0432\u043d\u043e \u043d\u0430 samsung r780 \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b ssd \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u043b \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0443 \u043f\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c\u0443 (\u0432 \u043c\u043e\u0435\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u044d\u0442\u043e 8 \u0433\u0431 :)",
+        "ts": "1471865158.002016"
+    },
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "\u0421\u0442\u0430\u0440\u0435\u043d\u044c\u043a\u0438\u0439 dell n5110 :slightly_smiling_face:",
+        "attachments": [
+            {
+                "fallback": "[August 22nd, 2016 2:25 PM] stoker: \u0410 \u0447\u0442\u043e \u0437\u0430 \u043c\u043e\u0434\u0435\u043b\u044c \u043d\u043e\u0443\u0442\u0430?\n\u042f \u0431\u0443\u043a\u0432\u0430\u043b\u044c\u043d\u043e \u043d\u0435\u0434\u0430\u0432\u043d\u043e \u043d\u0430 samsung r780 \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b ssd \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u043b \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0443 \u043f\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c\u0443 (\u0432 \u043c\u043e\u0435\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u044d\u0442\u043e 8 \u0433\u0431 :)",
+                "ts": "1471865158.002016",
+                "author_subname": "stoker",
+                "channel_id": "C14VCJCDS",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "\u0410 \u0447\u0442\u043e \u0437\u0430 \u043c\u043e\u0434\u0435\u043b\u044c \u043d\u043e\u0443\u0442\u0430?\n\u042f \u0431\u0443\u043a\u0432\u0430\u043b\u044c\u043d\u043e \u043d\u0435\u0434\u0430\u0432\u043d\u043e \u043d\u0430 samsung r780 \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b ssd \u0438 \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u043b \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0443 \u043f\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c\u0443 (\u0432 \u043c\u043e\u0435\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u044d\u0442\u043e 8 \u0433\u0431 :)",
+                "author_name": "Vladimir Samusia",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/stoker",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-11\/41977263089_79c3eb69e99e441476dd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/general\/p1471865158002016",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1471868466.002017"
+    }
+]

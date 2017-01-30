@@ -1,0 +1,31 @@
+[
+    {
+        "user": "U31B8QCH0",
+        "text": "<@U31B8QCH0|killroy> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478854592.000761"
+    },
+    {
+        "user": "U31BP337U",
+        "text": "<@U31BP337U|l1nx> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478857491.000762"
+    },
+    {
+        "type": "message",
+        "user": "U192CF1SM",
+        "text": "\u0427\u0438 \u043d\u0435 \u043c\u0456\u0433 \u0431\u0438 \u0445\u0442\u043e\u0441\u044c \u0437 \u0430\u0434\u043c\u0456\u043d\u0456\u0432 \u0437\u0430\u043a\u0438\u043d\u0443\u0442\u0438 \u0430\u0440\u0445\u0456\u0432 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u044c \u0434\u043e 5 \u0441\u0435\u0440\u043f\u043d\u044f?",
+        "ts": "1478865834.000763",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U173XSJ74"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

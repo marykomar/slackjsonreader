@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U19DE392A",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U19DE392A|abdulaziz> has joined the channel",
+        "ts": "1463468927.000620"
+    },
+    {
+        "user": "U197VNLAC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U197VNLAC|astefanovskiy> has joined the channel",
+        "ts": "1463480180.000624"
+    },
+    {
+        "user": "U191MTQB1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U191MTQB1|amolodtsov> has joined the channel",
+        "ts": "1463485375.000625"
+    },
+    {
+        "user": "U17UP61QW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17UP61QW|mjv> has joined the channel",
+        "ts": "1463495474.000626"
+    },
+    {
+        "user": "U17U53GBZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17U53GBZ|viachesl> has joined the channel",
+        "ts": "1463502153.000627"
+    },
+    {
+        "user": "U19597AQ2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U19597AQ2|edward> has joined the channel",
+        "ts": "1463504515.000628"
+    },
+    {
+        "user": "U197AMV4L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U197AMV4L|sympho> has joined the channel",
+        "ts": "1463508077.000629"
+    }
+]

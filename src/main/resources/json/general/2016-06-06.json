@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1EBFFYMR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1EBFFYMR|emanresu> has joined the channel",
+        "ts": "1465211415.000006"
+    },
+    {
+        "user": "U1EFF048M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1EFF048M|gopnik> has joined the channel",
+        "ts": "1465229583.000007"
+    },
+    {
+        "user": "U1EGJRG9J",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1EGJRG9J|moonmaster> has joined the channel",
+        "ts": "1465238242.000008"
+    }
+]

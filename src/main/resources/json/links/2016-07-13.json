@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "user": "U19BNJCF5",
+        "text": "<http:\/\/turnoff.us\/image\/en\/who-killed-mysql.png>",
+        "attachments": [
+            {
+                "fallback": "1200x2481px image",
+                "image_url": "http:\/\/turnoff.us\/image\/en\/who-killed-mysql.png",
+                "image_width": 1200,
+                "image_height": 2481,
+                "image_bytes": 694627,
+                "from_url": "http:\/\/turnoff.us\/image\/en\/who-killed-mysql.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468397327.000044",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16NVCQHE",
+                    "U15B9DZ0T",
+                    "U1855F602"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U1RB93GDC",
+        "text": "<@U1RB93GDC|kirillkd> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468420166.000046"
+    }
+]

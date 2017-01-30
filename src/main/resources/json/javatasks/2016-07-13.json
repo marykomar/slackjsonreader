@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1RB93GDC",
+        "text": "<@U1RB93GDC|kirillkd> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468420158.000097"
+    },
+    {
+        "user": "U1RBNTN23",
+        "text": "<@U1RBNTN23|kbogomazov> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468422095.000098"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U38LARBPV",
+        "text": "<@U38LARBPV|c0dyy> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480508110.000836"
+    },
+    {
+        "user": "U39KU2F71",
+        "text": "<@U39KU2F71|polymorphizm> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480534434.000837"
+    },
+    {
+        "user": "U398DSQKE",
+        "text": "<@U398DSQKE|javjackrusso> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1480574425.000838"
+    }
+]

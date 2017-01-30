@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "[October 5th, 2016 2:48 PM] lozenko: \u041a\u043e\u0433\u0434\u0430 \u0434\u0435\u043b\u043e \u043a\u0430\u0441\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439, \u043c\u043d\u043e\u0433\u0438\u0435 \u043d\u0435 \u0437\u0430\u0434\u0443\u043c\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0447\u0442\u043e \u0447\u0430\u0441\u0442\u044c \u0442\u044e\u043d\u0438\u043d\u0433\u0430 \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442\u044c \u043d\u0430 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445. \u0423\u043c\u0435\u043b\u043e\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0411\u0414 \u0438 \u0443\u043c\u0435\u043b\u0430\u044f \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0438\u043d\u0434\u0435\u043a\u0441\u043e\u0432 - \u0437\u0430\u043b\u043e\u0433 \u0443\u0441\u043f\u0435\u0445\u0430. \u041e\u0434\u043d\u043e \u0438\u0437 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0445 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432 \u043d\u0430 \u044d\u0442\u0443 \u0442\u0435\u043c\u0443: <http:\/\/use-the-index-luke.com\/>",
+                "ts": "1475668136.000519",
+                "author_subname": "lozenko",
+                "channel_id": "C14VCJCDS",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "\u041a\u043e\u0433\u0434\u0430 \u0434\u0435\u043b\u043e \u043a\u0430\u0441\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439, \u043c\u043d\u043e\u0433\u0438\u0435 \u043d\u0435 \u0437\u0430\u0434\u0443\u043c\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0447\u0442\u043e \u0447\u0430\u0441\u0442\u044c \u0442\u044e\u043d\u0438\u043d\u0433\u0430 \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442\u044c \u043d\u0430 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u0431\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445. \u0423\u043c\u0435\u043b\u043e\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0411\u0414 \u0438 \u0443\u043c\u0435\u043b\u0430\u044f \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0438\u043d\u0434\u0435\u043a\u0441\u043e\u0432 - \u0437\u0430\u043b\u043e\u0433 \u0443\u0441\u043f\u0435\u0445\u0430. \u041e\u0434\u043d\u043e \u0438\u0437 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0445 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432 \u043d\u0430 \u044d\u0442\u0443 \u0442\u0435\u043c\u0443: <http:\/\/use-the-index-luke.com\/>",
+                "author_name": "Stanislav  Lozenko",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/lozenko",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-28\/64157923955_6ed6632f224c2ce51842_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/general\/p1475668136000519",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1475677314.000011"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "",
+        "attachments": [
+            {
+                "fallback": "[October 5th, 2016 6:35 PM] lozenko: \u041f\u0440\u0438\u043a\u043e\u043b Hadoop \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0442\u043e\u043c \u0447\u0442\u043e \u0435\u0433\u043e \u043d\u0435 \u043f\u043e \u043a\u043d\u0438\u0436\u043a\u0430\u043c \u0447\u0438\u0442\u0430\u0442\u044c \u043d\u0430\u0434\u043e. \u042f \u043d\u0430\u0447\u0438\u043d\u0430\u043b \u0441 HortonWorks <http:\/\/hortonworks.com\/products\/sandbox\/>",
+                "ts": "1475681721.000523",
+                "author_subname": "lozenko",
+                "channel_id": "C14VCJCDS",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "\u041f\u0440\u0438\u043a\u043e\u043b Hadoop \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0442\u043e\u043c \u0447\u0442\u043e \u0435\u0433\u043e \u043d\u0435 \u043f\u043e \u043a\u043d\u0438\u0436\u043a\u0430\u043c \u0447\u0438\u0442\u0430\u0442\u044c \u043d\u0430\u0434\u043e. \u042f \u043d\u0430\u0447\u0438\u043d\u0430\u043b \u0441 HortonWorks <http:\/\/hortonworks.com\/products\/sandbox\/>",
+                "author_name": "Stanislav  Lozenko",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/lozenko",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-07-28\/64157923955_6ed6632f224c2ce51842_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/general\/p1475681721000523",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1475692192.000012"
+    }
+]

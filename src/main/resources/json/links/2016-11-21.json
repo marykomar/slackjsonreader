@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U214SEN5C",
+        "text": "<@U214SEN5C|tebuchet> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1479791718.000029"
+    }
+]

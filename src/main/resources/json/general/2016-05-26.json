@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U1BTEGYRW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BTEGYRW|grubjakc> has joined the channel",
+        "ts": "1464249210.003009"
+    },
+    {
+        "type": "message",
+        "user": "U1BTEGYRW",
+        "text": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442",
+        "ts": "1464249261.003010"
+    },
+    {
+        "type": "message",
+        "user": "U16HN7N3Z",
+        "text": "<@U1BTEGYRW>  \u043f\u0440\u0438\u0432\u0435\u0442",
+        "ts": "1464249501.003011"
+    },
+    {
+        "user": "U1BTLA76K",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BTLA76K|man> has joined the channel",
+        "ts": "1464249596.003012"
+    },
+    {
+        "user": "U1C3H1KT9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1C3H1KT9|streiker> has joined the channel",
+        "ts": "1464289958.003013"
+    },
+    {
+        "user": "U1C4QFQES",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1C4QFQES|swither_opv> has joined the channel",
+        "ts": "1464301316.003014"
+    }
+]

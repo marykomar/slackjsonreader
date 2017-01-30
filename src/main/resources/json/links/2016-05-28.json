@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "user": "U155RD230",
+        "text": "<@U150DHUL9> <@U158BBPQD> \u041a\u0438\u0434\u0430\u043b \u0443 \u0441\u0435\u0431\u044f \u0441\u0441\u044b\u043b\u043a\u0443 \u043d\u0430 \u0432\u0438\u0434\u0435\u043e \u0443\u0447\u0435\u0431\u044b \u043f\u043e \u044d\u0442\u043e\u0439 \u043c\u0435\u0442\u043e\u0434\u0438\u043a\u0435 <https:\/\/youtu.be\/nmScaaYYdMI>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u0430\u043d\u0442\u0443\u043b\u0430, Global Logic, \" \u0412\u044b\u0443\u0447\u0438\u0442\u044c \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0437\u0430 25 \u043c\u0438\u043d\u0443\u0442\"",
+                "title_link": "https:\/\/youtu.be\/nmScaaYYdMI",
+                "author_name": "DataArt",
+                "author_link": "https:\/\/www.youtube.com\/user\/DataArt",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/nmScaaYYdMI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u0430\u043d\u0442\u0443\u043b\u0430, Global Logic, \" \u0412\u044b\u0443\u0447\u0438\u0442\u044c \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0437\u0430 25 \u043c\u0438\u043d\u0443\u0442\"",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/nmScaaYYdMI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/nmScaaYYdMI",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1464438020.000116",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U17V9A0EQ",
+                    "U16HN7N3Z",
+                    "U16QE2WEM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U155RD230",
+        "text": "\u0421\u0442\u0438\u0445\u0438 \u043b\u0443\u0447\u0448\u0435 \u0432\u0441\u0435\u0433\u043e \u0443\u0447\u0438\u0442\u044c \u0432\u0435\u0447\u0435\u0440\u043e\u043c \u043d\u0435 \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0438\u0445 \u0437\u0430\u0443\u0447\u0438\u0432\u0430\u044f \u0438 \u043b\u043e\u0436\u0430\u0441\u044c \u0441\u043f\u0430\u0442\u044c. \u0423\u0442\u0440\u043e\u043c \u0432\u0441\u0442\u0430\u0442\u044c \u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u044c.  \u041a\u0430\u043a \u043b\u0443\u0447\u0448\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u043c\u0435\u0442\u043e\u0434 \u0434\u043b\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f? \u0420\u0435\u0448\u0430\u0442\u044c \u0437\u0430\u0434\u0430\u043d\u0438\u0435 \u0432\u0435\u0447\u0435\u0440\u043e\u043c \u0435\u0441\u043b\u0438 \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u043b\u0435\u0447\u044c \u0441\u043f\u0430\u0442\u044c \u0443\u0442\u0440\u043e\u043c \u043e\u043f\u044f\u0442\u044c \u043a \u043d\u0435\u0439 \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f?",
+        "ts": "1464441532.000118"
+    },
+    {
+        "type": "message",
+        "user": "U17V9A0EQ",
+        "text": "\u0432 \u0432\u0438\u0434\u0435\u043e \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e \u043e\u0431 \u044d\u0442\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0435",
+        "ts": "1464444772.000119"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<https:\/\/www.youtube.com\/watch?v=WpClvUKG5E8>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Pomodoro 2 \u0433\u043e\u0434\u0430 \u0441\u043f\u0443\u0441\u0442\u044f...",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=WpClvUKG5E8",
+                "author_name": "Mikalai Alimenkou",
+                "author_link": "https:\/\/www.youtube.com\/user\/lumii1983",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/WpClvUKG5E8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Pomodoro 2 \u0433\u043e\u0434\u0430 \u0441\u043f\u0443\u0441\u0442\u044f...",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/WpClvUKG5E8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=WpClvUKG5E8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1464452546.000120",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U17V9A0EQ",
+                    "U19BNJCF5",
+                    "U174DPXUL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U15EAFHME",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15EAFHME|zver> has joined the channel",
+        "ts": "1464454085.000122"
+    }
+]

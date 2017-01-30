@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1NEQAQAC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1NEQAQAC|dima> has joined the channel",
+        "ts": "1467570733.000091"
+    }
+]

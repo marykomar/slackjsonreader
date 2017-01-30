@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U20RL308H",
+        "text": "<@U20RL308H|osem> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471348048.000042"
+    },
+    {
+        "type": "message",
+        "subtype": "file_mention",
+        "text": "<@U1AFM877B|kiev_junta> mentioned a file: <https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F21U2U6HM\/design_patterns_via_c_.pdf|Design Patterns via C#.pdf>",
+        "file": {
+            "id": "F21U2U6HM",
+            "created": 1471367163,
+            "timestamp": 1471367163,
+            "name": "Design Patterns via C#.pdf",
+            "title": "Design Patterns via C#.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1AFM877B",
+            "editable": false,
+            "size": 13246875,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F21U2U6HM\/design_patterns_via_c_.pdf?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F21U2U6HM\/download\/design_patterns_via_c_.pdf?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F21U2U6HM\/design_patterns_via_c_.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F21U2U6HM-17170ae0e8",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1AFM877B",
+        "ts": "1471370499.000044"
+    },
+    {
+        "user": "U20TLRFFC",
+        "text": "<@U20TLRFFC|krakke1337> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471378208.000046"
+    }
+]

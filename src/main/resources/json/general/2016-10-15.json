@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U2PP1HXPV",
+        "text": "<@U2PP1HXPV|nikolayivanov> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476540129.000585"
+    },
+    {
+        "user": "U2PSCMHV3",
+        "text": "<@U2PSCMHV3|simuran> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476566356.000586"
+    }
+]

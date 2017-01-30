@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "user": "U15G85DQX",
+        "text": "\"\u0442\u0430\u043c\" - \u044d\u0442\u043e \u0433\u0434\u0435? :slightly_smiling_face:",
+        "attachments": [
+            {
+                "fallback": "[June 29th, 2016 4:29 PM] papay: \u043d\u0443 \u0442\u0430\u043a \u0442\u0430\u043c \u0441\u0440\u0435\u0434\u0438 \u043f\u0440\u043e\u0447\u0438\u0445 \u0438\u0434\u0443\u0442 \u0435\u0449\u0435 \u0438 \u0442\u0435, \u043a\u0442\u043e \u0440\u0435\u0448\u0438\u043b \u043f\u0435\u0440\u0435\u0441\u043a\u043e\u0447\u0438\u0442\u044c \u0432 \u0418\u0422 \u0438\u0437 \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438, \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438, \u0437\u0430\u0432\u043e\u0434\u043e\u0432 \u0438 \u043f\u0440.",
+                "author_subname": "papay",
+                "ts": "1467206948.000044",
+                "channel_id": "C19GFM0CU",
+                "channel_name": "javaquestions",
+                "is_msg_unfurl": true,
+                "text": "\u043d\u0443 \u0442\u0430\u043a \u0442\u0430\u043c \u0441\u0440\u0435\u0434\u0438 \u043f\u0440\u043e\u0447\u0438\u0445 \u0438\u0434\u0443\u0442 \u0435\u0449\u0435 \u0438 \u0442\u0435, \u043a\u0442\u043e \u0440\u0435\u0448\u0438\u043b \u043f\u0435\u0440\u0435\u0441\u043a\u043e\u0447\u0438\u0442\u044c \u0432 \u0418\u0422 \u0438\u0437 \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438, \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438, \u0437\u0430\u0432\u043e\u0434\u043e\u0432 \u0438 \u043f\u0440.",
+                "author_name": "Vladimir Sokolov",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/papay",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-17\/43556899569_1248aee62b728d0fb896_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/javaquestions\/p1467206948000044",
+                "is_share": true,
+                "footer": "Posted in #javaquestions"
+            }
+        ],
+        "ts": "1467360256.000046"
+    },
+    {
+        "type": "message",
+        "user": "U185K50H1",
+        "text": "\u0443 \u0442\u0435\u0441\u0442\u0435\u0440\u043e\u0432",
+        "ts": "1467371341.000047"
+    },
+    {
+        "user": "U1MMFBK0D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MMFBK0D|afilippov> has joined the channel",
+        "ts": "1467373515.000048"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u0423 \u0434\u0436\u0430\u0432\u0438\u0441\u0442\u043e\u0432 \u0441\u0432\u0438\u0442\u0447\u0435\u0440\u043e\u0432 \u0442\u043e\u0436\u0435 \u043c\u043d\u043e\u0433\u043e. \u041f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u0440\u043e\u0433 \u0432\u0445\u043e\u0434\u0430 \u0432\u044b\u0448\u0435, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043e\u0431\u0449\u0430\u044f \u043c\u0430\u0441\u0441\u0430 \u043c\u0435\u043d\u044c\u0448\u0435.",
+        "ts": "1467377236.000049"
+    },
+    {
+        "type": "message",
+        "user": "U15A8DXMF",
+        "text": "\u0410\u0434\u043c\u0438\u043d\u044b \u0442\u0430\u043a\u0436\u0435 \u0441\u0447\u0438\u0442\u0430\u044e\u0442\u0441\u044f \u0441\u0432\u0438\u0442\u0447\u0435\u0440\u0430\u043c\u0438 \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u043d\u0435 \u043d\u0430 DevOps ?",
+        "ts": "1467379764.000050"
+    },
+    {
+        "type": "message",
+        "user": "U155TM71A",
+        "text": "\u0430\u0434\u043c\u0438\u043d \u0430\u0434\u043c\u0438\u043d\u0443 \u0440\u043e\u0437\u043d\u044c )",
+        "ts": "1467381353.000051"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U15A8DXMF>: \u043d\u0443, \u044d\u0442\u043e \u0442\u0430\u043a\u043e\u0439 \u0441\u0435 \u043c\u044f\u0433\u043a\u0438\u0439 \u0441\u0432\u0438\u0442\u0447 . \u0415\u0441\u043b\u0438 \u0438\u0437 \u0434\u0435\u0432\u043e\u043f\u0441\u0430 \u0432 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u043f\u043e\u0442\u043e\u043c, \u0442\u043e \u0432\u043e\u043e\u0431\u0449\u0435 \u043c\u043e\u0436\u043d\u043e \u0441\u0447\u0438\u0442\u0430\u0442\u044c, \u0447\u0442\u043e \u0441\u0432\u0438\u0442\u0447\u0430 \u043d\u0435 \u0431\u044b\u043b\u043e))",
+        "ts": "1467397706.000052"
+    }
+]

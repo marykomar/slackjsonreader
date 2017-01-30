@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U1E8DJCFP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E8DJCFP|evgenik> has joined the channel",
+        "ts": "1465122589.000002"
+    },
+    {
+        "user": "U1E8NQ98F",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E8NQ98F|maxim.alexandrovich> has joined the channel",
+        "ts": "1465132919.000003"
+    },
+    {
+        "user": "U1E8WUUDD",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E8WUUDD|immlf> has joined the channel",
+        "ts": "1465140061.000004"
+    },
+    {
+        "user": "U1E9NFVH6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E9NFVH6|azorenko> has joined the channel",
+        "ts": "1465162425.000005"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U16LKPR4L",
+        "text": "<@U16LKPR4L|paramon> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477477832.000031"
+    },
+    {
+        "user": "U2E6REVAN",
+        "text": "<@U2E6REVAN|eugenek27> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477500886.000032"
+    }
+]

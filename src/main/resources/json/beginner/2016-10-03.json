@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U18BA9X4G",
+        "text": "<@U2B1T552T> \n- &lt;a href=\"https:\/\/www.youtube.com\/watch?v=qzqAUUgB3v8\"&gt;\u0432\u0438\u0434\u0435\u043e \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0430 \u041a\u0440\u0430\u0441\u0438\u043b\u044c\u0449\u0438\u043a\u0430 \u043f\u0440\u043e \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435&lt;\/a&gt;\n- &lt;a href=\"http:\/\/habrahabr.ru\/post\/113145\/\"&gt;Java Logging: \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043a\u043e\u0448\u043c\u0430\u0440\u0430&lt;\/a&gt;\n- &lt;a href=\"http:\/\/skipy.ru\/useful\/logging.html\"&gt;\u0412\u0435\u0434\u0435\u043d\u0438\u0435 \u043b\u043e\u0433\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f&lt;\/a&gt;\n- &lt;a href=\"http:\/\/logging.apache.org\/log4j\/2.x\/index.html\"&gt;Log4j&lt;\/a&gt;, &lt;a href=\"http:\/\/logback.qos.ch\/\"&gt;Logback&lt;\/a&gt;\n- &lt;a href=\"http:\/\/www.slf4j.org\/legacy.html\"&gt;\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0435\u0439 \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f&lt;\/a&gt; \u0432 \u043f\u0440\u043e\u0435\u043a\u0442.",
+        "ts": "1475491271.000026"
+    },
+    {
+        "type": "message",
+        "user": "U2B1T552T",
+        "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e!)",
+        "ts": "1475498991.000027"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U17SM7N78",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[October 3rd, 2016 3:41 AM] gkislin: <@U2B1T552T> \n- &lt;a href=\"https:\/\/www.youtube.com\/watch?v=qzqAUUgB3v8\"&gt;\u0432\u0438\u0434\u0435\u043e \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0430 \u041a\u0440\u0430\u0441\u0438\u043b\u044c\u0449\u0438\u043a\u0430 \u043f\u0440\u043e \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435&lt;\/a&gt;\n- &lt;a href=\"http:\/\/habrahabr.ru\/post\/113145\/\"&gt;Java Logging: \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043a\u043e\u0448\u043c\u0430\u0440\u0430&lt;\/a&gt;\n- &lt;a href=\"http:\/\/skipy.ru\/useful\/logging.html\"&gt;\u0412\u0435\u0434\u0435\u043d\u0438\u0435 \u043b\u043e\u0433\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f&lt;\/a&gt;\n- &lt;a href=\"http:\/\/logging.apache.org\/log4j\/2.x\/index.html\"&gt;Log4j&lt;\/a&gt;, &lt;a href=\"http:\/\/logback.qos.ch\/\"&gt;Logback&lt;\/a&gt;\n- &lt;a href=\"http:\/\/www.slf4j.org\/legacy.html\"&gt;\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0435\u0439 \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f&lt;\/a&gt; \u0432 \u043f\u0440\u043e\u0435\u043a\u0442.",
+                "ts": "1475491271.000026",
+                "author_subname": "gkislin",
+                "channel_id": "C171F6QRY",
+                "channel_name": "beginner",
+                "is_msg_unfurl": true,
+                "text": "<@U2B1T552T> \n- &lt;a href=\"https:\/\/www.youtube.com\/watch?v=qzqAUUgB3v8\"&gt;\u0432\u0438\u0434\u0435\u043e \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0430 \u041a\u0440\u0430\u0441\u0438\u043b\u044c\u0449\u0438\u043a\u0430 \u043f\u0440\u043e \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435&lt;\/a&gt;\n- &lt;a href=\"http:\/\/habrahabr.ru\/post\/113145\/\"&gt;Java Logging: \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043a\u043e\u0448\u043c\u0430\u0440\u0430&lt;\/a&gt;\n- &lt;a href=\"http:\/\/skipy.ru\/useful\/logging.html\"&gt;\u0412\u0435\u0434\u0435\u043d\u0438\u0435 \u043b\u043e\u0433\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f&lt;\/a&gt;\n- &lt;a href=\"http:\/\/logging.apache.org\/log4j\/2.x\/index.html\"&gt;Log4j&lt;\/a&gt;, &lt;a href=\"http:\/\/logback.qos.ch\/\"&gt;Logback&lt;\/a&gt;\n- &lt;a href=\"http:\/\/www.slf4j.org\/legacy.html\"&gt;\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0435\u0439 \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f&lt;\/a&gt; \u0432 \u043f\u0440\u043e\u0435\u043a\u0442.",
+                "author_name": "Grigory Kislin",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/gkislin",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/20c4afd0c663b7586f6f7342551c629e.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "text": "<@U17SM7N78|oio> pinned a message to this channel.",
+        "ts": "1475501694.000028"
+    }
+]

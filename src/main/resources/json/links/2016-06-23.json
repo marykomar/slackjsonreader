@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "user": "U15G85DQX",
+        "text": "<http:\/\/blog.takipi.com\/ignore-checked-exceptions-all-the-cool-devs-are-doing-it-based-on-600000-java-projects\/>",
+        "attachments": [
+            {
+                "service_name": "Takipi Blog",
+                "title": "Ignore Checked Exceptions, All the Cool Devs Are Doing It - Based on 600,000 Java Projects | Takipi Blog",
+                "title_link": "http:\/\/blog.takipi.com\/ignore-checked-exceptions-all-the-cool-devs-are-doing-it-based-on-600000-java-projects\/",
+                "text": "An overview of exception handling in over 600,000 Java projects on Github and Sourceforge",
+                "fallback": "Takipi Blog: Ignore Checked Exceptions, All the Cool Devs Are Doing It - Based on 600,000 Java Projects | Takipi Blog",
+                "image_url": "http:\/\/blog.takipi.com\/wp-content\/uploads\/2016\/06\/checkedexceptions.png",
+                "ts": 1466524769,
+                "from_url": "http:\/\/blog.takipi.com\/ignore-checked-exceptions-all-the-cool-devs-are-doing-it-based-on-600000-java-projects\/",
+                "image_width": 483,
+                "image_height": 250,
+                "image_bytes": 58538,
+                "service_icon": "http:\/\/blog.takipi.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1466670915.000012",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U17T2T80N",
+                    "U1BTEGYRW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1AFM877B",
+        "text": "<http:\/\/www.eenadupratibha.net\/Engineering-Colleges\/Engineering-Jobs\/Documents\/crackingthecodinginterview.pdf>",
+        "ts": "1466680124.000016",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15A8DXMF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1HES6W2C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1HES6W2C|staszp> has joined the channel",
+        "ts": "1466074681.000005"
+    },
+    {
+        "user": "U185K50H1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U185K50H1|artemjev> has joined the channel",
+        "ts": "1466144104.000006"
+    }
+]

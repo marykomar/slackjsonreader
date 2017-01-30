@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1MMFBK0D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1MMFBK0D|afilippov> has joined the channel",
+        "ts": "1467373508.000119"
+    }
+]

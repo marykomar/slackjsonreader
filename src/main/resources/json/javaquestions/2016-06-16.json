@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U16KX5EAU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16KX5EAU|anton> has joined the channel",
+        "ts": "1466074313.000008"
+    },
+    {
+        "user": "U1HES6W2C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1HES6W2C|staszp> has joined the channel",
+        "ts": "1466074664.000009"
+    },
+    {
+        "user": "U183A2LTF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U183A2LTF|dm1triy> has joined the channel",
+        "ts": "1466109309.000010"
+    }
+]

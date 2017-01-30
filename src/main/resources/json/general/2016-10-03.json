@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1AFM877B|kiev_junta> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F2JMCLG2C\/cv_.pdf|CV!.pdf>",
+        "file": {
+            "id": "F2JMCLG2C",
+            "created": 1475513353,
+            "timestamp": 1475513353,
+            "name": "CV!.pdf",
+            "title": "CV!.pdf",
+            "mimetype": "application\/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U1AFM877B",
+            "editable": false,
+            "size": 93718,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F2JMCLG2C\/cv_.pdf?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F2JMCLG2C\/download\/cv_.pdf?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F2JMCLG2C\/cv_.pdf",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F2JMCLG2C-d4ba88d876",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1AFM877B",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1AFM877B|kiev_junta>",
+        "bot_id": null,
+        "ts": "1475513354.000497"
+    },
+    {
+        "type": "message",
+        "user": "U1AFM877B",
+        "text": "\u043f\u043b\u043e\u0445\u043e\u0435 \u0440\u0435\u0437\u044e\u043c\u0435?",
+        "ts": "1475513359.000498"
+    },
+    {
+        "user": "U2JMUHHU5",
+        "text": "<@U2JMUHHU5|debosch> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475514746.000499"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "&lt;\u0418\u043c\u0445\u043e&gt;",
+        "edited": {
+            "user": "U16K115QT",
+            "ts": "1475558427.000000"
+        },
+        "ts": "1475557856.000500"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0440\u0430\u0437\u0440\u044b\u0432\u044b \u043c\u0435\u0436\u0434\u0443 \u0440\u0430\u0437\u0434\u0435\u043b\u0430\u043c\u0438, \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0431\u044b \u043f\u043e\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u043a\u043e\u043c\u043f\u0430\u043a\u0442\u043d\u0435\u0435",
+        "ts": "1475557873.000501"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041e\u043f\u044b\u0442 \u0438 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u044f \u0431\u044b \u0440\u0430\u0437\u0434\u0435\u043b\u0438\u043b",
+        "ts": "1475558027.000502"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0438\u0436\u0435, \u043e\u043f\u044b\u0442 \u0432\u044b\u0448\u0435",
+        "ts": "1475558037.000503"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041e\u043f\u044b\u0442 \u043a\u0430\u043a \u0442\u043e \u043e\u0434\u043d\u043e\u0440\u043e\u0434\u043d\u044b\u043c \u0442\u0435\u043a\u0441\u0442\u043e\u043c \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442. \u041d\u0443 \u0438 \u043f\u043e \u0445\u0440\u043e\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043e\u0442 \u043d\u043e\u0432\u043e\u0433\u043e \u043a \u0441\u0442\u0430\u0440\u043e\u043c\u0443.",
+        "ts": "1475558413.000504"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "&lt;\/\u0418\u043c\u0445\u043e&gt;",
+        "ts": "1475558434.000506"
+    }
+]

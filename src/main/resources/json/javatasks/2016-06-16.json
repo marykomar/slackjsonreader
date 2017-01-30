@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1HES6W2C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1HES6W2C|staszp> has joined the channel",
+        "ts": "1466074670.000070"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U2W1GCJ3U",
+        "text": "<@U2W1GCJ3U|youknow> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477823465.000711"
+    },
+    {
+        "user": "U2W1WM89K",
+        "text": "<@U2W1WM89K|shot_oe> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477836636.000712"
+    },
+    {
+        "user": "U2W1SHVSA",
+        "text": "<@U2W1SHVSA|slavik> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477838122.000713"
+    }
+]

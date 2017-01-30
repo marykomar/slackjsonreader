@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U15G85DQX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15G85DQX|sergiiko> has joined the channel",
+        "ts": "1464344787.000788"
+    },
+    {
+        "user": "U17TSLM7X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TSLM7X|driversti> has joined the channel",
+        "ts": "1464345816.000789"
+    },
+    {
+        "user": "U173XSJ74",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U173XSJ74|alex4ip> has joined the channel",
+        "ts": "1464350412.000790"
+    },
+    {
+        "user": "U1CE5CH1C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CE5CH1C|jedi> has joined the channel",
+        "ts": "1464407936.000791"
+    }
+]

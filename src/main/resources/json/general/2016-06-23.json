@@ -1,0 +1,69 @@
+[
+    {
+        "user": "U1KHUDGG2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KHUDGG2|dipetrenko> has joined the channel",
+        "ts": "1466672506.000132"
+    },
+    {
+        "user": "U1KJR7S9G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KJR7S9G|nikjke> has joined the channel",
+        "ts": "1466679870.000133"
+    },
+    {
+        "type": "message",
+        "user": "U1717NTM2",
+        "text": "\u041f\u0440\u0438\u0432\u0456\u0442 . \u0427\u0438 \u0454 \u044f\u043a\u0430\u0441\u044c \u0431\u0456\u0431\u043b\u0456\u043e\u0442\u0435\u043a\u0430 \u0447\u0438 \u0449\u043e\u0441\u044c \u0456\u043d\u0448\u0435 \u0449\u043e \u0434\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u043e \u0432\u0438\u043a\u043e\u043d\u0443\u0432\u0430\u0442\u0438 \u0432 \u0414\u0436\u0430\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456 \u043a\u043e\u0434 \u041f\u0456\u0442\u043e\u043d\u0430 ?",
+        "ts": "1466685130.000134"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0413\u043e\u0441\u043f\u043e\u0434\u0438, \u042e\u0440\u0430, \u0437\u0430\u0447\u0435\u043c?",
+        "ts": "1466701339.000135",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U154G64BV",
+                    "U156YLY57"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U156YLY57",
+        "text": "\u0432 \u0442\u0430\u043a\u0438\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u044f \u043e\u0431\u044b\u0447\u043d\u043e \u043e\u0442\u0432\u0435\u0447\u0430\u044e: \"\u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u044f \u043c\u043e\u0433\u0443 \u044d\u0442\u043e \u0434\u0435\u043b\u0430\u0442\u044c\" :smile: ",
+        "ts": "1466714256.000136"
+    },
+    {
+        "type": "message",
+        "user": "U156YLY57",
+        "text": "\u0410 \u0432\u043e\u043e\u0431\u0449\u0435 \u0434\u0430, \u0437\u0430\u0447\u0435\u043c?) ",
+        "ts": "1466714314.000137"
+    },
+    {
+        "type": "message",
+        "user": "U17UP61QW",
+        "text": "Jython ?",
+        "ts": "1466714741.000138"
+    },
+    {
+        "type": "message",
+        "user": "U1717NTM2",
+        "text": "\u042f\u043a \u043a\u0430\u0437\u0430\u0432 \u043f\u0440\u0435\u043f\u043e\u0434 \u043f\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u044e : \u043f\u0440\u0438\u0448\u043b\u0430 \u0432 \u0433\u043e\u043b\u043e\u0432\u0443 \u0434\u0443\u0440\u043d\u0430 \u0434\u0443\u043c\u043a\u0430 , \u0432\u0438\u043a\u043e\u043d\u0430\u0439 \u0457\u0457 ! \u0411\u0456\u043b\u044c\u0448\u0435 \u0432 \u0433\u043e\u043b\u043e\u0432\u0443 \u0432\u043e\u043d\u0430 \u043d\u0435 \u043f\u0440\u0438\u0439\u0434\u0435 )",
+        "ts": "1466718958.000139"
+    },
+    {
+        "user": "U1KRFGEVB",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KRFGEVB|russlekelly> has joined the channel",
+        "ts": "1466719138.000140"
+    }
+]

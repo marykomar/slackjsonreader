@@ -1,0 +1,28 @@
+[
+    {
+        "user": "U1CPMKD0V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CPMKD0V|cyqpukc> has joined the channel",
+        "ts": "1464625523.003098"
+    },
+    {
+        "user": "U1CQGH2RJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CQGH2RJ|alex.mozzhakov> has joined the channel",
+        "ts": "1464642678.003099"
+    },
+    {
+        "type": "message",
+        "user": "U1CQGH2RJ",
+        "text": "\u041f\u0440\u0438\u0432\u0435\u0442 \u0432\u0441\u0435\u043c",
+        "ts": "1464642704.003100"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U1CQGH2RJ>: \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c!",
+        "ts": "1464668071.003101"
+    }
+]

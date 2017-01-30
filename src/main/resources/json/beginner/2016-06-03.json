@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1AN4B2EP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1AN4B2EP|deivur> has joined the channel",
+        "ts": "1464969259.000895"
+    }
+]

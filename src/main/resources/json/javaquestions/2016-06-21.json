@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U15G85DQX",
+        "text": "<https:\/\/jobs.dou.ua\/trends\/?category=QA&amp;exp=-1>",
+        "attachments": [
+            {
+                "fallback": "[June 20th, 2016 8:40 PM] georg: \u0423 \u0442\u0435\u0441\u0442\u0435\u0440\u0430 \u043a\u043e\u043d\u043a\u0443\u0440\u0441 800 \u0447\u0435\u043b \u043d\u0430 \u043c\u0435\u0441\u0442\u043e?",
+                "author_subname": "georg",
+                "ts": "1466444407.000033",
+                "channel_id": "C19GFM0CU",
+                "channel_name": "javaquestions",
+                "is_msg_unfurl": true,
+                "text": "\u0423 \u0442\u0435\u0441\u0442\u0435\u0440\u0430 \u043a\u043e\u043d\u043a\u0443\u0440\u0441 800 \u0447\u0435\u043b \u043d\u0430 \u043c\u0435\u0441\u0442\u043e?",
+                "author_name": "Georgeos Leonidas",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/georg",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-17\/43448113456_d842b61a25df3e9a4f18_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/javaquestions\/p1466444407000033",
+                "is_share": true,
+                "footer": "Posted in #javaquestions"
+            }
+        ],
+        "ts": "1466499438.000041"
+    }
+]

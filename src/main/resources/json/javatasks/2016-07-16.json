@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1SACC52P",
+        "text": "<@U1SACC52P|7on> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468676052.000101"
+    },
+    {
+        "user": "U1579F6SW",
+        "text": "<@U1579F6SW|jurofreddy> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468703585.000102"
+    }
+]

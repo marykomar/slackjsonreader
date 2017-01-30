@@ -1,0 +1,272 @@
+[
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442!\n<@U150DHUL9>:  \u0440\u0435\u0448\u0435\u043d\u0438\u0435 registration service \u043e\u0442 \u043a\u043e\u043c\u0430\u043d\u0434\u044b Tears&amp;Pain <@U158M6X0X> <@U18USSTLJ> <https:\/\/github.com\/Sabfir\/registration_service>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Sabfir\/registration_service",
+                "title_link": "https:\/\/github.com\/Sabfir\/registration_service",
+                "text": "registration_service - Registration service",
+                "fallback": "GitHub: Sabfir\/registration_service",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/12494460?v=3&s=400",
+                "from_url": "https:\/\/github.com\/Sabfir\/registration_service",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1465150493.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19BNJCF5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U17UP61QW",
+        "text": "Jet minds  <@U180A3J2D> <@U17UP61QW>  <https:\/\/github.com\/biomaks\/registration-service>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "biomaks\/registration-service",
+                "title_link": "https:\/\/github.com\/biomaks\/registration-service",
+                "text": "registration-service",
+                "fallback": "GitHub: biomaks\/registration-service",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/729854?v=3&s=400",
+                "from_url": "https:\/\/github.com\/biomaks\/registration-service",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1465152583.000004"
+    },
+    {
+        "type": "message",
+        "user": "U18Q31MTN",
+        "text": "<@U150DHUL9>: Red_Eyes <https:\/\/github.com\/dbriukhatskyi\/registration>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "dbriukhatskyi\/registration",
+                "title_link": "https:\/\/github.com\/dbriukhatskyi\/registration",
+                "text": "A simple registration service with an in-memory database.",
+                "fallback": "GitHub: dbriukhatskyi\/registration",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/16755800?v=3&s=400",
+                "from_url": "https:\/\/github.com\/dbriukhatskyi\/registration",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1465153105.000006"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041e\u0442\u043b\u0438\u0447\u043d\u043e. 3 \u0440\u0430\u0431\u043e\u0442\u044b. ",
+        "ts": "1465155404.000008"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u042f \u0434\u0443\u043c\u0430\u043b \u043e\u0434\u043d\u0430 \u0431\u0443\u0434\u0435\u0442 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c. \u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0441\u043b\u0435\u0434 \u043f\u044f\u0442\u043d\u0438\u0446\u0443. ",
+        "ts": "1465155448.000009"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u041e\u043a",
+        "ts": "1465155458.000010"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u041f\u0440\u0438\u0432\u0435\u0442!",
+        "ts": "1465155461.000011"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041f\u0440\u0438\u0432\u0435\u0442",
+        "ts": "1465155465.000012"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0430 \u0445\u043e\u0442\u044c \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u043a\u043e\u0433\u0434\u0430 \u043c\u043e\u0436\u043d\u043e \u0440\u0435\u0432\u044c\u044e \u043e\u0436\u0438\u0434\u0430\u0442\u044c \u043f\u043e \u043f\u0440\u0435\u0434. \u0437\u0430\u0434\u0430\u043d\u0438\u0438?",
+        "ts": "1465155496.000013"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u043f\u043e\u0445\u043e\u0434\u0443 \u0443 \u0442\u0435\u0431\u044f \u0437\u0430\u043f\u0430\u0440\u0430 \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0435? :slightly_smiling_face:",
+        "ts": "1465155513.000014"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041f\u043e\u0447\u043a\u0438, \u043d\u0430\u043c\u043e\u043a \u043f\u043e\u0434 \u0434\u043e\u0436\u0434\u0451\u043c. \u0412\u0440\u0430\u0433\u0443 \u043d\u0435 \u043f\u043e\u0436\u0435\u043b\u0430\u0435\u0448\u044c. ",
+        "ts": "1465155538.000015",
+        "reactions": [
+            {
+                "name": "lemon",
+                "users": [
+                    "U17073E95",
+                    "U16NVCQHE",
+                    "U18FHTQGM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pill",
+                "users": [
+                    "U173XSJ74",
+                    "U16NVCQHE",
+                    "U18FHTQGM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0415\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u043e\u043f\u044b\u0442, \u0437\u0430\u043f\u0430\u0440 \u043d\u0435 \u0431\u044b\u0432\u0430\u0435\u0442. \u0412\u0441\u0435 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0435 - \u044d\u0442\u043e \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430 \u0442\u0435\u0431\u044f. ",
+        "ts": "1465155590.000016"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0420\u0435\u0432\u044c\u044e \u0434\u043e \u0441\u043b\u0435\u0434 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0431\u0443\u0434\u0435\u0442. \u0418\u0437 \u043d\u043e\u0432\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0431\u0443\u0434\u0435\u0442 \u0432\u0430\u0441 \u0436\u0434\u0430\u0442\u044c: Elastic, Redis. \u0421\u043e\u0432\u0435\u0442\u0443\u044e \u043a \u043f\u044f\u0442\u043d\u0438\u0446\u0435 \u043f\u043e\u0447\u0438\u0442\u0430\u0442\u044c",
+        "ts": "1465155663.000017",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16NVCQHE",
+                    "U17073E95",
+                    "U158M6X0X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u041e\u043a",
+        "ts": "1465155678.000018"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0418 \u043e\u0442\u0434\u043e\u0445\u043d\u0443\u0442\u044c :)",
+        "ts": "1465155683.000019"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0440\u0435\u0434\u0438\u0441 \u0443\u0436\u0435 \u044e\u0437\u0430\u043b",
+        "ts": "1465155688.000020"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041d\u0443 \u0442\u0430\u043a \u044d\u0442\u043e \u0442\u044b ;)",
+        "ts": "1465155704.000021"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0430 \u0435\u043b\u0430\u0441\u0442\u0438\u043a - \u0430\u043b\u044f \u043f\u0435\u0440\u0435\u0445\u043e\u0434 \u043a BigData? :wink:",
+        "ts": "1465155722.000022"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041d\u0435\u0442, \u043f\u0440\u043e\u0441\u0442\u043e SearchEngine",
+        "ts": "1465155738.000023"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u044f\u0441\u043d\u043e",
+        "ts": "1465155752.000024"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0411\u0438\u0433 \u0434\u0430\u0442\u0430 \u0434\u043b\u044f \u0434\u0436\u0443\u043d\u043e\u0432 \u044d\u0442\u043e \u043f\u0435\u0440\u0435\u0431\u043e\u0440 ",
+        "ts": "1465155756.000025"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0430 \u044f \u0442\u043e \u0434\u0443\u043c\u0430\u043b \u0441\u0435\u0439\u0447\u0430\u0441 \u043f\u043e\u0439\u0434\u0435\u0442... kafka, zookeeper \u0438 \u0442.\u043f.",
+        "ts": "1465155777.000026"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": ":) \u0443 \u043d\u0430\u0441 \u0443\u043f\u043e\u0440 \u043d\u0430 \u043c\u0438\u043a\u0440\u043e\u0441\u0435\u0440\u0432\u0438\u0441\u044b \u043f\u043e\u043a\u0430",
+        "ts": "1465155797.000027"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u043d\u0443 \u0442\u044b \u0436\u0435 \u043e\u0431\u0435\u0449\u0430\u043b, \u0447\u0442\u043e \u0431\u0443\u0434\u0435\u0442 \u043d\u0435 \u043b\u0435\u0433\u043a\u043e... \u043a\u0442\u043e \u0435\u0433\u043e \u0437\u043d\u0430\u0435\u0442, \u0433\u0434\u0435 \u0443 \u0442\u0435\u0431\u044f \u0433\u0440\u0430\u043d\u0438\u0446\u0430 \u0434\u043b\u044f \u0434\u0436\u0443\u043d\u043e\u0432 :slightly_smiling_face:",
+        "ts": "1465155808.000028"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": ":)",
+        "ts": "1465155821.000029"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u041b\u0430\u0434\u043d\u043e, \u0443\u0431\u0435\u0433\u0430\u044e..... \u0432\u044b\u0437\u0434\u043e\u0440\u0430\u0432\u043b\u0438\u0432\u0430\u0439!!!",
+        "ts": "1465155965.000030"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<!here|@here> \u043a\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u043b \u0434\u043e\u043c\u0430\u0448\u043a\u0443 - \u0432\u044b \u043e\u0444\u0438\u0433\u0438\u0442\u0435\u043b\u044c\u043d\u044b. \u042f \u0432\u0430\u043c\u0438 \u0432\u043e\u0441\u0445\u0438\u0449\u0430\u044e\u0441\u044c \u0438 \u0445\u0437, \u043f\u043e\u0447\u0435\u043c\u0443 \u0432\u0430\u0441 \u0435\u0449\u0435 \u043d\u0435 \u043e\u0442\u043e\u0440\u0432\u0430\u043b\u0438 \u0441 \u0440\u0443\u043a\u0430\u043c\u0438.",
+        "ts": "1465159477.000031",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U180A3J2D",
+                    "U173XSJ74",
+                    "U15A8DXMF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U17UP61QW",
+        "text": "<@U17073E95>:  \u0430 \u0442\u044b \u043d\u0430 \u0447\u0435\u043c \u0437\u0430\u0441\u0442\u0440\u044f\u043b?",
+        "ts": "1465159778.000032"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U17UP61QW> \u043d\u0430 \u0442\u0430\u0439\u043c-\u043c\u0435\u043d\u0435\u0434\u0436\u043c\u0435\u043d\u0442\u0435 \u0438 \u0447\u0438\u0441\u0442\u043e\u0439 \u0433\u043e\u043b\u043e\u0432\u0435, \u0434\u0440\u0443\u0433 \u043c\u043e\u0439",
+        "ts": "1465159830.000033"
+    }
+]

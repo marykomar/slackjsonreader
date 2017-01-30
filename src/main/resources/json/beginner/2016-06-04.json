@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1E6NPZE3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E6NPZE3|krostysav> has joined the channel",
+        "ts": "1465062963.000908"
+    }
+]

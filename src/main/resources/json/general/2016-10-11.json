@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "user": "U1RKU8GER",
+        "text": "\u0434\u0436\u0430\u0432\u0438\u0441\u0442\u044b - \u0433\u043e\u043c\u043e\u0444\u043e\u0431\u044b :smile:",
+        "ts": "1476173004.000560",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U173XSJ74",
+                    "U155RD230"
+                ],
+                "count": 2
+            },
+            {
+                "name": "scream_cat",
+                "users": [
+                    "U173XSJ74"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U2MS1P2DU",
+        "text": "<@U2MS1P2DU|borisenkosergei> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476186067.000561"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U2W1GCJ3U",
+        "text": "<@U2W1GCJ3U|youknow> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477823698.000045"
+    },
+    {
+        "type": "message",
+        "user": "U2W1GCJ3U",
+        "text": "\u041f\u0440\u0438\u0432\u0435\u0442. \u0413\u0434\u0435 \u043c\u043e\u0436\u043d\u043e \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u0437\u0430\u0434\u0430\u043d\u0438\u0439 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c? \u0422\u043e\u0436\u0435 \u0445\u043e\u0447\u0443 \u043f\u043e\u0434\u0435\u043b\u0430\u0442\u044c.",
+        "ts": "1477824517.000046"
+    },
+    {
+        "type": "message",
+        "user": "U16NVCQHE",
+        "text": "<https:\/\/3monthjunior.slack.com\/archives\/general\/p1476776802000632>",
+        "attachments": [
+            {
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/general\/p1476776802000632",
+                "fallback": "[October 18th, 2016 12:46 AM] oio: \u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0441\u044f \"pinned items\"\n<http:\/\/i.imgur.com\/lzKwxMV.png>",
+                "ts": "1476776802.000632",
+                "author_subname": "oio",
+                "channel_id": "C14VCJCDS",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0441\u044f \"pinned items\"\n<http:\/\/i.imgur.com\/lzKwxMV.png>",
+                "author_name": "Igor Okhrimenko",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/oio",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-11\/41911987824_16b13f42cdc34fefed73_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ],
+        "ts": "1477825105.000047"
+    },
+    {
+        "user": "U1RKU8GER",
+        "topic": "\u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0432 pinned items <http:\/\/i.imgur.com\/lzKwxMV.png>",
+        "text": "<@U1RKU8GER|q> set the channel topic: \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0432 pinned items <http:\/\/i.imgur.com\/lzKwxMV.png>",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1477825498.000049"
+    },
+    {
+        "type": "message",
+        "user": "U2W1GCJ3U",
+        "text": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0435.",
+        "edited": {
+            "user": "U2W1GCJ3U",
+            "ts": "1477826195.000000"
+        },
+        "ts": "1477826182.000050"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "<@U150DHUL9>:  \u043a\u0441\u0442\u0430\u0442\u0438 \u0432\u043e\u043f\u0440\u043e\u0441, \u0430 \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e \u043a\u043e\u0433\u0434\u0430 \u0431\u0443\u0434\u0435\u0442 \u0440\u0435\u0432\u044c\u044e \u043f\u043e \u043f\u0440\u0435\u0434. \u0437\u0430\u0434\u0430\u0447\u0435?",
+        "ts": "1463905109.000887"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442!",
+        "ts": "1463905116.000888"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0411\u043b\u0438\u0436\u0435 \u043a 23-00 \u0441\u0435\u0433\u043e\u0434\u043d\u044f.",
+        "ts": "1463909005.000889"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U173XSJ74|alex4ip> commented on <@U150DHUL9|lozenko>'s file <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F1AKXQSHG\/RESTful_Photo_Gallery|RESTful Photo Gallery>: UP \u0414\u043b\u0438\u043d\u0430 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 120 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u0434\u043b\u044f checkstyle-plugin",
+        "file": {
+            "id": "F1AKXQSHG",
+            "created": 1463771011,
+            "timestamp": 1463774834,
+            "name": "RESTful_Photo_Gallery",
+            "title": "RESTful Photo Gallery",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U150DHUL9",
+            "editable": true,
+            "size": 3987,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": true,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1AKXQSHG\/RESTful_Photo_Gallery?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1AKXQSHG\/download\/RESTful_Photo_Gallery?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F1AKXQSHG\/RESTful_Photo_Gallery",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1AKXQSHG-b894d879c1",
+            "preview": "<document><p>\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b \u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e<\/p><ol><li>Maven<\/li><li>Maven Jacoco Plugin \u0441 80% \u043f\u043e\u043a\u0440\u044b\u0442\u0438\u0435\u043c \u0442\u0435\u0441\u0442\u043e\u0432<\/li><li>Maven Checkstyle Plugin \u0441 \u0432\u044b\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u044b\u043c package-info \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u043c<\/li><\/ol><\/document>",
+            "updated": 1463774834,
+            "editor": "U150DHUL9",
+            "last_editor": "U150DHUL9",
+            "state": "locked",
+            "channels": [
+                "C180DPKGS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "num_stars": 2,
+            "pinned_to": [
+                "C180DPKGS"
+            ]
+        },
+        "comment": {
+            "id": "Fc1AR8DSSC",
+            "created": 1463917092,
+            "timestamp": 1463917092,
+            "user": "U173XSJ74",
+            "is_intro": false,
+            "comment": "UP \u0414\u043b\u0438\u043d\u0430 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 120 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u0434\u043b\u044f checkstyle-plugin",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1463917092.000890"
+    },
+    {
+        "user": "U1AS18YN9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1AS18YN9|maxzipit> has joined the channel",
+        "ts": "1463937868.000891"
+    },
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "\u041f\u043e \u043f\u043e\u0432\u043e\u0434\u0443 PhotoGallery \u044f \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u043f\u043e\u043d\u0438\u043c\u0430\u044e \u0447\u0442\u043e \u0437\u0430\u0434\u0430\u0447\u0438 \u0442\u044f\u043d\u0443\u0442\u044c \u0444\u043e\u0442\u043a\u0438 \u043d\u0430 \u0441\u0435\u0440\u0432\u0430\u043a \u0438 \u0442\u0430\u043c \u0438\u0445 \u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043d\u0435 \u0441\u0442\u043e\u0438\u0442... \u043d\u0443\u0436\u043d\u043e \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0438\u0445 \u0432 \u0442\u0430\u043a\u043e\u043c \u0432\u0438\u0434\u0435 \u043a\u0430\u043a \u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0432 \u0437\u0430\u0434\u0430\u043d\u0438\u0438?",
+        "ts": "1463942721.000892"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U158M6X0X>: <@U18USSTLJ>",
+        "ts": "1463945378.000893"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "1. Winter#42 - \u043f\u0435\u0440\u0435\u0433\u0440\u0443\u0436\u0435\u043d Generic. \u0422\u0430\u043a\u043e\u0439 \u043f\u043e\u0434\u0445\u043e\u0434 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u043c\n2. \u041e\u0431\u044b\u0447\u043d\u043e \u043b\u043e\u0433\u0433\u0435\u0440 \u044d\u0442\u043e \u043f\u0435\u0440\u0432\u043e\u0435 \u043f\u043e\u043b\u0435 \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0441\u0440\u0430\u0437\u0443 \u043f\u043e\u0434 \u043a\u043b\u0430\u0441\u0441\u043e\u043c\n3. \u0423\u0431\u0435\u0434\u0438\u0442\u0435\u0441\u044c \u0447\u0442\u043e \u0434\u0435\u0444\u043e\u043b\u0442\u043d\u044b\u0439 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u0438 \u043f\u0440\u0430\u0432\u0434\u0443 \u043d\u0443\u0436\u0435\u043d\n4. <http:\/\/logger.info|logger.info> \u0432\u0435\u0437\u0434\u0435 - \u0435\u0441\u0442\u044c \u0436\u0435 \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0443\u0440\u043e\u0432\u043d\u0438 \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0434\u043b\u044f catch \u0431\u043b\u043e\u043a\u043e\u0432\n5. if (null == snowFlake) - \u044d\u0442\u043e \u0435\u0449\u0435 \u0447\u0442\u043e \u0437\u0430 \u044d\u0439\u0444\u043e\u0440\u0438\u044f?\n6. publishClassInfo \u043f\u0435\u0440\u0435\u0433\u0440\u0443\u0436\u0435\u043d - \u0435\u0441\u0442\u044c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u044b \u0434\u043b\u044f \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433\u0430\n7. \u043f\u043e\u0447\u0435\u043c\u0443 \u0441\u0430\u043c\u044b\u0435 \u0432\u0430\u0436\u043d\u044b\u0435 \u0430\u043d\u043d\u043e\u0442\u0430\u0446\u0438\u0438 \u043d\u0435 \u0437\u0430\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u044b?\n8. \u0433\u0434\u0435 javadoc \u0434\u043b\u044f \u043e\u0448\u0438\u0431\u043e\u043a?\n9. \u0434\u043b\u044f \u043a\u043b\u0430\u0441\u0441\u043e\u0432 \u0445\u0435\u043b\u043f\u0435\u0440\u043e\u0432 \u043d\u0443\u0436\u0435\u043d \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0439 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\n10. ClassProperty  \u043d\u0435\u043f\u043b\u043e\u0445\u043e \u0431 \u0441\u043e\u0447\u0435\u0442\u0430\u043b\u0441\u044f \u0441 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u043e\u043c Builder.\n11. \u043f\u0440\u043e\u043f\u0435\u0440\u0442\u0438 \u043d\u0443\u0436\u043d\u043e \u043f\u0440\u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0442\u044c \u0447\u0435\u0440\u0435\u0437 \u0442\u043e\u0447\u043a\u0443 junit.version, any.library.version\n12. \u043f\u0440\u043e\u043f\u0435\u0440\u0442\u0438 \u043f\u043b\u0430\u0433\u0438\u043d\u043e\u0432 \u043d\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u0442\u044c \n13. dependency \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u043f\u0435\u0440\u0432\u044b\u043c, \u0443\u0436\u0435 \u043f\u043e\u0442\u043e\u043c \u0440\u0430\u0437\u0434\u0435\u043b &lt;build&gt;\n14. \u043a\u0430\u043a\u043e\u0439 \u0441\u043c\u044b\u0441\u043b \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0442\u044c jacoco-maven-plugin \u0432 dependency \u0434\u0430 \u0435\u0449\u0435 \u0438 \u0434\u0430\u0432\u0430\u0442\u044c \u0435\u043c\u0443 scope test\n15. pom.xml \u0434\u043e\u043b\u0436\u0435\u043d \u0438\u043c\u0435\u0442\u044c &lt;description&gt; \u0434\u043b\u044f &lt;name&gt;",
+        "ts": "1463945381.000894"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0412 \u0446\u0435\u043b\u043e\u043c \u043b\u0443\u0447\u0448\u0435 \u0447\u0435\u043c \u0432 \u043f\u0440\u043e\u0448\u043b\u044b\u0439 \u0440\u0430\u0437. \u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0439\u0442\u0435 \u0432 \u0442\u043e\u043c \u0436\u0435 \u0434\u0443\u0445\u0435.",
+        "edited": {
+            "user": "U150DHUL9",
+            "ts": "1463945526.000000"
+        },
+        "ts": "1463945405.000895"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "Red_Eyes - \u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a \u0440\u0435\u0432\u044c\u044e",
+        "ts": "1463945475.000896"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "Concurrent_Minds \u0432\u0442\u043e\u0440\u043d\u0438\u043a",
+        "ts": "1463945487.000897"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "5. if (null == snowFlake) - \u044d\u0442\u043e \u0435\u0449\u0435 \u0447\u0442\u043e \u0437\u0430 \u044d\u0439\u0444\u043e\u0440\u0438\u044f?\n\u0410 \u0447\u0442\u043e \u0442\u0443\u0442?",
+        "ts": "1463979808.000899"
+    },
+    {
+        "type": "message",
+        "user": "U17U5RTKN",
+        "text": "\u0412\u0441\u0456\u043c \u043f\u0440\u0438\u0432\u0456\u0442. \u0414\u0435 \u043c\u043e\u0436\u043d\u0430 \u0437\u043d\u0430\u0439\u0442\u0438 \u0432\u0447\u043e\u0440\u0430\u0448\u043d\u0454 \u0437\u0430\u0432\u0434\u0430\u043d\u043d\u044f?",
+        "ts": "1463986006.000900"
+    }
+]

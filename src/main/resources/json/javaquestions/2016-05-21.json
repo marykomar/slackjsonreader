@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U19TNFSRK",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U19TNFSRK|alteranium> has joined the channel",
+        "ts": "1463826553.000292"
+    },
+    {
+        "user": "U172BSKF1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172BSKF1|micton> has joined the channel",
+        "ts": "1463862777.000293"
+    }
+]

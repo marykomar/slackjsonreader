@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U2JCG4NE6",
+        "text": "<@U2JCG4NE6|roman5364> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475397080.000495"
+    },
+    {
+        "user": "U2JEC1VTJ",
+        "text": "<@U2JEC1VTJ|odabc> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475444435.000496"
+    }
+]

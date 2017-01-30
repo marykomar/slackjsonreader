@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "user": "U17V9A0EQ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Y0gUtwiNAwc>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "WebCamp: Developer Day. Architecture. \u0413\u0435\u043e\u0440\u0433\u0438\u0438\u0306 \u041f\u043e\u0434\u0441\u0432\u0435\u0442\u043e\u0432 `\u041f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e REST API`",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Y0gUtwiNAwc",
+                "author_name": "GeeksLab",
+                "author_link": "https:\/\/www.youtube.com\/user\/GeeksLabVideo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Y0gUtwiNAwc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: WebCamp: Developer Day. Architecture. \u0413\u0435\u043e\u0440\u0433\u0438\u0438\u0306 \u041f\u043e\u0434\u0441\u0432\u0435\u0442\u043e\u0432 `\u041f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e REST API`",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Y0gUtwiNAwc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Y0gUtwiNAwc",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1465251947.000002"
+    },
+    {
+        "type": "message",
+        "user": "U17V9A0EQ",
+        "text": "\u0433\u0440\u0430\u043c\u043e\u0442\u043d\u044b\u0439 \u043e\u0431\u0437\u043e\u0440 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u043e\u0432 \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u0438\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b REST",
+        "ts": "1465252008.000004"
+    },
+    {
+        "user": "U1D7Y50Q2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1D7Y50Q2|o2mz> has joined the channel",
+        "ts": "1465276384.000005"
+    }
+]

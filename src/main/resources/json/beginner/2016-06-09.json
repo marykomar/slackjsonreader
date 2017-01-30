@@ -1,0 +1,155 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16NVCQHE|karienomen> shared a file: <https:\/\/3monthjunior.slack.com\/files\/karienomen\/F1FJ6MZC0\/Maven|Maven>",
+        "file": {
+            "id": "F1FJ6MZC0",
+            "created": 1465500301,
+            "timestamp": 1466185751,
+            "name": "Maven",
+            "title": "Maven",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U16NVCQHE",
+            "editable": true,
+            "size": 12337,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1FJ6MZC0\/Maven?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1FJ6MZC0\/download\/Maven?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/karienomen\/F1FJ6MZC0\/Maven",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1FJ6MZC0-e1cabf9bb5",
+            "preview": "<document><p>\u041c\u0430\u0432\u0435\u043d - \u044d\u0442\u043e \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u043a\u0438 Java \u043f\u0440\u043e\u0435\u043a\u0442\u0430: \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0446\u0438\u0438, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f jar, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b,  \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438. \u041f\u0440\u043e\u0441\u0442\u044b\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b \u043c\u043e\u0436\u043d\u043e \u0441\u043e\u0431\u0440\u0430\u0442\u044c \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0435.  \u0415\u0441\u043b\u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b \u0441 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0438, \u0442\u043e \u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u043a\u0438 \u0431\u0443\u0434\u0435\u0442 \u043e\u0447\u0435\u043d\u044c \u0434\u043b\u0438\u043d\u043d\u043e\u0439, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0435\u0451  \u0438\u043d\u043e\u0433\u0434\u0430 \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442 \u0432 bat\/sh \u0441\u043a\u0440\u0438\u043f\u0442. \u041d\u043e \u0442\u0430\u043a\u0438\u0435 \u0441\u043a\u0440\u0438\u043f\u0442\u044b \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b. \u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u044d\u0442\u043e\u0439 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438\u0438 \u0438 \u0443\u043f\u0440\u043e\u0441\u0442\u0438\u0442\u044c \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0441\u043a\u0440\u0438\u043f\u0442\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u043a\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0430.<\/p><\/document>",
+            "updated": 1466185751,
+            "editor": "U16NVCQHE",
+            "last_editor": "U16NVCQHE",
+            "state": "locked",
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "num_stars": 2,
+            "reactions": [
+                {
+                    "name": "heavy_plus_sign",
+                    "users": [
+                        "U17073E95",
+                        "U16KX5EAU",
+                        "U19PN5MGE",
+                        "U17TYL28M",
+                        "U17TMDLC8",
+                        "U15B9DZ0T",
+                        "U19BNJCF5",
+                        "U17V9A0EQ",
+                        "U154201DJ",
+                        "U172MPHTK"
+                    ],
+                    "count": 10
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "U154201DJ",
+                        "U17SM7N78",
+                        "U183A2LTF"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U16NVCQHE",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U16NVCQHE|karienomen>",
+        "bot_id": null,
+        "ts": "1465505925.000022"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U16NVCQHE|karienomen> commented on <@U16NVCQHE|karienomen>'s file <https:\/\/3monthjunior.slack.com\/files\/karienomen\/F1FJ6MZC0\/Maven|Maven>: \u041c\u043e\u0436\u0435\u0442 \u043a\u043e\u043c\u0443 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u043b\u0435\u0437\u043d\u043e:) \u041d\u0430\u043f\u0438\u0441\u0430\u043b \u0437\u0430\u043c\u0435\u0442\u043a\u0443 \u043f\u0440\u043e \u043c\u0430\u0432\u0435\u043d.",
+        "file": {
+            "id": "F1FJ6MZC0",
+            "created": 1465500301,
+            "timestamp": 1466185751,
+            "name": "Maven",
+            "title": "Maven",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U16NVCQHE",
+            "editable": true,
+            "size": 12337,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1FJ6MZC0\/Maven?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1FJ6MZC0\/download\/Maven?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/karienomen\/F1FJ6MZC0\/Maven",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1FJ6MZC0-e1cabf9bb5",
+            "preview": "<document><p>\u041c\u0430\u0432\u0435\u043d - \u044d\u0442\u043e \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u043a\u0438 Java \u043f\u0440\u043e\u0435\u043a\u0442\u0430: \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0446\u0438\u0438, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f jar, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b,  \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438. \u041f\u0440\u043e\u0441\u0442\u044b\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b \u043c\u043e\u0436\u043d\u043e \u0441\u043e\u0431\u0440\u0430\u0442\u044c \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0435.  \u0415\u0441\u043b\u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b \u0441 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0438, \u0442\u043e \u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u043a\u0438 \u0431\u0443\u0434\u0435\u0442 \u043e\u0447\u0435\u043d\u044c \u0434\u043b\u0438\u043d\u043d\u043e\u0439, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0435\u0451  \u0438\u043d\u043e\u0433\u0434\u0430 \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442 \u0432 bat\/sh \u0441\u043a\u0440\u0438\u043f\u0442. \u041d\u043e \u0442\u0430\u043a\u0438\u0435 \u0441\u043a\u0440\u0438\u043f\u0442\u044b \u0437\u0430\u0432\u0438\u0441\u044f\u0442 \u043e\u0442 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b. \u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e\u0431\u044b \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u044d\u0442\u043e\u0439 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438\u0438 \u0438 \u0443\u043f\u0440\u043e\u0441\u0442\u0438\u0442\u044c \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0441\u043a\u0440\u0438\u043f\u0442\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u043a\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0430.<\/p><\/document>",
+            "updated": 1466185751,
+            "editor": "U16NVCQHE",
+            "last_editor": "U16NVCQHE",
+            "state": "locked",
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "num_stars": 2,
+            "reactions": [
+                {
+                    "name": "heavy_plus_sign",
+                    "users": [
+                        "U17073E95",
+                        "U16KX5EAU",
+                        "U19PN5MGE",
+                        "U17TYL28M",
+                        "U17TMDLC8",
+                        "U15B9DZ0T",
+                        "U19BNJCF5",
+                        "U17V9A0EQ",
+                        "U154201DJ",
+                        "U172MPHTK"
+                    ],
+                    "count": 10
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "U154201DJ",
+                        "U17SM7N78",
+                        "U183A2LTF"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "comment": {
+            "id": "Fc1FKK9CUA",
+            "created": 1465505925,
+            "timestamp": 1465505925,
+            "user": "U16NVCQHE",
+            "is_intro": false,
+            "comment": "\u041c\u043e\u0436\u0435\u0442 \u043a\u043e\u043c\u0443 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u043b\u0435\u0437\u043d\u043e:) \u041d\u0430\u043f\u0438\u0441\u0430\u043b \u0437\u0430\u043c\u0435\u0442\u043a\u0443 \u043f\u0440\u043e \u043c\u0430\u0432\u0435\u043d.",
+            "channel": ""
+        },
+        "is_intro": false,
+        "ts": "1465505925.000023"
+    }
+]

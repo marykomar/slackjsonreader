@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\ufeff\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0432\u0438\u0434\u0435\u043e, \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0431\u044b\u043b\u043e \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e, \u0445\u043e\u0442\u044c \u044d\u0442\u043e \u0438 \u043e\u0431\u044b\u0447\u043d\u044b\u0439 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440.\n\n\u0414\u043b\u044f \u0441\u0435\u0431\u044f \u044f \u0432\u044b\u0434\u0435\u043b\u0438\u043b \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u043b\u044e\u0441\u044b \u0438 \u043c\u0438\u043d\u0443\u0441\u044b TDD (\u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c):\n\nPros: \n\n1. Self-testing code\n\n2. The code gets completed\n\n3. TDD leads you to discover new designs\n\n4. With TDD each code iteration provided you with both working code and tests\n\n5. With right mind direction people get instant feedback from their code during TDD writing.\n\n6. Because the system at start is fully provided with tests, a newcomer can easier understand how the code works directly inspecting the tests.\n\n7. With TDD you solve your problems with 'one test in mind', meaning you're moving from concrete task decision to general solution for the problem. \n\nCons: \n\n1. Not everything can be done with TDD, sometimes the data you imagined to pass through it is different in reality \n\nNot quite an argument, but:\n\n2. With TDD you're always pondering about the certain trade-off, whether to produce a test for your intermediate result. \"what are you willing to sacrifice to get that flow\"?\n\n3. People sometimes define TDDs as to start with only Unit testing and then producing other types of tests, however, still heavily isolating components. But the idea of TDD is not to make Unit tests which cover your whole system, but to make system self-testing. Otherwise it can lead you to poorly designed code (multiple mocking,without load tests, etc)\n\n4. \u00a0It can be mentally tiring to follow red\/green\/refactor discipline, especially if you're working too much with one piece of code you need to pass.\n\nOther:\n\n5. Contrary to pros point 3 \u2013 Using TDD bounds you only to your specific decision, sometimes outlining the functionality that could possibly be realized in the system. Thus, one cannot come to the decision of making a certain test until they face with it in real life. \n\n1. Using TDD partially neglects QA profession.\n\n2. Can a person produce over-tested code? And what the consequences will be. \n\n",
+        "ts": "1465476950.000035"
+    },
+    {
+        "user": "U184HBM37",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U184HBM37|maliken> has joined the channel",
+        "ts": "1465490512.000036"
+    }
+]

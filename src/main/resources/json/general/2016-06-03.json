@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U1DS5FMGT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1DS5FMGT|nickmsix> has joined the channel",
+        "ts": "1464948115.003147"
+    },
+    {
+        "user": "U1DUETHNU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1DUETHNU|caffeine> has joined the channel",
+        "ts": "1464958124.003149"
+    },
+    {
+        "user": "U1DUM8QEA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1DUM8QEA|holydos> has joined the channel",
+        "ts": "1464960486.003150"
+    },
+    {
+        "type": "message",
+        "user": "U1CAQ3D43",
+        "text": "<https:\/\/github.com\/RamanujamTeam\/RegistrationService>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "RamanujamTeam\/RegistrationService",
+                "title_link": "https:\/\/github.com\/RamanujamTeam\/RegistrationService",
+                "text": "Contribute to RegistrationService development by creating an account on GitHub.",
+                "fallback": "GitHub: RamanujamTeam\/RegistrationService",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/19631951?v=3&s=400",
+                "from_url": "https:\/\/github.com\/RamanujamTeam\/RegistrationService",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1464977786.003151"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U1CAQ3D43>: \u0412\u0430\u0448\u0430 \u0440\u0430\u0431\u043e\u0442\u0430 \u043d\u0435 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f, \u043f\u043e\u0442\u043e\u043c\u0443 \u043a\u0430\u043a \u043d\u0435 \u0443\u0434\u043e\u0432\u043b\u0435\u0442\u0432\u043e\u0440\u044f\u0435\u0442 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u043c \u0437\u0430\u0434\u0430\u0447\u0438. ",
+        "ts": "1464978410.003153"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0415\u0449\u0451 \u0434\u0432\u0430 \u0434\u043d\u044f \u0447\u0442\u043e\u0431\u044b \u0434\u043e\u043f\u0438\u0441\u0430\u0442\u044c, \u0432\u0440\u0435\u043c\u044f \u0435\u0441\u0442\u044c.",
+        "ts": "1464978429.003154"
+    },
+    {
+        "user": "U1E1Q18BV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E1Q18BV|aantonov> has joined the channel",
+        "ts": "1464984174.003155"
+    }
+]

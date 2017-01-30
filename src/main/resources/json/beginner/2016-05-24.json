@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u043a\u0441\u0442\u0430\u0442\u0438 \u0432\u0441\u043f\u043e\u043c\u043d\u0438\u043b \u0442\u0443\u0442 \u043a \u0432\u043e\u043f\u0440\u043e\u0441\u0443 \u043e\u043e\u043f <https:\/\/en.wikipedia.org\/wiki\/Circle-ellipse_problem>",
+        "ts": "1464075979.000748"
+    },
+    {
+        "user": "U1B9C4SER",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1B9C4SER|kenan> has joined the channel",
+        "ts": "1464095638.000749"
+    }
+]

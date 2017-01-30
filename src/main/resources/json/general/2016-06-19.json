@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1J82LB9B",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1J82LB9B|javist7> has joined the channel",
+        "ts": "1466340837.000118"
+    },
+    {
+        "user": "U1J8VPT0S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1J8VPT0S|finman> has joined the channel",
+        "ts": "1466353761.000119"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1AR3L5NU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1AR3L5NU|zim> has joined the channel",
+        "ts": "1465731378.000002"
+    },
+    {
+        "user": "U17TYL28M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TYL28M|tony> has joined the channel",
+        "ts": "1465770736.000003"
+    }
+]

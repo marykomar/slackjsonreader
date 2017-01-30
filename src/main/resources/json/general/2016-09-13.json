@@ -1,0 +1,353 @@
+[
+    {
+        "user": "U2B1T552T",
+        "text": "<@U2B1T552T|dima_vld> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473757782.000245"
+    },
+    {
+        "type": "message",
+        "user": "U18CC3YKF",
+        "text": "\u0422\u0430\u043c \u0435\u0449\u0451 \u043d\u0435 \u0438\u0441\u0442\u0435\u043a \u043f\u0435\u0440\u0438\u043e\u0434 \u0434\u043b\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043d\u0430 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b ?) \u0430 \u0442\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0441\u043e\u0437\u0440\u0435\u043b )",
+        "ts": "1473759173.000246"
+    },
+    {
+        "type": "message",
+        "user": "U1KFLB248",
+        "text": "<@U18CC3YKF>: \u0441\u0430\u043c \u043f\u0430\u0440\u0443 \u0434\u043d\u0435\u0439 \u043d\u0430\u0437\u0430\u0434 \u0437\u0430\u0440\u0435\u0433\u0430\u043b\u0441\u044f",
+        "ts": "1473766905.000247"
+    },
+    {
+        "user": "U2B4B0GRW",
+        "text": "<@U2B4B0GRW|kap> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473775124.000248"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U150DHUL9|lozenko> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F2B4W2S13\/javaconcurrentanimated.jar|javaConcurrentAnimated.jar> and commented: \u0415\u0441\u043b\u0438 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u0435 java -jar javaConcurrentAnimated.jar \u0442\u043e \u0443\u0432\u0438\u0434\u0438\u0442\u0435 \u0430\u043d\u0438\u043c\u0430\u0446\u0438\u044e \u043c\u043d\u043e\u0433\u0438\u0445 concurrency \u043f\u043e\u0434\u0445\u043e\u0434\u043e\u0432.",
+        "file": {
+            "id": "F2B4W2S13",
+            "created": 1473776722,
+            "timestamp": 1473776722,
+            "name": "javaConcurrentAnimated.jar",
+            "title": "javaConcurrentAnimated.jar",
+            "mimetype": "application\/zip",
+            "filetype": "zip",
+            "pretty_type": "Zip",
+            "user": "U150DHUL9",
+            "editable": false,
+            "size": 3293782,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": true,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F2B4W2S13\/javaconcurrentanimated.jar?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F2B4W2S13\/download\/javaconcurrentanimated.jar?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F2B4W2S13\/javaconcurrentanimated.jar",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F2B4W2S13-bad2af8736",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2B4PEG64",
+                "created": 1473776722,
+                "timestamp": 1473776722,
+                "user": "U150DHUL9",
+                "is_intro": true,
+                "comment": "\u0415\u0441\u043b\u0438 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u0435 java -jar javaConcurrentAnimated.jar \u0442\u043e \u0443\u0432\u0438\u0434\u0438\u0442\u0435 \u0430\u043d\u0438\u043c\u0430\u0446\u0438\u044e \u043c\u043d\u043e\u0433\u0438\u0445 concurrency \u043f\u043e\u0434\u0445\u043e\u0434\u043e\u0432.",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "heavy_plus_sign",
+                    "users": [
+                        "U16UQ8LAZ",
+                        "U17V9A0EQ"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "cookie",
+                    "users": [
+                        "U16UQ8LAZ",
+                        "U17V9A0EQ",
+                        "U17TMDLC8"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "U1QTFRCNA",
+                        "U17V9A0EQ",
+                        "U1BTEGYRW"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U150DHUL9",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U150DHUL9|lozenko>",
+        "bot_id": null,
+        "ts": "1473776723.000249"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u043a\u0430\u0436\u0434\u043e\u043c\u0443 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c: CountDownLatch, Semaphore, Future, ThreadPoolExecutors",
+        "ts": "1473776761.000250"
+    },
+    {
+        "type": "message",
+        "user": "U20RL308H",
+        "text": "<@U150DHUL9> \u043a\u043b\u0430\u0441\u0441\u043d\u0430\u044f \u0448\u0442\u0443\u043a\u0430! \u0441\u043f\u0430\u0441\u0438\u0431\u043e!",
+        "ts": "1473777257.000253"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0430 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435",
+        "ts": "1473777477.000254"
+    },
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "\u0410 \u0447\u0435\u043c \u043c\u043e\u0436\u043d\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u044c javaConcurrentAnimated.jar?",
+        "ts": "1473777555.000255"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u042f \u043d\u0430\u0434\u0435\u044e\u0441\u044c \u044d\u0442\u043e \u0448\u0443\u0442\u043a\u0430",
+        "ts": "1473778300.000256",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U172MPHTK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U16QE2WEM",
+        "text": ":slightly_smiling_face:",
+        "ts": "1473778320.000257"
+    },
+    {
+        "type": "message",
+        "user": "U20RL308H",
+        "text": "\u043d\u0443\u0436\u043d\u043e \u0435\u0433\u043e \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0438\u0437 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0438",
+        "ts": "1473778502.000258"
+    },
+    {
+        "type": "message",
+        "user": "U20H46RB7",
+        "text": "\"java\" \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0439 \u0438\u043b\u0438 \u0432\u043d\u0435\u0448\u043d\u0435\u0439\n\u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0439, \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u043c\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043e\u0439 \u0438\u043b\u0438 \u043f\u0430\u043a\u0435\u0442\u043d\u044b\u043c \u0444\u0430\u0439\u043b\u043e\u043c.",
+        "ts": "1473778608.000259"
+    },
+    {
+        "type": "message",
+        "user": "U20RL308H",
+        "text": "1) \u043e\u0442\u043a\u0440\u044b\u0442\u044c cmd\n2) java -jar &lt;your place of javaConcurrentAnimated.jar&gt;\/javaConcurrentAnimated.jar",
+        "ts": "1473778619.000260"
+    },
+    {
+        "type": "message",
+        "user": "U20H46RB7",
+        "text": "\u0442\u0430\u043a\u0430\u044f \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430 ,\u043c\u043e\u0436\u0435\u0442 \u043a\u0442\u043e \u0441\u0442\u0430\u043b\u043a\u0438\u0432\u0430\u043b\u0441\u044f ?",
+        "ts": "1473778623.000261"
+    },
+    {
+        "type": "message",
+        "user": "U20H46RB7",
+        "text": "=)))",
+        "ts": "1473778626.000262"
+    },
+    {
+        "type": "message",
+        "user": "U20RL308H",
+        "text": "\u0434\u043e \u044d\u0442\u043e\u0433\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0434\u0436\u0430\u0432\u0443))",
+        "ts": "1473778634.000263"
+    },
+    {
+        "type": "message",
+        "user": "U20H46RB7",
+        "text": "\u0434\u0430 \u044d\u0442 \u044f \u0448\u0443\u0442\u043a\u0443\u044e )",
+        "ts": "1473778668.000264",
+        "reactions": [
+            {
+                "name": "neudachnik",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "trollface",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "unicorn_face",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U20RL308H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u042f \u0441\u043e\u043c\u043d\u0435\u0432\u0430\u044e\u0441\u044c",
+        "ts": "1473778702.000265",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U150DHUL9",
+                    "U20H46RB7",
+                    "U20RL308H",
+                    "U172MPHTK",
+                    "U1912DD9R",
+                    "U16QE2WEM",
+                    "U17TMDLC8",
+                    "U17073E95"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": ":grimacing:",
+        "ts": "1473783364.000268"
+    },
+    {
+        "type": "message",
+        "user": "U17V9A0EQ",
+        "text": "<https:\/\/3monthjunior.slack.com\/files\/lozenko\/F2B4W2S13\/javaconcurrentanimated.jar>\n\n\u0442\u043e \u0447\u0442\u043e \u043d\u0443\u0436\u043d\u043e, \u0441\u043f\u0430\u0441\u0438\u0431\u043e!",
+        "ts": "1473790697.000272"
+    },
+    {
+        "type": "message",
+        "subtype": "file_mention",
+        "text": "<@U17V9A0EQ|alex_lev> mentioned a file: <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F2B4W2S13\/javaconcurrentanimated.jar|javaConcurrentAnimated.jar>",
+        "file": {
+            "id": "F2B4W2S13",
+            "created": 1473776722,
+            "timestamp": 1473776722,
+            "name": "javaConcurrentAnimated.jar",
+            "title": "javaConcurrentAnimated.jar",
+            "mimetype": "application\/zip",
+            "filetype": "zip",
+            "pretty_type": "Zip",
+            "user": "U150DHUL9",
+            "editable": false,
+            "size": 3293782,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": true,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F2B4W2S13\/javaconcurrentanimated.jar?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F2B4W2S13\/download\/javaconcurrentanimated.jar?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F2B4W2S13\/javaconcurrentanimated.jar",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F2B4W2S13-bad2af8736",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc2B4PEG64",
+                "created": 1473776722,
+                "timestamp": 1473776722,
+                "user": "U150DHUL9",
+                "is_intro": true,
+                "comment": "\u0415\u0441\u043b\u0438 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u0435 java -jar javaConcurrentAnimated.jar \u0442\u043e \u0443\u0432\u0438\u0434\u0438\u0442\u0435 \u0430\u043d\u0438\u043c\u0430\u0446\u0438\u044e \u043c\u043d\u043e\u0433\u0438\u0445 concurrency \u043f\u043e\u0434\u0445\u043e\u0434\u043e\u0432.",
+                "channel": ""
+            },
+            "reactions": [
+                {
+                    "name": "heavy_plus_sign",
+                    "users": [
+                        "U16UQ8LAZ",
+                        "U17V9A0EQ"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "cookie",
+                    "users": [
+                        "U16UQ8LAZ",
+                        "U17V9A0EQ",
+                        "U17TMDLC8"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "U1QTFRCNA",
+                        "U17V9A0EQ",
+                        "U1BTEGYRW"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        "user": "U17V9A0EQ",
+        "ts": "1473790698.000273"
+    },
+    {
+        "type": "message",
+        "user": "U1AFM877B",
+        "text": "\u043d\u0435 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u0439\u0442\u0435 \u0435\u0442\u043e \u0432\u0438\u0440\u0443\u0441",
+        "ts": "1473832916.000274",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U16SFFYRE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U2BE28LAH",
+        "text": "<@U2BE28LAH|amcol> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473834705.000277"
+    }
+]

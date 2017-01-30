@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U17TDH3SQ",
+        "text": "<@U17TDH3SQ|stoker> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468183297.000058"
+    },
+    {
+        "user": "U1QDEV7GD",
+        "text": "<@U1QDEV7GD|isergius> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468205572.000059"
+    }
+]

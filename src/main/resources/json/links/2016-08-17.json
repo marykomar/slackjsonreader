@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U2255127K",
+        "text": "<@U2255127K|sergeytoropov> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1471434665.000047"
+    }
+]

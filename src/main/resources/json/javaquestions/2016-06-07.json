@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U17UP61QW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17UP61QW|mjv> has joined the channel",
+        "ts": "1465332430.000002"
+    },
+    {
+        "user": "U158F67SB",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U158F67SB|vitaliymysechko> has joined the channel",
+        "ts": "1465334267.000003"
+    }
+]

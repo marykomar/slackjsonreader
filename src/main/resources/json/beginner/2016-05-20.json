@@ -1,0 +1,166 @@
+[
+    {
+        "type": "message",
+        "user": "U154G64BV",
+        "text": "<@U150DHUL9> \u0421\u0442\u0430\u0441, \u043f\u043e\u0441\u043e\u0432\u0435\u0442\u0443\u0439, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0433\u0434\u0435 \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u0432 \u043f\u043b\u0430\u043d\u0435 \u043f\u0430\u043f\u043e\u043a-\u043f\u0430\u043a\u0435\u0442\u043e\u0432. \u041a\u0443\u0434\u0430 \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u0435\u0435 \u043f\u043e\u043c\u0435\u0449\u0430\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b, \u0438\u0445 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438, \u0441\u043b\u043e\u0439 \u0434\u0430\u043e, \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0438 \u043b\u043e\u0433 \u0444\u0430\u0439\u043b\u044b. \u0414\u043e\u043b\u0436\u043d\u044b \u0436\u0435 \u0431\u044b\u0442\u044c \u043a\u0430\u043a\u0438\u0435-\u0442\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u0438\u0435\u0440\u0430\u0440\u0445\u0438\u0438 \u043f\u0430\u043f\u043e\u043a \u0432 \u043f\u0430\u043a\u0435\u0442\u0435, \u043d\u043e \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e \u043f\u043e \u044d\u0442\u043e\u0439 \u0442\u0435\u043c\u0435 \u0441\u0442\u0430\u0442\u0435\u0439 \u043d\u0435 \u043d\u0430\u0445\u043e\u0436\u0443",
+        "ts": "1463732820.000681",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U16P352LQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<http:\/\/www.javapractices.com\/topic\/TopicAction.do;jsessionid=0BF4844350780B6F55476E1137FF4893?Id=205>",
+        "attachments": [
+            {
+                "title": "   Java Practices -&gt; Package by feature, not layer  ",
+                "title_link": "http:\/\/www.javapractices.com\/topic\/TopicAction.do;jsessionid=0BF4844350780B6F55476E1137FF4893?Id=205",
+                "text": "Concise presentations of java programming practices, tasks, and conventions, amply illustrated with syntax highlighted code examples.",
+                "fallback": "   Java Practices -&gt; Package by feature, not layer  ",
+                "from_url": "http:\/\/www.javapractices.com\/topic\/TopicAction.do;jsessionid=0BF4844350780B6F55476E1137FF4893?Id=205",
+                "id": 1
+            }
+        ],
+        "ts": "1463733787.000682",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U154G64BV",
+                    "U16P352LQ",
+                    "U18MYFH9Q",
+                    "U17SM7N78"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "<@U150DHUL9>:  JCC \u0442\u0443\u0442 \u043d\u0435 \u043f\u0440\u0438\u0447\u0435\u043c?",
+        "ts": "1463736490.000684"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "<http:\/\/i.imgur.com\/1maqXTh.png>",
+        "attachments": [
+            {
+                "fallback": "535x213px image",
+                "image_url": "http:\/\/i.imgur.com\/1maqXTh.png",
+                "image_width": 535,
+                "image_height": 213,
+                "image_bytes": 18459,
+                "from_url": "http:\/\/i.imgur.com\/1maqXTh.png",
+                "id": 1
+            }
+        ],
+        "ts": "1463736633.000685"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u043d\u0443, \u0434\u0430, \u0441\u043e\u0433\u043b\u0430\u0441\u0435\u043d, \u044d\u0442\u043e \u043d\u0435 \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u043d\u0435\u0439\u043c\u0438\u043d\u0433 \u0432 \u043f\u043e\u043b\u043d\u043e\u043c \u043e\u0431\u044a\u0435\u043c\u0435",
+        "ts": "1463736671.000687"
+    },
+    {
+        "user": "U1AHEH84F",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1AHEH84F|zaliskiy> has joined the channel",
+        "ts": "1463757708.000688"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "<!channel>: \u043f\u043e\u0434\u0441\u043a\u0430\u0436\u0438\u0442\u0435 \u043a\u0442\u043e \u0432 \u043a\u0443\u0440\u0441\u0435 \u043f\u043e\u0447\u0435\u043c\u0443 IDEA \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u0442\u044c   \nMap&lt;String, Integer&gt; words = new HashMap&lt;String, Integer&gt;(); \n\u043d\u0430  \nMap&lt;String, Integer&gt; words = new HashMap&lt;&gt;();",
+        "ts": "1463766836.000689"
+    },
+    {
+        "type": "message",
+        "user": "U155S3N69",
+        "text": "Java 8",
+        "ts": "1463766874.000690",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U197VNLAC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U18LH2HL3",
+        "text": "\u043d\u0430 \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043c\u043d\u0435 \u043f\u043e\u043c\u043d\u0438\u0442\u044c\u0441\u044f \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 Java 1.7 \u0438 \u0432\u044b\u0448\u0435 \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e \u043d\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u0442\u044c\u0441\u044f",
+        "edited": {
+            "user": "U18LH2HL3",
+            "ts": "1463766996.000000"
+        },
+        "ts": "1463766899.000691"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "7 \u044e\u0437\u0430\u044e",
+        "ts": "1463766913.000692"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "\u043f\u043e\u043d\u044f\u043b \u043d\u043e\u0432\u0448\u0435\u0441\u0442\u0432\u0430",
+        "ts": "1463766933.000693"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u044f \u0432\u0438\u0436\u0443, \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0443 \u0432\u0430\u0440\u043d\u0438\u043d\u0433\u043e\u0432 \u0438\u0434\u0435\u0438 \u0432\u043e\u043e\u0431\u0449\u0435 \u043c\u043e\u0436\u043d\u043e \u043e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c",
+        "ts": "1463767115.000696"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u0434\u0430, \u044d\u0442\u043e \u0432 \u0441\u0435\u0434\u044c\u043c\u043e\u0439 \u043f\u043e\u044f\u0432\u0438\u043b\u043e\u0441\u044c",
+        "ts": "1463767173.000697"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u0414\u0430 \u0438\u0434\u0435\u044f \u0447\u0430\u0441\u0442\u043e \u0441\u0442\u0430\u0432\u0438\u0442 \u0432\u0430\u0440\u043d\u0438\u043d\u0433\u0438 \u0442\u0430\u043c \u0433\u0434\u0435 \u043e\u043d\u0438 \u043e\u043f\u0440\u0430\u0432\u0434\u0430\u043d\u044b.",
+        "ts": "1463767237.000698"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u043a\u0430\u0441\u0430\u0435\u0442\u0441\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0432\u0438\u0434\u0438\u043c\u043e\u0441\u0442\u0438",
+        "ts": "1463767257.000699"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "\u043f\u043e\u043d\u044f\u043b, \u043d\u0443 \u044d\u0442\u043e \u043d\u0435 \u0432\u0430\u0440\u043d\u0438\u043d\u0433, \u043d\u043e \u0441\u0435\u0440\u044b\u043c \u0442\u0438\u043f\u0430 \u043b\u0438\u0448\u043d\u0435\u0435 \u0432\u044b\u0434\u0435\u043b\u044f\u0435\u0442",
+        "ts": "1463769743.000700"
+    },
+    {
+        "type": "message",
+        "user": "U15A8DXMF",
+        "text": "<@U16P352LQ>: diamond operator. <@U155S3N69>: \u0422\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0447\u0435\u043c\u0443 Java8 ? JDK7 - JSR 334 <http:\/\/openjdk.java.net\/projects\/jdk7\/features\/>",
+        "ts": "1463810104.000701"
+    },
+    {
+        "type": "message",
+        "user": "U19BNJCF5",
+        "text": "\u0412\u043e\u043f\u0440\u043e\u0441 \u043f\u043e Maven, \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0432 Intelij \u043f\u0440\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0448\u044c \u043a\u0430\u043a\u0438\u0435 \u0431\u0438\u0431\u0438\u043b\u0438\u043e\u0442\u0435\u043a\u0438 \u043f\u043e\u0434\u0433\u0440\u0443\u0437\u0438\u0442\u044c, \u043a \u043f\u0440\u0438\u043c\u0435\u0440\u0443 Checkstyle \u0438\u0442 \u0434\u0440\u0443\u0433\u0438\u0435, \u0432 POM \u0444\u0430\u0439\u043b\u0435 \u043d\u0430\u0434\u043e \u0432\u0440\u0443\u0447\u043d\u0443\u044e \u0432\u043f\u0438\u0441\u044b\u0432\u0430\u0442\u044c Dependencies \u0438\u043b\u0438 \u0435\u0441\u0442\u044c \u0432\u0441\u0442\u0440\u043e\u0435\u043d\u044b\u0439 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f \u044d\u0442\u043e\u0433\u043e",
+        "ts": "1463810627.000702"
+    }
+]

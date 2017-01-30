@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1QTFRCNA",
+        "text": "<@U1QTFRCNA|artem.yankovets> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468323305.000060"
+    },
+    {
+        "user": "U1541UWDC",
+        "text": "<@U1541UWDC|namesake> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468354824.000061"
+    }
+]

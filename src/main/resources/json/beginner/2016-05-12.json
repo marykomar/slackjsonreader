@@ -1,0 +1,2778 @@
+[
+    {
+        "user": "U186ZM14K",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U186ZM14K|fil> has joined the channel",
+        "ts": "1463036540.000244"
+    },
+    {
+        "user": "U155S3N69",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U155S3N69|maxim> has joined the channel",
+        "ts": "1463039442.000245"
+    },
+    {
+        "user": "U155RD230",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U155RD230|mor94ok> has joined the channel",
+        "ts": "1463039769.000246"
+    },
+    {
+        "user": "U156XFPDX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156XFPDX|radist> has joined the channel",
+        "ts": "1463045502.000247"
+    },
+    {
+        "user": "U156XPGQP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156XPGQP|yaroslav> has joined the channel",
+        "ts": "1463046437.000248"
+    },
+    {
+        "user": "U189V0UB0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U189V0UB0|alexnv> has joined the channel",
+        "ts": "1463050171.000249"
+    },
+    {
+        "user": "U17TK4NVC",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TK4NVC|nikolay.horushko> has joined the channel",
+        "ts": "1463051472.000250"
+    },
+    {
+        "user": "U156H597E",
+        "type": "message",
+        "subtype": "channel_leave",
+        "text": "<@U156H597E|vladyslav> has left the channel",
+        "ts": "1463055418.000251"
+    },
+    {
+        "user": "U17UX249Z",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17UX249Z|kompike> has joined the channel",
+        "ts": "1463056165.000252"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!channel>: \u0447\u0442\u043e \u043b\u0443\u0447\u0448\u0435 XML \u043b\u0438\u0431\u043e JSON ?",
+        "ts": "1463075336.000253"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "\u041b\u0443\u0447\u0448\u0435 \u0432 \u0447\u0435\u043c?",
+        "ts": "1463075442.000254"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0443 \u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u043d\u0430\u0447\u043d\u0435\u043c \u0441 \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f?",
+        "ts": "1463075494.000255"
+    },
+    {
+        "type": "message",
+        "user": "U17V9A0EQ",
+        "text": "JSON \u043c\u0435\u043d\u044c\u0448\u0435 \u0431\u0430\u0439\u0442 \u043f\u0435\u0440\u0435\u0434\u0430\u0435\u0442 \u043f\u043e HTTP",
+        "ts": "1463075504.000256"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0434\u0443\u043c\u0430\u044e \u043f\u0440\u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u043d\u0430\u0434\u043e \u0431\u0443\u0434\u0435\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u043f\u0430\u043c\u044f\u0442\u0438",
+        "ts": "1463075513.000257"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0434\u043b\u044f json",
+        "ts": "1463075518.000258"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0440\u0430\u0441\u0448\u0438\u0440\u044f\u0442\u044c \u0447\u0442\u043e \u0443\u0434\u043e\u0431\u043d\u0435\u0435 JSON \u043b\u0438\u0431\u043e XML?",
+        "ts": "1463075566.000259"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "\u0421 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0444\u043e\u0440\u043c\u0430\u0442\u0430, \u0434\u043b\u044f \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u043d\u0438 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u044b ",
+        "ts": "1463075568.000260"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "JSON \u0447\u0438\u0442\u0430\u0442\u044c \u0443\u0434\u043e\u0431\u043d\u0435\u0435 :slightly_smiling_face:",
+        "ts": "1463075617.000261"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0430 \u043a\u0430\u043a \u043d\u0430\u0441\u0447\u0435\u0442 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438?",
+        "ts": "1463075632.000262"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0447\u0442\u043e \u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u0435 xml",
+        "ts": "1463075708.000265"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "\u041d\u0435 \u0432\u0438\u0434\u0443 \u0440\u0430\u0437\u043d\u0438\u0446\u044b \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 ",
+        "ts": "1463075725.000267"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "Xml  \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 \u0431\u043e\u043b\u0435\u0435 \u0441\u0442\u0430\u0440\u044b\u0439 \u0438 \u0434\u043b\u044f \u043d\u0435\u0433\u043e \u043c\u043d\u043e\u0433\u043e \u0444\u0438\u0448\u0435\u043a \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043b\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043d\u0435\u0442 \u0432 json ",
+        "ts": "1463075776.000269"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "Xpath, xsl, \u0441\u0445\u0435\u043c\u044b ",
+        "ts": "1463075829.000270"
+    },
+    {
+        "type": "message",
+        "user": "U182W5USZ",
+        "text": "Jason:)",
+        "ts": "1463075890.000271"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "JSonPath, JOLT? <@U180A3J2D>",
+        "ts": "1463075903.000272"
+    },
+    {
+        "type": "message",
+        "user": "U182W5USZ",
+        "text": "\u0412 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c json \u043b\u0435\u0433\u0447\u0435 + \u043e\u043d \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0438 \u0434\u0435\u0441\u0435\u0440\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u0438 ",
+        "ts": "1463076081.000273"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "Jsonpath \u043d\u0435 \u0434\u043e\u0442\u044f\u0433\u0438\u0432\u0430\u0435\u0442 \u0434\u043e xpath ",
+        "ts": "1463076126.000274"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "\u0418 \u043e\u043d \u043d\u0435 \u0432 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0435 w3s ",
+        "ts": "1463076157.000275"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0443\u0436\u043d\u0430 \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f \u0430 \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435",
+        "ts": "1463076161.000276"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!here|@here> \u043d\u0430 \u0441\u0430\u043c\u043e\u043c \u0434\u0435\u043b\u0435 - \u043d\u0435\u0442 \u0437\u0434\u0435\u0441\u044c \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u043e\u0442\u0432\u0435\u0442\u0430. \u042d\u0442\u043e \u0432\u043e\u043f\u0440\u043e\u0441-\u043f\u0440\u043e\u0432\u043e\u043a\u0430\u0446\u0438\u044f \u0441 \u0446\u0435\u043b\u044c\u044e \u0437\u0430\u043f\u0443\u0442\u0430\u0442\u044c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043d\u0430 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0438. \u0418 \u0442\u043e \u0438 \u0442\u043e \u043f\u0440\u043e\u0441\u0442\u043e \u0444\u043e\u0440\u043c\u0430\u0442 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0432\u0441\u0435 \u0442\u0443\u0442. \u041c\u043e\u0436\u043d\u043e \u0441\u043a\u0430\u0437\u0430\u0442\u044c \u0447\u0442\u043e JSON \u044f\u043a\u043e\u0431\u044b \u0443\u0434\u043e\u0431\u043d\u0435\u0439 \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043f\u0440\u0438\u044f\u0442\u043d\u0435\u0439 \u0433\u043b\u0430\u0437\u0443, \u043d\u043e \u044d\u0442\u043e \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0447\u0438\u0441\u0442\u043e \u0432\u0430\u0448\u0435\u0439 \u0442\u0435\u043c\u043e\u0439. \u0412 heavy-enterprise \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0432\u044b \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u0435 \u0441 \u0431\u043e\u043b\u044c\u0448\u0435\u0439 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e XML  \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440\u044b \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u0443\u044e\u0442\u0441\u044f XSD \u0434\u043b\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b \u0434\u0430\u043d\u043d\u044b\u0445.",
+        "ts": "1463076283.000277"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "\u0412 xpath \u0435\u0441\u0442\u044c \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 ",
+        "ts": "1463076493.000278"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "<https:\/\/habrahabr.ru\/post\/31225\/>",
+        "attachments": [
+            {
+                "title": "JSON \u0438 XML. \u0427\u0442\u043e \u043b\u0443\u0447\u0448\u0435?",
+                "title_link": "https:\/\/habrahabr.ru\/post\/31225\/",
+                "text": "\u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435: \u043d\u0438\u0436\u0435 \u043f\u0435\u0440\u0435\u0432\u043e\u0434 \u043e\u0431\u0437\u043e\u0440\u043d\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0438 \u00abJSON vs XML\u00bb, \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0439 JSON \u0438 \u0435\u0433\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e \u0441 XML \u043f\u043e \u0440\u044f\u0434\u0443 \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u0435\u0432. \u041f\u0443\u0431\u043b\u0438\u043a\u0443\u0435\u0442\u0441\u044f \u0432 \u0446\u0435\u043b\u044f\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u0438\u0437\u0430\u0446\u0438\u0438 JSON \u0441\u0440\u0435\u0434\u0438...",
+                "fallback": "JSON \u0438 XML. \u0427\u0442\u043e \u043b\u0443\u0447\u0448\u0435?",
+                "thumb_url": "https:\/\/habrahabr.ru\/i\/habralogo.jpg",
+                "from_url": "https:\/\/habrahabr.ru\/post\/31225\/",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "id": 1
+            }
+        ],
+        "ts": "1463076571.000279"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U150DHUL9|lozenko> shared a file: <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F18EF3DGQ\/Zadacha__1|\u0417\u0430\u0434\u0430\u0447\u0430 #1>",
+        "file": {
+            "id": "F18EF3DGQ",
+            "created": 1463076533,
+            "timestamp": 1463076669,
+            "name": "Zadacha__1",
+            "title": "\u0417\u0430\u0434\u0430\u0447\u0430 #1",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U150DHUL9",
+            "editable": true,
+            "size": 359,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18EF3DGQ\/Zadacha__1?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18EF3DGQ\/download\/Zadacha__1?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F18EF3DGQ\/Zadacha__1",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18EF3DGQ-8882b34b1c",
+            "preview": "<document><p>\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043c\u0435\u0442\u043e\u0434 <code>getHTMLFrom(String URL)<\/code> \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b\u0442\u0430\u0449\u0438\u0442 html \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043a\u0430\u043a \u0441\u0442\u0440\u043e\u043a\u0443.<\/p><p><\/p><p>\u0421\u043a\u0438\u043d\u0443\u0442\u044c \u0441\u044e\u0434\u0430 \u043a\u043e\u0434 \u0432 \u0432\u0438\u0434\u0435 \u043e\u0434\u043d\u043e\u0433\u043e \u043a\u043b\u0430\u0441\u0441\u0430 \u043a\u0430\u043a Code Snippet.<\/p><\/document>",
+            "updated": 1463076669,
+            "editor": "U150DHUL9",
+            "last_editor": "U150DHUL9",
+            "state": "locked",
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "user": "U150DHUL9",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "<@U150DHUL9|lozenko>",
+        "bot_id": null,
+        "ts": "1463076642.000281"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U150DHUL9|lozenko> commented on <@U150DHUL9|lozenko>'s file <https:\/\/3monthjunior.slack.com\/files\/lozenko\/F18EF3DGQ\/Zadacha__1|\u0417\u0430\u0434\u0430\u0447\u0430 #1>: <!channel> \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0430\u044f \u0437\u0430\u0434\u0430\u0447\u043a\u0430",
+        "file": {
+            "id": "F18EF3DGQ",
+            "created": 1463076533,
+            "timestamp": 1463076669,
+            "name": "Zadacha__1",
+            "title": "\u0417\u0430\u0434\u0430\u0447\u0430 #1",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U150DHUL9",
+            "editable": true,
+            "size": 359,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18EF3DGQ\/Zadacha__1?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18EF3DGQ\/download\/Zadacha__1?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/lozenko\/F18EF3DGQ\/Zadacha__1",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18EF3DGQ-8882b34b1c",
+            "preview": "<document><p>\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043c\u0435\u0442\u043e\u0434 <code>getHTMLFrom(String URL)<\/code> \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b\u0442\u0430\u0449\u0438\u0442 html \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043a\u0430\u043a \u0441\u0442\u0440\u043e\u043a\u0443.<\/p><p><\/p><p>\u0421\u043a\u0438\u043d\u0443\u0442\u044c \u0441\u044e\u0434\u0430 \u043a\u043e\u0434 \u0432 \u0432\u0438\u0434\u0435 \u043e\u0434\u043d\u043e\u0433\u043e \u043a\u043b\u0430\u0441\u0441\u0430 \u043a\u0430\u043a Code Snippet.<\/p><\/document>",
+            "updated": 1463076669,
+            "editor": "U150DHUL9",
+            "last_editor": "U150DHUL9",
+            "state": "locked",
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1
+        },
+        "comment": {
+            "id": "Fc18EFQDNC",
+            "created": 1463076643,
+            "timestamp": 1463076643,
+            "user": "U150DHUL9",
+            "is_intro": false,
+            "comment": "<!channel> \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0430\u044f \u0437\u0430\u0434\u0430\u0447\u043a\u0430",
+            "channel": "C171F6QRY"
+        },
+        "is_intro": false,
+        "ts": "1463076642.000282"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<https:\/\/3monthjunior.slack.com\/archives\/beginner\/p1463076571000279> \u044d\u0442\u043e \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0432\u0435\u0431 \u0441\u0430\u0439\u0442\u043e\u0432 - \u0441\u0441\u044b\u043b\u043a\u0430 \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0442\u0435\u043c\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u0430",
+        "attachments": [
+            {
+                "color": "4D394B",
+                "from_url": "https:\/\/3monthjunior.slack.com\/archives\/beginner\/p1463076571000279",
+                "fallback": "[May 12th, 2016 11:09 AM] saturnua: <https:\/\/habrahabr.ru\/post\/31225\/>",
+                "author_subname": "saturnua",
+                "ts": "1463076571.000279",
+                "text": "<https:\/\/habrahabr.ru\/post\/31225\/>",
+                "author_name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041f\u0435\u0440\u0435\u0445\u043e\u0434\u0447\u0435\u043d\u043a\u043e",
+                "author_link": "https:\/\/3monthjunior.slack.com\/team\/saturnua",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-01\/39245182036_a746023cceadc6f79ac6_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1
+            }
+        ],
+        "ts": "1463076696.000283"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18E9GKBN\/-.java|Untitled>",
+        "file": {
+            "id": "F18E9GKBN",
+            "created": 1463076956,
+            "timestamp": 1463076956,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 542,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18E9GKBN\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18E9GKBN\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18E9GKBN\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18E9GKBN-d3197685ec",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18E9GKBN\/-.java\/edit",
+            "preview": "import java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.URL;\r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 18,
+            "lines_more": 13,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463076959.000285"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u041a\u0440\u0438\u0432\u043e \u043d\u043e \u043a\u0430\u043a  \u0442\u043e \u0442\u0430\u043a \u043f\u043e \u0431\u044b\u0440\u0438\u043a\u0443, \u043d\u0443 \u0438 \u0433\u0443\u0433\u043b \u043f\u043e\u043c\u043e\u0433",
+        "ts": "1463077013.000286"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0447\u0442\u043e \u0435\u0449\u0435 \u0437\u0430 `String s;` \u043f\u043e\u0437\u043e\u0440 \u043a\u0430\u043a\u043e\u0439",
+        "ts": "1463077019.000287"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u044f \u0448 \u0435\u0449\u0435 \u0443\u0447\u0443\u0441\u044c",
+        "ts": "1463077049.000288"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0438\u0441\u043f\u0440\u0430\u0432\u043b\u044e\u0441\u044c",
+        "ts": "1463077051.000289"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0438\u0441\u043f\u0440\u0430\u0432\u043b\u044f\u0439 \u0438 \u043f\u0440\u0438\u0441\u044b\u043b\u0430\u0439 \u0435\u0449\u0435 \u0440\u0430\u0437",
+        "edited": {
+            "user": "U150DHUL9",
+            "ts": "1463077092.000000"
+        },
+        "ts": "1463077077.000290"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0438 \u0433\u0434\u0435 \u043c\u0435\u0442\u043e\u0434?",
+        "ts": "1463077083.000291"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18ENKMH6\/-.java|Untitled> and commented: \u0412\u043e\u0442 \u0438 \u043c\u0435\u0442\u043e\u0434",
+        "file": {
+            "id": "F18ENKMH6",
+            "created": 1463077737,
+            "timestamp": 1463077737,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 743,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18ENKMH6\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18ENKMH6\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18ENKMH6\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18ENKMH6-9cdbae3e46",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18ENKMH6\/-.java\/edit",
+            "preview": "import java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.URL;\r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 24,
+            "lines_more": 19,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18ENKNP2",
+                "created": 1463077737,
+                "timestamp": 1463077737,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "\u0412\u043e\u0442 \u0438 \u043c\u0435\u0442\u043e\u0434",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463077737.000293"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0435\u0449\u0435 \u043c\u043e\u0436\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c - \u0436\u0434\u0443",
+        "ts": "1463077791.000294"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0442\u0430\u043a\u0441",
+        "ts": "1463077843.000295"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18EJS222\/Untitled.java|Untitled> and commented: \u0412\u044b\u043d\u0435\u0441 \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 \u043f\u043e\u043b\u044f \u043a\u043b\u0430\u0441\u0441\u0430",
+        "file": {
+            "id": "F18EJS222",
+            "created": 1463077998,
+            "timestamp": 1463077998,
+            "name": "Untitled.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 774,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18EJS222\/Untitled.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18EJS222\/download\/Untitled.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18EJS222\/Untitled.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18EJS222-e9dcd6bddf",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18EJS222\/Untitled.java\/edit",
+            "preview": "import java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.URL;\r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 24,
+            "lines_more": 19,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18EQA09E",
+                "created": 1463077998,
+                "timestamp": 1463077998,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "\u0412\u044b\u043d\u0435\u0441 \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 \u043f\u043e\u043b\u044f \u043a\u043b\u0430\u0441\u0441\u0430",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463077998.000296"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0430 \u0437\u0430\u0447\u0435\u043c \u0442\u044b \u0438\u0445 \u0432\u044b\u043d\u0435\u0441 \u0432 \u043f\u043e\u043b\u044f?",
+        "ts": "1463078123.000298"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0432\u043e\u043f\u0440\u043e\u0441 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u0434\u0443\u043c\u0430\u043b \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0432\u043e\u0442 \u0447\u0442\u043e\u0431 \u0432 \u043c\u0435\u0442\u043e\u0434\u0435 \u043d\u0435 \u043c\u0435\u0448\u0430\u043b\u0438 \u0430 \u0449\u0430\u0441 \u043f\u0430\u043d\u0438\u043c\u0430\u044e \u0441\u0447\u0442\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e \u0438\u0445 \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u043c\u0435\u0442\u043e\u0434\u0435",
+        "ts": "1463078182.000299"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0441\u043f\u0435\u0448\u0443",
+        "ts": "1463078188.000300"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043c\u0430\u043b\u043e \u0437\u043d\u0430\u043d\u0438\u0439",
+        "ts": "1463078195.000301"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!here|@here> \u043d\u0430\u0440\u043e\u0434 \u043a\u043e\u0433\u0434\u0430 \u043c\u044b \u0432\u044b\u043d\u043e\u0441\u0438\u043c \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u0432 \u043f\u043e\u043b\u044f?",
+        "ts": "1463078202.000302"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u0441\u0432\u043e\u0439\u0441\u0442\u0432\u0430 \u043e\u0431\u044c\u0435\u043a\u0442\u0430",
+        "edited": {
+            "user": "U16UQ8LAZ",
+            "ts": "1463078242.000000"
+        },
+        "ts": "1463078232.000303"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043a\u043e\u043d\u0442\u0440\u0432\u043e\u043f\u0440\u043e\u0441\u044b \u043d\u0435 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f",
+        "ts": "1463078245.000305"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0443\u0431\u0440\u0430\u043b)",
+        "ts": "1463078256.000306"
+    },
+    {
+        "type": "message",
+        "user": "U157BASRG",
+        "text": "\u041a\u043e\u0433\u0434\u0430 \u043d\u0443\u0436\u0435\u043d \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 ",
+        "ts": "1463078258.000307"
+    },
+    {
+        "type": "message",
+        "user": "U157BASRG",
+        "text": "\u0414\u043e\u0441\u0442\u0443\u043f \u0432 \u043f\u0440\u0435\u0434\u0435\u043b\u0430\u0445 \u043a\u043b\u0430\u0441\u0441\u0430",
+        "ts": "1463078279.000308"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0430\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 - \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u043a\u0430\u043a \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0430?",
+        "ts": "1463078282.000309",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U154201DJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0434\u0443\u043c\u0430\u0435\u043c \u0434\u0443\u043c\u0430\u0435\u043c",
+        "ts": "1463078294.000310"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0435\u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0430",
+        "ts": "1463078313.000311"
+    },
+    {
+        "type": "message",
+        "user": "U157BASRG",
+        "text": "\u0415\u0441\u043b\u0438 \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0430, \u0442\u043e \u0432\u044b\u043d\u043e\u0441\u0438\u043c",
+        "ts": "1463078317.000312"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0435\u0441\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c",
+        "ts": "1463078321.000313"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0441 \u0434\u0430\u043d\u043d\u0456\u043c\u0438",
+        "ts": "1463078325.000314"
+    },
+    {
+        "type": "message",
+        "user": "U157BASRG",
+        "text": "\u0422\u0430\u043a \u044f\u0441\u043d\u0435\u0435 \u043a\u043e\u0434",
+        "ts": "1463078333.000315"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0435\u0441\u043b\u0438 \u043d\u0443\u0436\u0435\u043d \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u0441\u0442\u0443\u043f \u0438\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u043a \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439",
+        "ts": "1463078351.000316"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "\u041a\u043e\u0433\u0434\u0430 \u0432 \u0434\u043e\u0441\u0442\u0443\u043f\u0435 \u043a \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u043d\u0443\u0436\u0434\u0430\u044e\u0442\u0441\u044f \u0440\u0430\u0437\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0432 \u0442\u0435\u043b\u0435 \u043e\u0434\u043d\u043e\u0433\u043e \u043a\u043b\u0430\u0441\u0441\u0430",
+        "ts": "1463078661.000317"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!here|@here> \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u0440 \u043a\u043e\u0434\u0430 \u0415\u0432\u0433\u0435\u043d\u0438\u044f - \u043a\u0430\u043a \u0435\u0433\u043e \u043c\u043e\u0436\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c?",
+        "ts": "1463078694.000318"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043a\u0440\u0430\u0441\u0438\u0432\u043e \u0441\u0442\u0440\u043e\u043a\u0443 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442\u044c \u0447\u0442\u043e\u0431 \u043a\u043e\u0434 \u0431\u044b\u043b \u043a\u0430\u043a \u043a\u043e\u0434",
+        "ts": "1463078736.000319"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u043e \u043f\u043e\u043a\u0430 \u0442\u0443\u043f\u043b\u044e",
+        "ts": "1463078740.000320"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043f\u043e\u0447\u0435\u043c\u0443 \u0441\u0438\u0433\u043d\u0430\u0442\u0443\u0440\u0430 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b? \u0432\u043c\u0435\u0441\u0442\u043e String URL -&gt; String url",
+        "ts": "1463078780.000321"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0445\u043e\u0442\u044f \u044f \u0432\u0438\u0434\u0435\u043b \u043f\u043e \u0440\u0430\u0437\u043d\u043e\u043c\u0443 \u0438\u0431\u043e \u0430\u0431\u0431\u0440\u0435\u0432\u0438\u0430\u0442\u0443\u0440\u0430, \u043d\u043e \u0441\u0430\u043c \u0431\u044b \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043b \u0438\u0431\u043e camelCase convention",
+        "ts": "1463078811.000322"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0441\u043e\u0433\u043b\u0430\u0441\u0435\u043d \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b \u0432 \u0437\u0430\u043c\u0435\u0442\u043a\u0438 \u043f\u0435\u0440\u0435\u0447\u0438\u0442\u0430\u0442\u044c \u043a\u043b\u0438\u043d \u043a\u043e\u0434",
+        "ts": "1463078841.000323"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043f\u043e\u0447\u0435\u043c\u0443 \u0442\u044b \u043f\u0440\u043e\u043a\u0438\u0434\u044b\u0432\u0430\u0435\u0448\u044c \u043e\u0448\u0438\u0431\u043a\u0443 throws IOException?",
+        "ts": "1463078871.000324"
+    },
+    {
+        "type": "message",
+        "user": "U182W5USZ",
+        "text": "\u0414\u0430 \u043a\u043b\u0438\u043d \u043a\u043e\u0434 \u043d\u0435 \u043d\u0443\u0436\u0435\u043d ",
+        "ts": "1463078873.000325"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0430 \u0435\u0441\u043b\u0438 \u0441\u0442\u0440\u043e\u043a\u0443 \u043d\u0435 \u043a\u043e\u043d\u043a\u0430\u0442\u0435\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0430 \u0432 \u043c\u0430\u0441\u0438\u0432 \u0438 \u043c\u0430\u0441\u0438\u0432 \u0432\u0456\u0432\u0435\u0441\u0442\u0438 \u043f\u043e\u0442\u043e\u043c",
+        "ts": "1463078880.000326"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!here|@here> \u0432 \u043a\u0430\u043a\u0438\u0445 \u043d\u0430\u043c \u0441\u043b\u0443\u0447\u0430\u044f\u0445 \u043d\u0443\u0436\u043d\u043e \u0434\u0435\u043b\u0430\u0442\u044c throw \u0430 \u0432 \u043a\u0430\u043a\u0438\u0445 try\/catch ?",
+        "ts": "1463078893.000327"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0443 \u0441 \u043a\u0430\u0436\u0434\u043e\u0439 \u0441\u0442\u0440\u043e\u0447\u043a\u0438 <@U150DHUL9> ?",
+        "ts": "1463078895.000328"
+    },
+    {
+        "type": "message",
+        "user": "U182W5USZ",
+        "text": "\u0414\u043b\u044f \u044d\u0442\u043e\u0433\u043e Java named convention \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e",
+        "ts": "1463078912.000329"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0442\u0440\u0430\u0439,  \u043a\u043e\u0433\u0434\u0430 \u043c\u044b \u043c\u043e\u0436\u0435\u043c \u0440\u0435\u0430\u043a\u0446\u0438\u044e \u043a\u0430\u043a\u0443\u044e\u0442\u043e \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u0442\u044c \u043d\u0430 \u043e\u0448\u0438\u0431\u043a\u0443 - \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043f\u043e \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044e",
+        "edited": {
+            "user": "U154201DJ",
+            "ts": "1463078950.000000"
+        },
+        "ts": "1463078932.000330"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043c\u043d\u0435 \u043d\u0443\u0436\u0435\u043d \u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u043b\u043d\u044b\u0439 \u043e\u0442\u0432\u0435\u0442",
+        "ts": "1463078956.000332"
+    },
+    {
+        "type": "message",
+        "user": "U1552UTDH",
+        "text": "throw \u043f\u0440\u0438\u0439\u0434\u0435\u0442\u0441\u044f \u0442\u044f\u043d\u0443\u0442\u044c \u043f\u043e \u0446\u0435\u043f\u043e\u0447\u043a\u0435 \u043c\u0435\u0442\u043e\u0434\u043e\u0432, tru\/catch \u043b\u043e\u043a\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u0435\u0442 \u043b\u043e\u0432\u043b\u044e",
+        "ts": "1463079001.000333"
+    },
+    {
+        "type": "message",
+        "user": "U155S3N69",
+        "text": "\u042f \u0431\u044b \u0435\u0449\u0435 BufferReader \u043f\u043e\u043c\u0435\u0441\u0442\u0438\u043b \u0432 try-resource ))))))",
+        "ts": "1463079004.000334",
+        "reactions": [
+            {
+                "name": "popcorn",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043e\u043e\u043e \u043a\u0430\u043a \u0432\u043a\u0443\u0441\u043d\u043e \u0437\u0432\u0443\u0447\u0438\u0442",
+        "ts": "1463079028.000335",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U182W5USZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U154201DJ>\u00a0\u0438\u0441\u043f\u0440\u0430\u0432\u043b\u044f\u0439 \u0438 \u0441\u044e\u0434\u0430",
+        "ts": "1463079105.000336"
+    },
+    {
+        "type": "message",
+        "user": "U155S3N69",
+        "text": "\u0418 \u0432\u043c\u0435\u0441\u0442\u043e \u043a\u043e\u043d\u043a\u0430\u0442\u0435\u043d\u0430\u0446\u0438\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b StringBuilder))))",
+        "edited": {
+            "user": "U155S3N69",
+            "ts": "1463079177.000000"
+        },
+        "ts": "1463079120.000337"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0430\u0441\u0442\u0430\u043d\u0430\u0432\u0438\u0441\u044c)))",
+        "ts": "1463079127.000338",
+        "reactions": [
+            {
+                "name": "simple_smile",
+                "users": [
+                    "U154201DJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U155S3N69",
+        "text": "\u0417\u0432\u0438\u043d\u044f\u0439\u0442\u0435 ))))",
+        "ts": "1463079150.000339"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043c\u0430\u0440\u0448 \u0441 \u044d\u0442\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u0430))",
+        "ts": "1463079169.000340"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041a\u0441\u0442\u0430\u0442\u0438 \u041c\u0430\u043a\u0441 - \u044d\u0442\u043e \u043c\u043e\u0439 \u0443\u0447\u0435\u043d\u0438\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0443\u0441\u0442\u0440\u043e\u0438\u043b\u0441\u044f \u0441\u0440\u0430\u0437\u0443 \u043d\u0430 \u043c\u0438\u0434\u043b \u043f\u043e\u0437\u0438\u0446\u0438\u044e. \u0416\u0438\u0432\u043e\u0439 \u043f\u0440\u0438\u043c\u0435\u0440 \u0432\u044b\u043c\u0438\u0440\u0430\u044e\u0449\u0435\u0433\u043e \u0432\u0438\u0434\u0430 \u0434\u0436\u0443\u043d\u0438\u043e\u0440\u043e\u0432.",
+        "ts": "1463079223.000342"
+    },
+    {
+        "type": "message",
+        "user": "U155S3N69",
+        "text": "\u0410 \u043c\u043e\u0436\u043d\u043e \u043e\u0441\u0442\u0430\u0442\u0441\u044f, \u0431\u0443\u0434\u0443 \u043c\u043e\u043b\u0447\u0430\u0442\u044c \u043a\u0430\u043a \u0440\u044b\u0431\u0430 \u043e\u0431 \u043b\u0435\u0434 )))",
+        "ts": "1463079232.000343"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439",
+        "ts": "1463079242.000344"
+    },
+    {
+        "type": "message",
+        "user": "U155S3N69",
+        "text": ":zipper_mouth_face: ",
+        "ts": "1463079281.000345",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "<@U155S3N69>: \u044f \u043a\u043e\u0433\u0434\u0430 \u043d\u0430\u0447\u043d\u0443 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e\u044e \u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c StringBuilder \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435 \u0434\u0443\u043c\u0430\u044e \u0441\u043c\u043e\u0433\u0443 \u0432\u0456\u0431\u0438\u0440\u0430\u0442\u044c",
+        "ts": "1463079304.000346"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0449\u0430\u0441 \u0447\u0442\u043e \u043f\u0440\u0438\u0448\u043b\u043e - \u0443\u0432\u0438\u0434\u0435\u043b \u0442\u043e \u0438 \u0437\u0430\u0435......\u043b\u043b",
+        "ts": "1463079318.000347",
+        "reactions": [
+            {
+                "name": "simple_smile",
+                "users": [
+                    "U154201DJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439, \u043c\u044b \u0436\u0434\u0435\u043c \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u0443\u044e \u0432\u0435\u0440\u0441\u0438\u044e",
+        "ts": "1463079510.000348"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0434\u0430\u0434\u0430",
+        "edited": {
+            "user": "U154201DJ",
+            "ts": "1463080112.000000"
+        },
+        "ts": "1463080102.000349"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0434\u043e\u0431\u0430\u0432\u0438\u043b \u0431\u0438\u043b\u0434\u0435\u0440 -\u043f\u044b\u0442\u0430\u044e\u0441\u044c \u043a\u0440\u0430\u0441\u0438\u0432\u043e \u0432\u044b\u0432\u0435\u0441\u0442\u0438 \u0447\u0442\u043e\u0431 \u043a\u043e\u0434 \u043a\u043e\u0434\u043e\u043c \u0431\u044b\u043b",
+        "ts": "1463080129.000351"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18F77K7S\/-.java|Untitled> and commented: \u0414\u043e\u0431\u0430\u0432\u0438\u043b \u0441 \u043f\u043e\u043c\u043e\u043c\u0449\u044c\u044e \u0431\u0438\u043b\u0434\u0435\u0440\u0430",
+        "file": {
+            "id": "F18F77K7S",
+            "created": 1463080703,
+            "timestamp": 1463080703,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 745,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18F77K7S\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18F77K7S\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18F77K7S\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18F77K7S-ba3e647fd5",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18F77K7S\/-.java\/edit",
+            "preview": "mport java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.URL;\r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">mport<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 23,
+            "lines_more": 18,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18F1PRLN",
+                "created": 1463080703,
+                "timestamp": 1463080703,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "\u0414\u043e\u0431\u0430\u0432\u0438\u043b \u0441 \u043f\u043e\u043c\u043e\u043c\u0449\u044c\u044e \u0431\u0438\u043b\u0434\u0435\u0440\u0430",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463080704.000352"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c \u0441 \u043a\u0430\u0436\u0434\u043e\u0439 \u043d\u043e\u0432\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u0438",
+        "ts": "1463080720.000353"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043f\u043e\u043f\u0440\u0430\u0432\u0442\u0435",
+        "ts": "1463080726.000354"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043f\u043b\u0438\u0438\u0437\u0437",
+        "ts": "1463080731.000355"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043c\u043e\u0436\u043d\u043e \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0435\u0449\u0435",
+        "ts": "1463080754.000356"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043f\u043e\u043a\u0430 \u043d\u0435 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f",
+        "ts": "1463080758.000357"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043a\u0442\u043e\u0431\u044b \u0441\u043e\u043c\u043d\u0435\u0432\u0430\u043b\u0441\u044f <@U150DHUL9>",
+        "ts": "1463080778.000358",
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U154201DJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1802RD33",
+        "text": "<@U150DHUL9|lozenko> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/LBHPn3ETppi87pmrM|in your browser>",
+        "bot_id": "B1808BQ4S",
+        "attachments": [
+            {
+                "fallback": "\u0440\u0435\u0431\u044f\u0442\u0430 \u043a\u0430\u043a \u043d\u0430\u0441\u0447\u0435\u0442 `System.lineSeparator()` \u0432\u043c\u0435\u0441\u0442\u043e `\\n` \u0432 14 \u0441\u0442\u0440\u043e\u0447\u043a\u0435?",
+                "text": "Total Votes: 3",
+                "title": "\u0440\u0435\u0431\u044f\u0442\u0430 \u043a\u0430\u043a \u043d\u0430\u0441\u0447\u0435\u0442 `System.lineSeparator()` \u0432\u043c\u0435\u0441\u0442\u043e `\\n` \u0432 14 \u0441\u0442\u0440\u043e\u0447\u043a\u0435?",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: \u043d\u0435\u043f\u043b\u043e\u0445\u043e, \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0434\u0430\u0432\u0430\u0439 \u043c\u0435\u043d\u044f\u0439\n   :thumbsup::thumbsup::thumbsup:  100%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: \u043d\u0435\u0442 \u0438 \u0442\u0430\u043a \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\n   :see_no_evil:  0%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U1802RD33",
+            "ts": "1463080985.000000"
+        },
+        "ts": "1463080895.000359",
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U1802RD33",
+                    "U16UQ8LAZ",
+                    "U156623BK",
+                    "U157BASRG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U1802RD33"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!here|@here> \u0433\u043e\u043b\u043e\u0441\u0443\u0435\u043c",
+        "ts": "1463080917.000360"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0442\u043e\u0442 \u0436\u0435 \u0454\u0444\u0444\u0435\u043a\u0442",
+        "ts": "1463080942.000363"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0442\u043e \u0442\u043e\u0442 \u0436\u0435",
+        "ts": "1463080958.000364"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043d\u0430\u0434\u043e \u043d\u0430\u0434\u0451\u0436\u043d\u043e, \u043d\u0430 \u043b\u044e\u0431\u043e\u0439 \u043f\u043b\u0430\u0442\u0442\u0444\u043e\u0440\u043c\u0435 \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0431\u043e\u0442\u0430\u043b\u043e",
+        "edited": {
+            "user": "U16UQ8LAZ",
+            "ts": "1463080996.000000"
+        },
+        "ts": "1463080965.000365",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U156623BK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u044f \u043d\u0430\u0441\u0447\u0438\u0442\u0430\u043b 6 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0445 \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0439 \u0438 `Sytem.lineSeparator()` \u0442\u0443\u0434\u0430 \u043d\u0435 \u0432\u0445\u043e\u0434\u0438\u0442 :trollface:",
+        "ts": "1463081004.000368"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "\u0421\u0442\u0430\u0441, try-with-resources \u0441\u044e\u0434\u0430 \u0432\u0445\u043e\u0434\u0438\u0442? )",
+        "ts": "1463081024.000369"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0434\u0430",
+        "ts": "1463081029.000370"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "<@U156623BK>: \u0440\u0430\u0441\u043a\u0430\u0436\u044b \u0442\u043e\u0433\u0434\u0430 \u0437\u0430\u0447\u0435\u043c - \u0445\u043e\u0442\u044c \u0431\u0443\u0434\u0435\u043c \u0437\u043d\u0430\u0442\u044c",
+        "ts": "1463081137.000371"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043f\u0436\u0430\u043b\u0443\u0441\u0442\u0430",
+        "ts": "1463081141.000372"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "\u044d\u0442\u043e \u043d\u043e\u0432\u043e\u0432\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0438\u0437 \u0434\u0436\u0430\u0432\u0430 7 - \u043d\u0435\u0442 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u043f\u043e\u0442\u043e\u043a\u0438, \u043e\u043d\u0438 \u0437\u0430\u043a\u0440\u043e\u044e\u0442\u0441\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u043e\u043c",
+        "ts": "1463081191.000373"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "\u043e\u0447\u0435\u043d\u044c \u0443\u0434\u043e\u0431\u043d\u043e",
+        "ts": "1463081193.000374"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0412\u043e\u0432\u0430 \u043f\u0440\u0438\u043c\u0435\u0440 \u0432 \u0441\u0442\u0443\u0434\u0438\u044e",
+        "ts": "1463081207.000375"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "just a second",
+        "ts": "1463081216.000376"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16UFMQ5S|vanya> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/vanya\/F18FBK6GG\/-.java|Untitled>",
+        "file": {
+            "id": "F18FBK6GG",
+            "created": 1463081451,
+            "timestamp": 1463081451,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U16UFMQ5S",
+            "editable": true,
+            "size": 392,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FBK6GG\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FBK6GG\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/vanya\/F18FBK6GG\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18FBK6GG-dcdd3e3b25",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/vanya\/F18FBK6GG\/-.java\/edit",
+            "preview": "public static String getHtmlFrom(String url) throws IOException {\r\n        BufferedReader br = new BufferedReader(new InputStreamReader(new URL(url).openStream()));\r\n        StringBuffer sb = new StringBuffer();\r\n        String result;\r\n        while ((result = br.readLine()) != null){\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">public<\/span> <span class=\"cm-keyword\">static<\/span> <span class=\"cm-variable-3\">String<\/span> <span class=\"cm-def\">getHtmlFrom<\/span>(<span class=\"cm-variable-3\">String<\/span> <span class=\"cm-variable\">url<\/span>) <span class=\"cm-keyword\">throws<\/span> <span class=\"cm-variable\">IOException<\/span> {<\/pre><\/div>\n<div><pre>        <span class=\"cm-variable\">BufferedReader<\/span> <span class=\"cm-variable\">br<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-keyword\">new<\/span> <span class=\"cm-variable\">BufferedReader<\/span>(<span class=\"cm-keyword\">new<\/span> <span class=\"cm-variable\">InputStreamReader<\/span>(<span class=\"cm-keyword\">new<\/span> <span class=\"cm-variable\">URL<\/span>(<span class=\"cm-variable\">url<\/span>).<span class=\"cm-variable\">openStream<\/span>()));<\/pre><\/div>\n<div><pre>        <span class=\"cm-variable-3\">StringBuffer<\/span> <span class=\"cm-variable\">sb<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-keyword\">new<\/span> <span class=\"cm-variable-3\">StringBuffer<\/span>();<\/pre><\/div>\n<div><pre>        <span class=\"cm-variable-3\">String<\/span> <span class=\"cm-variable\">result<\/span>;<\/pre><\/div>\n<div><pre>        <span class=\"cm-keyword\">while<\/span> ((<span class=\"cm-variable\">result<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-variable\">br<\/span>.<span class=\"cm-variable\">readLine<\/span>()) <span class=\"cm-operator\">!=<\/span> <span class=\"cm-atom\">null<\/span>){<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 9,
+            "lines_more": 4,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U16UFMQ5S",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U16UFMQ5S|vanya>",
+        "bot_id": null,
+        "ts": "1463081453.000377"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "try(FileInputStream input = new FileInputStream(\"file.txt\")) {\n    ...some code...\n}",
+        "ts": "1463081466.000378"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "\u043f\u0440\u0438\u043c\u0435\u0440\u0430 \u043a\u0440\u0430\u0441\u0438\u0432\u0435\u0435 \u043d\u0435 \u043d\u0430\u0448\u0435\u043b \u0443 \u0441\u0435\u0431\u044f ))",
+        "ts": "1463081478.000379"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "\u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0442\u0430\u043a:\ntry(  FileInputStream     input         = new FileInputStream(\"file.txt\");\n          BufferedInputStream bufferedInput = new BufferedInputStream(input)\n    ) {\n      ....some code.....\n    }",
+        "ts": "1463081537.000380",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16UQ8LAZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U16UQ8LAZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043c\u043e\u0436\u043d\u043e \u043b\u0443\u0447\u0448\u0435 \u043d\u0430\u0438\u0441\u0430\u0442\u044c - \u0443\u043f\u0440\u043e\u0441\u0442\u0438",
+        "ts": "1463081586.000381"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "\u043c\u043e\u0436\u043d\u043e",
+        "ts": "1463081591.000382"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043f\u0438\u0448\u0438)",
+        "ts": "1463081595.000383"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": ":slightly_smiling_face:",
+        "ts": "1463081601.000384"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "\u044d\u0442\u043e \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u0440\u0438\u043c\u0435\u0440 \u043a\u0430\u043a \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0442\u043e\u043a\u043e\u0432 \u043f\u0438\u0441\u0430\u0442\u044c - \u0447\u0435\u0440\u0435\u0437 \u0442\u043e\u0447\u043a\u0443 \u0441 \u0437\u0430\u043f\u044f\u0442\u043e\u0439",
+        "ts": "1463081608.000385"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0443\u043b\u0443\u0447\u0448\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u043a\u043e\u0434 \u0441\u0432\u043e\u0439",
+        "ts": "1463081620.000386"
+    },
+    {
+        "type": "message",
+        "user": "U156623BK",
+        "text": "try(BufferedInputStream bufferedInput = new BufferedInputStream(new FileInputStream(\"file.txt\"))) {\n     ....some code.....\n   }",
+        "ts": "1463081635.000387"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FJ6ZS4\/-.java|Untitled> and commented: \u0422\u0430\u043a \u0438 \u044d\u0442\u043e\u0442 \u0441\u0430\u0439\u0442 \u0432\u044b\u0432\u0435\u043b\u043e \u043a\u0440\u0430\u0441\u0438\u0432\u043e - \u043a\u043e\u0434\u043e\u043c",
+        "file": {
+            "id": "F18FJ6ZS4",
+            "created": 1463082572,
+            "timestamp": 1463082572,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 870,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FJ6ZS4\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FJ6ZS4\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FJ6ZS4\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18FJ6ZS4-c19226fc1a",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FJ6ZS4\/-.java\/edit",
+            "preview": "import java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.URL;\r\nimport java.util.ArrayList;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">util<\/span>.<span class=\"cm-variable\">ArrayList<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 28,
+            "lines_more": 23,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18FA1ZB6",
+                "created": 1463082572,
+                "timestamp": 1463082572,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "\u0422\u0430\u043a \u0438 \u044d\u0442\u043e\u0442 \u0441\u0430\u0439\u0442 \u0432\u044b\u0432\u0435\u043b\u043e \u043a\u0440\u0430\u0441\u0438\u0432\u043e - \u043a\u043e\u0434\u043e\u043c",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463082573.000388"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FM1B9D\/-.java|Untitled> and commented: \u0412\u043e\u0442 \u0442\u0430\u043a",
+        "file": {
+            "id": "F18FM1B9D",
+            "created": 1463082636,
+            "timestamp": 1463082636,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 157171,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FM1B9D\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FM1B9D\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FM1B9D\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18FM1B9D-ec91a482f3",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FM1B9D\/-.java\/edit",
+            "preview": "\"C:\\Program Files\\Java\\jdk1.8.0_66\\bin\\java\" -Didea.launcher.port=7534 \"-Didea.launcher.bin.path=C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 15.0.2\\bin\" -Dfile.encoding=UTF-8 -classpath \"C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\charsets.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\deploy.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\access-bridge-64.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\cldrdata.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\dnsns.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\jaccess.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\jfxrt.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\localedata.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\nashorn.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\sunec.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\sunjce_provider.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\sunmscapi.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\sunpkcs11.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\zipfs...",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-string\">&quot;C:\\Program Files\\Java\\jdk1.8.0_66\\bin\\java&quot;<\/span> <span class=\"cm-operator\">-<\/span><span class=\"cm-variable\">Didea<\/span>.<span class=\"cm-variable\">launcher<\/span>.<span class=\"cm-variable\">port<\/span><span class=\"cm-operator\">=<\/span><span class=\"cm-number\">7534<\/span> <span class=\"cm-string\">&quot;-Didea.launcher.bin.path=C:\\Program Files (x86)\\JetBrains\\IntelliJ IDEA Community Edition 15.0.2\\bin&quot;<\/span> <span class=\"cm-operator\">-<\/span><span class=\"cm-variable\">Dfile<\/span>.<span class=\"cm-variable\">encoding<\/span><span class=\"cm-operator\">=<\/span><span class=\"cm-variable\">UTF<\/span><span class=\"cm-operator\">-<\/span><span class=\"cm-number\">8<\/span> <span class=\"cm-operator\">-<\/span><span class=\"cm-variable\">classpath<\/span> <span class=\"cm-string\">&quot;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\charsets.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\deploy.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\access-bridge-64.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\cldrdata.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\dnsns.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\jaccess.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\jfxrt.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\localedata.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\nashorn.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\sunec.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\sunjce_provider.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\sunmscapi.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\sunpkcs11.jar;C:\\Program Files\\Java\\jdk1.8.0_66\\jre\\lib\\ext\\zipfs...<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 3292,
+            "lines_more": 3291,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18FRUB7T",
+                "created": 1463082636,
+                "timestamp": 1463082636,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "\u0412\u043e\u0442 \u0442\u0430\u043a",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463082637.000389"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u044d\u0442\u043e \u0435\u0449\u0435 \u0434\u0430\u043b\u0435\u043a\u043e \u043e\u0442 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u0430",
+        "ts": "1463082659.000390"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u044d\u0442\u043e \u044f\u0441\u043d\u043e",
+        "ts": "1463082677.000391"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0430\u0434\u0430 \u0432\u043d\u0435\u0434\u0440\u0438\u0442\u044c \u0445\u043e\u0442\u044f\u0431\u044b \u0442\u0440\u0430\u0439 \u0432\u0438\u0441 \u0440\u0435\u0441\u043e\u0440\u0441\u0435\u0441",
+        "ts": "1463082691.000392"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FLME3A\/-.java|Untitled> and commented: Try With Resources",
+        "file": {
+            "id": "F18FLME3A",
+            "created": 1463082988,
+            "timestamp": 1463082988,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 906,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FLME3A\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FLME3A\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FLME3A\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18FLME3A-d44df0cba3",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FLME3A\/-.java\/edit",
+            "preview": "\r\nimport java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.URL;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 32,
+            "lines_more": 27,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18FLMEQG",
+                "created": 1463082988,
+                "timestamp": 1463082988,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "Try With Resources",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463082988.000393"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0442\u0438\u043f \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u043c\u043e\u0433\u043e \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c String \u0430 \u043d\u0435 List&lt;String&gt;",
+        "ts": "1463083120.000394"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043e\u0442 \u043a\u0430\u043a",
+        "ts": "1463083168.000395"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043f\u043e\u0447\u0435\u043c\u0443 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440 `throws IOException` - me sad :airplane:",
+        "ts": "1463083178.000396"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FETPU4\/-.java|Untitled> and commented: \u0410 \u0442\u0430\u043a",
+        "file": {
+            "id": "F18FETPU4",
+            "created": 1463083393,
+            "timestamp": 1463083393,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 986,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FETPU4\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18FETPU4\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FETPU4\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18FETPU4-167c40dfc9",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18FETPU4\/-.java\/edit",
+            "preview": "import java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.MalformedURLException;\r\nimport java.net.URL;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">MalformedURLException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 32,
+            "lines_more": 27,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18FRP7UM",
+                "created": 1463083393,
+                "timestamp": 1463083393,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "\u0410 \u0442\u0430\u043a",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463083396.000397"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0432\u044b\u0432\u043e\u0434 \u043d\u0435 \u0438\u0434\u0435\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u043e \u043a\u043e\u0434 \u0440\u0430\u0437\u0431\u043e\u0440\u0447\u0438\u0432 :slightly_smiling_face:",
+        "ts": "1463083425.000398"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "still not acceptable",
+        "ts": "1463083455.000399"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043e\u0442\u0434\u0430\u0442\u044c \u0441\u0440\u0430\u0437\u0443 resultText.toString();",
+        "ts": "1463083529.000400"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043e\u043d\u043e \u043d\u0438\u0447\u0435 \u043d\u0435 \u0438\u0437\u043c\u0435\u043d\u0438\u0442 <@U16UQ8LAZ>",
+        "edited": {
+            "user": "U154201DJ",
+            "ts": "1463083578.000000"
+        },
+        "ts": "1463083557.000401"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0432\u043e\u043f\u0440\u043e\u0441 \u043d\u0435 \u0432 \u0442\u043e\u043c \u0438\u0437\u043c\u0435\u043d\u0438\u0442 \u0438\u043b\u0438 \u043d\u0435\u0442.\n\u043d\u0435 \u043f\u043b\u043e\u0434\u0438\u043c \u043d\u0435 \u043d\u0443\u0436\u043d\u044b\u0445 \u0432\u0435\u0449\u0435\u0439",
+        "ts": "1463083591.000403"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "String s \u0443\u0431\u0440\u0430\u043b \u0441\u0440\u0430\u0437\u0443",
+        "ts": "1463083609.000404"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0441\u043e\u043a\u0440\u0430\u0442\u0438\u043b",
+        "ts": "1463083619.000405"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "br.close \u044f \u0442\u0430\u043a \u0434\u0443\u043c\u0430\u044e \u043d\u0435 \u043d\u0430\u0434\u043e, \u0442.\u043a. try with resources",
+        "ts": "1463083637.000406"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "cnjgeljdf",
+        "ts": "1463083666.000407"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0441\u0442\u043e\u043f\u0443\u0434\u043e\u0432\u0430",
+        "ts": "1463083669.000408"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0434\u0430\u043b\u044c\u0448\u0435 \u0438\u0441\u043a\u0430\u0442\u044c \u043d\u0430\u0434\u043e)",
+        "ts": "1463083686.000409"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u044d\u0442\u043e \u043a <@U150DHUL9>",
+        "ts": "1463083703.000410"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18G421L2\/-.java|Untitled>",
+        "file": {
+            "id": "F18G421L2",
+            "created": 1463083710,
+            "timestamp": 1463083710,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 944,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18G421L2\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18G421L2\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18G421L2\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18G421L2-8632123d6d",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18G421L2\/-.java\/edit",
+            "preview": "import java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.MalformedURLException;\r\nimport java.net.URL;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">MalformedURLException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 29,
+            "lines_more": 24,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463083712.000411"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0421\u0442\u0430\u0441 \u0433\u043e\u0432\u043e\u0440\u0438\u0442 \u043d\u0430\u0432\u0435\u0440\u043d\u043e \u0448\u0442\u0443\u043a\u0438 4 \u0435\u0449\u0435 \u0433\u0434\u0435 \u0442\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c :slightly_smiling_face:",
+        "ts": "1463083719.000412"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": ":slightly_smiling_face:",
+        "edited": {
+            "user": "U154201DJ",
+            "ts": "1463083766.000000"
+        },
+        "ts": "1463083728.000413"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0433\u0438\u0442\u043b\u0435\u0440?",
+        "ts": "1463083736.000414",
+        "reactions": [
+            {
+                "name": "simple_smile",
+                "users": [
+                    "U154201DJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "resultText.add(textFromUrl +System.lineSeparator());\n\u043d\u0435\u0442 \u043f\u0440\u043e\u0431\u0435\u043b\u0430 :slightly_smiling_face:",
+        "ts": "1463083829.000416"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": ":slightly_smiling_face:",
+        "ts": "1463083859.000417"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0447\u0442\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0442 \u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432",
+        "ts": "1463083889.000418"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0412\u043e\u043b\u044c\u0444\u043e\u0432\u0438\u0447 :slightly_smiling_face:",
+        "ts": "1463083895.000419"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043d\u0435 \u0437\u043d\u0430\u044e, \u0442\u043e \u0447\u0442\u043e \u044f \u0432\u044b\u0448\u0435 \u043d\u0430\u043f\u0438\u0441\u0430\u043b, \u044d\u0442\u043e \u0442\u0430\u043a \u0431\u044b\u043b\u043e, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u043e\u043d \u0433\u043e\u0432\u043e\u0440\u0438\u043b \u043f\u0440\u043e 6 \u0447\u0443\u0442\u044c \u0432\u044b\u0448\u0435",
+        "ts": "1463083923.000420"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "<@U150DHUL9>: \u0421\u0442\u0430\u0441 \u0438\u0434\u0435\u0439 \u0443 \u043c\u0435\u043d\u044f \u043d\u0435\u0442 \u0438\u0431\u043e \u0442\u043e\u043a\u0430 \u0443\u0447\u0443\u0441\u044c \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043c\u043e\u0441\u0447 \u0437\u0430\u043b\u0430",
+        "ts": "1463083970.000421"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U16UQ8LAZ>: \u0432\u043e\u0437\u044c\u043c\u0435\u0448\u044c \u044d\u0441\u0442\u0430\u0444\u0435\u0442\u0443?",
+        "ts": "1463084625.000422"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "<@U150DHUL9> \u0442\u0430\u043a \u044f \u0441\u0430\u043c beginner beginner, \u043d\u0430\u0441\u043e\u0432\u0435\u0442\u0443\u044e \u0435\u0449\u0451 \u0441\u043e\u0432\u0441\u0435\u043c \u043d\u0435 \u0442\u043e\u0433\u043e :slightly_smiling_face:",
+        "ts": "1463084720.000423"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043a\u0430\u043a \u0431\u044b \u0432\u043e\u043f\u0440\u043e\u0441 \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c",
+        "ts": "1463084827.000424"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0435\u0449\u0435 4 \u0448\u0430\u043d\u0441\u0430 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u043a\u043e\u0434 \u043b\u0443\u0447\u0448\u0435",
+        "ts": "1463084843.000425"
+    },
+    {
+        "type": "message",
+        "user": "U156DP6FN",
+        "text": "\u0432 \u043f\u043b\u0430\u043d\u0435 \u0433\u0438\u0433\u0438\u0435\u043d\u044b \u043a\u043e\u0434\u0430? \u0438\u043b\u0438 \u0447\u0442\u043e \u0442\u043e \u043d\u0435 \u0442\u0430\u043a \u0432 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438?",
+        "ts": "1463084898.000426"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044f \u0442\u043e \u0447\u0442\u043e \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0431\u0438\u0431\u043b\u043e\u0442\u0435\u043a\u0438 \u0442\u043e \u043f\u043e\u043a\u0430 \u0431\u0435\u0440\u0435\u043c \u0433\u0438\u0433\u0438\u0435\u043d\u0443",
+        "ts": "1463084933.000427"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043f\u043e\u0445\u043e\u0434\u0443 \u0438 \u0433\u0438\u0433\u0438\u0435\u043d\u0443 \u043c\u044b \u0442\u043e\u0436\u0435 \u043d\u0435 \u043e\u0447\u0435\u043d\u044c :",
+        "ts": "1463085107.000428"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": ":disappointed:",
+        "ts": "1463085111.000429"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "cmon \u044d\u0442\u043e \u043a\u0430\u043d\u0430\u043b <#C171F6QRY> - \u0432\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u043a\u0430\u043d\u0430\u043b #\u0434\u043d\u043e ?:)",
+        "ts": "1463085155.000430",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U16UQ8LAZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smiley",
+                "users": [
+                    "U17T2T80N",
+                    "U15A8DXMF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0430\u0445\u0430\u0445\u0430",
+        "ts": "1463085171.000431"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18G3LQT1\/-.java|Untitled> and commented: BufferedReader br = new BufferedReader(new InputStreamReader(new URL(urlAdress).openConnection().getInputStream())))",
+        "file": {
+            "id": "F18G3LQT1",
+            "created": 1463085537,
+            "timestamp": 1463085537,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 925,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18G3LQT1\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18G3LQT1\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18G3LQT1\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18G3LQT1-38ed3457d5",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18G3LQT1\/-.java\/edit",
+            "preview": "import java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.MalformedURLException;\r\nimport java.net.URL;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">MalformedURLException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 28,
+            "lines_more": 23,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18ENNWBD",
+                "created": 1463085537,
+                "timestamp": 1463085537,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "BufferedReader br = new BufferedReader(new InputStreamReader(new URL(urlAdress).openConnection().getInputStream())))",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463085537.000432"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0430\u043d\u0443 \u0437\u0430\u0441\u0447\u0438\u0442\u0456\u0432\u0430\u0439",
+        "ts": "1463085545.000433"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0445\u0435\u0445\u0435",
+        "ts": "1463085555.000434"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0443 \u043e\u0434\u043d\u0443 \u043f\u0435\u0440\u0435\u043d\u0435\u0441",
+        "edited": {
+            "user": "U154201DJ",
+            "ts": "1463085597.000000"
+        },
+        "ts": "1463085585.000435"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043f\u0430\u0440\u043e\u0432\u043e\u0437 - \u044d\u0442\u043e \u0433\u0430\u0432\u043d\u043e\u043a\u043e\u0434 `BufferedReader br = new BufferedReader(new InputStreamReader(new URL(urlAdress).openConnection().getInputStream()))`",
+        "ts": "1463085607.000437"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0435 \u0442\u0430\u043c",
+        "ts": "1463085625.000438"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u044d\u044d\u0445\u0445\u0445",
+        "ts": "1463085629.000439"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0435\u043a\u0441\u0435\u043f\u0448\u043d \u0435\u0449\u0451 \u0442\u0430\u043a \u0438 \u043a\u0438\u0434\u0430\u0435\u0442\n\u0438 StringBuilder \u0432\u043c\u0435\u0441\u0442\u043e \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0438",
+        "ts": "1463085824.000440"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0442\u0430 \u0431\u044b\u043b \u0441\u0442\u0440\u0438\u043d\u0433 \u0431\u0438\u043b\u0434\u0435\u0440",
+        "ts": "1463085893.000441"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043e\u043d \u0442\u0443\u0442 \u043f\u0440\u0438\u0447\u0435\u043c",
+        "ts": "1463085895.000442"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0431\u044b\u043b, \u0430 \u0447\u0442\u043e \u0441 \u043d\u0438\u043c \u0441\u0442\u0430\u043b\u043e? :worried:",
+        "ts": "1463085936.000443"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043f\u0440\u043e\u0441\u0442\u043e \u0434\u043b\u044f \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0430 \u043e\u043d \u0441\u0442\u0430\u043b \u043b\u0438\u0441\u0442\u043e\u043c",
+        "ts": "1463085949.000444"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": ":slightly_smiling_face:",
+        "ts": "1463085952.000445"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0442\u0430\u043a \u043f\u043e\u0441\u043c\u0430\u0442\u0440\u0435\u0442\u044c \u043a\u0430\u043a \u0431\u0443\u0434\u0435\u0442 \u0432\u044b\u0433\u043b\u044f\u0434\u0435\u0442\u044c",
+        "ts": "1463085961.000446"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "&gt; \u043f\u0440\u043e\u0441\u0442\u043e \u0434\u043b\u044f \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0430",
+        "ts": "1463085969.000447"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0431\u0438\u043b\u0434\u0435\u0440 \u043b\u0443\u0447\u0448\u0435 - \u0432\u043e\u043f\u0440\u043e\u0441\u043e\u0432 \u043d\u0435\u0442",
+        "ts": "1463085971.000448"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u044d\u0442\u043e \u0432 \u0446\u0438\u0442\u0430\u0442\u044b \u043d\u0430\u0434\u043e",
+        "ts": "1463085978.000449",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U16UQ8LAZ",
+                    "U15B9DZ0T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0443 \u0430 \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0433\u043e - \u0434\u0430 \u043c\u043d\u0435 \u0441\u0442\u0430\u043b\u043e \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e \u043a\u0430\u043a \u0441 \u043d\u0438\u043c \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0438 \u043e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u0442\u0441\u044f",
+        "ts": "1463086009.000450",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U154201DJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0442\u044e",
+        "ts": "1463086012.000451"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0441\u044e\u0434\u0430 \u043d\u0430\u0432\u0435\u0440\u043d\u043e \u043f\u0440\u043e\u0441\u0442\u043e \u0441\u0434\u0430\u0451\u0448\u044c \u043a\u0430\u043a \u0431\u044b \u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u043a\u0448\u043d \u043f\u043e\u0448\u043b\u043e :grin:",
+        "ts": "1463086082.000452"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "<@U16UQ8LAZ>: \u043e\u0434\u0438\u043d \u0440\u0430\u0437 \u044f \u0432\u0438\u0434\u0435\u043b \u043f\u0440\u043e\u0434\u0430\u043a\u0448\u043d-\u043a\u043e\u0434, \u0433\u0434\u0435 \u0432\u0441\u044f \u0431\u0438\u0437\u043d\u0435\u0441-\u043b\u043e\u0433\u0438\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0431\u044b\u043b\u0430 \u0432 jsp, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0437\u0430\u043f\u0440\u043e\u0441\u044b \u0432 \u0431\u0434. \u0442\u0430\u043a \u0447\u0442\u043e \u0432\u0441\u0451 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e)",
+        "ts": "1463086254.000453"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "\u043f\u0438\u0441\u0430\u043b\u0438 \u043c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0446\u044b, \u043a\u0441\u0442\u0430\u0442\u0438, \u0441 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f\u043c\u0438 \u043d\u0430 \u0438\u0441\u043f\u0430\u043d\u0441\u043a\u043e\u043c",
+        "ts": "1463086279.000454"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "<@U154C66NP> \u043b\u044f\u043f\u043e\u0442\u0430)",
+        "ts": "1463086287.000455"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0438\u0441\u043f\u0430\u043d\u0441\u043a\u0430\u044f \u0434\u043e\u043a\u0430, \u043f\u0430\u0445\u043d\u0435\u0442 \u0444\u0430\u043d\u043e\u043c.",
+        "ts": "1463086319.000456"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16P352LQ|dimonick> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/dimonick\/F18G06BJS\/govnokod___.java|govnokod= )>",
+        "file": {
+            "id": "F18G06BJS",
+            "created": 1463086329,
+            "timestamp": 1463086329,
+            "name": "govnokod___.java",
+            "title": "govnokod= )",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U16P352LQ",
+            "editable": true,
+            "size": 265,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18G06BJS\/govnokod___.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18G06BJS\/download\/govnokod___.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/dimonick\/F18G06BJS\/govnokod___.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18G06BJS-0cc8644544",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/dimonick\/F18G06BJS\/govnokod___.java\/edit",
+            "preview": "public static String getHTMLFrom(String urlAdress){\r\n        String page = \"\";\r\n        try {\r\n            page = Jsoup.connect(urlAdress).get().toString();\r\n        } catch (IOException e) {\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">public<\/span> <span class=\"cm-keyword\">static<\/span> <span class=\"cm-variable-3\">String<\/span> <span class=\"cm-def\">getHTMLFrom<\/span>(<span class=\"cm-variable-3\">String<\/span> <span class=\"cm-variable\">urlAdress<\/span>){<\/pre><\/div>\n<div><pre>        <span class=\"cm-variable-3\">String<\/span> <span class=\"cm-variable\">page<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-string\">&quot;&quot;<\/span>;<\/pre><\/div>\n<div><pre>        <span class=\"cm-keyword\">try<\/span> {<\/pre><\/div>\n<div><pre>            <span class=\"cm-variable\">page<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-variable\">Jsoup<\/span>.<span class=\"cm-variable\">connect<\/span>(<span class=\"cm-variable\">urlAdress<\/span>).<span class=\"cm-variable\">get<\/span>().<span class=\"cm-variable\">toString<\/span>();<\/pre><\/div>\n<div><pre>        } <span class=\"cm-keyword\">catch<\/span> (<span class=\"cm-variable\">IOException<\/span> <span class=\"cm-variable\">e<\/span>) {<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 9,
+            "lines_more": 4,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U16UQ8LAZ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        "user": "U16P352LQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U16P352LQ|dimonick>",
+        "bot_id": null,
+        "ts": "1463086331.000457"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "Ace",
+        "ts": "1463086360.000458"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "\u0423 \u0437\u043d\u0430\u043a\u043e\u043c\u043e\u0433\u043e, \u043a \u0441\u043b\u043e\u0432\u0443, \u0431\u044b\u043b \u043f\u0440\u043e\u0435\u043a\u0442 \u0434\u043b\u044f \u043d\u0435\u043c\u0446\u0435\u0432, \u0433\u0434\u0435 \u0432 \u0422\u0417 \u0431\u044b\u043b\u043e \u043f\u0440\u043e\u043f\u0438\u0441\u0430\u043d\u043e \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0435\u0432 \u043a \u043a\u043e\u0434\u0443 \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043d\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435.",
+        "ts": "1463086487.000460"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u044d\u0442\u043e \u0436\u0435\u0441\u0442\u044c \u043a\u043e\u043d\u0435\u0447\u043d\u043e",
+        "ts": "1463086587.000461"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U16P352LQ>: \u0447\u0442\u043e \u044d\u0442\u043e \u0437\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0432 6 \u0441\u0442\u0440\u043e\u0447\u043a\u0435?",
+        "ts": "1463086597.000462"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043c\u0435\u043d\u044f\u0442\u044c \u043d\u0430 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u0443\u044e",
+        "ts": "1463086623.000463"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0441\u0442\u0430\u0441 \u0430 \u043c\u0435\u0442\u043e\u0434 \u0432 \u043c\u0435\u0439\u043d\u0435 \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u0438\u043b\u0438 \u043d\u0435\u0442",
+        "ts": "1463086679.000464"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "<@U150DHUL9>:  \u043c\u0435\u043d\u044f\u0442\u044c  \u043d\u0435\u043b\u044c\u0437\u044f)) \u0438\u043d\u0430\u0447\u0435 \u0441\u043d\u0438\u043f\u043f\u0435\u0442 \u043f\u0440\u0438\u0434\u0435\u0442\u0441\u044f \u043f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u0442\u044c xD",
+        "ts": "1463086680.000465"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0430 \u043c\u044b \u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438 \u0437\u0430 \u043c\u0435\u0442\u043e\u0434 \u043c\u0435\u0439\u043d \u0432 \u0437\u0430\u0434\u0430\u043d\u0438\u0438? \u043d\u043e \u0435\u0441\u043b\u0438 \u0442\u044b \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0442\u0435\u0445 4 \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0439 - \u044d\u0442\u043e \u0432\u0441\u0435 \u0440\u0430\u0432\u043d\u043e \u043d\u0435 \u043e \u0442\u043e\u043c",
+        "ts": "1463086716.000466"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U16P352LQ>:  \u043f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u044b\u0432\u0430\u0442\u044c \u0432\u043e \u0447\u0442\u043e? :simple_smile:",
+        "ts": "1463086755.000467"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "<@U150DHUL9>:  govnokod v2.0",
+        "ts": "1463086785.000468"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U154201DJ|saturnua> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18GCC2N9\/Untitled.java|Untitled> and commented: v.1.1",
+        "file": {
+            "id": "F18GCC2N9",
+            "created": 1463087034,
+            "timestamp": 1463087034,
+            "name": "Untitled.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U154201DJ",
+            "editable": true,
+            "size": 993,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18GCC2N9\/Untitled.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18GCC2N9\/download\/Untitled.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18GCC2N9\/Untitled.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18GCC2N9-a01cb656c2",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/saturnua\/F18GCC2N9\/Untitled.java\/edit",
+            "preview": "\r\nimport java.io.BufferedReader;\r\nimport java.io.IOException;\r\nimport java.io.InputStreamReader;\r\nimport java.net.MalformedURLException;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">MalformedURLException<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 28,
+            "lines_more": 23,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18GNN3JN",
+                "created": 1463087034,
+                "timestamp": 1463087034,
+                "user": "U154201DJ",
+                "is_intro": true,
+                "comment": "v.1.1",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U154201DJ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U154201DJ|saturnua>",
+        "bot_id": null,
+        "ts": "1463087034.000469"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0432\u043e\u0442 \u0432\u0430\u043c \u043e\u043f\u044f\u0442\u044c \u0431\u0438\u043b\u0434\u0435\u0440 \u043d\u043e \u043d\u0435 \u0432\u043d\u0435\u043c \u0436\u0435 \u0434\u0435\u043b\u043e",
+        "ts": "1463087050.000470"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "v1.2",
+        "ts": "1463087617.000473"
+    },
+    {
+        "user": "U18HF0CBX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18HF0CBX|busmanov> has joined the channel",
+        "ts": "1463096071.000475"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U185K50H1|artemjev> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/artemjev\/F18J7UH1S\/-.java|Untitled> and commented: \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435  \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0433\u043e \u043a\u043e\u0434\u0430",
+        "file": {
+            "id": "F18J7UH1S",
+            "created": 1463110852,
+            "timestamp": 1463110852,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U185K50H1",
+            "editable": true,
+            "size": 1256,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18J7UH1S\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18J7UH1S\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/artemjev\/F18J7UH1S\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18J7UH1S-3fdb2a1279",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/artemjev\/F18J7UH1S\/-.java\/edit",
+            "preview": "package com.art.html;\r\nimport java.net.URL;\r\nimport java.io.InputStreamReader;\r\nimport java.io.BufferedReader;\r\nimport java.io.IOException;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">package<\/span> <span class=\"cm-def\">com<\/span>.<span class=\"cm-variable\">art<\/span>.<span class=\"cm-variable\">html<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 37,
+            "lines_more": 32,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "initial_comment": {
+                "id": "Fc18JPGJ01",
+                "created": 1463110852,
+                "timestamp": 1463110852,
+                "user": "U185K50H1",
+                "is_intro": true,
+                "comment": "\u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435  \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0433\u043e \u043a\u043e\u0434\u0430",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U185K50H1",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U185K50H1|artemjev>",
+        "bot_id": null,
+        "ts": "1463110853.000476"
+    },
+    {
+        "user": "U182KQK5X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U182KQK5X|cules> has joined the channel",
+        "ts": "1463113997.000477"
+    },
+    {
+        "user": "U18DWD9DE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18DWD9DE|dmitry1981> has joined the channel",
+        "ts": "1463114843.000478"
+    },
+    {
+        "type": "message",
+        "user": "U18DWD9DE",
+        "text": "\u0432\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442!\n\u0432 \u043e\u0434\u043d\u043e\u043c \u0438\u0437 \u0432\u0438\u0434\u0435\u043e\u0443\u0440\u043e\u043a\u043e\u0432 \u0443\u0437\u043d\u0430\u043b \u043e \u043f\u0440\u043e\u0432\u0435\u0440\u043e\u0447\u043d\u043e\u043c \u0432\u043e\u043f\u0440\u043e\u0441\u0435, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0437\u0430\u0434\u0430\u044e\u0442 \u043d\u0430 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0438)))\n\u043e\u043d \u0432\u0440\u043e\u0434\u0435 \u043a\u0430\u043a \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u0440\u043d\u044b\u0439, \u043d\u043e \u0432\u0441\u0435 \u0436\u0435))\n\u0447\u0435\u043c\u0443 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0432\u043d\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u0430 (\u043f\u0440\u0438 i=0)\u0432 \u043e\u0431\u0435\u0438\u0445 \u0441\u043b\u0443\u0447\u0430\u044f\u0445:\n\n1) a = ++i + i++\n2) a = i++ + ++i",
+        "ts": "1463115028.000479"
+    },
+    {
+        "type": "message",
+        "user": "U185K50H1",
+        "text": "\u0434\u0430\u0439\u0442\u0435 \u043a\u0430 \u0443\u0433\u0430\u0434\u0430\u044e :thinking_face:  \u043e\u0431\u0430 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430  \u043f\u043e 2.... \u043d\u0435?",
+        "ts": "1463115467.000480",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16UQ8LAZ",
+                    "U17SM7N78"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043e\u0431\u0430 1",
+        "ts": "1463115520.000481"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043a\u0430\u043a \u043d\u0438 \u0441\u0442\u0440\u0430\u043d\u043d\u043e \u043d\u043e \u043e\u0431\u0430 \u0440\u0430\u0432\u043d\u043e 2",
+        "edited": {
+            "user": "U154201DJ",
+            "ts": "1463115895.000000"
+        },
+        "ts": "1463115548.000482"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16UQ8LAZ|gr8web> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/gr8web\/F18JRRWLQ\/-.java|Untitled> and commented: \u0447\u0442\u043e \u043f\u0440\u043e\u0438\u0437\u043e\u0439\u0434\u0451\u0442 \u0438\u043b\u0438 \u0447\u0442\u043e \u0432\u044b\u0432\u0435\u0434\u0435\u0442?",
+        "file": {
+            "id": "F18JRRWLQ",
+            "created": 1463115852,
+            "timestamp": 1463115852,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U16UQ8LAZ",
+            "editable": true,
+            "size": 60,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18JRRWLQ\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18JRRWLQ\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/gr8web\/F18JRRWLQ\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18JRRWLQ-4952e2d5b4",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/gr8web\/F18JRRWLQ\/-.java\/edit",
+            "preview": "byte a = 0;\r\nwhile(++a > 0);\r\n\r\nSystem.out.println( a );\r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable-3\">byte<\/span> <span class=\"cm-variable\">a<\/span> <span class=\"cm-operator\">=<\/span> <span class=\"cm-number\">0<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">while<\/span>(<span class=\"cm-operator\">++<\/span><span class=\"cm-variable\">a<\/span> <span class=\"cm-operator\">&gt;<\/span> <span class=\"cm-number\">0<\/span>);<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">System<\/span>.<span class=\"cm-variable\">out<\/span>.<span class=\"cm-variable\">println<\/span>( <span class=\"cm-variable\">a<\/span> );<\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 6,
+            "lines_more": 1,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18JL5S6A",
+                "created": 1463115852,
+                "timestamp": 1463115852,
+                "user": "U16UQ8LAZ",
+                "is_intro": true,
+                "comment": "\u0447\u0442\u043e \u043f\u0440\u043e\u0438\u0437\u043e\u0439\u0434\u0451\u0442 \u0438\u043b\u0438 \u0447\u0442\u043e \u0432\u044b\u0432\u0435\u0434\u0435\u0442?",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U16UQ8LAZ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U16UQ8LAZ|gr8web>",
+        "bot_id": null,
+        "ts": "1463115853.000483"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "-128",
+        "ts": "1463115956.000485"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "<!here|@here> \u0432\u0441\u0435\u043c \u0434\u043e\u0431\u0440\u043e\u0435 \u0443\u0442\u0440\u043e",
+        "edited": {
+            "user": "U154201DJ",
+            "ts": "1463116029.000000"
+        },
+        "ts": "1463116004.000486"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043d\u0435 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u043b? :wink: \u0432\u0438\u0434\u0435\u043b \u0443\u0436\u0435?",
+        "ts": "1463116020.000487"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0434\u043e\u0431\u0440\u043e\u0435",
+        "ts": "1463116030.000489"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0437\u0430\u043f\u0443\u0441\u043a\u0430\u043b",
+        "ts": "1463116036.000490"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "-128",
+        "ts": "1463116038.000491"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0437\u043d\u0430\u043b \u0431\u044b \u043d\u0435 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u044f?",
+        "ts": "1463116081.000492"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0442\u0430\u043a\u0441 - \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0438 byte \u043e\u0442 -128 \u0434\u043e 128 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e",
+        "ts": "1463116158.000493"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "?",
+        "ts": "1463116159.000494"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "+127, \u0435\u0441\u043b\u0438 \u044f \u043d\u0435 \u043e\u0448\u0438\u0431\u0430\u044e\u0441\u044c",
+        "ts": "1463116224.000495"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0443 \u0434\u0430",
+        "ts": "1463116234.000496"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0434\u043e 128",
+        "ts": "1463116247.000497"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": ":slightly_smiling_face:",
+        "ts": "1463116250.000498"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0434\u043e \u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u0431\u044b\u0447\u043d\u043e \u0438\u043b\u0438 \u043d\u0435\u0442?",
+        "ts": "1463116278.000499"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u0446\u0438\u043a\u043b\u0435 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u0438\u043d\u043a\u0440\u0435\u043c\u0435\u043d\u0442\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0430",
+        "ts": "1463116279.000500"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043e\u0431\u0456\u0447\u043d\u043e \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u0440\u0430\u0437\u043c\u0456\u0442\u043e\u0435 \u0438 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0412\u0430\u0448\u0435 \u043e\u0431\u0456\u0447\u043d\u043e \u0438 \u043c\u043e\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u0456\u0442\u044c \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u043e",
+        "ts": "1463116422.000501"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0443 \u0446\u0438\u043a\u043b \u0438\u0434\u0435\u0442 \u0434\u043e \u0442\u0435\u0445 \u043f\u043e\u0440 \u043f\u043e\u043a\u0430 \u0430 \u043d\u0435 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f 127",
+        "ts": "1463116506.000502"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0430 \u0438\u0442\u0435\u0440\u0430\u0446\u0438\u0438 \u043a\u043e\u0433\u0434\u0430 \u0430 = 127 \u0435\u0439 \u043f\u0440\u0438\u0431\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f 1 \u043d\u043e \u0442\u0430\u043a \u043a\u0430\u043a \u043f\u0440\u0435\u0434\u0435\u043b \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0439 127 \u0435\u0439 \u0441\u043f\u0440\u0438\u0441\u0432\u0430\u0435\u0442\u0432\u0430\u0435\u0442\u0441\u044f \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 -128",
+        "ts": "1463116546.000503"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043d\u0443 \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0441\u044f \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u0432\u044b\u0445\u043e\u0434\u0430 \u0438\u0437 \u0446\u0438\u043a\u043b\u0430",
+        "ts": "1463116571.000504"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\\",
+        "ts": "1463116571.000505"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043a\u0430\u043a \u0442\u043e \u0442\u0430\u043a",
+        "ts": "1463116576.000506"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0434\u0430",
+        "ts": "1463116584.000507",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U154201DJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0444\u0443\u0445",
+        "ts": "1463116588.000508"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0440\u0430\u0437\u0431\u0443\u0434\u0438\u043b \u043c\u0435\u043d\u044f",
+        "ts": "1463116591.000509"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u044d\u0442\u043e\u0442 \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u043a\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f",
+        "ts": "1463116612.000510"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "?",
+        "ts": "1463116613.000511"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u043f\u0435\u0440\u0435\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f",
+        "ts": "1463116617.000512"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "?",
+        "ts": "1463116618.000513"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0434\u0430. \u043d\u043e \u0432\u043e\u043f\u0440\u043e\u0441 \u0432 \u0442\u043e\u043c, \u0441\u043c\u043e\u0433 \u0431\u044b \u0442\u044b \u0441\u043a\u0430\u0437\u0430\u0442\u044a \u043d\u0435 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u044f \u043a\u043e\u0434.",
+        "ts": "1463116725.000514"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0442\u0435\u043f\u0435\u0440\u044c \u0434\u0430",
+        "ts": "1463116745.000515"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": ":slightly_smiling_face:",
+        "ts": "1463116748.000516"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0434\u0443\u043c\u0430\u044e \u0434\u0430 \u043f\u0440\u043e\u0441\u0442\u043e \u0447\u0443\u0442\u044c \u043f\u043e\u0440\u0430\u0437\u043c\u044b\u0448\u043b\u044f\u0442\u044c - \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u043b \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u043b \u0441\u0435\u0431\u044f",
+        "ts": "1463116879.000517"
+    },
+    {
+        "type": "message",
+        "user": "U154201DJ",
+        "text": "\u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0432\u043e\u043f\u0440\u043e\u0441",
+        "ts": "1463116884.000518"
+    },
+    {
+        "user": "U16HQHS6R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16HQHS6R|andrei375> has joined the channel",
+        "ts": "1463118738.000519"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U16P352LQ|dimonick> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/dimonick\/F18JUANDA\/-.java|Untitled> and commented: \u0447\u0442\u043e \u0432\u044b\u0432\u0435\u0434\u0435\u0442?",
+        "file": {
+            "id": "F18JUANDA",
+            "created": 1463121361,
+            "timestamp": 1463121361,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U16P352LQ",
+            "editable": true,
+            "size": 49,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18JUANDA\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18JUANDA\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/dimonick\/F18JUANDA\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18JUANDA-92daa84c50",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/dimonick\/F18JUANDA\/-.java\/edit",
+            "preview": "int i=0;\r\ni=i++;\r\ni=i++;\r\nSystem.out.println(i); ",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable-3\">int<\/span> <span class=\"cm-variable\">i<\/span><span class=\"cm-operator\">=<\/span><span class=\"cm-number\">0<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">i<\/span><span class=\"cm-operator\">=<\/span><span class=\"cm-variable\">i<\/span><span class=\"cm-operator\">++<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">i<\/span><span class=\"cm-operator\">=<\/span><span class=\"cm-variable\">i<\/span><span class=\"cm-operator\">++<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-variable\">System<\/span>.<span class=\"cm-variable\">out<\/span>.<span class=\"cm-variable\">println<\/span>(<span class=\"cm-variable\">i<\/span>); <\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 4,
+            "lines_more": 0,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc18K4V4P9",
+                "created": 1463121361,
+                "timestamp": 1463121361,
+                "user": "U16P352LQ",
+                "is_intro": true,
+                "comment": "\u0447\u0442\u043e \u0432\u044b\u0432\u0435\u0434\u0435\u0442?",
+                "channel": "C171F6QRY"
+            }
+        },
+        "user": "U16P352LQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U16P352LQ|dimonick>",
+        "bot_id": null,
+        "ts": "1463121361.000520"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "0?",
+        "ts": "1463121452.000521",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U16P352LQ",
+                    "U154201DJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U154201DJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u044d\u0445, \u0442\u043e\u0447\u043d\u043e \u043d\u0430\u0434\u043e \u043a\u043e\u043c\u043d\u0430\u0442\u0443 #dno, \u0431\u0443\u0434\u0443 \u0442\u0430\u043c \u0442\u0443\u0441\u0438\u0442\u044c",
+        "ts": "1463121955.000522"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "<@U16UQ8LAZ>:  +1 :smiley: \u043d\u0430\u0434\u043e \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u0435)",
+        "edited": {
+            "user": "U16P352LQ",
+            "ts": "1463122326.000000"
+        },
+        "ts": "1463122307.000523"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U17SM7N78|oio> commented on <@U185K50H1|artemjev>'s file <https:\/\/3monthjunior.slack.com\/files\/artemjev\/F18J7UH1S\/-.java|Untitled>: \u041a\u0438\u0440\u0438\u043b\u0438\u0446\u0430 \u0432 \u043a\u043e\u0434\u0435 -\u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e\u0435 \u0437\u043b\u043e",
+        "file": {
+            "id": "F18J7UH1S",
+            "created": 1463110852,
+            "timestamp": 1463110852,
+            "name": "-.java",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "java",
+            "pretty_type": "Java",
+            "user": "U185K50H1",
+            "editable": true,
+            "size": 1256,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18J7UH1S\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F18J7UH1S\/download\/-.java?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/artemjev\/F18J7UH1S\/-.java",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F18J7UH1S-3fdb2a1279",
+            "edit_link": "https:\/\/3monthjunior.slack.com\/files\/artemjev\/F18J7UH1S\/-.java\/edit",
+            "preview": "package com.art.html;\r\nimport java.net.URL;\r\nimport java.io.InputStreamReader;\r\nimport java.io.BufferedReader;\r\nimport java.io.IOException;\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">package<\/span> <span class=\"cm-def\">com<\/span>.<span class=\"cm-variable\">art<\/span>.<span class=\"cm-variable\">html<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">net<\/span>.<span class=\"cm-variable\">URL<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">InputStreamReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">BufferedReader<\/span>;<\/pre><\/div>\n<div><pre><span class=\"cm-keyword\">import<\/span> <span class=\"cm-variable\">java<\/span>.<span class=\"cm-variable\">io<\/span>.<span class=\"cm-variable\">IOException<\/span>;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 37,
+            "lines_more": 32,
+            "preview_is_truncated": null,
+            "channels": [
+                "C171F6QRY"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "initial_comment": {
+                "id": "Fc18JPGJ01",
+                "created": 1463110852,
+                "timestamp": 1463110852,
+                "user": "U185K50H1",
+                "is_intro": true,
+                "comment": "\u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435  \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0433\u043e \u043a\u043e\u0434\u0430",
+                "channel": "C171F6QRY"
+            }
+        },
+        "comment": {
+            "id": "Fc18K7V56K",
+            "created": 1463122520,
+            "timestamp": 1463122520,
+            "user": "U17SM7N78",
+            "is_intro": false,
+            "comment": "\u041a\u0438\u0440\u0438\u043b\u0438\u0446\u0430 \u0432 \u043a\u043e\u0434\u0435 -\u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e\u0435 \u0437\u043b\u043e",
+            "channel": "C00"
+        },
+        "is_intro": false,
+        "ts": "1463122520.000525"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u041a\u0441\u0442\u0430\u0442\u0438 \u043a\u043e\u043c\u0443 \u043d\u0440\u0430\u0432\u044f\u0442\u0441\u044f \u0437\u0430\u0434\u0430\u0447\u043a\u0438 \u0442\u0438\u043f\u0430 i = i++ \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0435\u0435,  \u0441\u043e\u0432\u0435\u0442\u0443\u044e \u0411\u043b\u043e\u0445\u0430 \u0438 \u0413\u0430\u0444\u0442\u0435\u0440\u0430 Java Puzzlers",
+        "edited": {
+            "user": "U17T2T80N",
+            "ts": "1463472042.000000"
+        },
+        "ts": "1463122781.000526"
+    }
+]

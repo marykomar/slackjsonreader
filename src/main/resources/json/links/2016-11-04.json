@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "\u0414\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u043d\u0435 \u043f\u043e\u043d\u044f\u043b, \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u0438 \u0437\u0430\u0447\u0435\u043c DoubleBraces \u0438\u043d\u0438\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f:",
+        "edited": {
+            "user": "U172MPHTK",
+            "ts": "1478271640.000000"
+        },
+        "ts": "1478271609.000022"
+    },
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "<http:\/\/info.javarush.ru\/tag\/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B\/>",
+        "attachments": [
+            {
+                "title": "\u0448\u0430\u0431\u043b\u043e\u043d\u044b \/ \u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0442\u0435\u0433\u0430\u043c \/ InfoJavaRush",
+                "title_link": "http:\/\/info.javarush.ru\/tag\/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B\/",
+                "text": "Double brace \u0438\u043d\u0438\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f.",
+                "fallback": "\u0448\u0430\u0431\u043b\u043e\u043d\u044b \/ \u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0442\u0435\u0433\u0430\u043c \/ InfoJavaRush",
+                "from_url": "http:\/\/info.javarush.ru\/tag\/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B\/",
+                "service_name": "info.javarush.ru",
+                "id": 1
+            }
+        ],
+        "ts": "1478271610.000023"
+    }
+]

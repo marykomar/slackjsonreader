@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1ERXB5V5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1ERXB5V5|anvi_bb> has joined the channel",
+        "ts": "1465414379.000012"
+    },
+    {
+        "user": "U172BSKF1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172BSKF1|micton> has joined the channel",
+        "ts": "1465418520.000013"
+    }
+]

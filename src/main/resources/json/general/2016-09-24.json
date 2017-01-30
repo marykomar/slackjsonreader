@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U2FG1LV8C",
+        "text": "<@U2FG1LV8C|kiku> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474711262.000393"
+    },
+    {
+        "type": "message",
+        "user": "U1AFM877B",
+        "text": "\u0441\u0434\u0435\u043b\u0430\u043b \u0442\u0430\u043a, \u0441\u043c\u0443\u0449\u0430\u0435\u0442 \u0447\u0442\u043e \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u044b\u0435 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u044b \u043d\u0430\u0441\u043b\u0435\u0434\u0443\u044e\u0442 \u043d\u0435\u043d\u0443\u0436\u043d\u0443\u044e \u0438\u043c \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+        "ts": "1474731116.000395"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1AFM877B|kiev_junta> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F2FHT74KC\/pasted_image_at_2016_09_24_06_33_pm.png|class diagram>",
+        "file": {
+            "id": "F2FHT74KC",
+            "created": 1474731235,
+            "timestamp": 1474731235,
+            "name": "Pasted image at 2016_09_24 06_33 PM.png",
+            "title": "class diagram",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1AFM877B",
+            "editable": false,
+            "size": 57834,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F2FHT74KC\/pasted_image_at_2016_09_24_06_33_pm.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F2FHT74KC\/download\/pasted_image_at_2016_09_24_06_33_pm.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F2FHT74KC-ee6dcd6c7c\/pasted_image_at_2016_09_24_06_33_pm_64.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F2FHT74KC-ee6dcd6c7c\/pasted_image_at_2016_09_24_06_33_pm_80.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F2FHT74KC-ee6dcd6c7c\/pasted_image_at_2016_09_24_06_33_pm_360.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360_w": 360,
+            "thumb_360_h": 176,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F2FHT74KC-ee6dcd6c7c\/pasted_image_at_2016_09_24_06_33_pm_480.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_480_w": 480,
+            "thumb_480_h": 234,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F2FHT74KC-ee6dcd6c7c\/pasted_image_at_2016_09_24_06_33_pm_160.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F2FHT74KC-ee6dcd6c7c\/pasted_image_at_2016_09_24_06_33_pm_720.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_720_w": 720,
+            "thumb_720_h": 351,
+            "image_exif_rotation": 1,
+            "original_w": 927,
+            "original_h": 452,
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F2FHT74KC\/pasted_image_at_2016_09_24_06_33_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F2FHT74KC-7020d84354",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1AFM877B",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1AFM877B|kiev_junta>",
+        "bot_id": null,
+        "ts": "1474731237.000399"
+    },
+    {
+        "user": "U2FHN9SCU",
+        "text": "<@U2FHN9SCU|vlad.tkachenko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474738265.000400"
+    },
+    {
+        "type": "message",
+        "user": "U2FHN9SCU",
+        "text": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442! \u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0439\u0442\u0435 \u043d\u043e\u0432\u0438\u0447\u043a\u0430)",
+        "ts": "1474738428.000401"
+    },
+    {
+        "type": "message",
+        "user": "U1AFM877B",
+        "text": "<@U2FHN9SCU>  \u0448\u0430\u043b\u043e\u043c!",
+        "ts": "1474745181.000402"
+    },
+    {
+        "user": "U2FK074F2",
+        "text": "<@U2FK074F2|oik741> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474761666.000403"
+    },
+    {
+        "user": "U2FKLU31B",
+        "text": "<@U2FKLU31B|mavchinnikov> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474772329.000404"
+    }
+]

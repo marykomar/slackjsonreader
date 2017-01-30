@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1PU0ATRU",
+        "text": "<@U1PU0ATRU|zmitserkoskinen> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1467967249.000033"
+    },
+    {
+        "user": "U1Q4TF8CB",
+        "text": "<@U1Q4TF8CB|julsixage> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468019267.000034"
+    }
+]

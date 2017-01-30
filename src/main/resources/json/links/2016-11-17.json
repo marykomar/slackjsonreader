@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "user": "U18BA9X4G",
+        "text": "\u0417\u0430\u043f\u0438\u0441\u044c \u0432\u0435\u0431\u0438\u043d\u0430\u0440\u0430\n<https:\/\/youtu.be\/J9yDOGT2BhE>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "\u0412\u0435\u0431\u0438\u043d\u0430\u0440: \u041e\u0421\u0412\u0410\u0418\u0412\u0410\u0415\u041c JAVA ENTERPRISE",
+                "title_link": "https:\/\/youtu.be\/J9yDOGT2BhE",
+                "author_name": "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u041a\u0438\u0441\u043b\u0438\u043d",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCMiuo1BSwQxRMl6781evABw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/J9yDOGT2BhE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \u0412\u0435\u0431\u0438\u043d\u0430\u0440: \u041e\u0421\u0412\u0410\u0418\u0412\u0410\u0415\u041c JAVA ENTERPRISE",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/J9yDOGT2BhE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/J9yDOGT2BhE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U18BA9X4G",
+            "ts": "1479421478.000000"
+        },
+        "ts": "1479421465.000026",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U1912DD9R",
+                    "U16NVCQHE"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

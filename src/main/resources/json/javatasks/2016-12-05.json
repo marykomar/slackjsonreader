@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U1KFLB248",
+        "text": "<!here|@here> <https:\/\/github.com\/DmitriyLamzin\/RegistrationService>\n\u0422\u0430\u043a\u043e\u0439 \u0432\u043e\u043f\u0440\u043e\u0441 \u043d\u0443\u0436\u043d\u043e \u043b\u0438 \u0440\u0430\u0437\u0431\u0438\u0432\u0430\u0442\u044c \u043d\u0430 \u043c\u043e\u0434\u0443\u043b\u0438 \u0434\u0430\u043d\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442?",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "DmitriyLamzin\/RegistrationService",
+                "title_link": "https:\/\/github.com\/DmitriyLamzin\/RegistrationService",
+                "text": "Contribute to RegistrationService development by creating an account on GitHub.",
+                "fallback": "GitHub: DmitriyLamzin\/RegistrationService",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/13131862?v=3&s=400",
+                "from_url": "https:\/\/github.com\/DmitriyLamzin\/RegistrationService",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "ts": "1480927556.000002"
+    }
+]

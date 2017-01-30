@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U2BTYES8M",
+        "text": "<@U2BTYES8M|slazzy> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473931349.000014"
+    },
+    {
+        "user": "U184K4742",
+        "text": "<@U184K4742|skyone> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1473963301.000015"
+    }
+]

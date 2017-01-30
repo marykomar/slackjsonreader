@@ -1,0 +1,416 @@
+[
+    {
+        "user": "U1AHEH84F",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1AHEH84F|zaliskiy> has joined the channel",
+        "ts": "1463757628.000236"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!channel> \u044d\u0442\u043e \u043e\u0434\u0438\u043d \u0438\u0437 \u043a\u043b\u0430\u0441\u0441\u043e\u0432 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0437\u0430\u043a\u0443\u043f\u043e\u043a iGOV <https:\/\/github.com\/e-government-ua\/i\/blob\/a5a89b1ab5b07f90266686e191029123f3352134\/wf-base\/src\/main\/java\/org\/igov\/service\/business\/action\/task\/listener\/doc\/SendDocument_SWinEd.java>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "e-government-ua\/i",
+                "title_link": "https:\/\/github.com\/e-government-ua\/i\/blob\/a5a89b1ab5b07f90266686e191029123f3352134\/wf-base\/src\/main\/java\/org\/igov\/service\/business\/action\/task\/listener\/doc\/SendDocument_SWinEd.java",
+                "text": "<http:\/\/iGov.org.ua|iGov.org.ua> - \u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0440\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439",
+                "fallback": "GitHub: e-government-ua\/i",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/11369419?v=3&s=400",
+                "from_url": "https:\/\/github.com\/e-government-ua\/i\/blob\/a5a89b1ab5b07f90266686e191029123f3352134\/wf-base\/src\/main\/java\/org\/igov\/service\/business\/action\/task\/listener\/doc\/SendDocument_SWinEd.java",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U150DHUL9",
+            "ts": "1463763819.000000"
+        },
+        "ts": "1463763781.000237"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0421\u043a\u0430\u0436\u0438\u0442\u0435 \u043c\u043d\u0435 \u0447\u0442\u043e \u0437\u0434\u0435\u0441\u044c \u043d\u0435 \u0442\u0430\u043a \u0438 \u043a\u0430\u043a \u044d\u0442\u043e \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c?",
+        "ts": "1463763793.000239"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "1. \u0412 \u042d\u043a\u043b\u0438\u043f\u0441\u0435 \u043f\u0438\u0441\u0430\u043b\u0438)",
+        "ts": "1463763874.000241"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "\u0412\u043d\u0430\u0447\u0430\u043b\u0435 \u0438\u043c\u043f\u043b\u0435\u043c\u0435\u043d\u0442\u0438\u043b\u0438 serializable, \u044d\u043a\u043b\u0438\u043f\u0441 \u043f\u043e \u0434\u0435\u0444\u043e\u043b\u0442\u0443 \u0432\u0441\u0442\u0430\u0432\u0438\u043b serialVersionUID. \u041f\u043e\u0442\u043e\u043c \u0443\u0431\u0440\u0430\u043b\u0438 serializable, \u0430 \u043f\u0440\u043e serialVersionUID \u0437\u0430\u0431\u044b\u043b\u0438",
+        "edited": {
+            "user": "U154C66NP",
+            "ts": "1463763973.000000"
+        },
+        "ts": "1463763946.000242"
+    },
+    {
+        "type": "message",
+        "user": "U17TS4G5V",
+        "text": "\u043f\u043e \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044e \u043c\u043e\u0436\u043d\u043e \u043c\u043d\u043e\u0433\u043e \u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u043f\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u0443 \u043d\u0435\u043f\u043e\u043d\u044f\u0442\u043d\u043e \u0437\u0430\u0447\u0435\u043c \u043f\u0435\u0440\u0435\u0431\u043e\u0440 \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 211, \u043f\u043e \u0438\u0434\u0435\u0435 \u0442\u0430\u043c \u0445\u0435\u0448\u0442\u0430\u0431\u043b\u0438\u0446\u0430 (\u0445\u043e\u0442\u044f \u043a\u043e\u043d\u0435\u0447\u043d\u043e \u043d\u0435 \u0444\u0430\u043a\u0442, \u043d\u043e \u0442\u0430\u043a \"\u0432\u0438\u0434\u0438\u0442\u0441\u044f\")",
+        "edited": {
+            "user": "U17TS4G5V",
+            "ts": "1463764266.000000"
+        },
+        "ts": "1463764204.000244"
+    },
+    {
+        "type": "message",
+        "user": "U154C66NP",
+        "text": "\u041d\u0430 161 \u0441\u0442\u0440\u043e\u0447\u043a\u0435 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u043e\u0433\u0440\u043e\u043c\u043d\u0430\u044f \u0443\u0442\u0435\u0447\u043a\u0430 \u043f\u0430\u043c\u044f\u0442\u0438 - \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437 \u043f\u0440\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0438 \u044d\u0442\u043e\u0433\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430 \u0431\u0443\u0434\u0435\u0442 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u043e\u0432\u0430\u044f \u0444\u0430\u0431\u0440\u0438\u043a\u0430. \u0424\u0430\u0431\u0440\u0438\u043a\u0438 \u043b\u0443\u0447\u0448\u0435 \u0432\u0441\u0435\u0433\u043e \u0434\u0435\u043b\u0430\u0442\u044c \u043a\u0430\u043a \u0441\u0438\u043d\u0433\u043b\u0435\u0442\u043e\u043d\u044b, \u0442. \u043a. \u044d\u0442\u043e \u0442\u044f\u0436\u0451\u043b\u044b\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b. \u0421 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0421\u043f\u0440\u0438\u043d\u0433\u0430, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440.",
+        "ts": "1463764652.000246",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U16P352LQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0417\u0430\u0441\u0447\u0438\u0442\u0430\u043d\u043e. \u041d\u043e \u0435\u0441\u0442\u044c \u0435\u0449\u0435",
+        "ts": "1463764923.000247"
+    },
+    {
+        "text": "<@U154C66NP|nick> now has 1 points!",
+        "username": "Prowd",
+        "bot_id": "B19RW4J3C",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-18\/43861454070_48.png"
+        },
+        "attachments": [
+            {
+                "fallback": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "text": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "title": "\n+1 from <@U150DHUL9|lozenko>",
+                "id": 1,
+                "color": "875ca5",
+                "mrkdwn_in": [
+                    "text",
+                    "title"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463764935.000249"
+    },
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "&gt;\u041d\u043e \u0435\u0441\u0442\u044c \u0435\u0449\u0435\n\u041b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0430\u043c \u0441\u0442\u0440\u0430\u043d\u043d\u043e\u0435 \u0432\u0441\u0435 \u043d\u0430 \u0443\u0440\u043e\u0432\u043d\u0435 info, \u0430 \u0432 error 'e.getMessage()' \u043b\u0438\u0448\u043d\u0435\u0435",
+        "ts": "1463767159.000250",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e \u043d\u0435 \u043e\u043f\u0442\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0435.",
+        "ts": "1463767349.000251"
+    },
+    {
+        "text": "<@U15KGKN2J|fiz> now has 1 points!",
+        "username": "Prowd",
+        "bot_id": "B19RW4J3C",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-18\/43861454070_48.png"
+        },
+        "attachments": [
+            {
+                "fallback": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "text": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "title": "\n+1 from <@U150DHUL9|lozenko>",
+                "id": 1,
+                "color": "875ca5",
+                "mrkdwn_in": [
+                    "text",
+                    "title"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463767494.000252"
+    },
+    {
+        "text": "<@U15KGKN2J|fiz> now has 1 points!",
+        "username": "Prowd",
+        "bot_id": "B19RW4J3C",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-18\/43861454070_48.png"
+        },
+        "attachments": [
+            {
+                "fallback": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "text": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "title": "\n+1 from <@U150DHUL9|lozenko>",
+                "id": 1,
+                "color": "875ca5",
+                "mrkdwn_in": [
+                    "text",
+                    "title"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463767494.000253"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0432\u0438\u0436\u0443 \u0447\u0442\u043e\u0431\u044b \u0433\u043b\u044e\u043a \u043a\u043e\u043c\u0443-\u0442\u043e \u043d\u0430 \u043f\u043e\u043b\u044c\u0437\u0443 \u043f\u043e\u0448\u0435\u043b :slightly_smiling_face:",
+        "ts": "1463767562.000254"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0415\u0441\u0442\u044c \u0435\u0449\u0435 \u0433\u0434\u0435 \u043a\u043e\u043f\u0430\u0442\u044c \u0432 \u044d\u0442\u043e\u043c \u043a\u043b\u0430\u0441\u0441\u0435.",
+        "ts": "1463767578.000255"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "110-133 \u0445\u043e\u0447\u0435\u0442\u0441\u044f \u0437\u0430\u043c\u0435\u043d\u0438\u0442\u044c \u043d\u0430 \u0447\u0442\u043e-\u0442\u043e \u0442\u0438\u043f\u0430 Dozer \u0447\u0442\u043e\u0431\u044b \u0441\u0430\u043c \u043c\u0430\u043f\u0438\u043b \u0447\u0442\u043e \u043e\u0442\u043a\u0443\u0434\u0430 \u0431\u0440\u0430\u0442\u044c",
+        "ts": "1463767639.000256"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "\u043f\u0440\u043e \u0432\u044b\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0434\u0430 \u043c\u043e\u043b\u0447\u0443, \u043c\u0435\u0441\u0442\u0430\u043c\u0438 \u0445\u0440\u043e\u043c\u0430\u0435\u0442",
+        "ts": "1463767677.000257"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "\u0434\u043e\u043a\u0438 - \u044d\u0442\u043e \u0441\u0430\u043c\u043e\u0435 \u0431\u043e\u043b\u044c\u043d\u043e\u0435. \u041a\u0443\u0447\u0430 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0445 \u043f\u043e\u043b\u0435\u0439 \u0438 \u043d\u0435 \u0437\u043d\u0430\u044f \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043d\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043d\u0435 \u0440\u0430\u0437\u0431\u0435\u0440\u0435\u0448\u044c\u0441\u044f \u0447\u0442\u043e \u0435\u0441\u0442\u044c \u0447\u0442\u043e",
+        "ts": "1463767704.000258"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "`DocumentInData[] docs = new DocumentInData[1];` - \u0437\u0430\u0447\u0435\u043c???",
+        "ts": "1463767726.000259"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "209-225 \u0432 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u043c\u0435\u0442\u043e\u0434 \u0440\u0430\u0437\u0431\u043e\u0440\u0430 \u043e\u0442\u0432\u0435\u0442\u0430",
+        "ts": "1463767848.000262"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "\u043e\u0431\u043e\u0431\u0449\u0443: \u044d\u0442\u0443 \u043f\u0440\u043e\u0441\u0442\u044b\u043d\u044e \u043d\u0430\u0434\u043e \u0440\u0430\u0437\u0431\u0438\u0442\u044c \u043d\u0430 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043c\u0435\u0442\u043e\u0434\u043e\u0432, \u043e\u0434\u0438\u043d \u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0442\u043e\u0440\u0447\u0430\u0449\u0438\u043c \u043d\u0430\u0440\u0443\u0436\u0443, \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0435.",
+        "ts": "1463767883.000263"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433 \u043d\u0435 \u0431\u0435\u0440\u0435\u043c \u0443\u0436\u0435 - \u0442\u0443\u0442 \u0432\u0441\u0435 \u0447\u0435\u0440\u0435\u0437 \u0436",
+        "ts": "1463767897.000264"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0435\u0441\u0442\u044c \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u043e\u043c\u0435\u043d\u0442\u044b \u0433\u0434\u0435 \u0435\u0441\u0442\u044c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430",
+        "ts": "1463767905.000265"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "\u0418\u0437 \u043c\u0435\u043b\u043a\u043e\u0433\u043e: `GeneralConfig generalConfig;` \u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f, \u0430 \u0438\u043d\u0436\u0435\u043a\u0442\u0438\u0442\u0441\u044f",
+        "ts": "1463768321.000266",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "instanceof - \u043c\u0435\u0434\u043b\u0435\u043d\u043d\u044b\u0439 \u0438 \u0432 \u0446\u0438\u043a\u043b\u0435. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0440\u0443\u0448\u0430\u0435\u0442\u0441\u044f \u041e\u041e\u041f \u0438 \u043e\u0442 instanceof \u043c\u043e\u0436\u043d\u043e \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f",
+        "ts": "1463768404.000267"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "\u0437\u0430\u0447\u0435\u043c \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c soapProxy? \u041f\u043e\u0447\u0435\u043c\u0443 \u043d\u0435\u043b\u044c\u0437\u044f \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043a\u0430\u043a\u043e\u0439-\u0442\u043e \u043f\u0443\u043b \u043a\u043e\u043d\u043d\u0435\u043a\u0442\u043e\u0432 \u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0431\u0440\u0430\u0442\u044c \u043a\u043e\u043d\u043d\u0435\u043a\u0442? \u0414\u043e\u043b\u0433\u043e \u0436\u0435...",
+        "edited": {
+            "user": "U15AGB6HY",
+            "ts": "1463768557.000000"
+        },
+        "ts": "1463768448.000268"
+    },
+    {
+        "type": "message",
+        "user": "U17TS4G5V",
+        "text": "\u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439 \u0431\u043b\u043e\u043a finally :slightly_smiling_face:",
+        "ts": "1463768613.000270"
+    },
+    {
+        "text": "<@U15AGB6HY|0xff> now has 1 points!",
+        "username": "Prowd",
+        "bot_id": "B19RW4J3C",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-18\/43861454070_48.png"
+        },
+        "attachments": [
+            {
+                "fallback": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "text": "View the <http:\/\/prowd.io\/leaderboard\/AzqDNtNhqn8f7RqtE|leaderboard>",
+                "title": "\n+1 from <@U150DHUL9|lozenko>",
+                "id": 1,
+                "color": "875ca5",
+                "mrkdwn_in": [
+                    "text",
+                    "title"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1463768953.000271"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "`String sSenderEDRPOUValue = getStringFromFieldExpression(this.sSenderEDRPOU, execution);` \u0447\u0442\u043e \u0437\u0430 \u0444\u0438\u0433\u043d\u044f? `sSenderEDRPOU` \u0442\u0443\u0442 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437, \u044d\u0442\u043e \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0435 \u043f\u043e\u043b\u0435. \u0422.\u0435. \u043e\u043d\u043e \u0438\u043d\u0438\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0438\u043b\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432\u043d\u0443\u0442\u0440\u0438 \u043c\u0435\u0442\u043e\u0434\u0430 `getStringFromFieldExpression`? \u0418 \u0434\u0430\u043b\u044c\u0448\u0435 \u043f\u043e \u043a\u043e\u0434\u0443 \u043d\u0438\u0433\u0434\u0435 `sSenderEDRPOU` \u043d\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f, \u0442\u043e\u043b\u044c\u043a\u043e `sSenderEDRPOUValue`",
+        "ts": "1463770798.000272"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "\u0418 \u044d\u0442\u043e \u0436\u0435 \u043f\u043e\u043b\u0435, `sSenderEDRPOU` \u0435\u0449\u0435 \u0432\u044b\u043d\u0435\u0441\u043b\u0438 \u0438 \u043a\u0430\u043a \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u043b\u044f \u043a\u043b\u0430\u0441\u0441\u0441\u0430. \u0410\u043d\u0430\u043b\u043e\u0433\u0438\u0447\u043d\u043e \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0445 \u043f\u043e\u043b\u0435\u0439 \u043a\u043b\u0430\u0441\u0441\u0430....",
+        "ts": "1463770881.000273"
+    },
+    {
+        "type": "message",
+        "user": "U15AGB6HY",
+        "text": "`kvStart` \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u044b\u0432\u0430\u044e\u0442 \u0438 Integer \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 174. \u041f\u043e\u0447\u0435\u043c\u0443 \u043d\u0435 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0442\u044c \u0441\u0440\u0430\u0437\u0443 \u0438\u043d\u0442 \u0438\u0437 \u043c\u0435\u0442\u043e\u0434\u0430 \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 129? \u041f\u0435\u0440\u0444\u043e\u0440\u043c\u0430\u043d\u0441 \u0436\u0435... \u041b\u0438\u0448\u043d\u0438\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b",
+        "edited": {
+            "user": "U15AGB6HY",
+            "ts": "1463771064.000000"
+        },
+        "ts": "1463771056.000274"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!here|@here> \u0432\u043e\u043f\u0440\u043e\u0441 \u0432 \u043b\u043e\u0431: \u043f\u043e\u0447\u0435\u043c\u0443 JSF - \u044d\u0442\u043e \u043e\u0442\u0441\u0442\u043e\u0439",
+        "ts": "1463776580.000276"
+    },
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "\u0434\u043b\u044f \u043d\u0430\u0447\u0430\u043b\u0430 - \u043c\u043d\u043e\u0433\u0438\u0435 \u0441 \u0442\u043e\u0431\u043e\u0439 \u043d\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u044f\u0442\u0441\u044f )",
+        "ts": "1463776616.000277"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0432\u044b \u0436\u0435 \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0439\u0442\u0435 \u0447\u0442\u043e \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u0434\u043b\u044f \u0434\u0438\u0441\u043a\u0443\u0441\u0441\u0438\u0438",
+        "ts": "1463776652.000278"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0430 \u044f \u0435\u0449\u0435 \u0442\u043e\u0442 \u043f\u0440\u043e\u0432\u043e\u043a\u0430\u0442\u043e\u0440",
+        "ts": "1463776665.000279"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0412\u0441\u043f\u043e\u043c\u043d\u0438\u043c \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0446\u0438\u0442\u0430\u0442\u0443 \u0413\u043e\u0441\u043b\u0438\u043d\u0433\u0430, \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044f Java \u043e JSF",
+        "edited": {
+            "user": "U150DHUL9",
+            "ts": "1463776802.000000"
+        },
+        "ts": "1463776774.000280"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "&gt;Server side UI rendering and lack of client-side scripting ensures that JSF will not succeed as the paradigm has shifted. You will hear of many improvements in JSF 2.0, but I am not looking.",
+        "ts": "1463776780.000281"
+    },
+    {
+        "type": "message",
+        "user": "U16FRNMJ9",
+        "text": "\u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0432 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438 ajax \u0437\u0430\u043f\u0440\u043e\u0441\u0430\u043c\u0438 jsf \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432. \u0438 \u0442\u0430\u043a \u0436\u0435 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u044d\u0442\u0438\u0445 \u0436\u0435 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432 (\u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0447\u0435\u0433\u043e \u0442\u043e \u0441\u0432\u043e\u0435\u0433\u043e \u043a\u0430\u0441\u0442\u043e\u043c\u043d\u043e\u0433\u043e)",
+        "ts": "1463776942.000283"
+    },
+    {
+        "type": "message",
+        "user": "U17V9A0EQ",
+        "text": "\u043d\u0430 jsf \u043c\u043e\u0436\u043d\u043e \u0432 ajax?",
+        "ts": "1463780195.000284"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u043a\u0430\u0441\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0442\u043e\u0433\u043e snippet:\n1. \u0432 \u043e\u0434\u043d\u043e\u043c try catch  \u043d\u0430\u0433\u0440\u0443\u0437\u0438\u043b\u0438 \u0432\u0441\u044e \u043b\u043e\u0433\u0438\u043a\u0443 - \u0435\u0441\u043b\u0438 \u043f\u043e \u043a\u0430\u043a\u043e\u0439 \u0442\u043e \u043f\u0440\u0438\u0447\u0438\u043d\u0435 \u0433\u0434\u0435 \u0442\u043e \u0443\u043f\u0430\u0434\u0435\u0442 (\u0430 \u043c\u0435\u0441\u0442 \u0442\u0430\u043c \u0445\u0432\u0430\u0442\u0430\u0435\u0442: \u043d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 \u043c\u0430\u0440\u0448\u0430\u043b\u0438\u043d\u0433\u0430 \u0438 \u0432 \u043f\u043b\u043e\u0442\u044c \u0434\u043e \"\u0431\u0435\u0437\u043e\u0431\u0438\u0434\u043d\u044b\u0445\" \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f\u0445 \u0432 \u043b\u043e\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438), \u0442\u043e \u0431\u0438\u0437\u043d\u0435\u0441 \u043b\u043e\u0433\u0438\u043a\u0430 \u0438 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0438 \u0434\u0430\u043d\u043d\u044b\u0435 \u0431\u0443\u0434\u0443\u0442 \u0432 \u0440\u0430\u0437\u0431\u0440\u043e\u0434;\n2.  <http:\/\/soapProxy.post|soapProxy.post> - \u0447\u0442\u043e \u0442\u043e \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c, \u0430 \u0434\u043e\u0448\u043b\u043e \u0438\u043b\u0438 \u043d\u0435\u0442 - \u043d\u0430\u043c \u043a\u0430\u043a \u0442\u043e \u0432\u0441\u0435\u0440\u0430\u0432\u043d\u043e :);\n3.  taskService.createTaskQuery().processInstanceId(execution.getId()).active().list() - \u043e \u0437\u0430\u043a\u043e\u043d\u0435 \u0414\u0435\u043c\u0435\u0442\u0440\u044b \u043d\u0435 \u0441\u043b\u044b\u0448\u0430\u043b\u0438 :);\n4. formProperty.getId().equals(SWIN_ED_ANSWER_STATUS_VARIABLE) - \u043a\u0443\u0434\u0430 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0435\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0442\u044c \u043d\u0430 \u0440\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u043e \u0438\u0441\u0445\u043e\u0434\u044f \u0438\u0437 \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u044b, \u0430 \u043d\u0435 getId() - \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u0439\u0442\u0438 \u0441 null;\n5. formProperty instanceof FormPropertyImpl - \u043a\u043e\u0434 \u0433\u043e\u0432\u043e\u0440\u0438\u0442 \u0441\u0430\u043c \u0437\u0430 \u0441\u0435\u0431\u044f: \"\u0447\u0442\u043e \u0442\u043e \u0443 \u0432\u0430\u0441 \u0441 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u043e\u0439 \u043d\u0435 \u0432\u0441\u0435 \u0432 \u043f\u043e\u0440\u044f\u0434\u043a\u0435\";\n6.  \u0435\u0441\u0442\u044c \u043a\u0443\u0441\u043a\u0438 (\u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430 \u0438 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0441\u0430\u043c <http:\/\/soapProxy.post|soapProxy.post>), \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043f\u043e\u043a\u043e\u0439\u043d\u043e \u043c\u043e\u0436\u043d\u043e \u0431\u044b\u043b\u043e \u0431 \u0432 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0442\u043e\u043a \u043a\u0438\u043d\u0443\u0442\u044c;\n7.  \t\t\t\thpass = StringUtils.substringBefore(passport.trim(), \" \");\n\t\t\t\thpassDate = StringUtils.substringAfterLast(passport.trim(), \" \");\n\t\t\t\thpassiss = StringUtils.substringAfter(passport.trim(), \" \");\n\t\t\t\thpassiss = StringUtils.substringBeforeLast(hpassiss, \" \");\n\u044f \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043d\u0435 \u0441\u0438\u043b\u0435\u043d \u0432 \u0441\u043e\u0441\u0442\u0430\u0432\u0435 \u043f\u043e\u043b\u044f passport - \u043d\u043e regexp \u0434\u0443\u043c\u0430\u044e \u043a\u0430\u043a \u0440\u0430\u0437 \u043f\u0440\u0438\u0433\u043e\u0434\u0438\u043b\u0441\u044f \u0431 (\u043c\u043e\u043b\u0447\u0443 \u043e \u0447\u0438\u0442\u0430\u0431\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438);\n8.  getStringFromFieldExpression(this.sSenderEDRPOU, execution) (\u0441\u0442\u0440\u043e\u043a\u0438 110-133) \u043c\u043e\u0433\u0443 \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0438\u0442\u044c \u043f\u043e \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c, \u0447\u0442\u043e \u0432\u044b\u0442\u044f\u0436\u043a\u0430 \u0434\u0430\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043d\u0435 \u043f\u043e \u043f\u0440\u043e\u0441\u0442\u043e\u043c\u0443 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u0443, \u0434\u0443\u043c\u0430\u044e \u0442\u0430\u043a\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0435\u0441\u0442\u044c \u0441\u043c\u044b\u0441\u043b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043e\u0434\u043d\u0438\u043c \u043f\u0430\u043a\u0435\u0442\u043e\u043c (\u044f \u043d\u0435 \u0441\u0442\u043e\u043b\u044c\u043a\u043e \u043e \u0440\u0435\u0444\u0430\u043a\u0442\u043e\u0440\u0438\u043d\u0433\u0435, \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438);\n9. String bodyContent = sw.toString() \u0438 Base64.encodeBase64(bodyContent.getBytes(\"UTF-8\")) - \u0435\u0441\u0442\u044c \u0431\u043e\u043b\u0435\u0435 \u043b\u0435\u0433\u043a\u043e\u0432\u0435\u0441\u043d\u044b\u0435 tools (JSON \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440) \u0434\u043b\u044f \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043e\u0431\u044a\u0435\u043a\u0442\u0430 \u0432 \u0441\u0442\u0440\u043e\u043a\u0443;",
+        "ts": "1463781141.000285"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "<@U17V9A0EQ>: \n<http:\/\/www.tutorialspoint.com\/jsf\/jsf_ajax.htm>",
+        "attachments": [
+            {
+                "service_name": "www.tutorialspoint.com",
+                "title": "JSF - Ajax",
+                "title_link": "http:\/\/www.tutorialspoint.com\/jsf\/jsf_ajax.htm",
+                "text": "JSF Ajax - Learn Java Server Faces (JSF) in simple and easy steps starting from Environment setup, Architecture, Managed Beans, Page Navigation, Event Handling, Ajax, Basic Tags, Facelets Tags, Converter Tags, Validation Tags, Data Tables, Composite Components, JDBC Integration, Spring Integration, Expression Language and Internationalization.",
+                "fallback": "www.tutorialspoint.com: JSF - Ajax",
+                "from_url": "http:\/\/www.tutorialspoint.com\/jsf\/jsf_ajax.htm",
+                "id": 1
+            }
+        ],
+        "ts": "1463781514.000286"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0445\u043e\u0442\u044f \u043d\u0430 \u0444\u043e\u043d\u0435 \u0432\u044b\u0448\u0435\u0434\u0448\u0435\u0433\u043e Ang. 2 \u0438 \u0441\u043e\u0440\u0435\u0432\u043d\u0443\u044e\u0449\u0435\u0433\u043e\u0441\u044f React - \u0432\u0441\u0435 \u044d\u0442\u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0441 ajax-\u043e\u043c \u0432\u044b\u0433\u043b\u044f\u0434\u044f\u0442 \u043a\u0430\u043a \u043f\u043e\u0442\u0443\u0433\u0438 \u0438 \u043d\u0435 \u0431\u043e\u043b\u0435\u0435",
+        "ts": "1463781723.000288"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "\u0447\u0442\u043e \u043a\u0430\u0441\u0430\u0435\u0442\u0441\u044f \u043c\u0438\u043d\u0443\u0441\u043e\u0432 JSF, GWT \u0438 \u0434\u0440. server side frameworks:\n1.  \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u0442\u0430\u043a\u0438\u043c\u0438 tamplates \u043c\u043e\u0436\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e java \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (\u0438\u043c\u0435\u0435\u0442\u0441\u044f \u0432\u0432\u0438\u0434\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0441\u043e \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438 \njava-\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439);\n2.  \u0438\u0437 \u0441\u0445\u0435\u043c\u044b MVC (M-model) \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0435..... \u0442\u0443\u0442 \u043e\u0447\u0435\u0432\u0438\u0434\u043d\u044b\u0439 \u043c\u0438\u043d\u0443\u0441;\n3. \u0432\u0441\u044f\u043a\u043e\u0433\u043e \u0440\u043e\u0434\u0430 deferred \u043e\u0431\u044a\u0435\u043a\u0442\u044b \u0438\u043b\u0438 emitter \u0438 \u0438\u0445\u043d\u044f\u044f \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043d\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0432 JSF;\n4. \u0441\u0430\u043c framework JSF \u0432\u043e \u043c\u043d\u043e\u0433\u043e\u043c \u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f pure JS, Jquery - \u043a\u0430\u043a\u043e\u0439 \u0441\u043c\u044b\u0441\u043b \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c \u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0435 \u0442\u043e, \u0447\u0442\u043e \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 js \u0447\u0430\u0441\u0442\u044c;\n5. \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u0430\u044f \u0438 \u0438\u043c\u0435\u044e\u0449\u0430\u044f \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f \u0441 \u043a\u0430\u043a\u0438\u043c\u0438 \u043b\u0438\u0431\u043e js libraries;\n6.\u043f\u0440\u043e \u0432\u0441\u044f\u043a\u043e\u0433\u043e \u0440\u043e\u0434\u0430 \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438, \u043c\u0438\u043d\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438,  \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u043e\u0439 \u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0438 \u0438 \u0442.\u043f. \u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043d\u0435 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u0441\u044f;",
+        "ts": "1463786098.000291"
+    }
+]

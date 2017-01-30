@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "user": "U15G85DQX",
+        "text": "\u043f\u0440\u0435\u0437\u0430 \u043f\u043e \u044d\u0444. \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044e \u0438\u0434\u0435\u0438 <http:\/\/jeeconf.com\/archive\/jeeconf-2013\/materials\/intellij-idea\/>",
+        "ts": "1464262844.000095"
+    },
+    {
+        "type": "message",
+        "user": "U174DPXUL",
+        "text": "<https:\/\/dzone.com\/articles\/the-top-10-advanced-java-talks-you-should-see-to-s>",
+        "attachments": [
+            {
+                "service_name": "dzone.com",
+                "title": "The Top 10 Advanced Java Talks You Should See to Stay Relevant - DZone Java",
+                "title_link": "https:\/\/dzone.com\/articles\/the-top-10-advanced-java-talks-you-should-see-to-s",
+                "text": "A great collection of videos from around the net which are essential viewing for any Java developer.",
+                "fallback": "dzone.com: The Top 10 Advanced Java Talks You Should See to Stay Relevant - DZone Java",
+                "from_url": "https:\/\/dzone.com\/articles\/the-top-10-advanced-java-talks-you-should-see-to-s",
+                "id": 1
+            }
+        ],
+        "ts": "1464278625.000096"
+    },
+    {
+        "user": "U155RD230",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U155RD230|mor94ok> has joined the channel",
+        "ts": "1464288223.000098"
+    },
+    {
+        "user": "U154C66NP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U154C66NP|nick> has joined the channel",
+        "ts": "1464292864.000099"
+    }
+]

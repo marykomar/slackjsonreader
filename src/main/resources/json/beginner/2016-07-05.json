@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1P260E3C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1P260E3C|dwarfit> has joined the channel",
+        "ts": "1467750272.000148"
+    }
+]

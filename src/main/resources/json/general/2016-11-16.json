@@ -1,0 +1,116 @@
+[
+    {
+        "type": "message",
+        "user": "U18BA9X4G",
+        "text": "\u041a\u043e\u043b\u043b\u0435\u0433\u0438, \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0430\u044e \u0437\u0430\u0432\u0442\u0440\u0430 (17.11) \u0432 19.00 \u041a\u0438\u0435\u0432 \u043d\u0430 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0432\u0435\u0431\u0438\u043d\u0430\u0440 \"*\u041e\u0441\u0432\u0430\u0438\u0432\u0430\u0435\u043c Java Enterprise*\"\n- \u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430: \u0447\u0442\u043e \u0432\u043e\u0441\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u043e \u043d\u0430 \u0440\u044b\u043d\u043a\u0435\n- \u0421 \u0447\u0435\u0433\u043e \u043d\u0430\u0447\u0438\u043d\u0430\u0442\u044c \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435 \n- \u0421\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c \u0440\u0435\u0437\u044e\u043c\u0435. \u041f\u0435\u0440\u0432\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430\n\n<https:\/\/www.youtube.com\/watch?v=ZUZ_4WmcG0k>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "\u041e\u0441\u0432\u0430\u0438\u0432\u0430\u0435\u043c Java Enterprise",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ZUZ_4WmcG0k",
+                "author_name": "\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u041a\u0438\u0441\u043b\u0438\u043d",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCMiuo1BSwQxRMl6781evABw",
+                "fallback": "YouTube Video: \u041e\u0441\u0432\u0430\u0438\u0432\u0430\u0435\u043c Java Enterprise",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ZUZ_4WmcG0k?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ZUZ_4WmcG0k",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "edited": {
+            "user": "U18BA9X4G",
+            "ts": "1479305007.000000"
+        },
+        "ts": "1479304990.000774"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "<https:\/\/docviewer.yandex.ua\/?url=ya-disk-public%3A%2F%2F6Aqu3x1Xt8RJF0h4qUm1edmCewpVOPPkonLnK8qL%2BPk%3D%3A%2FJava%20-%20J2EE%20Job%20Interview%20Companion.pdf&amp;name=Java%20-%20J2EE%20Job%20Interview%20Companion.pdf&amp;c=582c7748e002>",
+        "ts": "1479309945.000777"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041b\u0438\u043d\u043a\u0430\u043d\u0443\u043b\u0438 \u043a\u043d\u0438\u0436\u043a\u0443 \u0437\u0430\u043d\u044f\u0442\u043d\u0443\u044e. \u0412\u043e\u043e\u043f\u0440\u043e\u0441\u044b-\u043e\u0442\u0432\u0435\u0442\u044b J2EE \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e, in english",
+        "ts": "1479310029.000778"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043d\u0435 \u0441\u043e\u0432\u0441\u0435\u043c \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f, \u043f\u043e \u043c\u043e\u0435\u043c\u0443 :slightly_smiling_face:",
+        "ts": "1479310079.000779"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "\u041c\u043e\u0436\u043d\u043e \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0430\u0437\u0434\u0435\u043b\u044b \u0432\u044b\u0434\u0435\u043b\u0438\u0442\u044c \u0434\u043b\u044f \u0441\u0435\u0431\u044f",
+        "ts": "1479310313.000780"
+    },
+    {
+        "type": "message",
+        "user": "U192CF1SM",
+        "text": "<@U17SM7N78> \u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u043e\u0440 \u0433\u0440\u0443\u043f\u0438 \u0432 \u0456\u0441\u0442\u043e\u0440\u0456\u0457 \u043c\u043e\u0436\u0435 \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0430\u0440\u0445\u0456\u0432 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u044c \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 json",
+        "ts": "1479310345.000781"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u0444\u0438\u0440\u0448\u0442\u0435\u0439\u043d",
+        "ts": "1479310642.000782"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u043d\u043e \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u043f\u0440\u043e\u0431\u044b\u0432\u0430\u043b",
+        "ts": "1479310667.000783"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u0442\u043e\u0433\u0434\u0430 \u043d\u0435 \u0432\u043e\u043f\u0440\u043e\u0441 \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u0430\u0433\u0440\u0435\u0433\u0430\u0442\u043e\u0440 \u0441 \u0433\u0443\u0438 \u0438 \u043f\u043e\u0438\u0441\u043a\u043e\u043c \u044e\u0437\u0430\u0442\u044c \u0438\u0441\u0442\u043e\u0440\u0438\u044e",
+        "edited": {
+            "user": "U17SM7N78",
+            "ts": "1479310757.000000"
+        },
+        "ts": "1479310720.000784"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U17SM7N78> \u043d\u0430\u043f\u0438\u0448\u0438))",
+        "ts": "1479312695.000787"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0412\u0441\u0435\u043c \u0434\u043e\u0431\u0440\u044b\u0439 \u0432\u0435\u0447\u0435\u0440! \u0415\u0441\u0442\u044c \u0443 \u043d\u0430\u0441 \u0442\u0440\u0443\u0434\u043e\u0443\u0441\u0442\u0440\u043e\u0435\u043d\u044b\u0435 \u0443\u0436\u0435? :)",
+        "ts": "1479312737.000788",
+        "reactions": [
+            {
+                "name": "white_frowning_face",
+                "users": [
+                    "U2FHN9SCU",
+                    "U172MPHTK"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U17V9A0EQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u0414\u0430, \u043a\u043e\u043d\u0435\u0447\u043d\u043e, \u043a\u0430\u043a \u043f\u0440\u043e\u0435\u043a\u0442 \u0441\u0434\u0435\u043b\u0430\u0435\u043c \u0432 \u043a\u043e\u043d\u0446\u0435 \u044f\u043d\u0432\u0430\u0440\u044f, \u0442\u0430\u043a \u0438 \u043d\u0430\u043f\u0438\u0448\u0443 <@U16KX5EAU> \u0438 <@U156623BK>  \u0438\u043c\u0435\u044e\u0442 \u043e\u043f\u044b\u0442 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 \u043f\u043e\u0434 \u0421\u043b\u0430\u043a))",
+        "ts": "1479314327.000789"
+    }
+]

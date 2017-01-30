@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U1SACC52P",
+        "text": "<@U1SACC52P|7on> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468675525.001361"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<!everyone>: \u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442. \u0412 \u0441\u043b\u0435\u0434. \u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435, 24 \u0438\u044e\u043b\u044f \u0432 22-00 \u044f \u0431\u0443\u0434\u0443 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c \u0432\u0442\u043e\u0440\u043e\u0435 Junior Java \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 online \u0432 hangout\/youtube.  \u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u0438\u0432\u0435\u043d\u0442: <https:\/\/plus.google.com\/events\/cen96r4atkcc4sp2nqqjqfhnc40?hl=ru> \u0422\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e \u043f\u043e\u0441\u043b\u0435 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u044f \u043e\u0442\u0432\u0435\u0447\u0430\u044e \u043d\u0430 \u0432\u0441\u0435 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0443\u044e\u0449\u0438\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b. \u0414\u043e \u0432\u0441\u0442\u0440\u0435\u0447\u0438, \u0434\u0440\u0443\u0437\u044c\u044f!",
+        "attachments": [
+            {
+                "service_name": "Google+",
+                "title": "Junior Java Mock Interview Episode 2. Vladimir \u2013 Google+",
+                "title_link": "https:\/\/plus.google.com\/events\/cen96r4atkcc4sp2nqqjqfhnc40?hl=ru",
+                "text": "Junior Java Mock Interview Episode 2. Vladimir",
+                "fallback": "Google+: Junior Java Mock Interview Episode 2. Vladimir \u2013 Google+",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/_tcY7QLx6X_8\/UY1_0TJEqGI\/AAAAAAAACLo\/Ls1BaI-xmIQ\/w940-h280-n\/06_hangouts_yellow.jpg.png",
+                "from_url": "https:\/\/plus.google.com\/events\/cen96r4atkcc4sp2nqqjqfhnc40?hl=ru",
+                "image_width": 839,
+                "image_height": 250,
+                "image_bytes": 201345,
+                "service_icon": "https:\/\/ssl.gstatic.com\/images\/branding\/product\/ico\/google_plus_alldp.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1468697010.001362",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1RKU8GER",
+                    "U16HN7N3Z",
+                    "U1S1V4W9J",
+                    "U1AFM877B",
+                    "U15A8DXMF",
+                    "U16H3P5G8",
+                    "U158BGZF1",
+                    "U17TYL28M",
+                    "U17TMDLC8",
+                    "U154G64BV",
+                    "U1BTEGYRW",
+                    "U1KFLB248",
+                    "U15KGKN2J"
+                ],
+                "count": 13
+            },
+            {
+                "name": "mortar_board",
+                "users": [
+                    "U173XSJ74",
+                    "U15A8DXMF",
+                    "U16NVCQHE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1BPDV77X",
+        "text": "nik_shein [9:01 PM] : JavaRush \u043e\u0447\u0435\u043d\u044c \u043a\u0440\u0443\u0442 \u0434\u043b\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u041d\u043e \u0442\u0435\u043e\u0440\u0438\u044e \u043d\u0443\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0443\u0447\u0438\u0442\u044c \u043f\u0430\u0440\u0430\u043b\u0435\u043b\u044c\u043d\u043e (\u0445\u043e\u0440\u043e\u0448\u0438\u0435 \u0432\u0438\u0434\u0435\u043e \u0413\u043e\u043b\u043e\u0432\u0430\u0447\u0430 \u043d\u0430 \u044e\u0442\u0443\u0431\u0435) + \u043a\u043d\u0438\u0436\u043a\u0438",
+        "ts": "1468698940.001364"
+    }
+]

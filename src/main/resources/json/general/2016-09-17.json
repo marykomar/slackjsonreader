@@ -1,0 +1,22 @@
+[
+    {
+        "user": "U2CQZ6FGX",
+        "text": "<@U2CQZ6FGX|vitaliispb> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474128221.000308"
+    },
+    {
+        "user": "U2CR6BC0J",
+        "text": "<@U2CR6BC0J|igor.shulga> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1474128325.000309"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U18BA9X4G>  \u0447\u0442\u043e \u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e, \u043f\u043e \u0440\u0430\u0437\u043d\u044b\u043c \u0441\u0441\u044b\u043b\u043a\u0430\u043c \u043d\u0430 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0440\u0435\u0437\u044e\u043c\u0435, \u0440\u0435\u043a\u0440\u0443\u0442\u0435\u0440\u044b \u0447\u0430\u0441\u0442\u043e \u0441\u043e\u0432\u0435\u0442\u0443\u044e\u0442 \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u044b\u0435 \u0432\u0435\u0449\u0438 \u043a\u0430\u043a \u043f\u043e \u0447\u0430\u0441\u0442\u0438 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f, \u0442\u0430\u043a \u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f.",
+        "ts": "1474177591.000310"
+    }
+]

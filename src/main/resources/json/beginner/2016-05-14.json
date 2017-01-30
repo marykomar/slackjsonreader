@@ -1,0 +1,375 @@
+[
+    {
+        "user": "U156H597E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156H597E|vladyslav> has joined the channel",
+        "ts": "1463214924.000553"
+    },
+    {
+        "user": "U18ME5003",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18ME5003|roman.syrotenko> has joined the channel",
+        "ts": "1463221002.000554"
+    },
+    {
+        "user": "U18UD5HC0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18UD5HC0|dimka0586> has joined the channel",
+        "ts": "1463224433.000555"
+    },
+    {
+        "user": "U18U59H52",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18U59H52|shnn> has joined the channel",
+        "ts": "1463225054.000556"
+    },
+    {
+        "type": "message",
+        "user": "U18U59H52",
+        "text": "\u0414\u043e\u0431\u0440\u044b\u0439 \u0434\u0435\u043d\u044c! \u0421 \u0447\u0435\u0433\u043e \u0442\u0443\u0442 \u043f\u0440\u0438\u043d\u044f\u0442\u043e \u043d\u0430\u0447\u0438\u043d\u0430\u0442\u044c!? \u041a\u0430\u043a \u043f\u0440\u043e\u0442\u0435\u0441\u0442\u0438\u0442\u044c \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0441\u0432\u043e\u0438\u0445 \u0437\u043d\u0430\u043d\u0438\u0439!?",
+        "ts": "1463225682.000557"
+    },
+    {
+        "type": "message",
+        "user": "U17ND83C3",
+        "text": "\u0445\u043c... \u044f \u043d\u0435 \u043f\u0440\u0438\u0442\u0435\u043d\u0434\u0443\u044e  \u043d\u0430 \u0443\u0447\u0438\u0442\u0435\u043b\u044f, \u043d\u043e \u0435\u0441\u043b\u0438 \u0445\u043e\u0447\u0435\u0448\u044c \u0441\u043c\u043e\u0436\u0435\u0448\u044c \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u043f\u043e\u043a\u0430 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441\u043e \u043c\u043d\u043e\u0439  \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0443 \u0434\u043b\u044f \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f \u0442\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a\u0430 \u043f\u043e 3\u043c \u0435\u0433\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c, \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0435 \u0432\u044b\u043b\u0430\u0436\u0443\u0439 \u0441\u044e\u0434\u0430 \u043a\u043e\u0434, \u043f\u0440\u043e\u0441\u0442\u043e \u0434\u043b\u044f \u0441\u0435\u0431\u044f \u043f\u0438\u0448\u0438",
+        "ts": "1463226456.000558"
+    },
+    {
+        "type": "message",
+        "user": "U18U59H52",
+        "text": "\u0417\u0430\u0434\u0430\u0447\u0430 \u043a\u0430\u043a \u0442\u043e \u0441\u0444\u043e\u0440\u043c\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0430 \u043d\u0435 \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e......:))) \u0427\u0442\u043e  \u0443 \u043d\u0430\u0441 \u043d\u0430 \u0432\u0445\u043e\u0434\u044f\u0449\u0438\u0445.... \u0438 \u0447\u0435\u0433\u043e \u0434\u043e\u043b\u0436\u043d\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c:) \u0422\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a \u0432\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u0442\u043e\u043b\u044c\u043a\u043e \u0441\u0443\u043c\u043c\u0430 \u0435\u0433\u043e \u0434\u0432\u0443\u0445 \u0441\u0442\u043e\u0440\u043e\u043d \u043d\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0442\u0440\u0435\u0442\u0435\u0439!??? \u0438\u043b\u0438 \u0447\u0442\u043e \u0442\u043e \u043f\u043e \u0445\u0438\u0442\u0440\u0435\u0439!!!??",
+        "ts": "1463227627.000559"
+    },
+    {
+        "user": "U15MGQVDM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15MGQVDM|daniilll> has joined the channel",
+        "ts": "1463236500.000560"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0412\u043e\u043f\u0440\u043e\u0441 \u0432 \u043b\u043e\u0431: \u043f\u043e\u0447\u0435\u043c\u0443 String immutable?",
+        "ts": "1463237104.000561"
+    },
+    {
+        "user": "U18UMMB1C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18UMMB1C|mikeismynick> has joined the channel",
+        "ts": "1463237605.000562"
+    },
+    {
+        "user": "U18UXGT37",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18UXGT37|nataly> has joined the channel",
+        "ts": "1463238859.000563"
+    },
+    {
+        "type": "message",
+        "user": "U16FRNMJ9",
+        "text": "for multithreading purpose",
+        "ts": "1463239862.000564"
+    },
+    {
+        "type": "message",
+        "user": "U18U59H52",
+        "text": "\u041a\u0430\u043a \u043f\u043e \u043c\u043d\u0435, \u0441\u0442\u0440\u043e\u043a\u0430 \u043d\u0435\u0438\u0437\u043c\u0435\u043d\u043d\u0430 \u0432 \u0446\u0435\u043b\u044f\u0445 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+        "ts": "1463239889.000565"
+    },
+    {
+        "type": "message",
+        "user": "U15EAFHME",
+        "text": "<http:\/\/stackoverflow.com\/a\/22398067\/5022617>",
+        "attachments": [
+            {
+                "title": "Why is String immutable in Java?",
+                "title_link": "http:\/\/stackoverflow.com\/a\/22398067\/5022617",
+                "text": "I was asked in an interview why String is immutableI answered like this: When we create a string in java like String s1=\"hello\"; then an object will be created in string pool(hello) and s1 ...",
+                "fallback": "Why is String immutable in Java?",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/a\/22398067\/5022617",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "id": 1
+            }
+        ],
+        "ts": "1463240195.000566"
+    },
+    {
+        "type": "message",
+        "user": "U157BASRG",
+        "text": "\u0421\u0442\u0440\u043e\u043a\u0430 \u043d\u0435\u0438\u0437\u043c\u0435\u043d\u044f\u0435\u043c\u0430\u044f \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0432\u0441\u0435 \u0440\u0430\u0441\u0442\u0435\u0442 \u043e\u0442 malloc \u0432 C.",
+        "ts": "1463241014.000568"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0422\u0430\u043a \u0441\u0435\u0431\u0435 \u043e\u0442\u0432\u0435\u0442\u0438\u043a\u0438. \u0418 \u0432\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u0441\u0442\u0430\u0442\u044c \u0434\u0436\u0443\u043d\u0438\u043e\u0440\u0430\u043c\u0438?))",
+        "ts": "1463243808.000569"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "\u0412 \u0446\u0435\u043b\u043e\u043c \u0434\u043b\u044f \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0447\u0442\u043e\u0431 \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u043f\u043e\u0434\u043c\u0435\u043d\u0443",
+        "ts": "1463244219.000570"
+    },
+    {
+        "user": "U15B9DZ0T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15B9DZ0T|belevtsov_sergey> has joined the channel",
+        "ts": "1463244291.000571"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "\u0418\u043b\u0438 \u0438\u043c\u0435\u043b\u043e\u0441\u044c \u0432\u0432\u0438\u0434\u0443 \u0438\u043c\u0435\u043d\u043d\u043e \u041f\u043e\u0447\u0435\u043c\u0443 \u0430 \u043d\u0435 \u0437\u0430\u0447\u0435\u043c \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u043d\u043e?",
+        "ts": "1463244549.000572"
+    },
+    {
+        "type": "message",
+        "user": "U18U59H52",
+        "text": "<@U150DHUL9>: \u0414\u0430, \u0445\u043e\u0442\u0438\u043c",
+        "ts": "1463244642.000573"
+    },
+    {
+        "type": "message",
+        "user": "U17ND83C3",
+        "text": "\u041d\u0443 \u043d\u0435\u0438\u0437\u043c\u0435\u043d\u044f\u0435\u043c\u0430\u044f \u0442\u0430\u043a \u043a\u0430\u043a \u043f\u0440\u0438 \"\u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0438\" \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u043a \u0441\u0442\u0440\u043e\u043a\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u044d\u0442\u043e \u0443\u0436\u0435 \u043d\u0435 \u0442\u0430 \u0441\u0442\u0440\u043e\u043a\u0430, \u0430 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e \u0434\u0440\u0443\u0433\u0430\u044f",
+        "ts": "1463245212.000574"
+    },
+    {
+        "type": "message",
+        "user": "U17ND83C3",
+        "text": "\u043f\u043e \u043f\u043e\u0432\u043e\u0434\u0443 \u0442\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a\u0430, \u0437\u0430\u0431\u044b\u043b \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u0441\u043b\u043e\u0432\u043e \u043f\u043b\u043e\u0449\u0430\u0434\u044c:), \u043d\u0430\u0439\u0442\u0438 \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u043f\u043e 3\u043c \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c",
+        "ts": "1463245250.000575"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "<@U17ND83C3> \u0434\u0443\u043c\u0430\u044e \u044d\u0442\u043e \u0442\u043e\u0436\u0435 \u043d\u0435 \u043f\u0440\u043e\u043a\u0430\u0442\u0438\u0442 \u0437\u0430 \u043e\u0442\u0432\u0435\u0442.",
+        "edited": {
+            "user": "U16UQ8LAZ",
+            "ts": "1463245393.000000"
+        },
+        "ts": "1463245298.000576"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "\u041d\u0430\u0448\u0451\u043b \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0439 \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442 \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u0445\u044d\u0448-\u043c\u044d\u043f\u044b",
+        "ts": "1463246484.000578"
+    },
+    {
+        "type": "message",
+        "user": "U17T2T80N",
+        "text": "<http:\/\/javarevisited.blogspot.be\/2010\/10\/why-string-is-immutable-in-java.html?m=1>",
+        "attachments": [
+            {
+                "title": "Javarevisited: Why String is Immutable or Final  in Java",
+                "title_link": "http:\/\/javarevisited.blogspot.be\/2010\/10\/why-string-is-immutable-in-java.html?m=1",
+                "fallback": "Javarevisited: Why String is Immutable or Final  in Java",
+                "image_url": "https:\/\/4.bp.blogspot.com\/-kAVM2ToDv1o\/VmLWllTgTxI\/AAAAAAAAEN0\/psY6mBEfwgk\/w1200-h630-p-nu\/Java%2BProgramming%2BInterview%2BExposed.png",
+                "from_url": "http:\/\/javarevisited.blogspot.be\/2010\/10\/why-string-is-immutable-in-java.html?m=1",
+                "image_width": 475,
+                "image_height": 250,
+                "image_bytes": 101969,
+                "id": 1
+            }
+        ],
+        "ts": "1463246492.000579"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "Immutable \u0447\u0442\u043e\u0431\u044b \u0438\u0437 \u0441\u0442\u0440\u0438\u043d\u0433 \u043f\u0443\u043b\u0430 \u043d\u0435 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u043b\u0438\u0441\u044c \u043d\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0435\/ \u043d\u0435 \u0442\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u043f\u0440\u0438 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \u0441\u0442\u0440\u043e\u043a\u0438. \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 HashMap  hashcode \u043a\u043b\u044e\u0447\u0430 \u043a\u044d\u0448\u0438\u0442\u0441\u044f, \u0447\u0442\u043e\u0431\u044b \u043e\u043d \u043d\u0435 \u0432\u044b\u0447\u0438\u0441\u043b\u044f\u043b\u0441\u044f \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437.\n\u0427\u0442\u043e\u0431\u044b \u043d\u0435 \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u043b\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c\u044e, \u0442\u0430\u043a \u043a\u0430\u043a \u0441\u0442\u0440\u0438\u043d\u0433\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u043e\u0432.\n\u0422\u0430\u043a \u043a\u0430\u043a \u043e\u043d\u0438 \u043d\u0435 \u0438\u0437\u043c\u0435\u043d\u044f\u0435\u043c\u044b\u0435, \u0441 \u043d\u0438\u043c\u0438 \u043c\u043e\u0436\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0432 \u043c\u043d\u043e\u0433\u043e\u043f\u043e\u0442\u043e\u0447\u043d\u043e\u0441\u0442\u0438.",
+        "edited": {
+            "user": "U16UQ8LAZ",
+            "ts": "1463246605.000000"
+        },
+        "ts": "1463246582.000581",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U150DHUL9",
+                    "U17V9A0EQ",
+                    "U154201DJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "1 \u0445\u044d\u0448\u043a\u043e\u0434  \u0432 \u0441\u0442\u0440\u0438\u043d\u0433\u0435 \u0445\u0440\u0430\u043d\u0438\u0442\u0441\u044f",
+        "ts": "1463246773.000583"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "2. \u043f\u0443\u043b",
+        "ts": "1463246782.000584"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "3 \u0441\u0435\u043a\u044c\u044e\u0440\u0438\u0442\u0438",
+        "ts": "1463246805.000585"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "4. \u043f\u043e\u0442\u043e\u043a\u043e\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c",
+        "ts": "1463246814.000586"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "\u043e\u0439 \u0447\u0435\u0442 \u044f \u043e\u043f\u043e\u0437\u0434\u0430\u043b",
+        "ts": "1463246987.000587"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0432\u0441\u0451 \u0440\u0430\u0432\u043d\u043e \u043b\u0443\u0447\u0448\u0435 \u043a\u043e\u0433\u0434\u0430 \u0441\u0430\u043c \u0442\u043e\u0436\u0435 \u0447\u0438\u0442\u0430\u043b",
+        "ts": "1463247086.000588"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0417\u0430\u0441\u0447\u0438\u0442\u0430\u043d\u043e.",
+        "ts": "1463253755.000589"
+    },
+    {
+        "type": "message",
+        "user": "U17ND83C3",
+        "text": "\u041c\u0443\u0436\u0438\u043a\u0438, \u043a\u0442\u043e \u0441\u043c\u043e\u0436\u0435\u0442 \u0440\u0430\u0437\u0434\u0443\u043f\u043b\u0438\u0442\u044c \u043a\u0430\u043a \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f gitHub? \u041f\u043e\u043b\u0446\u0430\u0440\u0441\u0442\u0432\u0430 \u0437\u0430 \u0440\u0430\u0437\u0434\u0443\u043f\u043b\u0435\u043d\u0438\u0435",
+        "ts": "1463253868.000590"
+    },
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "\u043f\u0435\u0440\u0432\u043e\u0435 \u0447\u0435\u043c\u0443 \u043d\u0443\u0436\u043d\u043e \u043d\u0430\u0443\u0447\u0438\u0442\u0441\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0441\u044f \u044d\u0442\u043e \u0433\u0443\u0433\u043b",
+        "ts": "1463253897.000591"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0447\u0442\u043e \u0440\u0430\u0437\u0434\u0443\u043f\u043b\u044f\u0442\u044c? :grin:",
+        "ts": "1463253907.000592"
+    },
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "\u0438 \u044d\u0442\u043e \u043d\u0435 \u043e\u0431\u0438\u0434\u0443 \u0430 \u043f\u0440\u043e\u0441\u0442\u043e \u0434\u043b\u044f \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u044f \u0447\u0442\u043e \u0432\u043e\u043f\u0440\u043e\u0441 \u0431\u0443\u0434\u0435\u0442 \u043a\u0443\u0447\u0430 \u0438 \u0435\u0441\u043b\u0438 \u0442\u0435\u0431\u0435 \u0432\u0441\u0435 \u0431\u0443\u0434\u0443 \u0440\u0430\u0437\u0434\u0443\u043f\u043b\u044f\u0442\u044c \u0442\u043e \u043d\u0438\u0447\u0435\u043c\u0443 \u043d\u0435 \u043d\u0430\u0443\u0447\u0438\u0448\u044c\u0441\u044f",
+        "ts": "1463253934.000593"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u043f\u043e \u043c\u043e\u0435\u043c\u0443 \u0432 \u0441\u0435\u0442\u0438 \u0434\u0430\u0436\u0435 \u0435\u0441\u0442\u044c \u043f\u0434\u0444\u043a\u0438 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c",
+        "ts": "1463254020.000594"
+    },
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "\u0434\u0430 \u0435\u0441\u0442\u044c \u0434\u0430\u0436\u0435 \u0440\u043e\u043b\u0438\u043a\u0438 \u043d\u0430 \u044d\u0442\u0443 \u0442\u0435\u043c\u0443",
+        "ts": "1463254075.000595"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "<http:\/\/scanlibs.com\/mastering-git\/>\n<http:\/\/scanlibs.com\/git-dlya-professionalnogo-programmista\/>",
+        "ts": "1463254094.000596"
+    },
+    {
+        "type": "message",
+        "user": "U17ND83C3",
+        "text": "\u0432\u0441\u0435 \u0432\u0441\u0435, \u0445\u043e\u0440\u043e\u0448 \u043c\u0435\u043d\u044f \u0442\u0443\u0442 \u043f\u043e\u0437\u043e\u0440\u0438\u0442\u044c:)",
+        "ts": "1463254099.000597"
+    },
+    {
+        "type": "message",
+        "user": "U16UQ8LAZ",
+        "text": "\u0442\u0430 \u043d\u0435, \u043f\u043e\u0447\u0435\u043c\u0443 \u043f\u043e\u0437\u043e\u0440\u0438\u0442\u044c",
+        "ts": "1463254138.000598"
+    },
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "\u043d\u0438\u043a\u0442\u043e \u043d\u0435 \u043f\u043e\u0437\u043e\u0440\u0438\u0442 \u043f\u0440\u043e\u0441\u0442\u043e \u043b\u0443\u0447\u0448\u0435 \u0441\u0440\u0430\u0437\u0443 \u043f\u0440\u0438\u0432\u044b\u043a\u0430\u0442\u044c \u0433\u0443\u0433\u043b\u0438\u0442\u044c ) \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u044c \u0442\u044b \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0435 \u0431\u0443\u0434\u0435\u0448\u044c \u0445\u043e\u0434\u0438\u0448\u044c \u0438 \u0441\u043f\u0440\u0430\u0448\u0438\u0432\u0430\u0442\u044c \u0430 \u043a\u0430\u043a \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0430 \u043a\u0430\u043a \u0442\u043e ))",
+        "ts": "1463254173.000599"
+    },
+    {
+        "type": "message",
+        "user": "U17ND83C3",
+        "text": "\u0441\u043f\u0441 \u0437\u0430 \u0441\u0441\u044b\u043b\u043a\u0443",
+        "ts": "1463254177.000600"
+    },
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "\u043c\u043d\u0435 \u0432\u043e\u0442 \u043d\u0443\u0436\u043d\u043e \u043d\u0430\u0431\u0438\u0442\u044c \u043f\u0443\u043b \u0431\u0438\u043d\u0430\u043c\u0438",
+        "ts": "1463254345.000601"
+    },
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "\u0441\u043f\u0440\u0438\u043d\u0433 \u043a\u043e\u043d\u0444\u0438\u0433 \u043d\u0430 \u0430\u043d\u043d\u043e\u0442\u0430\u0446\u0438\u044f\u0445, \u0435\u0441\u0442\u044c \u043a\u043b\u0430\u0441\u0441 \u0443 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0435\u0441\u0442\u044c \u043e\u0447\u0435\u0440\u0435\u0434\u044c (\u043f\u0443\u043b), \u043f\u0440\u0438 \u0438\u043d\u0438\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u043d\u0443\u0436\u043d\u044b\u043c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u043d\u0430\u0431\u0438\u0432\u0430\u0435\u0442 \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u0431\u0438\u043d\u0430\u043c\u0438",
+        "ts": "1463254665.000604"
+    },
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "\u0432\u043e\u0442 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c \u043d\u0430\u0431\u0438\u0432\u043a\u0438 \u0443 \u043c\u0435\u043d\u044f \u043d\u0435 \u043e\u043f\u0442\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439, \u044f \u0441\u0434\u0435\u043b\u0430\u043b \u0440\u0443\u043a\u043e\u043f\u0438\u0441\u043d\u0443\u044e \u0444\u0430\u0431\u0440\u0438\u043a\u0443 \u0438 \u0438\u0437 \u043d\u0435\u0435 \u043f\u0440\u043e\u0448\u0443 \u043d\u043e\u0432\u044b\u0439 \u0431\u0438\u043d",
+        "ts": "1463254719.000605"
+    },
+    {
+        "type": "message",
+        "user": "U18UMMB1C",
+        "text": "\u0432\u0440\u043e\u0434\u0435 \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0431\u0438\u0432\u043a\u0443 \u0441\u043f\u0440\u0438\u043d\u0433\u0443 \u0434\u0435\u043b\u0435\u0433\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u043e \u0443 \u043c\u0435\u043d\u044f \u0442\u0430\u043c \u0434\u0436\u0435\u043d\u0435\u0440\u0438\u043a \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0438 \u043a\u0430\u043a\u0438\u043c \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438 \u0431\u0443\u0434\u0435\u0442 \u043d\u0430\u0431\u0438\u0432\u0430\u0442\u0441\u044f \u043f\u0443\u043b \u0437\u0430\u0440\u0430\u043d\u0435\u0435 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e",
+        "ts": "1463254842.000606"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "<@U17ND83C3>: \u0435\u0441\u043b\u0438 \u0442\u044b \u043d\u0435 \u0443\u043c\u0435\u0435\u0448\u044c \u0441\u0430\u043c\u0438\u043c git \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0442\u043e \u0432\u043e\u0442 \u0441\u0441\u044b\u043b\u043a\u0430 <https:\/\/try.github.io\/levels\/1\/challenges\/1> \u0432\u0440\u043e\u0434\u0435 \u043a\u0430\u043a \u043e\u043d\u043b\u0430\u0439\u043d \u0433\u0438\u0434, \u0430 \u0435\u0441\u043b\u0438 \u0438\u043c\u0435\u043d\u043d\u043e \u0433\u0438\u0442\u0445\u0430\u0431 \u043d\u0435 \u043f\u043e\u043d\u0438\u043c\u0430\u0435\u0448\u044c \u0442\u043e \u0442\u0443\u0442 \u0441\u0442\u0440\u0430\u043d\u043d\u043e \u043a\u043e\u043d\u0435\u0447\u043d\u043e",
+        "attachments": [
+            {
+                "title": "Try Git",
+                "title_link": "https:\/\/try.github.io\/levels\/1\/challenges\/1",
+                "text": "Learn to use Git",
+                "fallback": "Try Git",
+                "from_url": "https:\/\/try.github.io\/levels\/1\/challenges\/1",
+                "thumb_url": "https:\/\/d13jv82ekraqyq.cloudfront.net\/assets\/bg-terms-octocat-992475c1d45c413a00492b17924d53ff.png",
+                "thumb_width": 68,
+                "thumb_height": 58,
+                "id": 1
+            }
+        ],
+        "ts": "1463255485.000607"
+    },
+    {
+        "user": "U182ZBQ86",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U182ZBQ86|virett> has joined the channel",
+        "ts": "1463262959.000609"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<@U18UMMB1C>: \u0435\u0441\u043b\u0438 \u0442\u044b \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0448\u044c \"\u043d\u0430\u0431\u0438\u0432\u043a\u0443\" \u0431\u0438\u043d\u0430\u043c\u0438 \u0434\u0430 \u0435\u0449\u0451 \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0448\u044c \u0430\u043d\u043d\u043e\u0442\u0430\u0446\u0438\u0438 - \u043f\u043e\u0447\u0435\u043c\u0443 \u043d\u0435 \u0432\u0437\u044f\u0442\u044c \u0438 \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c @ComponentScan \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0445 \u043f\u0430\u043a\u0435\u0442\u043e\u0432?",
+        "ts": "1463270210.000610"
+    }
+]

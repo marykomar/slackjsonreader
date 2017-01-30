@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U16S33KAS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16S33KAS|zom> has joined the channel",
+        "ts": "1464332880.000100"
+    },
+    {
+        "user": "U17U53GBZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17U53GBZ|viachesl> has joined the channel",
+        "ts": "1464343118.000101"
+    },
+    {
+        "user": "U17TPD876",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TPD876|oleg_zhorzha> has joined the channel",
+        "ts": "1464343654.000102"
+    },
+    {
+        "user": "U157BASRG",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U157BASRG|valerii.kukharchuk> has joined the channel",
+        "ts": "1464345371.000103"
+    },
+    {
+        "user": "U17TSLM7X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TSLM7X|driversti> has joined the channel",
+        "ts": "1464345839.000104"
+    },
+    {
+        "user": "U173XSJ74",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U173XSJ74|alex4ip> has joined the channel",
+        "ts": "1464347655.000105"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "<http:\/\/razbor-poletov.com\/>  -- JAVA \u041f\u043e\u0434\u043a\u0430\u0441\u0442 \u00ab\u0420\u0430\u0437\u0431\u043e\u0440 \u041f\u043e\u043b\u0435\u0442\u043e\u0432\u00bb\n<http:\/\/pilots.razbor-poletov.com\/> --  \"\u043f\u0435\u0440\u0435\u0440\u0430\u0441\u043f\u0435\u0440\u0435\u0434\u043b\u0435\u043d\u043e\" \u043f\u043e \u0442\u0435\u043c\u0430\u043c",
+        "attachments": [
+            {
+                "title": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442 \u00ab\u0420\u0430\u0437\u0431\u043e\u0440 \u041f\u043e\u043b\u0435\u0442\u043e\u0432\u00bb",
+                "title_link": "http:\/\/razbor-poletov.com\/",
+                "text": "\u042e\u043b\u0438\u044f \u041a\u0440\u0430\u043c\u0430\u0440\u0435\u043d\u043a\u043e @jkramr \u0428\u0438\u043f\u0438\u043b\u0451\u0432 \u0442\u0435\u043f\u0435\u0440\u044c \u0441 \u043d\u0430\u043c\u0438. \u0418 \u043f\u0440\u0435\u0437\u0438\u0440\u0430\u0435\u0442 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0448\u0438\u0431\u043a\u0438 @shipilev \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0411\u043e\u0440\u0438\u0441\u043e\u0432 @jekaborisov \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0424\u0451\u0434\u043e\u0440\u043e\u0432 aka @ \u2026",
+                "fallback": "\u041f\u043e\u0434\u043a\u0430\u0441\u0442 \u00ab\u0420\u0430\u0437\u0431\u043e\u0440 \u041f\u043e\u043b\u0435\u0442\u043e\u0432\u00bb",
+                "from_url": "http:\/\/razbor-poletov.com\/",
+                "service_name": "razbor-poletov.com",
+                "id": 1
+            }
+        ],
+        "ts": "1464348855.000106"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "<http:\/\/pilots.razbor-poletov.com\/#\/useful> -- \u043f\u043e\u043b\u0435\u0437\u043d\u044f\u0448\u043a\u0438 \u043d\u0430\u0431\u0440\u043e\u0441\u0430\u043d\u044b \u0438 \u0440\u0430\u0441\u0444\u0430\u0441\u043e\u0432\u0430\u043d\u044b",
+        "ts": "1464348910.000108"
+    },
+    {
+        "user": "U1BL3H8P9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BL3H8P9|andriy_levchenko> has joined the channel",
+        "ts": "1464362177.000109"
+    },
+    {
+        "user": "U1CAQ3D43",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CAQ3D43|romach007> has joined the channel",
+        "ts": "1464374444.000110"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u0422\u0435\u0445\u043d\u0438\u043a\u0430 Pomodoro \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u043c\u043e\u0433\u043b\u0430 \u043c\u043d\u0435 \u0432 \u043a\u0430\u0440\u044c\u0435\u0440\u0435 <http:\/\/lifehacker.ru\/wp-content\/uploads\/2014\/07\/24065732-ThePomodoroTechnique-RUS_v1-3.pdf>",
+        "edited": {
+            "user": "U150DHUL9",
+            "ts": "1464381258.000000"
+        },
+        "ts": "1464381241.000111",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U173XSJ74",
+                    "U1541UWDC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041c\u0435\u0442\u043e\u0434 \u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 <https:\/\/habrahabr.ru\/post\/196448\/>",
+        "attachments": [
+            {
+                "title": "\u0414\u0435\u0440\u0435\u043a \u0421\u0438\u0432\u0435\u0440\u0441: \u00ab\u041c\u0435\u0442\u043e\u0434 \u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043e\u0432\u0442\u043e\u0440\u0435\u043d\u0438\u044f \u2014 \u043b\u0443\u0447\u0448\u0438\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f\u00bb",
+                "title_link": "https:\/\/habrahabr.ru\/post\/196448\/",
+                "text": "\u041a\u0440\u0430\u0442\u043a\u0430\u044f \u0441\u043f\u0440\u0430\u0432\u043a\u0430: \u0432 1998 \u0433\u043e\u0434\u0443 \u0414\u0435\u0440\u0435\u043a \u0421\u0438\u0432\u0435\u0440\u0441 \u043e\u0441\u043d\u043e\u0432\u0430\u043b \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044e CD Baby \u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u043b \u0435\u0435 \u0432 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0435\u0433\u043e \u043e\u043d\u043b\u0430\u0439\u043d-\u043f\u0440\u043e\u0434\u0430\u0432\u0446\u0430 \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0439 \u043c\u0443\u0437\u044b\u043a\u0438. \u0412 2008-\u043e\u043c \u0432\u044b\u0440\u0443\u0447\u0435\u043d\u043d\u044b\u0435 \u043e\u0442...",
+                "fallback": "\u0414\u0435\u0440\u0435\u043a \u0421\u0438\u0432\u0435\u0440\u0441: \u00ab\u041c\u0435\u0442\u043e\u0434 \u0438\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043e\u0432\u0442\u043e\u0440\u0435\u043d\u0438\u044f \u2014 \u043b\u0443\u0447\u0448\u0438\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f\u00bb",
+                "thumb_url": "https:\/\/habrastorage.org\/storage3\/c06\/b69\/ce6\/c06b69ce6f8acd3ecd6fddbe08bcfb58.jpg",
+                "from_url": "https:\/\/habrahabr.ru\/post\/196448\/",
+                "thumb_width": 630,
+                "thumb_height": 369,
+                "service_icon": "https:\/\/habrahabr.ru\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440",
+                "id": 1
+            }
+        ],
+        "ts": "1464381296.000113",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U173XSJ74",
+                    "U1541UWDC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U1BTEGYRW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BTEGYRW|grubjakc> has joined the channel",
+        "ts": "1464381516.000115"
+    }
+]

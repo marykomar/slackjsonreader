@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U1L8NBLEQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1L8NBLEQ|kirichenkoaleks> has joined the channel",
+        "ts": "1466890570.000043"
+    }
+]

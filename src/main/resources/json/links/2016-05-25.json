@@ -1,0 +1,692 @@
+[
+    {
+        "user": "U150DHUL9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U150DHUL9|lozenko> has joined the channel",
+        "ts": "1464170657.000002"
+    },
+    {
+        "user": "U150DHUL9",
+        "purpose": "\u041a\u0430\u043d\u0430\u043b \u0434\u043b\u044f \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0445 \u0441\u0441\u044b\u043b\u043e\u043a",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U150DHUL9|lozenko> set the channel purpose: \u041a\u0430\u043d\u0430\u043b \u0434\u043b\u044f \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0445 \u0441\u0441\u044b\u043b\u043e\u043a",
+        "ts": "1464170657.000003"
+    },
+    {
+        "user": "U16KX5EAU",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16KX5EAU|anton> has joined the channel",
+        "ts": "1464170728.000004"
+    },
+    {
+        "user": "U154M646N",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U154M646N|praxiskwg> has joined the channel",
+        "ts": "1464170729.000005"
+    },
+    {
+        "user": "U191FGZD4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U191FGZD4|domvit> has joined the channel",
+        "ts": "1464170736.000006"
+    },
+    {
+        "user": "U16HN7N3Z",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16HN7N3Z|amarok> has joined the channel",
+        "ts": "1464170736.000007"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<https:\/\/habrahabr.ru\/post\/301402\/>",
+        "attachments": [
+            {
+                "title": "\u0414\u0430\u0439\u0434\u0436\u0435\u0441\u0442 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0445 \u0441\u043e\u0431\u044b\u0442\u0438\u0439 \u0438\u0437 \u043c\u0438\u0440\u0430 Java, \u0438 \u0432\u043e\u043a\u0440\u0443\u0433 \u043d\u0435\u0435 #2 (09.05.2016 \u2014 22.05.2016)",
+                "title_link": "https:\/\/habrahabr.ru\/post\/301402\/",
+                "text": "\u0412 \u044d\u0442\u043e\u043c \u0432\u044b\u043f\u0443\u0441\u043a\u0435 \u2014 \u041d\u043e\u0432\u0438\u043a\u0438 \u0432 Java: \u0438\u043c\u043c\u0443\u0442\u0430\u0431\u0435\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0438 \u0432 JDK9, \u043d\u043e\u0432\u044b\u0435 \u043e\u043f\u0446\u0438\u0438 \u0434\u043b\u044f \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 out-of-memory \u0432 JDK8 \u2014 \u041a\u0430\u043a \u0437\u0430\u0440\u0435\u043e\u0440\u0434\u0435\u0440\u0438\u0442\u044c \u0447\u0442\u0435\u043d\u0438\u044f \u043d\u0430 x86? \u2014...",
+                "fallback": "\u0414\u0430\u0439\u0434\u0436\u0435\u0441\u0442 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0445 \u0441\u043e\u0431\u044b\u0442\u0438\u0439 \u0438\u0437 \u043c\u0438\u0440\u0430 Java, \u0438 \u0432\u043e\u043a\u0440\u0443\u0433 \u043d\u0435\u0435 #2 (09.05.2016 \u2014 22.05.2016)",
+                "thumb_url": "https:\/\/habrastorage.org\/getpro\/habr\/post_images\/8ab\/fb5\/421\/8abfb54213acb72ff92a3fdd81588df0.jpg",
+                "from_url": "https:\/\/habrahabr.ru\/post\/301402\/",
+                "thumb_width": 600,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/habrahabr.ru\/favicon.ico",
+                "service_name": "\u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440",
+                "id": 1
+            }
+        ],
+        "ts": "1464170742.000008"
+    },
+    {
+        "user": "U17SXD8V9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17SXD8V9|lyosha> has joined the channel",
+        "ts": "1464170744.000010"
+    },
+    {
+        "user": "U18Q31MTN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18Q31MTN|oleksandrdres> has joined the channel",
+        "ts": "1464170746.000011"
+    },
+    {
+        "user": "U19BNJCF5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U19BNJCF5|georg> has joined the channel",
+        "ts": "1464170749.000012"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435  \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043d\u0430 \u043f\u0443\u043d\u043a\u0442 1.3 \u043f\u0440\u043e\u0435\u043a\u0442 Ambry \u043e\u0442 Linkedin.",
+        "ts": "1464170768.000013"
+    },
+    {
+        "user": "U1805G7G8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1805G7G8|mihalych> has joined the channel",
+        "ts": "1464170787.000014"
+    },
+    {
+        "user": "U1855F602",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1855F602|glyphish> has joined the channel",
+        "ts": "1464170792.000015"
+    },
+    {
+        "user": "U188P6V1U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U188P6V1U|diamondbreaks> has joined the channel",
+        "ts": "1464170796.000016"
+    },
+    {
+        "user": "U17SM7N78",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17SM7N78|oio> has joined the channel",
+        "ts": "1464170823.000017"
+    },
+    {
+        "user": "U17TDH3SQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TDH3SQ|stoker> has joined the channel",
+        "ts": "1464170852.000018"
+    },
+    {
+        "user": "U1B13B81L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1B13B81L|denis_n> has joined the channel",
+        "ts": "1464170915.000019"
+    },
+    {
+        "user": "U16UFMQ5S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16UFMQ5S|vanya> has joined the channel",
+        "ts": "1464171017.000020"
+    },
+    {
+        "user": "U182KQK5X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U182KQK5X|cules> has joined the channel",
+        "ts": "1464171079.000021"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u0430 Coursera \u043d\u0430\u0447\u0430\u043b\u0430\u0441\u044c \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u043e Scala",
+        "ts": "1464171117.000022"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<https:\/\/www.coursera.org\/specializations\/scala>",
+        "attachments": [
+            {
+                "service_name": "Coursera",
+                "title": "Functional Programming in Scala | Coursera",
+                "title_link": "https:\/\/www.coursera.org\/specializations\/scala",
+                "text": "Explore Functional Programming in Scala Certificate offered by \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne. Program on a Higher Level - Write elegant functional code to analyze data that's big or small. Discover how to write elegant code that works the first time it is run. This Specialization provides a hands-on introduction to functional programming using the widespread programming language, Scala. It begins from the basic building blocks of the functional paradigm, first showing how to use these blocks to solve small problems, before building up to combining these concepts to architect larger functional programs. You'll see how the functional paradigm facilitates parallel and distributed programming, and through a series of hands on examples and programming assignments, you'll learn how to analyze data sets small to large; from parallel programming on multicore architectures, to distributed programming on a cluster using Apache Spark. A final capstone project will allow you to apply the skills you learned by building a large data-intensive application using real-world data. Take free online classes from 120+ top universities and educational organizations. We partner with schools like Stanford, Yale, Princeton, and others to offer courses in dozens of topics, from computer science to teaching and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open, free education for everyone.",
+                "fallback": "Coursera: Functional Programming in Scala | Coursera",
+                "thumb_url": "https:\/\/d15cw65ipctsrr.cloudfront.net\/ca\/8934e0188711e69d2049c17d0d6907\/twenty20_54db5e50-8425-4ffd-a4fd-8ba5b4813b9a.jpg",
+                "from_url": "https:\/\/www.coursera.org\/specializations\/scala",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/www.coursera.org\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1464171118.000023"
+    },
+    {
+        "user": "U16QE2WEM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16QE2WEM|ekoshmarik> has joined the channel",
+        "ts": "1464171154.000025"
+    },
+    {
+        "user": "U181M15FV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U181M15FV|truesik> has joined the channel",
+        "ts": "1464171247.000026"
+    },
+    {
+        "user": "U17UP61QW",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17UP61QW|mjv> has joined the channel",
+        "ts": "1464171269.000027"
+    },
+    {
+        "user": "U182W5USZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U182W5USZ|ked> has joined the channel",
+        "ts": "1464171295.000028"
+    },
+    {
+        "user": "U156DP6FN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156DP6FN|salttotaste> has joined the channel",
+        "ts": "1464171457.000029"
+    },
+    {
+        "user": "U159QMS56",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U159QMS56|coderator> has joined the channel",
+        "ts": "1464171544.000030"
+    },
+    {
+        "user": "U16N8RLU8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16N8RLU8|alta0815> has joined the channel",
+        "ts": "1464171718.000031"
+    },
+    {
+        "user": "U156YLY57",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156YLY57|jenchen> has joined the channel",
+        "ts": "1464171907.000032"
+    },
+    {
+        "user": "U17T2T80N",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17T2T80N|dbryukhatsky> has joined the channel",
+        "ts": "1464172069.000033"
+    },
+    {
+        "user": "U174DPXUL",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U174DPXUL|w.tyurin> has joined the channel",
+        "ts": "1464172096.000034"
+    },
+    {
+        "user": "U17UGQQ9G",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17UGQQ9G|kuzmenko.vova> has joined the channel",
+        "ts": "1464172427.000035"
+    },
+    {
+        "user": "U156QCJ79",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156QCJ79|starikivan> has joined the channel",
+        "ts": "1464172513.000036"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u041f\u0440\u043e\u0435\u043a\u0442 \u043f\u043e \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044e Hadoop \u0438 \u0432\u0441\u0435 \u0447\u0442\u043e \u0441 \u043d\u0438\u043c \u0441\u0432\u044f\u0437\u0430\u043d\u043e. <http:\/\/hortonworks.com\/products\/sandbox\/> \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0448\u044c\u0441\u044f, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0448\u044c \u043e\u0431\u0440\u0430\u0437 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u043a\u0438 \u043d\u0430 8\u0433\u0438\u0433 \u0432\u0448\u0438\u0442\u044b\u0439 \u0432 \u043d\u0435\u0439 \u0440\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044b\u0439 \u0445\u0430\u0434\u0443\u043f, \u0442\u0443\u0442\u043e\u0440\u0438\u0430\u043b\u044b \u043d\u0430 Centos. \u0422\u0432\u043e\u0439 \u0431\u0438\u043b\u0435\u0442 \u0432 BigData.",
+        "attachments": [
+            {
+                "service_name": "Hortonworks",
+                "title": "Hadoop Download",
+                "title_link": "http:\/\/hortonworks.com\/products\/sandbox\/",
+                "text": "Hortonworks Sandbox is a personal, portable Apache Hadoop environment that comes with dozens of interactive Hadoop. Get up and running in 15 minutes!",
+                "fallback": "Hortonworks: Hadoop Download",
+                "from_url": "http:\/\/hortonworks.com\/products\/sandbox\/",
+                "service_icon": "http:\/\/hortonworks.com\/wp-content\/uploads\/2016\/04\/cropped-favicon521x512-180x180.png",
+                "id": 1
+            }
+        ],
+        "ts": "1464172570.000037",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19BNJCF5",
+                    "U17T2T80N",
+                    "U159QMS56",
+                    "U17TMDLC8",
+                    "U15A8DXMF"
+                ],
+                "count": 5
+            },
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U16H3P5G8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U154G64BV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U154G64BV|dee> has joined the channel",
+        "ts": "1464172829.000039"
+    },
+    {
+        "user": "U187YJ0G5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U187YJ0G5|magnum> has joined the channel",
+        "ts": "1464173048.000040"
+    },
+    {
+        "user": "U158M6X0X",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U158M6X0X|sabfir> has joined the channel",
+        "ts": "1464173315.000041"
+    },
+    {
+        "user": "U1B9C4SER",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1B9C4SER|kenan> has joined the channel",
+        "ts": "1464173367.000042"
+    },
+    {
+        "user": "U191TCNF7",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U191TCNF7|arch817> has joined the channel",
+        "ts": "1464173753.000043"
+    },
+    {
+        "user": "U15G85DQX",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15G85DQX|sergiiko> has joined the channel",
+        "ts": "1464173949.000044"
+    },
+    {
+        "user": "U1552UTDH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1552UTDH|andrush> has joined the channel",
+        "ts": "1464174122.000045"
+    },
+    {
+        "user": "U17073E95",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17073E95|alesto> has joined the channel",
+        "ts": "1464174914.000046"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U150DHUL9> \u042d\u0442\u043e \u043d\u0430\u0434\u043e \u0438\u043c\u0435\u0442\u044c 16 \u0433\u0438\u0433 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u044b, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0434\u043d\u044f\u0442\u044c \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u043a\u0443? :slightly_smiling_face:",
+        "ts": "1464174996.000047"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "8",
+        "ts": "1464175056.000048"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043d\u043e \u0447\u0435\u043c \u0431\u043e\u043b\u044c\u0448\u0435 \u0442\u0435\u043c \u043b\u0443\u0447\u0448\u0435",
+        "ts": "1464175062.000049"
+    },
+    {
+        "user": "U17LYSKSA",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17LYSKSA|vova> has joined the channel",
+        "ts": "1464175130.000050"
+    },
+    {
+        "user": "U158BGZF1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U158BGZF1|dmytro_sokolov> has joined the channel",
+        "ts": "1464175576.000051"
+    },
+    {
+        "user": "U1731PWHF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1731PWHF|xquant1x> has joined the channel",
+        "ts": "1464176251.000052"
+    },
+    {
+        "user": "U17TMDLC8",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TMDLC8|anatoly> has joined the channel",
+        "ts": "1464176381.000053"
+    },
+    {
+        "user": "U16UQ8LAZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16UQ8LAZ|gr8web> has joined the channel",
+        "ts": "1464176582.000054"
+    },
+    {
+        "user": "U19PFMTJ5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U19PFMTJ5|vlad_iv> has joined the channel",
+        "ts": "1464177000.000057"
+    },
+    {
+        "user": "U1BG42KGB",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BG42KGB|bogdan> has joined the channel",
+        "ts": "1464178475.000058"
+    },
+    {
+        "user": "U15A8DXMF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15A8DXMF|yaroslavhamuha> has joined the channel",
+        "ts": "1464178685.000059"
+    },
+    {
+        "user": "U191MTQB1",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U191MTQB1|amolodtsov> has joined the channel",
+        "ts": "1464180681.000060"
+    },
+    {
+        "user": "U172MPHTK",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U172MPHTK|oam> has joined the channel",
+        "ts": "1464180721.000061"
+    },
+    {
+        "user": "U17TS4G5V",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TS4G5V|alexhap> has joined the channel",
+        "ts": "1464181203.000062"
+    },
+    {
+        "user": "U17V9A0EQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17V9A0EQ|alex_lev> has joined the channel",
+        "ts": "1464182508.000063"
+    },
+    {
+        "user": "U180A3J2D",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U180A3J2D|biomaks> has joined the channel",
+        "ts": "1464182514.000064"
+    },
+    {
+        "user": "U16P352LQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16P352LQ|dimonick> has joined the channel",
+        "ts": "1464182579.000065"
+    },
+    {
+        "user": "U180SDV2R",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U180SDV2R|cyc10ne> has joined the channel",
+        "ts": "1464185226.000066"
+    },
+    {
+        "user": "U15KGKN2J",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15KGKN2J|fiz> has joined the channel",
+        "ts": "1464185233.000067"
+    },
+    {
+        "user": "U1BLD0YFQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1BLD0YFQ|rostyslav.rozhko> has joined the channel",
+        "ts": "1464186419.000068"
+    },
+    {
+        "type": "message",
+        "user": "U187YJ0G5",
+        "text": "<https:\/\/tproger.ru\/articles\/free-programming-books\/#more-13746> \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0430\u044f \u043f\u043e\u0434\u0431\u043e\u0440\u043a\u0430 \u043f\u043e Java \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435",
+        "attachments": [
+            {
+                "service_name": "\u0422\u0438\u043f\u0438\u0447\u043d\u044b\u0439\u00a0\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442",
+                "title": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432",
+                "title_link": "https:\/\/tproger.ru\/articles\/free-programming-books\/#more-13746",
+                "text": "\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u043f\u0438\u0441\u043a\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442\u0441\u044f 1584 \u0441\u0441\u044b\u043b\u043a\u0438: \u043a\u043d\u0438\u0433\u0438, \u0441\u0442\u0430\u0442\u044c\u0438, \u0442\u0443\u0442\u043e\u0440\u0438\u0430\u043b\u044b, \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u044b, \u0438\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0435 \u043e\u0431\u0443\u0447\u0430\u043b\u043a\u0438, \u043f\u043e\u0434\u043a\u0430\u0441\u0442\u044b \u2014 \u0432\u0441\u0451 \u0442\u043e\u043b\u044c\u043a\u043e \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0435. \u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u0441",
+                "fallback": "\u0422\u0438\u043f\u0438\u0447\u043d\u044b\u0439\u00a0\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442: \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432",
+                "image_url": "https:\/\/tproger.azureedge.net\/wp-content\/uploads\/2016\/02\/library770.jpg?322639",
+                "from_url": "https:\/\/tproger.ru\/articles\/free-programming-books\/#more-13746",
+                "image_width": 738,
+                "image_height": 250,
+                "image_bytes": 51980,
+                "id": 1
+            }
+        ],
+        "ts": "1464187864.000069"
+    },
+    {
+        "user": "U180K6WRM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U180K6WRM|andrey_voytuk> has joined the channel",
+        "ts": "1464187933.000071"
+    },
+    {
+        "user": "U1AATCBU5",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1AATCBU5|volkodav> has joined the channel",
+        "ts": "1464188656.000072"
+    },
+    {
+        "user": "U192CF1SM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U192CF1SM|kytsmen> has joined the channel",
+        "ts": "1464189224.000073"
+    },
+    {
+        "type": "message",
+        "user": "U1B13B81L",
+        "text": "\u0422\u0430\u043a \u043a\u0430\u043a \u044f \u041d\u0410\u0427\u0418\u041d\u0410\u042e\u0429\u0418\u0419 beginner, \u043e\u0447\u0435\u043d\u044c \u0447\u0430\u0441\u0442\u043e \u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0441\u044c \u0432\u043e\u0442 \u044d\u0442\u0438\u043c \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u043c <http:\/\/www.java2s.com|www.java2s.com> \n\u0417\u042b. \u0415\u0441\u043b\u0438 \u043e\u043a\u0430\u0436\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u0441\u0441\u044b\u043b\u043a\u0430 \u043d\u0435 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0430, \u0441\u043a\u0430\u0436\u0435\u0442\u0435 - \u0443\u0434\u0430\u043b\u044e.",
+        "ts": "1464191928.000074"
+    },
+    {
+        "user": "U18UH3HH6",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18UH3HH6|vitalish> has joined the channel",
+        "ts": "1464193567.000075"
+    },
+    {
+        "user": "U156623BK",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156623BK|volodymyr> has joined the channel",
+        "ts": "1464196166.000076"
+    },
+    {
+        "user": "U16T3MCR0",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16T3MCR0|zaiets.andrii> has joined the channel",
+        "ts": "1464196751.000077"
+    },
+    {
+        "type": "message",
+        "user": "U19BNJCF5",
+        "text": "<https:\/\/dzone.com\/articles\/the-top-100-java-libraries-in-2016-after-analyzing?edition=179474&amp;utm_source=Daily%20Digest&amp;utm_medium=email&amp;utm_content=POS1&amp;utm_campaign=dd%202016-05-25&amp;userid=2798266>",
+        "attachments": [
+            {
+                "service_name": "dzone.com",
+                "title": "The Top 100 Java Libraries in 2016 After Analyzing 47,251 Dependencies - DZone Java",
+                "title_link": "https:\/\/dzone.com\/articles\/the-top-100-java-libraries-in-2016-after-analyzing?edition=179474&utm_source=Daily%20Digest&utm_medium=email&utm_content=POS1&utm_campaign=dd%202016-05-25&userid=2798266",
+                "text": "The numbers are in: after analyzing GitHub we have come up with the most popular libraries in Java for 2016.",
+                "fallback": "dzone.com: The Top 100 Java Libraries in 2016 After Analyzing 47,251 Dependencies - DZone Java",
+                "from_url": "https:\/\/dzone.com\/articles\/the-top-100-java-libraries-in-2016-after-analyzing?edition=179474&utm_source=Daily%20Digest&utm_medium=email&utm_content=POS1&utm_campaign=dd%202016-05-25&userid=2798266",
+                "id": 1
+            }
+        ],
+        "ts": "1464197024.000078"
+    },
+    {
+        "user": "U154HT5JM",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U154HT5JM|viktoriankv> has joined the channel",
+        "ts": "1464200179.000080"
+    },
+    {
+        "user": "U18LH2HL3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18LH2HL3|bmik98> has joined the channel",
+        "ts": "1464200731.000081"
+    },
+    {
+        "user": "U15AGB6HY",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15AGB6HY|0xff> has joined the channel",
+        "ts": "1464204423.000082"
+    },
+    {
+        "user": "U15B9DZ0T",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15B9DZ0T|belevtsov_sergey> has joined the channel",
+        "ts": "1464205454.000083"
+    },
+    {
+        "type": "message",
+        "user": "U15B9DZ0T",
+        "text": "\u0441\u043f\u0430\u0441\u0438\u0431\u043e <@U150DHUL9> , \u043a\u043b\u0430\u0441\u0441\u043d\u0430\u044f \u0438\u0434\u0435\u044f \u043a\u0430\u043d\u0430\u043b\u0430",
+        "ts": "1464205553.000084",
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "U150DHUL9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U156H597E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156H597E|vladyslav> has joined the channel",
+        "ts": "1464206395.000085"
+    },
+    {
+        "user": "U15GCRBM4",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U15GCRBM4|tanua> has joined the channel",
+        "ts": "1464206687.000086"
+    },
+    {
+        "user": "U154201DJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U154201DJ|saturnua> has joined the channel",
+        "ts": "1464209574.000087"
+    },
+    {
+        "user": "U156XPGQP",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U156XPGQP|yaroslav> has joined the channel",
+        "ts": "1464209593.000088"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "\u043e\u0434\u043d\u043e \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442\u043d\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432 \u043e \u043f\u0435\u0440\u0444\u043e\u043c\u0430\u043d\u0441\u0435 \u0432 \u043c\u0438\u0440\u0435",
+        "ts": "1464210968.000089"
+    },
+    {
+        "type": "message",
+        "user": "U150DHUL9",
+        "text": "<http:\/\/highscalability.com\/>",
+        "ts": "1464210969.000090"
+    },
+    {
+        "user": "U1AFM877B",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1AFM877B|kiev_junta> has joined the channel",
+        "ts": "1464211852.000091"
+    },
+    {
+        "type": "message",
+        "user": "U1AFM877B",
+        "text": "<http:\/\/overapi.com\/java>",
+        "attachments": [
+            {
+                "title": "Java Cheat Sheet | OverAPI.com",
+                "title_link": "http:\/\/overapi.com\/java",
+                "text": "<http:\/\/OverAPI.com|OverAPI.com> is a site collecting all the cheatsheets,all!",
+                "fallback": "Java Cheat Sheet | OverAPI.com",
+                "from_url": "http:\/\/overapi.com\/java",
+                "service_icon": "http:\/\/overapi.com\/favicon.ico",
+                "service_name": "overapi.com",
+                "id": 1
+            }
+        ],
+        "ts": "1464211855.000092"
+    },
+    {
+        "user": "U17V21H8E",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17V21H8E|dmytro.stekanov> has joined the channel",
+        "ts": "1464245911.000094"
+    }
+]

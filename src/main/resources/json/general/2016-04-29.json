@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U150DHUL9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U150DHUL9|lozenko> has joined the channel",
+        "ts": "1461952333.998945"
+    },
+    {
+        "user": "U151KEN3A",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U151KEN3A|marenko> has joined the channel",
+        "ts": "1461960905.000002"
+    },
+    {
+        "user": "U151N9A2U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U151N9A2U|karpa> has joined the channel",
+        "ts": "1461961468.000002"
+    }
+]

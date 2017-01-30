@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "\u043a\u043e\u043c\u0443 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e: \u0447\u0438\u0442\u0430\u044f \u043e\u0431\u043e \u0432\u0441\u044f\u043a\u043e\u043c, \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u043b \u0442\u0430\u0441\u043a \u043d\u0430 Sun Certified Java Programmer - SCJP:",
+        "edited": {
+            "user": "U172MPHTK",
+            "ts": "1464692654.000000"
+        },
+        "ts": "1464692605.000809"
+    },
+    {
+        "type": "message",
+        "user": "U172MPHTK",
+        "text": "public class TreeSets {\n    public static void main(String[] args) {\n        TreeSet&lt;Integer&gt; set = new TreeSet&lt;Integer&gt;() {{\n            add(2); add(4); add(6);\n        }};\n        TreeSet&lt;Integer&gt; subset = set.subSet(2, true, 5, true);\n        subset.add(7);\n\n        System.out.println(set + \" \" + subset);\n    }\n}",
+        "ts": "1464692626.000810"
+    },
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "\u0443 \u043c\u0435\u043d\u044f \u0440\u0443\u0433\u0430\u0435\u0442\u0441\u044f \u043d\u0430  TreeSet&lt;Integer&gt; subset = set.subSet(2, true, 5, true);\n\u0442\u0438\u043f\u0430 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u043c\u044b\u0439 \u0442\u0438\u043f NavigableSet \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 TreeSet",
+        "ts": "1464694412.000812"
+    },
+    {
+        "user": "U17TYL28M",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U17TYL28M|tony> has joined the channel",
+        "ts": "1464708035.000813"
+    },
+    {
+        "type": "message",
+        "user": "U18DWD9DE",
+        "text": "\u0440\u0435\u0431\u044f\u0442\u0430, \u043a\u0442\u043e \u0447\u0442\u043e \u043f\u043e\u0434\u0441\u043a\u0430\u0436\u0435\u0442 \u043f\u043e \u043c\u043e\u0435\u043c\u0443 \u0432\u0447\u0435\u0440\u0430\u0448\u043d\u0435\u043c\u0443 \u0432\u043e\u043f\u0440\u043e\u0441\u0443?",
+        "ts": "1464755731.000814"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U16NVCQHE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16NVCQHE|karienomen> has joined the channel",
+        "ts": "1465918766.000004"
+    }
+]

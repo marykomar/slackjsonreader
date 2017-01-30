@@ -1,0 +1,122 @@
+[
+    {
+        "type": "message",
+        "user": "U16P352LQ",
+        "text": "<@U17073E95>:  \u0442\u043e \u0435\u0441\u0442\u044c \u0442\u044b \u0434\u0443\u043c\u0430\u0435\u0448\u044c \u0447\u0442\u043e \u0435\u0441\u043b\u0438 \u0442\u0443\u0442 \u0431\u0443\u0434\u0435\u0442 \u0442\u0438\u0448\u0438\u043d\u0430 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0437\u0430\u0433\u043b\u044f\u043d\u0435\u0442 \u0441\u044e\u0434\u0430 \u0438 \u0443\u0439\u0434\u0435\u0442 \u0447\u0438\u0442\u0430\u0442\u044c \u0445\u043e\u0440\u043e\u0448\u0443\u044e \u043a\u043d\u0438\u0433\u0443))",
+        "edited": {
+            "user": "U16P352LQ",
+            "ts": "1464854257.000000"
+        },
+        "ts": "1464854241.003125"
+    },
+    {
+        "user": "U1DH2050Q",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1DH2050Q|vetall> has joined the channel",
+        "ts": "1464855480.003127"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "<!here|@here> \u0420\u0435\u0431\u044f\u0442\u0430, \u043f\u043e\u0434\u0441\u043a\u0430\u0436\u0438\u0442\u0435, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0433\u0434\u0435 \u043f\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043f\u0440\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e single page \u0432 thymeleaf?",
+        "ts": "1464857025.003128"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U16P352LQ>: \u044d\u0442\u043e \u043b\u0438\u0447\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440 \u043a\u0430\u0436\u0434\u043e\u0433\u043e :slightly_smiling_face:",
+        "edited": {
+            "user": "U17073E95",
+            "ts": "1464860874.000000"
+        },
+        "ts": "1464860865.003129",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U16P352LQ",
+                    "U1CQGH2RJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<@U19PN5MGE>: \n<http:\/\/www.thymeleaf.org\/doc\/articles\/layouts.html> \n<http:\/\/www.thymeleaf.org\/doc\/tutorials\/2.1\/thymeleafspring.html>",
+        "edited": {
+            "user": "U17073E95",
+            "ts": "1464860949.000000"
+        },
+        "ts": "1464860933.003131"
+    },
+    {
+        "type": "message",
+        "user": "U17073E95",
+        "text": "<!here|@here> \u0445\u0438\u0442\u0440\u044b\u0439 \u0432\u043e\u043f\u0440\u043e\u0441. \u0415\u0441\u043b\u0438 \u043c\u0435\u0442\u043e\u0434 \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0435\u043d *@Transactional* \u0438 \u043c\u044b \u0435\u0433\u043e \u0434\u0435\u0431\u0430\u0436\u0438\u043c \u0432 Intellij IDEA , \u0435\u0441\u0442\u044c \u043b\u0438 \u0441\u043f\u043e\u0441\u043e\u0431 \u043e\u0431\u0440\u0443\u0431\u0438\u0442\u044c \u0435\u0433\u043e \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u0438 \u043d\u0435 \u0434\u0430\u0442\u044c \u0442\u0440\u0430\u043d\u0437\u0430\u043a\u0446\u0438\u0438 \u0443\u0439\u0442\u0438 \u0432 \u0440\u0430\u0431\u043e\u0442\u0443, \u043d\u0435 \u0432\u044b\u0440\u0443\u0431\u0430\u044f \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435?",
+        "ts": "1464861126.003133"
+    },
+    {
+        "type": "message",
+        "user": "U15KGKN2J",
+        "text": "<@U19PN5MGE>: Thymeleaf \u0442\u0443\u0442 \u043d\u0435 \u043f\u043e\u043c\u043e\u0436\u0435\u0442. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439 javascript\/JQuery.",
+        "ts": "1464861464.003134"
+    },
+    {
+        "type": "message",
+        "user": "U16NVCQHE",
+        "text": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442! \u0418\u0449\u0443 \u043d\u0430\u043f\u0430\u0440\u043d\u0438\u043a\u0430! \u0411\u0443\u0434\u0435\u043c \u0432\u043c\u0435\u0441\u0442\u0435 \u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438, \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c\u0441\u044f \u043a \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u043c. \u041f\u0438\u0441\u0430\u043b \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0443\u0447\u0435\u0431\u043d\u044b\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b \u043d\u0430 Spring, Spring Security, JDBC, Hybernate, thymeleaf, Rest, Mysql, bootstrap.",
+        "ts": "1464867099.003135"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": ":slightly_smiling_face:",
+        "ts": "1464867185.003136"
+    },
+    {
+        "user": "U1DJ809HS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1DJ809HS|zaychenko_evgeniy> has joined the channel",
+        "ts": "1464868723.003137"
+    },
+    {
+        "type": "message",
+        "user": "U1DJ809HS",
+        "text": "\u041f\u0440\u0438\u0432\u0435\u0442 \u0432\u0441\u0435\u043c",
+        "ts": "1464868864.003138"
+    },
+    {
+        "type": "message",
+        "user": "U16HN7N3Z",
+        "text": "<@U1DJ809HS>: \u043f\u0440\u0438\u0432\u0435\u0442",
+        "ts": "1464869818.003139"
+    },
+    {
+        "type": "message",
+        "user": "U1CQGH2RJ",
+        "text": "<@U1DJ809HS> \u043f\u0440\u0438\u0432\u0435\u0442",
+        "ts": "1464877160.003140"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u0420\u0435\u0431\u044f\u0442, \u043c\u043e\u0436\u043d\u043e \u043a\u0430\u043a-\u043d\u0438\u0431\u0443\u0434\u044c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0434\u0435\u0431\u0430\u0433 \u043c\u043e\u0434 \u0443 spring boot'\u0430 \u043d\u0435 \u0433\u0440\u0443\u0437\u0438\u043b\u0441\u044f \u0442\u0430\u043a \u0434\u043e\u043b\u0433\u043e? (\u0443 \u043c\u0435\u043d\u044f \u043d\u0430 400+ \u0441\u0435\u043a\u0443\u043d\u0434 \u0443\u0445\u043e\u0434\u0438\u0442 \u043d\u0430 \u0441\u0442\u0430\u0440\u0442)",
+        "ts": "1464892878.003141"
+    },
+    {
+        "type": "message",
+        "user": "U180A3J2D",
+        "text": "\u041d\u0435 \u0434\u043e\u043b\u0436\u043d\u043e ",
+        "ts": "1464896728.003144"
+    },
+    {
+        "type": "message",
+        "user": "U18USSTLJ",
+        "text": "spring boot dev tools \u0433\u043b\u044f\u043d\u044c",
+        "ts": "1464897270.003145"
+    }
+]

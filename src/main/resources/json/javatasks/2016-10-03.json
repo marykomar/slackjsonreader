@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "user": "U16NVCQHE",
+        "text": "<https:\/\/github.com\/aquariusmaster\/redisfiller> \n<https:\/\/github.com\/aquariusmaster\/elasticsearchfiller> \n<https:\/\/github.com\/aquariusmaster\/translator-service> \n\u041c\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0433\u043e \u0437\u0430\u0434\u0430\u043d\u0438\u044f. \n\u0421 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0441\u043a\u0440\u0438\u043f\u0442\u0430 translator.sh \u0442\u0440\u0438 \u0441\u0435\u0440\u0432\u0438\u0441\u0430 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u044e\u0442\u0441\u044f \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e. Elasticsearchfiller \u0438 Redisfiller \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u044e\u0442 \u0441\u0432\u043e\u0438 docker \u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440\u044b \u0438 \u043d\u0430\u043f\u043e\u043b\u043d\u044f\u044e\u0442 \u0434\u0430\u043d\u043d\u044b\u043c\u0438 \u043f\u043e 50 \u0437\u0430\u043f\u0438\u0441\u0435\u0439 \u0432 5 \u0441\u0435\u043a\u0443\u043d\u0434. Translator \u0441\u0435\u0440\u0432\u0438\u0441 \u0431\u0435\u0440\u0435\u0442 \u0434\u0430\u043d\u043d\u044b\u0435, \u0441\u043a\u043b\u0435\u0438\u0432\u0430\u0435\u0442 \u0437\u0430\u043f\u0438\u0441\u0438 \u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0432 mongo db.",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "aquariusmaster\/redisfiller",
+                "title_link": "https:\/\/github.com\/aquariusmaster\/redisfiller",
+                "text": "redisfiller - Redis filler inner microservice",
+                "fallback": "GitHub: aquariusmaster\/redisfiller",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/6018601?v=3&s=400",
+                "from_url": "https:\/\/github.com\/aquariusmaster\/redisfiller",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            },
+            {
+                "service_name": "GitHub",
+                "title": "aquariusmaster\/elasticsearchfiller",
+                "title_link": "https:\/\/github.com\/aquariusmaster\/elasticsearchfiller",
+                "text": "elasticsearchfiller - Inner microservice",
+                "fallback": "GitHub: aquariusmaster\/elasticsearchfiller",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/6018601?v=3&s=400",
+                "from_url": "https:\/\/github.com\/aquariusmaster\/elasticsearchfiller",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 2
+            },
+            {
+                "service_name": "GitHub",
+                "title": "aquariusmaster\/translator-service",
+                "title_link": "https:\/\/github.com\/aquariusmaster\/translator-service",
+                "text": "translator-service - Translator microservice",
+                "fallback": "GitHub: aquariusmaster\/translator-service",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/6018601?v=3&s=400",
+                "from_url": "https:\/\/github.com\/aquariusmaster\/translator-service",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 3
+            }
+        ],
+        "edited": {
+            "user": "U16NVCQHE",
+            "ts": "1475527495.000000"
+        },
+        "ts": "1475508276.000010",
+        "reactions": [
+            {
+                "name": "javaguru",
+                "users": [
+                    "U173XSJ74",
+                    "U17V9A0EQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U16KX5EAU",
+                    "U17TMDLC8"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

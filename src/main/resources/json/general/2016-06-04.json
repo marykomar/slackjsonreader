@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "user": "U16HN7N3Z",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Whhf55No15U>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How to sit correctly in front of the computer",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Whhf55No15U",
+                "author_name": "HowPCRuls",
+                "author_link": "https:\/\/www.youtube.com\/user\/HowPCRuls",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Whhf55No15U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to sit correctly in front of the computer",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/Whhf55No15U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Whhf55No15U",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1465058393.003156",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19BNJCF5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1E6NPZE3",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E6NPZE3|krostysav> has joined the channel",
+        "ts": "1465062924.003158"
+    },
+    {
+        "user": "U1E6TCYUQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1E6TCYUQ|anatoliy8621> has joined the channel",
+        "ts": "1465069219.003159"
+    },
+    {
+        "type": "message",
+        "user": "U19PN5MGE",
+        "text": "\u0440\u0435\u0431\u044f\u0442\u0430, \u0447\u0442\u043e-\u0442\u043e \u0437\u0430\u043b\u0438\u043f \u0441 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c jms \u0438 activeMQ, \u043f\u043e\u043c\u043e\u0433\u0438\u0442\u0435 \u0441\u043e \u0441\u0442\u0430\u0442\u0435\u0439\u043a\u0430\u043c\u0438, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430",
+        "ts": "1465070070.003160"
+    },
+    {
+        "type": "message",
+        "user": "U17UP61QW",
+        "text": "<https:\/\/spring.io\/guides\/gs\/messaging-jms\/>",
+        "attachments": [
+            {
+                "title": "Messaging with JMS",
+                "title_link": "https:\/\/spring.io\/guides\/gs\/messaging-jms\/",
+                "text": "this guide is designed to get you productive as quickly as possible and using the latest Spring project releases and techniques as recommended by the Spring team",
+                "fallback": "Messaging with JMS",
+                "image_url": "https:\/\/spring.io\/img\/spring-by-pivotal-9066b55828deb3c10e27e609af322c40.png",
+                "from_url": "https:\/\/spring.io\/guides\/gs\/messaging-jms\/",
+                "image_width": 769,
+                "image_height": 250,
+                "image_bytes": 16126,
+                "service_icon": "https:\/\/spring.io\/img\/favicon-ca31b78daf0dd9a106bbf3c6d87d4ec7.png",
+                "service_name": "spring.io",
+                "id": 1
+            }
+        ],
+        "ts": "1465070817.003161"
+    }
+]

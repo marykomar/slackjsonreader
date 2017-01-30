@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U1K9Q0L7L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1K9Q0L7L|kpycnuk> has joined the channel",
+        "ts": "1466610353.000128"
+    },
+    {
+        "user": "U1KATA7DF",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KATA7DF|kotovsky> has joined the channel",
+        "ts": "1466616342.000129"
+    },
+    {
+        "user": "U1KFLB248",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1KFLB248|dm_l> has joined the channel",
+        "ts": "1466655112.000131"
+    }
+]

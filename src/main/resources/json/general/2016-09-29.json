@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U2HF4CHCN",
+        "text": "<@U2HF4CHCN|hrebin.vladimir> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475147495.000464"
+    },
+    {
+        "user": "U2HNE6JCD",
+        "text": "<@U2HNE6JCD|apyrig> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475176016.000465"
+    },
+    {
+        "user": "U2HPYCDQ8",
+        "text": "<@U2HPYCDQ8|sergiy.matyushko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1475184197.000466"
+    }
+]

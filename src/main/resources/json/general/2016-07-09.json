@@ -1,0 +1,357 @@
+[
+    {
+        "type": "message",
+        "user": "U15A8DXMF",
+        "text": "<@U1J1ACLDV>: \u0444\u043e\u0442\u043e \u0432 \u043f\u0440\u043e\u0444\u0430\u0439\u043b \u043f\u043e\u0441\u0442\u0430\u0432\u044c.",
+        "ts": "1468048954.000719"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U15A8DXMF|yaroslavhamuha> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/yaroslavhamuha\/F1Q633Z27\/pasted_image_at_2016_07_09_10_45_am.png|Pasted image at 2016-07-09, 10:45 AM>",
+        "file": {
+            "id": "F1Q633Z27",
+            "created": 1468050329,
+            "timestamp": 1468050329,
+            "name": "Pasted image at 2016_07_09 10_45 AM.png",
+            "title": "Pasted image at 2016-07-09, 10:45 AM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U15A8DXMF",
+            "editable": false,
+            "size": 32153,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1Q633Z27\/pasted_image_at_2016_07_09_10_45_am.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1Q633Z27\/download\/pasted_image_at_2016_07_09_10_45_am.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q633Z27-2d5b1cf6b1\/pasted_image_at_2016_07_09_10_45_am_64.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q633Z27-2d5b1cf6b1\/pasted_image_at_2016_07_09_10_45_am_80.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q633Z27-2d5b1cf6b1\/pasted_image_at_2016_07_09_10_45_am_360.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360_w": 360,
+            "thumb_360_h": 294,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q633Z27-2d5b1cf6b1\/pasted_image_at_2016_07_09_10_45_am_160.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "image_exif_rotation": 1,
+            "original_w": 373,
+            "original_h": 305,
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/yaroslavhamuha\/F1Q633Z27\/pasted_image_at_2016_07_09_10_45_am.png",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1Q633Z27-96bed73279",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U15A8DXMF",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U15A8DXMF|yaroslavhamuha>",
+        "bot_id": null,
+        "ts": "1468050330.000720"
+    },
+    {
+        "user": "U1Q7MF52A",
+        "text": "<@U1Q7MF52A|lyzhenko> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468052411.000721"
+    },
+    {
+        "type": "message",
+        "user": "U16HN7N3Z",
+        "text": "\u0437\u043f \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0438",
+        "ts": "1468061653.000722"
+    },
+    {
+        "type": "message",
+        "user": "U16HN7N3Z",
+        "text": "<https:\/\/jobs.dou.ua\/salaries\/>",
+        "attachments": [
+            {
+                "service_name": "\u0414\u041e\u0423",
+                "title": "\u0417\u0430\u0440\u043f\u043b\u0430\u0442\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432 \u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u0435",
+                "title_link": "https:\/\/jobs.dou.ua\/salaries\/",
+                "text": "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0437\u0430\u0440\u043f\u043b\u0430\u0442\u0430 Software Engineer \u0432 \u041a\u0438\u0435\u0432\u0435 \u2014 $1824, QA Engineer \u2014 $1500, Team Lead \u2014 $3000.",
+                "fallback": "\u0414\u041e\u0423: \u0417\u0430\u0440\u043f\u043b\u0430\u0442\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432 \u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u0435",
+                "thumb_url": "https:\/\/jobs.dou.ua\/assets\/img\/salaries-icon.png",
+                "from_url": "https:\/\/jobs.dou.ua\/salaries\/",
+                "thumb_width": 200,
+                "thumb_height": 179,
+                "service_icon": "https:\/\/s.dou.ua\/assets\/img\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1468061654.000723"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u042f\u0432\u043d\u0430\u044f \u0442\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u044f \u0434\u0435\u043c\u043f\u0438\u043d\u0433\u0430 \u0440\u044b\u043d\u043a\u0430 \u0434\u043b\u044f \u0434\u0436\u0443\u043d\u043e\u0432",
+        "ts": "1468063897.000725"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "\u0415\u0449\u0435 \u043c\u043d\u0435 \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u0435\u043a\u0441\u0442\u0440\u0430\u043f\u043e\u043b\u044f\u0442\u043e\u0440 \u0434\u043b\u044f \u0437\u0430\u0440\u043f\u043b\u0430\u0442 \u043d\u0430 3 \u043a\u0432\u0430\u0440\u0442\u0438\u043b\u044c, \u0434\u043b\u044f \u0434\u0436\u0443\u043d\u0430 \u0441 10+ \u043e\u043f\u044b\u0442\u043e\u043c))",
+        "ts": "1468063983.000726"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "<http:\/\/i.imgur.com\/VYgyM7y.png>",
+        "attachments": [
+            {
+                "fallback": "582x346px image",
+                "image_url": "http:\/\/i.imgur.com\/VYgyM7y.png",
+                "image_width": 582,
+                "image_height": 346,
+                "image_bytes": 19492,
+                "from_url": "http:\/\/i.imgur.com\/VYgyM7y.png",
+                "id": 1
+            }
+        ],
+        "ts": "1468064054.000727"
+    },
+    {
+        "type": "message",
+        "user": "U17SM7N78",
+        "text": "5 \u0434\u0436\u0443\u043d\u0438\u043e\u0440\u043e\u0432 \u0441\u043e \u0441\u0442\u0430\u0436\u0435\u043c 2-3 \u0433\u043e\u0434\u0430))",
+        "ts": "1468064068.000729"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1AFM877B|kiev_junta> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F1Q6PHDK5\/pasted_image_at_2016_07_09_03_19_pm.png|Pasted image at 2016-07-09, 3:19 PM>",
+        "file": {
+            "id": "F1Q6PHDK5",
+            "created": 1468066774,
+            "timestamp": 1468066774,
+            "name": "Pasted image at 2016_07_09 03_19 PM.png",
+            "title": "Pasted image at 2016-07-09, 3:19 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1AFM877B",
+            "editable": false,
+            "size": 30041,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1Q6PHDK5\/pasted_image_at_2016_07_09_03_19_pm.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1Q6PHDK5\/download\/pasted_image_at_2016_07_09_03_19_pm.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q6PHDK5-2b723426fd\/pasted_image_at_2016_07_09_03_19_pm_64.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q6PHDK5-2b723426fd\/pasted_image_at_2016_07_09_03_19_pm_80.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q6PHDK5-2b723426fd\/pasted_image_at_2016_07_09_03_19_pm_360.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q6PHDK5-2b723426fd\/pasted_image_at_2016_07_09_03_19_pm_480.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_480_w": 480,
+            "thumb_480_h": 271,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q6PHDK5-2b723426fd\/pasted_image_at_2016_07_09_03_19_pm_160.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "image_exif_rotation": 1,
+            "original_w": 621,
+            "original_h": 350,
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F1Q6PHDK5\/pasted_image_at_2016_07_09_03_19_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1Q6PHDK5-c1a817ed3e",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U1AFM877B",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1AFM877B|kiev_junta>",
+        "bot_id": null,
+        "ts": "1468066775.000730"
+    },
+    {
+        "user": "U1Q8WN0R0",
+        "text": "<@U1Q8WN0R0|mkrtich> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468075389.000731"
+    },
+    {
+        "type": "message",
+        "user": "U1N9RCL03",
+        "text": "\u041f\u043e\u0434\u0441\u043a\u0430\u0436\u0438\u0442\u0435, \u043a\u0430\u043a \u043c\u043e\u0436\u043d\u043e \u0441\u0432\u043e\u0435 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 web \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u0434\u0436\u0430\u0432\u0430 \u0440\u0430\u0437\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u0433\u0434\u0435-\u0442\u043e \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435? \u042f \u0442\u0430\u043a \u043f\u043e\u043d\u0438\u043c\u0430\u044e, \u0447\u0442\u043e \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u0430 \u043e\u0431\u044b\u0447\u043d\u0430\u044f - \u043d\u0443\u0436\u0435\u043d \u0445\u043e\u0441\u0442\u0438\u043d\u0433, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0440\u0430\u0431\u043e\u0442\u0443 \u0441 \u0434\u0436\u0430\u0432\u0430. \u0412\u043e\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0433\u0434\u0435 \u0435\u0433\u043e \u0432\u0437\u044f\u0442\u044c?",
+        "ts": "1468081585.000732"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "<@U1N9RCL03>: <https:\/\/dou.ua\/forums\/topic\/8332\/>",
+        "attachments": [
+            {
+                "service_name": "\u0414\u041e\u0423",
+                "title": "\u041f\u043e\u0434\u0441\u043a\u0430\u0436\u0438\u0442\u0435, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0434\u043b\u044f Java (web)",
+                "title_link": "https:\/\/dou.ua\/forums\/topic\/8332\/",
+                "text": "\u0418\u0437\u0443\u0447\u0430\u044e Java, \u0445\u043e\u0447\u0443 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043d\u0435\u00a0\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0432\u0435\u0431 \u043f\u0440\u043e\u0435\u043a\u0442 \u0438\u00a0\u0432\u044b\u043b\u043e\u0436\u0438\u0442\u044c \u0435\u0433\u043e \u0432\u00a0\u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f. \u041c\u043e\u0436\u0435\u0442 \u043a\u0442\u043e-\u0442\u043e \u0437\u043d\u0430\u0435\u0442, \u0435\u0441\u0442\u044c\u00a0\u043b\u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0438\u043b\u0438 \u043a\u0430\u043a\u043e\u0439-\u0442\u043e \u0434\u0440\u0443\u0433\u043e\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442, \u0447\u0442\u043e\u00a0\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u043b\u043e\u0441\u044c jetty \u0438\u043b\u0438 tomCat, MySQL?",
+                "fallback": "\u0414\u041e\u0423: \u041f\u043e\u0434\u0441\u043a\u0430\u0436\u0438\u0442\u0435, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0434\u043b\u044f Java (web)",
+                "thumb_url": "https:\/\/s.dou.ua\/img\/avatars\/200x200_61385.jpg",
+                "from_url": "https:\/\/dou.ua\/forums\/topic\/8332\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/s.dou.ua\/assets\/img\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1468082764.000733"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "\u0442\u044b \u0432 \u043a\u0443\u0440\u0441\u0435 \u043e tomCat \/ Jetty \/ WildFly? \u0435\u0441\u043b\u0438 \u043d\u0435\u0442, \u0442\u043e \u043d\u0430\u0447\u043d\u0438 \u0441 \u043d\u0438\u0445 :robot_face:",
+        "ts": "1468082905.000735"
+    },
+    {
+        "type": "message",
+        "user": "U1N9RCL03",
+        "text": "\u041d\u0435 \u0441\u043e\u0432\u0441\u0435\u043c \u043f\u043e\u043d\u0438\u043c\u0430\u044e \u043e \u0447\u0435\u043c \u0442\u044b \u0433\u043e\u0432\u043e\u0440\u0438\u0448\u044c)\n\u0415\u0441\u043b\u0438 \u0442\u044b \u0433\u043e\u0432\u043e\u0440\u0438\u0448\u044c \u043e \u0442\u043e\u043c, \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u043d\u0430 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u0435 \u0432\u0435\u0431 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u0442\u043e \u0441 \u044d\u0442\u0438\u043c \u044f \u0441\u043f\u0440\u0430\u0432\u0438\u043b\u0441\u044f.",
+        "ts": "1468083851.000736"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "<https:\/\/www.openshift.com\/>",
+        "attachments": [
+            {
+                "title": "OpenShift: PaaS by Red Hat, Built on Docker and Kubernetes",
+                "title_link": "https:\/\/www.openshift.com\/",
+                "text": "OpenShift is an open source PaaS by Red Hat based on top of Docker containers and the Kubernetes container cluster manager for enterprise app development and deployment.",
+                "fallback": "OpenShift: PaaS by Red Hat, Built on Docker and Kubernetes",
+                "from_url": "https:\/\/www.openshift.com\/",
+                "service_icon": "https:\/\/assets.openshift.net\/content\/subdomain\/favicon32x32.png",
+                "service_name": "openshift.com",
+                "id": 1
+            }
+        ],
+        "ts": "1468084030.000737"
+    },
+    {
+        "type": "message",
+        "user": "U173XSJ74",
+        "text": "Host up to 3 web applications in the cloud for free. No expiring trial, contract, or credit card required.",
+        "ts": "1468084048.000739"
+    },
+    {
+        "type": "message",
+        "user": "U1N9RCL03",
+        "text": "\u041e, \u043e\u0442\u043b\u0438\u0447\u043d\u043e) \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044e",
+        "ts": "1468084902.000740"
+    },
+    {
+        "type": "message",
+        "user": "U16K115QT",
+        "text": "<https:\/\/www.heroku.com\/>",
+        "attachments": [
+            {
+                "title": "Cloud Application Platform | Heroku",
+                "title_link": "https:\/\/www.heroku.com\/",
+                "text": "Heroku is a platform as a service (PaaS) that enables developers to build and run applications entirely in the cloud.",
+                "fallback": "Cloud Application Platform | Heroku",
+                "image_url": "https:\/\/d3k90kvix375hb.cloudfront.net\/assets\/heroku-og-cad174838a49b266550809e29026ec9bc18e056dae8f9cf523ea4237379691f9.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.heroku.com\/",
+                "image_bytes": 116648,
+                "service_icon": "https:\/\/d3k90kvix375hb.cloudfront.net\/assets\/favicon-82f8669f6323129704e02b6db377deaa68f30823915273d895c95d323692fc91.ico",
+                "service_name": "heroku.com",
+                "id": 1
+            }
+        ],
+        "ts": "1468086721.000741"
+    },
+    {
+        "user": "U1Q8VL4EQ",
+        "text": "<@U1Q8VL4EQ|bogdan1208> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468088826.000743"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U1AFM877B|kiev_junta> uploaded a file: <https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F1Q9H0S6M\/pasted_image_at_2016_07_09_10_18_pm.png|Pasted image at 2016-07-09, 10:18 PM>",
+        "file": {
+            "id": "F1Q9H0S6M",
+            "created": 1468091927,
+            "timestamp": 1468091927,
+            "name": "Pasted image at 2016_07_09 10_18 PM.png",
+            "title": "Pasted image at 2016-07-09, 10:18 PM",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U1AFM877B",
+            "editable": false,
+            "size": 54272,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1Q9H0S6M\/pasted_image_at_2016_07_09_10_18_pm.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T14VCJ5U4-F1Q9H0S6M\/download\/pasted_image_at_2016_07_09_10_18_pm.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q9H0S6M-b2cb73bb50\/pasted_image_at_2016_07_09_10_18_pm_64.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q9H0S6M-b2cb73bb50\/pasted_image_at_2016_07_09_10_18_pm_80.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q9H0S6M-b2cb73bb50\/pasted_image_at_2016_07_09_10_18_pm_360.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_360_w": 360,
+            "thumb_360_h": 140,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q9H0S6M-b2cb73bb50\/pasted_image_at_2016_07_09_10_18_pm_480.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_480_w": 480,
+            "thumb_480_h": 187,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q9H0S6M-b2cb73bb50\/pasted_image_at_2016_07_09_10_18_pm_160.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T14VCJ5U4-F1Q9H0S6M-b2cb73bb50\/pasted_image_at_2016_07_09_10_18_pm_720.png?t=xoxe-38998617956-112744175746-112037591328-e9a4b2f45f",
+            "thumb_720_w": 720,
+            "thumb_720_h": 280,
+            "image_exif_rotation": 1,
+            "original_w": 925,
+            "original_h": 360,
+            "permalink": "https:\/\/3monthjunior.slack.com\/files\/kiev_junta\/F1Q9H0S6M\/pasted_image_at_2016_07_09_10_18_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T14VCJ5U4-F1Q9H0S6M-c0a92d1c4c",
+            "channels": [
+                "C14VCJCDS"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0,
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U17T2T80N",
+                        "U1PU0ATRU"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        "user": "U1AFM877B",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U1AFM877B|kiev_junta>",
+        "bot_id": null,
+        "ts": "1468091929.000744"
+    },
+    {
+        "type": "message",
+        "user": "U15B9DZ0T",
+        "text": ":grinning:",
+        "ts": "1468091963.000745"
+    }
+]

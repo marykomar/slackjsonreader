@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U2Y7HGH0Q",
+        "text": "<@U2Y7HGH0Q|abog> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478434726.000729"
+    },
+    {
+        "user": "U2Z07PPNE",
+        "text": "<@U2Z07PPNE|expertvl> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478458144.000730"
+    }
+]

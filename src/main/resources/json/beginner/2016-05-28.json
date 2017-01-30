@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U16S33KAS",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U16S33KAS|zom> has joined the channel",
+        "ts": "1464450158.000792"
+    },
+    {
+        "user": "U1CE99FNV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1CE99FNV|alexlyn> has joined the channel",
+        "ts": "1464462964.000793"
+    },
+    {
+        "user": "U1A9SKB7S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1A9SKB7S|vitalii> has joined the channel",
+        "ts": "1464465026.000794"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U1EBFFYMR",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1EBFFYMR|emanresu> has joined the channel",
+        "ts": "1465211644.000002"
+    },
+    {
+        "user": "U1D7Y50Q2",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1D7Y50Q2|o2mz> has joined the channel",
+        "ts": "1465276369.000003"
+    }
+]
