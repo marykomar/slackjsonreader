@@ -2,6 +2,8 @@ package com.mariakomar.slackjsonreader.controller;
 
 import com.mariakomar.slackjsonreader.model.SlackMessage;
 import com.mariakomar.slackjsonreader.service.MessageService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
@@ -15,6 +17,8 @@ import java.util.Map;
  */
 @Controller
 public class HomeController {
+    private final Logger logger = LoggerFactory.getLogger(this.getClass());
+
     @Autowired
     private MessageService messageService;
 
@@ -24,6 +28,7 @@ public class HomeController {
     @RequestMapping("/")
     public String index(Map<String, Object> model) {
         List<SlackMessage> messages = messageService.getAllMessages();
+        logger.error("This is an error message");
         model.put("messages", messages);
         model.put("message", this.message);
         return "index";
