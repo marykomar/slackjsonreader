@@ -7,15 +7,21 @@ import java.time.LocalDateTime;
  */
 public class SlackMessage {
     private SlackUser user;
-    private SlackUser respondTo;
+    private String type;
+    private String subtype;
     private String text;
-    private LocalDateTime time;
+    private LocalDateTime ts;
     private SlackChannel channel;
+    private SlackUser respondTo;
+
+    public SlackMessage(){
+
+    }
 
     public SlackMessage(SlackUser user, String text, LocalDateTime time, SlackChannel channel){
         this.user = user;
         this.text = text;
-        this.time = time;
+        this.ts = time;
         this.channel = channel;
     }
 
@@ -23,8 +29,24 @@ public class SlackMessage {
         this.user = user;
         this.respondTo = respondTo;
         this.text = text;
-        this.time = time;
+        this.ts = time;
         this.channel = channel;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public String getSubtype() {
+        return subtype;
+    }
+
+    public void setSubtype(String subtype) {
+        this.subtype = subtype;
     }
 
     public SlackUser getUser() {
@@ -43,12 +65,12 @@ public class SlackMessage {
         this.text = text;
     }
 
-    public LocalDateTime getTime() {
-        return time;
+    public LocalDateTime getTs() {
+        return ts;
     }
 
-    public void setTime(LocalDateTime time) {
-        this.time = time;
+    public void setTs(LocalDateTime ts) {
+        this.ts = ts;
     }
 
     public SlackChannel getChannel() {
@@ -69,12 +91,14 @@ public class SlackMessage {
 
     @Override
     public String toString() {
-        return "Message{" +
+        return "SlackMessage{" +
                 "user=" + user +
-                ", respondTo=" + respondTo +
+                ", type='" + type + '\'' +
+                ", subtype='" + subtype + '\'' +
                 ", text='" + text + '\'' +
-                ", time=" + time +
+                ", ts=" + ts +
                 ", channel=" + channel +
+                ", respondTo=" + respondTo +
                 '}';
     }
 }

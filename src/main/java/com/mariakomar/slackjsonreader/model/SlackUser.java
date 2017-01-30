@@ -11,6 +11,10 @@ public class SlackUser {
     private List<SlackMessage> messages;
     private List<SlackMessage> replies;
 
+    public SlackUser(){
+
+    }
+
     public SlackUser(String username, String avatar){
         this.username = username;
         this.avatar = avatar;

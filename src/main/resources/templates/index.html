@@ -12,7 +12,7 @@
 <div class="container">
 <div class="starter-template">
 <h1>Json reader</h1>
-Now is: <b th:text="${execInfo.now.time}"></b>
+Now is: <b th:text="${execInfo.now.ts}"></b>
     <h2>
         <span th:text="'Message ' + ${message}"></span>
     </h2>
@@ -20,7 +20,7 @@ Now is: <b th:text="${execInfo.now.time}"></b>
         <article th:each="m: ${messages}">
             <p class="user" th:text="${m.user.username}">Username</p>
             <p class="avatar" th:text="${m.user.avatar}">Avatar</p>
-            <p class="date" th:text="${#temporals.format(m.time, 'dd-MM-yyyy HH:mm')}">Date</p>
+            <p class="date" th:text="${#temporals.format(m.ts, 'dd-MM-yyyy HH:mm')}">Date</p>
             <p class="content" th:text="${m.text}">Message text</p>
         </article>
         </main>
