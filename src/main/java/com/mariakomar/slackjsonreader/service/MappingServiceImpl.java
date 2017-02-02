@@ -1,6 +1,7 @@
 package com.mariakomar.slackjsonreader.service;
 
 import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mariakomar.slackjsonreader.model.SlackMessage;
 import com.mariakomar.slackjsonreader.model.SlackMessageSimple;
@@ -19,8 +20,9 @@ public class MappingServiceImpl implements MappingService {
     @Override
     public SlackMessageSimple readJsonWithObjectMapper() throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();
+        objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
         SlackMessageSimple slackMessage = objectMapper
-                .readValue(new File(getClass().getResource("/json/beginner/111test.json").getFile()),
+                .readValue(new File(getClass().getResource("/json/beginner/111test-3.json").getFile()),
                         SlackMessageSimple.class);
         logger.info("one " + slackMessage.toString());
         return slackMessage;
@@ -28,8 +30,9 @@ public class MappingServiceImpl implements MappingService {
 
     public List<SlackMessageSimple> readJsonArrayWithObjectMapper() throws IOException{
         ObjectMapper objectMapper = new ObjectMapper();
+        objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
         List<SlackMessageSimple> sl = objectMapper
-                .readValue(new File(getClass().getResource("/json/beginner/111test-2.json").getFile()),
+                .readValue(new File(getClass().getResource("/json/beginner/2016-05-07.json").getFile()),
                         new TypeReference<List<SlackMessageSimple>>(){});
         logger.info("array " + sl.toString());
         return sl;
