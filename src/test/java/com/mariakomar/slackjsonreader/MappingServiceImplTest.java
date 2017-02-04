@@ -7,7 +7,7 @@ import org.junit.Test;
  * Created by Maria Komar on 30.01.17.
  */
 public class MappingServiceImplTest {
-    @Test
+    //@Test
     public void testReadJsonWithObjectMapper() throws Exception{
         MappingServiceImpl ms = new MappingServiceImpl();
         ms.readJsonWithObjectMapper();

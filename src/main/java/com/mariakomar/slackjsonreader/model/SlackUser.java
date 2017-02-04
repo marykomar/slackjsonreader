@@ -6,13 +6,14 @@ import java.util.List;
  * Created by Maria Komar on 29.01.17.
  */
 public class SlackUser {
+    private String id;
     private String username;
     private String avatar;
     private List<SlackMessage> messages;
     private List<SlackMessage> replies;
 
-    public SlackUser(){
-
+    public SlackUser(String id){
+        this.id = id;
     }
 
     public SlackUser(String username, String avatar){
@@ -49,11 +50,22 @@ public class SlackUser {
         this.avatar = avatar;
     }
 
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
     @Override
     public String toString() {
-        return "User{" +
-                "username='" + username + '\'' +
+        return "SlackUser{" +
+                "id='" + id + '\'' +
+                ", username='" + username + '\'' +
                 ", avatar='" + avatar + '\'' +
+                ", messages=" + messages +
+                ", replies=" + replies +
                 '}';
     }
 }

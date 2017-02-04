@@ -1,6 +1,7 @@
 package com.mariakomar.slackjsonreader.model;
 
 
+import com.fasterxml.jackson.annotation.JacksonInject;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.mariakomar.slackjsonreader.service.CustomDateDeserializer;
 import java.time.LocalDateTime;
@@ -9,18 +10,20 @@ import java.time.LocalDateTime;
  * Created by Maria Komar on 30.01.17.
  */
 public class SlackMessageSimple {
-    private String user;
+    private SlackUser user;
     private String type;
     private String subtype;
     private String text;
     @JsonDeserialize(using = CustomDateDeserializer.class)
     private LocalDateTime ts;
+    @JacksonInject
+    private SlackChannel channel;
 
-    public String getUser() {
+    public SlackUser getUser() {
         return user;
     }
 
-    public void setUser(String user) {
+    public void setUser(SlackUser user) {
         this.user = user;
     }
 
@@ -56,14 +59,23 @@ public class SlackMessageSimple {
         this.ts = ts;
     }
 
+    public SlackChannel getChannel() {
+        return channel;
+    }
+
+    public void setChannel(SlackChannel channel) {
+        this.channel = channel;
+    }
+
     @Override
     public String toString() {
         return "SlackMessageSimple{" +
-                "user='" + user + '\'' +
+                "user=" + user +
                 ", type='" + type + '\'' +
                 ", subtype='" + subtype + '\'' +
                 ", text='" + text + '\'' +
-                ", ts='" + ts + '\'' +
+                ", ts=" + ts +
+                ", channel=" + channel +
                 '}';
     }
 }

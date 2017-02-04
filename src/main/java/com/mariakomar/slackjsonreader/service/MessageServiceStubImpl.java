@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 public class MessageServiceStubImpl implements MessageService{
     private SlackUser user1 = new SlackUser("user1", "avatar");
     private SlackUser user2 = new SlackUser("user2", "avatar2");
-    private SlackChannel channel = new SlackChannel("channel1");
+    private SlackChannel channel = SlackChannel.BEGINNER;
     private SlackMessage message1 = new SlackMessage(user1, "message1", LocalDateTime.now(), channel);
     private SlackMessage message2 = new SlackMessage(user2, "message2", LocalDateTime.now(), channel);
     private List<SlackMessage> messages = new ArrayList<>(Arrays.asList(message1, message2));

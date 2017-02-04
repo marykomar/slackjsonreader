@@ -2,7 +2,9 @@ package com.mariakomar.slackjsonreader.service;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.InjectableValues;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.mariakomar.slackjsonreader.model.SlackChannel;
 import com.mariakomar.slackjsonreader.model.SlackMessage;
 import com.mariakomar.slackjsonreader.model.SlackMessageSimple;
 import org.slf4j.Logger;
@@ -21,9 +23,12 @@ public class MappingServiceImpl implements MappingService {
     public SlackMessageSimple readJsonWithObjectMapper() throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
-        SlackMessageSimple slackMessage = objectMapper
-                .readValue(new File(getClass().getResource("/json/beginner/111test-3.json").getFile()),
-                        SlackMessageSimple.class);
+        InjectableValues inject = new InjectableValues.Std()
+                .addValue(SlackChannel.class, SlackChannel.BEGINNER);
+         SlackMessageSimple slackMessage = objectMapper
+                 .reader(inject)
+                 .forType(SlackMessageSimple.class)
+                .readValue(new File(getClass().getResource("/json/beginner/111test-3.json").getFile()));
         logger.info("one " + slackMessage.toString());
         return slackMessage;
     }
@@ -31,9 +36,23 @@ public class MappingServiceImpl implements MappingService {
     public List<SlackMessageSimple> readJsonArrayWithObjectMapper() throws IOException{
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+        File mainDirectory = new File("/home/maria/json");
+        logger.info(String.valueOf(mainDirectory.isDirectory()));
+        //Read subfolders names, by names define enum, deserialize all files from subdirectory
+        File[] directories = mainDirectory.listFiles();
+        for(File dir: directories){
+            String fileName = dir.getName();
+            SlackChannel channel;
+            switch (fileName){
+                default: logger.info(fileName);
+            }
+        }
+        InjectableValues inject = new InjectableValues.Std()
+                .addValue(SlackChannel.class, SlackChannel.BEGINNER);
         List<SlackMessageSimple> sl = objectMapper
-                .readValue(new File(getClass().getResource("/json/beginner/2016-05-07.json").getFile()),
-                        new TypeReference<List<SlackMessageSimple>>(){});
+                .reader(inject)
+                .forType(new TypeReference<List<SlackMessageSimple>>(){})
+                .readValue(new File(getClass().getResource("/json/beginner/2016-05-07.json").getFile()));
         logger.info("array " + sl.toString());
         return sl;
     }
