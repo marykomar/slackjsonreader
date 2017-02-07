@@ -10,7 +10,6 @@ public class SlackUser {
     private String username;
     private String avatar;
     private List<SlackMessage> messages;
-    private List<SlackMessage> replies;
 
     public SlackUser(String id){
         this.id = id;
@@ -19,19 +18,6 @@ public class SlackUser {
     public SlackUser(String username, String avatar){
         this.username = username;
         this.avatar = avatar;
-    }
-
-    public SlackUser(String username, String avatar, List<SlackMessage> messages){
-        this.username = username;
-        this.avatar = avatar;
-        this.messages = messages;
-    }
-
-    public SlackUser(String username, String avatar, List<SlackMessage> messages, List<SlackMessage> replies){
-        this.username = username;
-        this.avatar = avatar;
-        this.messages = messages;
-        this.replies = replies;
     }
 
     public String getUsername() {
@@ -65,7 +51,6 @@ public class SlackUser {
                 ", username='" + username + '\'' +
                 ", avatar='" + avatar + '\'' +
                 ", messages=" + messages +
-                ", replies=" + replies +
                 '}';
     }
 }
