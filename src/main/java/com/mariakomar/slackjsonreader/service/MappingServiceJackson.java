@@ -9,18 +9,22 @@ import com.mariakomar.slackjsonreader.model.SlackMessage;
 import com.mariakomar.slackjsonreader.model.SlackMessageSimple;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Component;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by Maria Komar on 30.01.17.
  */
+@Component
 public class MappingServiceJackson implements MappingService {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
-    public void readJsonArrayWithObjectMapper() throws IOException{
+    public List<List<SlackMessageSimple>> readJsonArrayWithObjectMapper() throws IOException{
+        List<List<SlackMessageSimple>> allMessages = new ArrayList<>();
         File mainDirectory = new File("/home/maria/json");
         //Read subfolders names, by names define enum, deserialize all files from subfolder
         File[] directories = mainDirectory.listFiles();
@@ -31,26 +35,31 @@ public class MappingServiceJackson implements MappingService {
                 String fileName = file.getAbsolutePath();
                 switch (dirName) {
                     case "general":
-                        List<SlackMessageSimple> ls =
-                                jsonReader(new File(fileName), SlackChannel.GENERAL);
+                        allMessages.add(
+                                jsonReader(new File(fileName), SlackChannel.GENERAL));
                         break;
                     case "beginner":
-                        jsonReader(new File(fileName), SlackChannel.BEGINNER);
+                        allMessages.add(
+                                jsonReader(new File(fileName), SlackChannel.BEGINNER));
                         break;
                     case "javaquestions":
-                        jsonReader(new File(fileName), SlackChannel.JAVAQUESTIONS);
+                        allMessages.add(
+                        jsonReader(new File(fileName), SlackChannel.JAVAQUESTIONS));
                         break;
                     case "javatasks":
-                        jsonReader(new File(fileName), SlackChannel.JAVATASKS);
+                        allMessages.add(
+                        jsonReader(new File(fileName), SlackChannel.JAVATASKS));
                         break;
                     case "links":
-                        jsonReader(new File(fileName), SlackChannel.LINKS);
+                        allMessages.add(
+                        jsonReader(new File(fileName), SlackChannel.LINKS));
                         break;
                     default:
                         logger.warn("Unknown directory " + dirName);
                 }
             }
         }
+        return allMessages;
     }
 
 
@@ -68,4 +77,5 @@ public class MappingServiceJackson implements MappingService {
         logger.info("array " + sl.toString());
         return sl;
     }
+
 }
