@@ -1,36 +1,41 @@
 package com.mariakomar.slackjsonreader.model;
 
+
+import com.fasterxml.jackson.annotation.JacksonInject;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.mariakomar.slackjsonreader.service.CustomDateDeserializer;
 import java.time.LocalDateTime;
 
 /**
- * Created by Maria Komar on 29.01.17.
+ * Created by Maria Komar on 30.01.17.
  */
 public class SlackMessage {
     private SlackUser user;
     private String type;
     private String subtype;
     private String text;
+    @JsonDeserialize(using = CustomDateDeserializer.class)
     private LocalDateTime ts;
+    @JacksonInject
     private SlackChannel channel;
-    private SlackUser respondTo;
+
+    public SlackMessage(SlackUser user, String text, LocalDateTime ts, SlackChannel channel){
+        this.user = user;
+        this.text = text;
+        this.ts = ts;
+        this.channel = channel;
+    }
 
     public SlackMessage(){
 
     }
 
-    public SlackMessage(SlackUser user, String text, LocalDateTime time, SlackChannel channel){
-        this.user = user;
-        this.text = text;
-        this.ts = time;
-        this.channel = channel;
+    public SlackUser getUser() {
+        return user;
     }
 
-    public SlackMessage(SlackUser user, SlackUser respondTo, String text, LocalDateTime time, SlackChannel channel){
+    public void setUser(SlackUser user) {
         this.user = user;
-        this.respondTo = respondTo;
-        this.text = text;
-        this.ts = time;
-        this.channel = channel;
     }
 
     public String getType() {
@@ -47,14 +52,6 @@ public class SlackMessage {
 
     public void setSubtype(String subtype) {
         this.subtype = subtype;
-    }
-
-    public SlackUser getUser() {
-        return user;
-    }
-
-    public void setUser(SlackUser user) {
-        this.user = user;
     }
 
     public String getText() {
@@ -81,24 +78,15 @@ public class SlackMessage {
         this.channel = channel;
     }
 
-    public SlackUser getRespondTo() {
-        return respondTo;
-    }
-
-    public void setRespondTo(SlackUser respondTo) {
-        this.respondTo = respondTo;
-    }
-
     @Override
     public String toString() {
-        return "SlackMessage{" +
+        return "SlackMessageSimple{" +
                 "user=" + user +
                 ", type='" + type + '\'' +
                 ", subtype='" + subtype + '\'' +
                 ", text='" + text + '\'' +
                 ", ts=" + ts +
                 ", channel=" + channel +
-                ", respondTo=" + respondTo +
                 '}';
     }
 }

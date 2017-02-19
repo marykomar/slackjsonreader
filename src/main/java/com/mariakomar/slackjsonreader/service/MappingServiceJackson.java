@@ -6,7 +6,6 @@ import com.fasterxml.jackson.databind.InjectableValues;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mariakomar.slackjsonreader.model.SlackChannel;
 import com.mariakomar.slackjsonreader.model.SlackMessage;
-import com.mariakomar.slackjsonreader.model.SlackMessageSimple;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
@@ -23,8 +22,8 @@ import java.util.List;
 public class MappingServiceJackson implements MappingService {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
-    public List<List<SlackMessageSimple>> readJsonArrayWithObjectMapper() throws IOException{
-        List<List<SlackMessageSimple>> allMessages = new ArrayList<>();
+    public List<List<SlackMessage>> readJsonArrayWithObjectMapper() throws IOException{
+        List<List<SlackMessage>> allMessages = new ArrayList<>();
         File mainDirectory = new File("/home/maria/json");
         //Read subfolders names, by names define enum, deserialize all files from subfolder
         File[] directories = mainDirectory.listFiles();
@@ -64,15 +63,15 @@ public class MappingServiceJackson implements MappingService {
 
 
 
-    public List<SlackMessageSimple> jsonReader(File file, SlackChannel channel) throws IOException{
-        List<SlackMessageSimple> sl;
+    public List<SlackMessage> jsonReader(File file, SlackChannel channel) throws IOException{
+        List<SlackMessage> sl;
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
         InjectableValues inject = new InjectableValues.Std()
                 .addValue(SlackChannel.class, channel);
         sl = objectMapper
                 .reader(inject)
-                .forType(new TypeReference<List<SlackMessageSimple>>() {})
+                .forType(new TypeReference<List<SlackMessage>>() {})
                 .readValue(file);
         logger.info("array " + sl.toString());
         return sl;
