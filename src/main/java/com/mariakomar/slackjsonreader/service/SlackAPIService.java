@@ -1,14 +1,20 @@
 package com.mariakomar.slackjsonreader.service;
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mariakomar.slackjsonreader.model.SlackUser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.PropertySource;
-import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
+
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
 /**
  * Created by Maria Komar on 11.02.17.
@@ -21,20 +27,29 @@ public class SlackAPIService {
     private String token;
 
     //Get username and avatar from Slack API by user id
-    public SlackUser getAvatarAndName(SlackUser user){
+    public SlackUser getAvatarAndName(SlackUser user) {
         RestTemplate restTemplate = new RestTemplate();
         String id = user.getId();
+        SlackUser updatedUser = new SlackUser();
         String message = restTemplate.getForObject
                 ("https://slack.com/api/users.info?token="
                         + token
                         + "&user=" + id
                         + "&pretty=1", String.class);
-        logger.info(message + " t: " + token);
-        user.setUsername(message);
-        return user;
+        ObjectMapper objectMapper = new ObjectMapper();
+        try {
+            JsonNode rootNode = objectMapper.readTree(message);
+            JsonNode userNode = rootNode.path("user");
+            JsonNode nameNode = userNode.path("name");
+            JsonNode profileNode = userNode.path("profile");
+            JsonNode avatarNode = profileNode.path("image_72");
+            user.setAvatar(avatarNode.asText());
+            user.setUsername(nameNode.asText());
+        } catch (IOException e) {
+            logger.warn("User not mapped");
+        }
+        logger.info("User updated: " + user);
+        return updatedUser;
     }
 
-    public String getToken(){
-        return token;
-    }
 }
