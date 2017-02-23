@@ -26,7 +26,7 @@ public class SlackAPIService {
     @Value("${slack.token}")
     private String token;
 
-    //Get username and avatar from Slack API by user id
+    //Update users username and avatar from Slack API by user id
     public SlackUser getAvatarAndName(SlackUser user) {
         RestTemplate restTemplate = new RestTemplate();
         String id = user.getId();

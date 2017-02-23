@@ -1,14 +1,25 @@
 package com.mariakomar.slackjsonreader.model;
 
+import javax.persistence.*;
 import java.util.List;
 
 /**
  * Created by Maria Komar on 29.01.17.
  */
+
+@Entity
+@Table(name="users")
 public class SlackUser {
+    @Id
     private String id;
+
+    @Column(length = 100, unique = true)
     private String username;
+
+    @Column
     private String avatar;
+
+    @OneToMany(mappedBy="user")
     private List<SlackMessage> messages;
 
     public SlackUser(){

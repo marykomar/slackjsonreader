@@ -25,7 +25,7 @@ public class MappingServiceJackson implements MappingService {
     public List<List<SlackMessage>> readJsonArrayWithObjectMapper() throws IOException{
         List<List<SlackMessage>> allMessages = new ArrayList<>();
         File mainDirectory = new File("/home/maria/json");
-        //Read subfolders names, by names define enum, deserialize all files from subfolder
+        // Read subfolders names, by names define enum, deserialize all files from subfolder
         File[] directories = mainDirectory.listFiles();
         for(File dir: directories){
             String dirName = dir.getName();
@@ -73,7 +73,7 @@ public class MappingServiceJackson implements MappingService {
                 .reader(inject)
                 .forType(new TypeReference<List<SlackMessage>>() {})
                 .readValue(file);
-        logger.info("array " + sl.toString());
+        logger.info("first message " + sl.get(0));
         return sl;
     }
 

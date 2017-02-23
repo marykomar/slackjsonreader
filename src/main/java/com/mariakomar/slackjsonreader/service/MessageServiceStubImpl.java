@@ -44,4 +44,9 @@ public class MessageServiceStubImpl implements MessageService{
     public List<SlackMessage> getReplies(SlackUser user) {
         return messages;
     }
+
+    @Override
+    public void addMessages(List<SlackMessage> messages) {
+
+    }
 }

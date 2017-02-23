@@ -14,4 +14,5 @@ public interface MessageService {
     public List<SlackMessage> getMessagesByChannel(SlackChannel channel);
     public List<SlackMessage> getMessagesByUser(SlackUser user);
     public List<SlackMessage> getReplies(SlackUser user);
+    public void addMessages(List<SlackMessage> messages);
 }
