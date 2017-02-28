@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
  * Created by Maria Komar on 29.01.17.
  */
 @Service
-public class MessageServiceStubImpl implements MessageService{
+public class SlackMessageServiceStubImpl implements SlackMessageService {
     private SlackUser user1 = new SlackUser("user1", "avatar");
     private SlackUser user2 = new SlackUser("user2", "avatar2");
     private SlackChannel channel = SlackChannel.BEGINNER;
@@ -41,12 +41,12 @@ public class MessageServiceStubImpl implements MessageService{
     }
 
     @Override
+    public SlackMessage createMessage(SlackMessage message) {
+        return null;
+    }
+
     public List<SlackMessage> getReplies(SlackUser user) {
         return messages;
     }
 
-    @Override
-    public void addMessages(List<SlackMessage> messages) {
-
-    }
 }

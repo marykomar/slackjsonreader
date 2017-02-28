@@ -9,10 +9,9 @@ import java.util.List;
 /**
  * Created by Maria Komar on 29.01.17.
  */
-public interface MessageService {
+public interface SlackMessageService {
     public List<SlackMessage> getAllMessages();
     public List<SlackMessage> getMessagesByChannel(SlackChannel channel);
     public List<SlackMessage> getMessagesByUser(SlackUser user);
-    public List<SlackMessage> getReplies(SlackUser user);
-    public void addMessages(List<SlackMessage> messages);
+    public SlackMessage createMessage(SlackMessage message);
 }
