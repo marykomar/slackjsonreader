@@ -36,6 +36,9 @@ public class SlackMessage {
     @Column(nullable = false)
     private LocalDateTime ts;
 
+    @Transient
+    private SlackFile file;
+
     @JacksonInject
     @Enumerated(EnumType.ORDINAL)
     private SlackChannel channel;
@@ -107,14 +110,24 @@ public class SlackMessage {
         this.channel = channel;
     }
 
+    public SlackFile getFile() {
+        return file;
+    }
+
+    public void setFile(SlackFile slackFile) {
+        this.file = slackFile;
+    }
+
     @Override
     public String toString() {
-        return "SlackMessageSimple{" +
-                "user=" + user +
+        return "SlackMessage{" +
+                "id=" + id +
+                ", user=" + user +
                 ", type='" + type + '\'' +
                 ", subtype='" + subtype + '\'' +
                 ", text='" + text + '\'' +
                 ", ts=" + ts +
+                ", file='" + file + '\'' +
                 ", channel=" + channel +
                 '}';
     }

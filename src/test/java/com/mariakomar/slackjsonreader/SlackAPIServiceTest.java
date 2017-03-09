@@ -25,4 +25,9 @@ public class SlackAPIServiceTest {
         slackAPIService.getAvatarAndName(user);
     }
 
+    @Test
+    public void testGetUserAsString() {
+        slackAPIService.getUserAsString("U150DHUL9");
+    }
+
 }

@@ -1,7 +1,5 @@
 package com.mariakomar.slackjsonreader.service;
 
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mariakomar.slackjsonreader.model.SlackUser;
@@ -12,9 +10,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
 
 /**
  * Created by Maria Komar on 11.02.17.
@@ -50,6 +45,17 @@ public class SlackAPIService {
         }
         logger.info("User updated: " + user);
         return updatedUser;
+    }
+
+    public String getUserAsString(String id) {
+        RestTemplate restTemplate = new RestTemplate();
+        String message = restTemplate.getForObject
+                ("https://slack.com/api/users.info?token="
+                        + token
+                        + "&user=" + id
+                        + "&pretty=1", String.class);
+        logger.info("This is message " + message);
+        return message;
     }
 
 }

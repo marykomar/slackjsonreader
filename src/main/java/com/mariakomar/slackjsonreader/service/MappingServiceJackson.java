@@ -24,37 +24,43 @@ public class MappingServiceJackson implements MappingService {
 
     public List<List<SlackMessage>> readJsonArrayWithObjectMapper() throws IOException{
         List<List<SlackMessage>> allMessages = new ArrayList<>();
-        File mainDirectory = new File("/home/maria/json");
+        File mainDirectory = new File("/home/maria/!slack/json");
         // Read subfolders names, by names define enum, deserialize all files from subfolder
         File[] directories = mainDirectory.listFiles();
-        for(File dir: directories){
-            String dirName = dir.getName();
-            File[] jsonFiles = dir.listFiles();
-            for(File file: jsonFiles) {
-                String fileName = file.getAbsolutePath();
-                switch (dirName) {
-                    case "general":
-                        allMessages.add(
-                                jsonReader(new File(fileName), SlackChannel.GENERAL));
-                        break;
-                    case "beginner":
-                        allMessages.add(
-                                jsonReader(new File(fileName), SlackChannel.BEGINNER));
-                        break;
-                    case "javaquestions":
-                        allMessages.add(
-                        jsonReader(new File(fileName), SlackChannel.JAVAQUESTIONS));
-                        break;
-                    case "javatasks":
-                        allMessages.add(
-                        jsonReader(new File(fileName), SlackChannel.JAVATASKS));
-                        break;
-                    case "links":
-                        allMessages.add(
-                        jsonReader(new File(fileName), SlackChannel.LINKS));
-                        break;
-                    default:
-                        logger.warn("Unknown directory " + dirName);
+        if (directories != null) {
+            for (File dir : directories) {
+                String dirName = dir.getName();
+                File[] jsonFiles = dir.listFiles();
+                for (File file : jsonFiles) {
+                    String fileName = file.getAbsolutePath();
+                    switch (dirName) {
+                        case "general":
+                            allMessages.add(
+                                    jsonReader(new File(fileName), SlackChannel.GENERAL));
+                            break;
+                        case "beginner":
+                            allMessages.add(
+                                    jsonReader(new File(fileName), SlackChannel.BEGINNER));
+                            break;
+                        case "javaquestions":
+                            allMessages.add(
+                                    jsonReader(new File(fileName), SlackChannel.JAVAQUESTIONS));
+                            break;
+                        case "javatasks":
+                            allMessages.add(
+                                    jsonReader(new File(fileName), SlackChannel.JAVATASKS));
+                            break;
+                        case "links":
+                            allMessages.add(
+                                    jsonReader(new File(fileName), SlackChannel.LINKS));
+                            break;
+                        case "mentoring":
+                            allMessages.add(
+                                    jsonReader(new File(fileName), SlackChannel.MENTORING));
+                            break;
+                        default:
+                            logger.warn("Unknown directory " + dirName);
+                    }
                 }
             }
         }

@@ -10,5 +10,6 @@ public enum SlackChannel {
     GENERAL,
     JAVAQUESTIONS,
     JAVATASKS,
-    LINKS;
+    LINKS,
+    MENTORING
 }

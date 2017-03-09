@@ -16,8 +16,9 @@ import java.util.List;
 
 @Primary
 @Repository
-public interface SlackMessageRepository extends JpaRepository<SlackMessage, Long>{
+public interface SlackMessageRepository extends JpaRepository<SlackMessage, Long> {
     @Query("SELECT m FROM SlackMessage m WHERE m.channel = ?1")
     List<SlackMessage> findByChannel(SlackChannel channel);
+
     List<SlackMessage> findByUser(SlackUser user);
 }
