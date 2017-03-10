@@ -1,7 +1,7 @@
 package com.mariakomar.slackjsonreader;
 
-import com.mariakomar.slackjsonreader.service.FileOperationsService;
-import com.mariakomar.slackjsonreader.service.UserSaverService;
+import com.mariakomar.slackjsonreader.service.FileOperations;
+import com.mariakomar.slackjsonreader.service.UserSaver;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,34 +13,34 @@ import org.springframework.test.context.junit4.SpringRunner;
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class UserSaverServiceTest {
+public class UserSaverTest {
     @Autowired
-    UserSaverService userSaverService;
+    UserSaver userSaver;
     @Autowired
-    FileOperationsService fos;
+    FileOperations fos;
 
     @Test
     public void testGetAllUsersId() {
-        userSaverService.getAllUsersId();
+        userSaver.getAllUsersId();
     }
 
     @Test
     public void testGetUsersInfoFromSlack() {
-        userSaverService.getUsersInfoFromSlack();
+        userSaver.getUsersInfoFromSlack();
     }
 
     @Test
     public void testSaveUsersJsonToFile() {
-        userSaverService.saveUsersJsonToFile();
+        userSaver.saveUsersJsonToFile();
     }
 
     @Test
     public void testGetUsersFromFile() {
-        userSaverService.getUsersFromFile();
+        userSaver.getUsersFromFile();
     }
 
     @Test
     public void testSaveAvatars() {
-        userSaverService.saveAvatars(fos);
+        userSaver.saveAvatars(fos);
     }
 }

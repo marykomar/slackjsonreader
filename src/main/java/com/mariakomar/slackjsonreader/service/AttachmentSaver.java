@@ -11,16 +11,23 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * AttachmentSaver is the class for finding attachments in messages and saving them.
+ *
  * Created by Maria Komar on 09.03.17.
  */
 @Component
-public class AttachmentSaverService {
+public class AttachmentSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
     private final MappingService mappingService;
     List<SlackMessage> messages = new ArrayList<>();
 
+    /**
+     * Create a new AttachmentSaver.
+     *
+     * @param mappingService
+     */
     @Autowired
-    public AttachmentSaverService(MappingService mappingService) {
+    public AttachmentSaver(MappingService mappingService) {
         this.mappingService = mappingService;
     }
 
@@ -34,13 +41,12 @@ public class AttachmentSaverService {
 
                 }
             }
-            //logger.info("messages " + messages);
         } catch (IOException e) {
             logger.warn("Messages have not been read");
         }
     }
 
-    public void downloadAttachments(FileOperationsService fos) {
+    public void downloadAttachments(FileOperations fos) {
         for (SlackMessage message : messages) {
             String path = "/home/maria/!slack/files/";
             String name = message.getFile().getName();

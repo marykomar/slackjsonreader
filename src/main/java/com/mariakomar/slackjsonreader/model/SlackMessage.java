@@ -9,9 +9,11 @@ import javax.persistence.*;
 import java.time.LocalDateTime;
 
 /**
+ * Entity class with parameters of slack message.
+ * Names of fields corresponds to names from json.
+ *
  * Created by Maria Komar on 30.01.17.
  */
-
 @Entity
 @Table(name="messages")
 public class SlackMessage {

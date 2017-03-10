@@ -12,7 +12,7 @@ import java.nio.channels.ReadableByteChannel;
  * Created by Maria Komar on 09.03.17.
  */
 @Component
-public class FileOperationsService {
+public class FileOperations {
     public void downloadWithNIO(String url, String file) throws IOException {
         URL u = new URL(url);
         ReadableByteChannel byteChannel = Channels.newChannel(u.openStream());

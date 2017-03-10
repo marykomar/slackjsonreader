@@ -4,9 +4,11 @@ import javax.persistence.*;
 import java.util.List;
 
 /**
+ * Entity class with parameters of slack user.
+ * Names of fields corresponds to names from json.
+ *
  * Created by Maria Komar on 29.01.17.
  */
-
 @Entity
 @Table(name="users")
 public class SlackUser {

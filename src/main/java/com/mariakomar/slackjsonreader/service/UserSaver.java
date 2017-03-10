@@ -19,7 +19,7 @@ import java.util.*;
  * Created by Maria Komar on 09.03.17.
  */
 @Component
-public class UserSaverService {
+public class UserSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
     private final MappingService mappingService;
     private final SlackAPIService slackAPIService;
@@ -27,7 +27,7 @@ public class UserSaverService {
     private List<String> allUsers = new LinkedList<>();
 
     @Autowired
-    public UserSaverService(MappingService mappingService, SlackAPIService slackAPIService) {
+    public UserSaver(MappingService mappingService, SlackAPIService slackAPIService) {
         this.mappingService = mappingService;
         this.slackAPIService = slackAPIService;
     }
@@ -94,7 +94,7 @@ public class UserSaverService {
         return users;
     }
 
-    public void saveAvatars(FileOperationsService fos) {
+    public void saveAvatars(FileOperations fos) {
         for (SlackUser user : getUsersFromFile()) {
             String url = user.getAvatar();
             String path = "/home/maria/!slack/avatars/";

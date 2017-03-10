@@ -1,6 +1,9 @@
 package com.mariakomar.slackjsonreader.model;
 
 /**
+ * Entity class with parameters of attachment.
+ * Names of fields corresponds to names from json.
+ *
  * Created by Maria Komar on 09.03.17.
  */
 public class SlackFile {
