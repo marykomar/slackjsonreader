@@ -100,7 +100,7 @@ public class UserSaver {
             String path = "/home/maria/!slack/avatars/";
             String name = user.getId();
             try {
-                fos.downloadWithNIO(url, path + name);
+                fos.downloadAndSaveWithNIO(url, path + name);
             } catch (IOException e) {
                 logger.warn("Avatars not saved");
             }

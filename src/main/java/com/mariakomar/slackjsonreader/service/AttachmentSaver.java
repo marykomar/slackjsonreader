@@ -18,20 +18,14 @@ import java.util.List;
 @Component
 public class AttachmentSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
-    private final MappingService mappingService;
     List<SlackMessage> messages = new ArrayList<>();
 
     /**
-     * Create a new AttachmentSaver.
-     *
-     * @param mappingService
+     * Find all messages with attachments.
+     * @param mappingService deserialize messages to list of SlackMessage
      */
     @Autowired
-    public AttachmentSaver(MappingService mappingService) {
-        this.mappingService = mappingService;
-    }
-
-    public void findAllMessagesWithAttachment() {
+    public void findAllMessagesWithAttachment(MappingService mappingService) {
         try {
             for (List<SlackMessage> list : mappingService.readJsonArrayWithObjectMapper()) {
                 for (SlackMessage message : list) {
@@ -46,6 +40,11 @@ public class AttachmentSaver {
         }
     }
 
+    /**
+     * Download all found attachments to specified folder.
+     *
+     * @param fos contains methods for downloading and saving files.
+     */
     public void downloadAttachments(FileOperations fos) {
         for (SlackMessage message : messages) {
             String path = "/home/maria/!slack/files/";
@@ -59,7 +58,7 @@ public class AttachmentSaver {
                 logger.info("broken file " + url);
             }
             try {
-                fos.downloadWithNIO(url, path + ts + name);
+                fos.downloadAndSaveWithNIO(url, path + ts + name);
             } catch (IOException e) {
                 logger.warn("File not created " + name + " url " + url
                         + " other url " + message.getFile().getUrl_private()

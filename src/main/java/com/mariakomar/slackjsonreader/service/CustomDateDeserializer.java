@@ -12,6 +12,8 @@ import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 
 /**
+ * Custom Jackson deserializer enabling deserializing to LocalDateTime.
+ *
  * Created by Maria Komar on 02.02.17.
  */
 public class CustomDateDeserializer extends JsonDeserializer<LocalDateTime> {
@@ -25,8 +27,7 @@ public class CustomDateDeserializer extends JsonDeserializer<LocalDateTime> {
         int nanoOfSecond = Integer.valueOf(output[1]);
         ZoneOffset zoneOffset = ZoneOffset.of("+02:00");
         try{
-            LocalDateTime localDateTime = LocalDateTime.ofEpochSecond(epochsecond, nanoOfSecond, zoneOffset);
-            return localDateTime;
+            return LocalDateTime.ofEpochSecond(epochsecond, nanoOfSecond, zoneOffset);
         } catch (NumberFormatException e) {
             logger.warn("Unable to deserialize timestamp " + timestamp, e);
         }

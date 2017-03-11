@@ -9,11 +9,21 @@ import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 
 /**
+ * File operations.
+ *
  * Created by Maria Komar on 09.03.17.
  */
 @Component
 public class FileOperations {
-    public void downloadWithNIO(String url, String file) throws IOException {
+
+    /**
+     * Download file from URL and save it to filesystem.
+     *
+     * @param url  link to file
+     * @param file link to directory where file should be saved
+     * @throws IOException when file cannot be processed
+     */
+    public void downloadAndSaveWithNIO(String url, String file) throws IOException {
         URL u = new URL(url);
         ReadableByteChannel byteChannel = Channels.newChannel(u.openStream());
         FileOutputStream fos = new FileOutputStream(file);

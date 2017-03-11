@@ -16,6 +16,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Deserialize json with Jackson
+ * 
  * Created by Maria Komar on 30.01.17.
  */
 @Component
@@ -68,8 +70,7 @@ public class MappingServiceJackson implements MappingService {
     }
 
 
-
-    public List<SlackMessage> jsonReader(File file, SlackChannel channel) throws IOException{
+    private List<SlackMessage> jsonReader(File file, SlackChannel channel) throws IOException {
         List<SlackMessage> sl;
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);

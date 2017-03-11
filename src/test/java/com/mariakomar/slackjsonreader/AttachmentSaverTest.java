@@ -2,6 +2,7 @@ package com.mariakomar.slackjsonreader;
 
 import com.mariakomar.slackjsonreader.service.AttachmentSaver;
 import com.mariakomar.slackjsonreader.service.FileOperations;
+import com.mariakomar.slackjsonreader.service.MappingService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,10 +19,12 @@ public class AttachmentSaverTest {
     AttachmentSaver service;
     @Autowired
     FileOperations fos;
+    @Autowired
+    MappingService mappingService;
 
     @Test
     public void testFindAllMessagesWithAttachment() {
-        service.findAllMessagesWithAttachment();
+        service.findAllMessagesWithAttachment(mappingService);
     }
 
     @Test
