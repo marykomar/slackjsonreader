@@ -12,16 +12,26 @@ import org.springframework.web.client.RestTemplate;
 import java.io.IOException;
 
 /**
+ * Get information from Slack API
+ *
  * Created by Maria Komar on 11.02.17.
  */
 @Component
 public class SlackAPIService {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
+    /**
+     * Token for Slack API
+     */
     @Value("${slack.token}")
     private String token;
 
-    //Update users username and avatar from Slack API by user id
+    /**
+     * Update users username and avatar from Slack API by user id.
+     *
+     * @param user for which additional information needed
+     * @return updated SlackUser
+     */
     public SlackUser getAvatarAndName(SlackUser user) {
         RestTemplate restTemplate = new RestTemplate();
         String id = user.getId();
@@ -47,6 +57,12 @@ public class SlackAPIService {
         return updatedUser;
     }
 
+    /**
+     * Retrieve user from Slack API as JSON String.     *
+     *
+     * @param id of SlackUser
+     * @return String with JSON corresponding to specified SlackUser id
+     */
     public String getUserAsString(String id) {
         RestTemplate restTemplate = new RestTemplate();
         String message = restTemplate.getForObject

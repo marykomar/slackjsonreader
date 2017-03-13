@@ -13,6 +13,7 @@ import java.util.Objects;
 import java.util.stream.Collectors;
 
 /**
+ * Temporary class for UI testing.
  * Created by Maria Komar on 29.01.17.
  */
 @Service

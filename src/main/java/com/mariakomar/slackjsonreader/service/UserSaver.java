@@ -16,23 +16,23 @@ import java.io.PrintWriter;
 import java.util.*;
 
 /**
+ * Get users data from Slack and save it to file.
+ *
  * Created by Maria Komar on 09.03.17.
  */
 @Component
 public class UserSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
-    private final MappingService mappingService;
-    private final SlackAPIService slackAPIService;
     private Set<String> usersId = new HashSet<>();
     private List<String> allUsers = new LinkedList<>();
 
+    /**
+     * Get all users id from JSON
+     *
+     * @param mappingService
+     */
     @Autowired
-    public UserSaver(MappingService mappingService, SlackAPIService slackAPIService) {
-        this.mappingService = mappingService;
-        this.slackAPIService = slackAPIService;
-    }
-
-    public void getAllUsersId() {
+    public void getAllUsersId(MappingService mappingService) {
         try {
             List<List<SlackMessage>> allMessages = mappingService.readJsonArrayWithObjectMapper();
             for (List<SlackMessage> messageList : allMessages) {
@@ -48,7 +48,8 @@ public class UserSaver {
         }
     }
 
-    public void getUsersInfoFromSlack() {
+    @Autowired
+    public void getUsersInfoFromSlack(SlackAPIService slackAPIService) {
         for (String id : usersId) {
             allUsers.add(slackAPIService.getUserAsString(id));
             logger.info("user :" + allUsers.get(0));

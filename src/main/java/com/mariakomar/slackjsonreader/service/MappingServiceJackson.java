@@ -17,13 +17,20 @@ import java.util.List;
 
 /**
  * Deserialize json with Jackson
- * 
+ *
  * Created by Maria Komar on 30.01.17.
  */
 @Component
 public class MappingServiceJackson implements MappingService {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
+    /**
+     * Read files with json from filesystem.
+     * SlackChannel is defined by folder name which contains files.
+     *
+     * @return list of lists grouped by SlackChannel
+     * @throws IOException when file read is unsuccessful
+     */
     public List<List<SlackMessage>> readJsonArrayWithObjectMapper() throws IOException{
         List<List<SlackMessage>> allMessages = new ArrayList<>();
         File mainDirectory = new File("/home/maria/!slack/json");
@@ -69,7 +76,7 @@ public class MappingServiceJackson implements MappingService {
         return allMessages;
     }
 
-
+    // Mapping json to List<SlackMessage>
     private List<SlackMessage> jsonReader(File file, SlackChannel channel) throws IOException {
         List<SlackMessage> sl;
         ObjectMapper objectMapper = new ObjectMapper();

@@ -1,6 +1,8 @@
 package com.mariakomar.slackjsonreader;
 
 import com.mariakomar.slackjsonreader.service.FileOperations;
+import com.mariakomar.slackjsonreader.service.MappingService;
+import com.mariakomar.slackjsonreader.service.SlackAPIService;
 import com.mariakomar.slackjsonreader.service.UserSaver;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -18,15 +20,19 @@ public class UserSaverTest {
     UserSaver userSaver;
     @Autowired
     FileOperations fos;
+    @Autowired
+    MappingService mappingService;
+    @Autowired
+    SlackAPIService slackAPIService;
 
     @Test
     public void testGetAllUsersId() {
-        userSaver.getAllUsersId();
+        userSaver.getAllUsersId(mappingService);
     }
 
     @Test
     public void testGetUsersInfoFromSlack() {
-        userSaver.getUsersInfoFromSlack();
+        userSaver.getUsersInfoFromSlack(slackAPIService);
     }
 
     @Test
