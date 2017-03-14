@@ -29,7 +29,7 @@ public class UserSaver {
     /**
      * Get all users id from JSON
      *
-     * @param mappingService
+     * @param mappingService reads JSON from files
      */
     @Autowired
     public void getAllUsersId(MappingService mappingService) {
@@ -48,6 +48,11 @@ public class UserSaver {
         }
     }
 
+    /**
+     * Stores users information in Strings with JSON
+     *
+     * @param slackAPIService retrieves users data from Slack
+     */
     @Autowired
     public void getUsersInfoFromSlack(SlackAPIService slackAPIService) {
         for (String id : usersId) {
@@ -56,6 +61,9 @@ public class UserSaver {
         }
     }
 
+    /**
+     * Save users JSON to file, format it as array.
+     */
     public void saveUsersJsonToFile() {
         try (PrintWriter out = new PrintWriter("/home/maria/!slack/users.txt")) {
             out.println("[");
@@ -69,7 +77,12 @@ public class UserSaver {
         }
     }
 
-    //move to different class
+    /**
+     * Read users from file and map them to List<SlackUser>
+     *
+     * @return list containing all users from specified file
+     */
+    // TODO move to different class?
     public List<SlackUser> getUsersFromFile() {
         List<SlackUser> users = new ArrayList<>();
         File usersFile = new File("/home/maria/!slack/users.txt");
@@ -95,6 +108,12 @@ public class UserSaver {
         return users;
     }
 
+    /**
+     * Save avatars to filesystem.
+     *
+     * @param fos contains methods for saving to filesystem
+     */
+    @Autowired
     public void saveAvatars(FileOperations fos) {
         for (SlackUser user : getUsersFromFile()) {
             String url = user.getAvatar();
