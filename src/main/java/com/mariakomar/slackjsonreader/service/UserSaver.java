@@ -8,7 +8,8 @@ import com.mariakomar.slackjsonreader.model.SlackUser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
+import org.springframework.context.annotation.Lazy;
+import org.springframework.stereotype.Service;
 
 import java.io.File;
 import java.io.IOException;
@@ -20,19 +21,22 @@ import java.util.*;
  *
  * Created by Maria Komar on 09.03.17.
  */
-@Component
+@Service
+@Lazy
 public class UserSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
-    private Set<String> usersId = new HashSet<>();
-    private List<String> allUsers = new LinkedList<>();
+    @Autowired
+    private MappingService mappingService;
+    @Autowired
+    private SlackAPIService slackAPIService;
+    @Autowired
+    private FileOperations fos;
 
     /**
      * Get all users id from JSON. Ignore messages without user.
-     *
-     * @param mappingService reads JSON from files
      */
-    @Autowired
-    public void getAllUsersId(MappingService mappingService) {
+    public Set<String> getAllUsersId() {
+        Set<String> usersId = new HashSet<>();
         try {
             List<List<SlackMessage>> allMessages = mappingService.readJsonArrayWithObjectMapper();
             for (List<SlackMessage> messageList : allMessages) {
@@ -46,19 +50,19 @@ public class UserSaver {
         } catch (IOException e) {
             logger.warn("Messages not get from slack archive", e);
         }
+        return usersId;
     }
 
     /**
      * Stores users information in Strings with JSON
-     *
-     * @param slackAPIService retrieves users data from Slack
      */
-    @Autowired
-    public void getUsersInfoFromSlack(SlackAPIService slackAPIService) {
-        for (String id : usersId) {
+    public List<String> getUsersInfoFromSlack() {
+        List<String> allUsers = new LinkedList<>();
+        for (String id : getAllUsersId()) {
             allUsers.add(slackAPIService.getUserAsString(id));
         }
         logger.info("Users info get from slack: {}", allUsers.size());
+        return allUsers;
     }
 
     /**
@@ -68,10 +72,11 @@ public class UserSaver {
         String path = "/home/maria/!slack/users.txt";
         try (PrintWriter out = new PrintWriter(path)) {
             out.println("[");
-            for (int i = 0; i < allUsers.size() - 1; i++) {
-                out.print(allUsers.get(i).substring(0, allUsers.get(i).length() - 1) + ",\n");
+            for (int i = 0; i < getUsersInfoFromSlack().size() - 1; i++) {
+                out.print(getUsersInfoFromSlack().get(i)
+                        .substring(0, getUsersInfoFromSlack().get(i).length() - 1) + ",\n");
             }
-            out.print(allUsers.get(allUsers.size() - 1));
+            out.print(getUsersInfoFromSlack().get(getUsersInfoFromSlack().size() - 1));
             out.println("]");
         } catch (IOException e) {
             logger.warn("File users.txt not filled", e);
@@ -111,11 +116,8 @@ public class UserSaver {
 
     /**
      * Save avatars to filesystem.
-     *
-     * @param fos contains methods for saving to filesystem
      */
-    @Autowired
-    public void saveAvatars(FileOperations fos) {
+    public void saveAvatars() {
         String path = "/home/maria/!slack/avatars/";
         for (SlackUser user : getUsersFromFile()) {
             String url = user.getAvatar();

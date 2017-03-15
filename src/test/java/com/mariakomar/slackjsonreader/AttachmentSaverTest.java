@@ -1,8 +1,6 @@
 package com.mariakomar.slackjsonreader;
 
 import com.mariakomar.slackjsonreader.service.AttachmentSaver;
-import com.mariakomar.slackjsonreader.service.FileOperations;
-import com.mariakomar.slackjsonreader.service.MappingService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,25 +8,23 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
+ * Tests for AttachmentSaver.
+ *
  * Created by Maria Komar on 09.03.17.
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class AttachmentSaverTest {
     @Autowired
-    AttachmentSaver service;
-    @Autowired
-    FileOperations fos;
-    @Autowired
-    MappingService mappingService;
+    private AttachmentSaver service;
 
     @Test
     public void testFindAllMessagesWithAttachment() {
-        service.findAllMessagesWithAttachment(mappingService);
+        service.findAllMessagesWithAttachment();
     }
 
     @Test
     public void testDownloadAttachments() {
-        service.downloadAttachments(fos);
+        service.downloadAttachments();
     }
 }

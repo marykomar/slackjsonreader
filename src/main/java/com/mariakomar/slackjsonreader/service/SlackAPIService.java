@@ -6,7 +6,7 @@ import com.mariakomar.slackjsonreader.model.SlackUser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import java.io.IOException;
@@ -16,7 +16,7 @@ import java.io.IOException;
  *
  * Created by Maria Komar on 11.02.17.
  */
-@Component
+@Service
 public class SlackAPIService {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 

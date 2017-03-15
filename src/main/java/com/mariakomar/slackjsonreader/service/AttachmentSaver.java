@@ -18,14 +18,16 @@ import java.util.List;
 @Service
 public class AttachmentSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
-    List<SlackMessage> messages = new ArrayList<>();
+    private List<SlackMessage> messages = new ArrayList<>();
+    @Autowired
+    private MappingService mappingService;
+    @Autowired
+    private FileOperations fos;
 
     /**
      * Find all messages with attachments.
-     * @param mappingService deserialize messages to list of SlackMessage
      */
-    @Autowired
-    public void findAllMessagesWithAttachment(MappingService mappingService) {
+    public void findAllMessagesWithAttachment() {
         try {
             for (List<SlackMessage> list : mappingService.readJsonArrayWithObjectMapper()) {
                 for (SlackMessage message : list) {
@@ -43,10 +45,8 @@ public class AttachmentSaver {
 
     /**
      * Download all found attachments to specified folder.
-     *
-     * @param fos contains methods for downloading and saving files.
      */
-    public void downloadAttachments(FileOperations fos) {
+    public void downloadAttachments() {
         String path = "/home/maria/!slack/files/";
         for (SlackMessage message : messages) {
             String name = message.getFile().getName();

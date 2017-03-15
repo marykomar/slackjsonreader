@@ -1,8 +1,5 @@
 package com.mariakomar.slackjsonreader;
 
-import com.mariakomar.slackjsonreader.service.FileOperations;
-import com.mariakomar.slackjsonreader.service.MappingService;
-import com.mariakomar.slackjsonreader.service.SlackAPIService;
 import com.mariakomar.slackjsonreader.service.UserSaver;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,28 +8,24 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
+ * Tests for UserSaver.
+ *
  * Created by Maria Komar on 09.03.17.
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class UserSaverTest {
     @Autowired
-    UserSaver userSaver;
-    @Autowired
-    FileOperations fos;
-    @Autowired
-    MappingService mappingService;
-    @Autowired
-    SlackAPIService slackAPIService;
+    private UserSaver userSaver;
 
     @Test
     public void testGetAllUsersId() {
-        userSaver.getAllUsersId(mappingService);
+        userSaver.getAllUsersId();
     }
 
     @Test
     public void testGetUsersInfoFromSlack() {
-        userSaver.getUsersInfoFromSlack(slackAPIService);
+        userSaver.getUsersInfoFromSlack();
     }
 
     @Test
@@ -47,6 +40,6 @@ public class UserSaverTest {
 
     @Test
     public void testSaveAvatars() {
-        userSaver.saveAvatars(fos);
+        userSaver.saveAvatars();
     }
 }

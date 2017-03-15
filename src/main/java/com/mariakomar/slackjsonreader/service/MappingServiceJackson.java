@@ -8,7 +8,7 @@ import com.mariakomar.slackjsonreader.model.SlackChannel;
 import com.mariakomar.slackjsonreader.model.SlackMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.io.File;
 import java.io.IOException;
@@ -20,7 +20,7 @@ import java.util.List;
  *
  * Created by Maria Komar on 30.01.17.
  */
-@Component
+@Service
 public class MappingServiceJackson implements MappingService {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
