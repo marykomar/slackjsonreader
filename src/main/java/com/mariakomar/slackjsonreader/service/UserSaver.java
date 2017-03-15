@@ -27,7 +27,7 @@ public class UserSaver {
     private List<String> allUsers = new LinkedList<>();
 
     /**
-     * Get all users id from JSON
+     * Get all users id from JSON. Ignore messages without user.
      *
      * @param mappingService reads JSON from files
      */
@@ -39,12 +39,12 @@ public class UserSaver {
                 for (SlackMessage message : messageList) {
                     if (message.getUser() != null && !usersId.contains(message.getUser().getId())) {
                         usersId.add(message.getUser().getId());
-                    } else logger.info("message without user " + message);
+                    }
                 }
             }
-            logger.info("ids " + usersId + " quantity " + usersId.size());
+            logger.info("User ids found: {}", usersId.size());
         } catch (IOException e) {
-            logger.warn("Messages not get from slack archive");
+            logger.warn("Messages not get from slack archive", e);
         }
     }
 
@@ -57,15 +57,16 @@ public class UserSaver {
     public void getUsersInfoFromSlack(SlackAPIService slackAPIService) {
         for (String id : usersId) {
             allUsers.add(slackAPIService.getUserAsString(id));
-            logger.info("user :" + allUsers.get(0));
         }
+        logger.info("Users info get from slack: {}", allUsers.size());
     }
 
     /**
      * Save users JSON to file, format it as array.
      */
     public void saveUsersJsonToFile() {
-        try (PrintWriter out = new PrintWriter("/home/maria/!slack/users.txt")) {
+        String path = "/home/maria/!slack/users.txt";
+        try (PrintWriter out = new PrintWriter(path)) {
             out.println("[");
             for (int i = 0; i < allUsers.size() - 1; i++) {
                 out.print(allUsers.get(i).substring(0, allUsers.get(i).length() - 1) + ",\n");
@@ -73,8 +74,9 @@ public class UserSaver {
             out.print(allUsers.get(allUsers.size() - 1));
             out.println("]");
         } catch (IOException e) {
-            logger.warn("users.txt not filled");
+            logger.warn("File users.txt not filled", e);
         }
+        logger.info("Users data written to {}", path);
     }
 
     /**
@@ -90,7 +92,6 @@ public class UserSaver {
         try {
             ArrayNode arrNode = objectMapper.readValue(usersFile, ArrayNode.class);
             Iterator<JsonNode> it = arrNode.elements();
-            logger.info("Array node");
             while (it.hasNext()) {
                 JsonNode node = it.next();
                 JsonNode userNode = node.get("user");
@@ -101,10 +102,10 @@ public class UserSaver {
                 user.setAvatar(profile.get("image_72").asText());
                 users.add(user);
             }
-            logger.info("users " + users);
         } catch (IOException e) {
-            logger.warn("Users from file not mapped");
+            logger.warn("Users from file not mapped", e);
         }
+        logger.info("Read users from file: {} ", users.size());
         return users;
     }
 
@@ -115,9 +116,9 @@ public class UserSaver {
      */
     @Autowired
     public void saveAvatars(FileOperations fos) {
+        String path = "/home/maria/!slack/avatars/";
         for (SlackUser user : getUsersFromFile()) {
             String url = user.getAvatar();
-            String path = "/home/maria/!slack/avatars/";
             String name = user.getId();
             try {
                 fos.downloadAndSaveWithNIO(url, path + name);
@@ -125,6 +126,7 @@ public class UserSaver {
                 logger.warn("Avatars not saved");
             }
         }
+        logger.info("Avatars saved to {}" + path);
     }
 
 }

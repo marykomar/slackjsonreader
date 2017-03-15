@@ -1,6 +1,6 @@
 package com.mariakomar.slackjsonreader.service;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import java.nio.channels.ReadableByteChannel;
  *
  * Created by Maria Komar on 09.03.17.
  */
-@Component
+@Service
 public class FileOperations {
 
     /**

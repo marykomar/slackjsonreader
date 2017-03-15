@@ -51,9 +51,9 @@ public class SlackAPIService {
             user.setAvatar(avatarNode.asText());
             user.setUsername(nameNode.asText());
         } catch (IOException e) {
-            logger.warn("User not mapped");
+            logger.warn("User not mapped: {}", message, e);
         }
-        logger.info("User updated: " + user);
+        logger.info("User updated: {}", user);
         return updatedUser;
     }
 
@@ -70,7 +70,7 @@ public class SlackAPIService {
                         + token
                         + "&user=" + id
                         + "&pretty=1", String.class);
-        logger.info("This is message " + message);
+        logger.info("Get data for user: {}", message);
         return message;
     }
 

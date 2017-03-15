@@ -68,11 +68,12 @@ public class MappingServiceJackson implements MappingService {
                                     jsonReader(new File(fileName), SlackChannel.MENTORING));
                             break;
                         default:
-                            logger.warn("Unknown directory " + dirName);
+                            logger.warn("Unknown directory {}", dirName);
                     }
                 }
             }
         }
+        logger.info("Found messages in {} directories", allMessages.size());
         return allMessages;
     }
 
@@ -87,7 +88,7 @@ public class MappingServiceJackson implements MappingService {
                 .reader(inject)
                 .forType(new TypeReference<List<SlackMessage>>() {})
                 .readValue(file);
-        logger.info("first message " + sl.get(0));
+        // logger.info("For channel {} found {} messages", channel, sl.size());
         return sl;
     }
 

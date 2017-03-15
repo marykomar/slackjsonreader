@@ -4,7 +4,7 @@ import com.mariakomar.slackjsonreader.model.SlackMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -15,7 +15,7 @@ import java.util.List;
  *
  * Created by Maria Komar on 09.03.17.
  */
-@Component
+@Service
 public class AttachmentSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
     List<SlackMessage> messages = new ArrayList<>();
@@ -36,8 +36,9 @@ public class AttachmentSaver {
                 }
             }
         } catch (IOException e) {
-            logger.warn("Messages have not been read");
+            logger.warn("Messages have not been read from files", e);
         }
+        logger.info("Found messages with attachments: {}", messages.size());
     }
 
     /**
@@ -46,8 +47,8 @@ public class AttachmentSaver {
      * @param fos contains methods for downloading and saving files.
      */
     public void downloadAttachments(FileOperations fos) {
+        String path = "/home/maria/!slack/files/";
         for (SlackMessage message : messages) {
-            String path = "/home/maria/!slack/files/";
             String name = message.getFile().getName();
             String ts = message.getFile().getTimestamp();
             String url = message.getFile().getUrl_private_download();
@@ -65,6 +66,7 @@ public class AttachmentSaver {
                         + " filetype " + message.getFile().getFiletype());
             }
         }
+        logger.info("Attachments downloaded to {}", path);
     }
 
 }
