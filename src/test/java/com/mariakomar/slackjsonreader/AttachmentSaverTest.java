@@ -25,6 +25,6 @@ public class AttachmentSaverTest {
 
     @Test
     public void testDownloadAttachments() {
-        service.downloadAttachments();
+        service.downloadAttachments("/home/maria/!slack/files/");
     }
 }

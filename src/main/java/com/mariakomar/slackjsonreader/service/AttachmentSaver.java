@@ -45,18 +45,15 @@ public class AttachmentSaver {
 
     /**
      * Download all found attachments to specified folder.
+     * Folder now is /home/maria/!slack/files/
      */
-    public void downloadAttachments() {
-        String path = "/home/maria/!slack/files/";
+    public void downloadAttachments(String path) {
         for (SlackMessage message : messages) {
             String name = message.getFile().getName();
             String ts = message.getFile().getTimestamp();
             String url = message.getFile().getUrl_private_download();
             if (url == null) {
                 url = message.getFile().getUrl_private();
-            }
-            if (name.equals("coding-task.zip")) {
-                logger.info("broken file " + url);
             }
             try {
                 fos.downloadAndSaveWithNIO(url, path + ts + name);
