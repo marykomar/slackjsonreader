@@ -19,10 +19,14 @@ import java.util.List;
 public class AttachmentSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
     private List<SlackMessage> messages = new ArrayList<>();
-    @Autowired
     private MappingService mappingService;
-    @Autowired
     private FileOperations fos;
+
+    @Autowired
+    public AttachmentSaver(MappingService mappingService, FileOperations fos) {
+        this.mappingService = mappingService;
+        this.fos = fos;
+    }
 
     /**
      * Find all messages with attachments.
