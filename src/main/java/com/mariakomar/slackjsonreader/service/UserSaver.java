@@ -25,12 +25,16 @@ import java.util.*;
 @Lazy
 public class UserSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
-    @Autowired
     private MappingService mappingService;
-    @Autowired
     private SlackAPIService slackAPIService;
-    @Autowired
     private FileOperations fos;
+
+    @Autowired
+    public UserSaver(MappingService mS, SlackAPIService sS, FileOperations fos) {
+        this.mappingService = mS;
+        this.slackAPIService = sS;
+        this.fos = fos;
+    }
 
     /**
      * Get all users id from JSON. Ignore messages without user.
