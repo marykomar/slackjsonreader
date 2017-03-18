@@ -44,6 +44,7 @@ public class UserSaverTest {
         messages.add(withUser);
         messagesList.add(messages);
         when(mappingService.readJsonArrayWithObjectMapper()).thenReturn(messagesList);
+        when(slackAPIService.getUserAsString("id")).thenReturn("proper user");
         userSaver = new UserSaver(mappingService, slackAPIService, fos);
     }
 
@@ -54,7 +55,10 @@ public class UserSaverTest {
 
     @Test
     public void testGetUsersInfoFromSlack() {
-        userSaver.getUsersInfoFromSlack();
+        String found = "proper user";
+        List<String> foundUsers = new ArrayList<>();
+        foundUsers.add(found);
+        assertEquals(foundUsers, userSaver.getUsersInfoFromSlack());
     }
 
     @Test
