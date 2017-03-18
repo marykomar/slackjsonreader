@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 /**
  * Tests for MappingServiceJackson
- * 
+ *
  * Created by Maria Komar on 30.01.17.
  */
 @RunWith(SpringRunner.class)
@@ -17,7 +17,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class MappingServiceJacksonTest {
 
     @Autowired
-    MappingService ms;
+    private MappingService ms;
 
     @Test
     public void  testReadJsonArrayWithObjectMapper() throws Exception{

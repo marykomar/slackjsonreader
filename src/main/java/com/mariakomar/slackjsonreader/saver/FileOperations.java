@@ -24,7 +24,6 @@ public class FileOperations {
      *
      * @param url  link to file
      * @param file link to directory where file should be saved
-     * @throws IOException when file cannot be processed
      */
     public void downloadAndSaveWithNIO(String url, String file) {
         URL u;

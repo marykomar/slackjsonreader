@@ -28,7 +28,7 @@ public class MappingServiceJackson implements MappingService {
      * Read files with json from filesystem.
      * SlackChannel is defined by folder name which contains files.
      *
-     * @return list of lists grouped by SlackChannel     *
+     * @return list of lists grouped by SlackChannel
      */
     public List<List<SlackMessage>> readJsonArrayWithObjectMapper() {
         List<List<SlackMessage>> allMessages = new ArrayList<>();
@@ -39,36 +39,38 @@ public class MappingServiceJackson implements MappingService {
             for (File dir : directories) {
                 String dirName = dir.getName();
                 File[] jsonFiles = dir.listFiles();
-                for (File file : jsonFiles) {
-                    String fileName = file.getAbsolutePath();
-                    switch (dirName) {
-                        case "general":
+                if (jsonFiles != null) {
+                    for (File file : jsonFiles) {
+                        String fileName = file.getAbsolutePath();
+                        switch (dirName) {
+                            case "general":
 
-                            allMessages.add(
-                                    jsonReader(new File(fileName), SlackChannel.GENERAL));
-                            break;
-                        case "beginner":
-                            allMessages.add(
-                                    jsonReader(new File(fileName), SlackChannel.BEGINNER));
-                            break;
-                        case "javaquestions":
-                            allMessages.add(
-                                    jsonReader(new File(fileName), SlackChannel.JAVAQUESTIONS));
-                            break;
-                        case "javatasks":
-                            allMessages.add(
-                                    jsonReader(new File(fileName), SlackChannel.JAVATASKS));
-                            break;
-                        case "links":
-                            allMessages.add(
-                                    jsonReader(new File(fileName), SlackChannel.LINKS));
-                            break;
-                        case "mentoring":
-                            allMessages.add(
-                                    jsonReader(new File(fileName), SlackChannel.MENTORING));
-                            break;
-                        default:
-                            logger.warn("Unknown directory {}", dirName);
+                                allMessages.add(
+                                        jsonReader(new File(fileName), SlackChannel.GENERAL));
+                                break;
+                            case "beginner":
+                                allMessages.add(
+                                        jsonReader(new File(fileName), SlackChannel.BEGINNER));
+                                break;
+                            case "javaquestions":
+                                allMessages.add(
+                                        jsonReader(new File(fileName), SlackChannel.JAVAQUESTIONS));
+                                break;
+                            case "javatasks":
+                                allMessages.add(
+                                        jsonReader(new File(fileName), SlackChannel.JAVATASKS));
+                                break;
+                            case "links":
+                                allMessages.add(
+                                        jsonReader(new File(fileName), SlackChannel.LINKS));
+                                break;
+                            case "mentoring":
+                                allMessages.add(
+                                        jsonReader(new File(fileName), SlackChannel.MENTORING));
+                                break;
+                            default:
+                                logger.warn("Unknown directory {}", dirName);
+                        }
                     }
                 }
             }

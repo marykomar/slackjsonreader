@@ -25,10 +25,11 @@ import static org.mockito.Mockito.*;
 public class AttachmentSaverTest {
     private AttachmentSaver service = null;
     private FileOperations fileOperations = null;
+    private MappingService mappingService = null;
 
     @Before
     public void beforeEachTest() {
-        MappingService mappingService = Mockito.mock(MappingService.class);
+        mappingService = Mockito.mock(MappingService.class);
         List<List<SlackMessage>> messagesList = new ArrayList<>();
         List<SlackMessage> messages = new ArrayList<>();
         SlackMessage noFile = new SlackMessage();
@@ -48,7 +49,7 @@ public class AttachmentSaverTest {
 
     @Test
     public void testFindAllMessagesWithAttachment() {
-        assertEquals(service.findAllMessagesWithAttachment().size(), 1);
+        assertEquals(1, service.findAllMessagesWithAttachment().size());
     }
 
     @Test

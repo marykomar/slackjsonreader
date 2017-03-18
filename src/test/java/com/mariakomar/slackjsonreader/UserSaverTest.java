@@ -1,26 +1,55 @@
 package com.mariakomar.slackjsonreader;
 
+import com.mariakomar.slackjsonreader.model.SlackMessage;
+import com.mariakomar.slackjsonreader.model.SlackUser;
+import com.mariakomar.slackjsonreader.saver.FileOperations;
+import com.mariakomar.slackjsonreader.saver.MappingService;
 import com.mariakomar.slackjsonreader.saver.UserSaver;
+import com.mariakomar.slackjsonreader.service.SlackAPIService;
+import org.junit.Before;
 import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.mockito.Mockito;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import static org.junit.Assert.assertEquals;
+import static org.mockito.Mockito.when;
 
 /**
  * Tests for UserSaver.
  *
  * Created by Maria Komar on 09.03.17.
  */
-@RunWith(SpringRunner.class)
 @SpringBootTest
 public class UserSaverTest {
-    @Autowired
-    private UserSaver userSaver;
+    private UserSaver userSaver = null;
+    private MappingService mappingService = null;
+    private FileOperations fos = null;
+    private SlackAPIService slackAPIService = null;
+
+    @Before
+    public void beforeEachTest() {
+        mappingService = Mockito.mock(MappingService.class);
+        fos = Mockito.mock(FileOperations.class);
+        slackAPIService = Mockito.mock(SlackAPIService.class);
+        List<List<SlackMessage>> messagesList = new ArrayList<>();
+        List<SlackMessage> messages = new ArrayList<>();
+        SlackMessage noUser = new SlackMessage();
+        SlackMessage withUser = new SlackMessage();
+        SlackUser user = new SlackUser("id");
+        withUser.setUser(user);
+        messages.add(noUser);
+        messages.add(withUser);
+        messagesList.add(messages);
+        when(mappingService.readJsonArrayWithObjectMapper()).thenReturn(messagesList);
+        userSaver = new UserSaver(mappingService, slackAPIService, fos);
+    }
 
     @Test
     public void testGetAllUsersId() {
-        userSaver.getAllUsersId();
+        assertEquals(1, userSaver.getAllUsersId().size());
     }
 
     @Test
