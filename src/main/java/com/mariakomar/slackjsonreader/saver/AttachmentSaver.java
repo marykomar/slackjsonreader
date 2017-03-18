@@ -1,4 +1,4 @@
-package com.mariakomar.slackjsonreader.service;
+package com.mariakomar.slackjsonreader.saver;
 
 import com.mariakomar.slackjsonreader.model.SlackMessage;
 import org.slf4j.Logger;
@@ -6,7 +6,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,7 +17,6 @@ import java.util.List;
 @Service
 public class AttachmentSaver {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
-    private List<SlackMessage> messages = new ArrayList<>();
     private MappingService mappingService;
     private FileOperations fos;
 
@@ -31,8 +29,8 @@ public class AttachmentSaver {
     /**
      * Find all messages with attachments.
      */
-    public void findAllMessagesWithAttachment() {
-        try {
+    public List<SlackMessage> findAllMessagesWithAttachment() {
+        List<SlackMessage> messages = new ArrayList<>();
             for (List<SlackMessage> list : mappingService.readJsonArrayWithObjectMapper()) {
                 for (SlackMessage message : list) {
                     if (message.getFile() != null) {
@@ -41,10 +39,8 @@ public class AttachmentSaver {
 
                 }
             }
-        } catch (IOException e) {
-            logger.warn("Messages have not been read from files", e);
-        }
         logger.info("Found messages with attachments: {}", messages.size());
+        return messages;
     }
 
     /**
@@ -52,22 +48,21 @@ public class AttachmentSaver {
      * Folder now is /home/maria/!slack/files/
      */
     public void downloadAttachments(String path) {
-        for (SlackMessage message : messages) {
+        for (SlackMessage message : findAllMessagesWithAttachment()) {
             String name = message.getFile().getName();
             String ts = message.getFile().getTimestamp();
             String url = message.getFile().getUrl_private_download();
             if (url == null) {
                 url = message.getFile().getUrl_private();
             }
-            try {
+            if (url != null) {
                 fos.downloadAndSaveWithNIO(url, path + ts + name);
-            } catch (IOException e) {
-                logger.warn("File not created " + name + " url " + url
-                        + " other url " + message.getFile().getUrl_private()
-                        + " filetype " + message.getFile().getFiletype());
+                logger.info("Attachments downloaded to {}", path);
+            } else {
+                logger.warn("Invalid attachment {}", message.getFile());
             }
         }
-        logger.info("Attachments downloaded to {}", path);
+
     }
 
 }

@@ -1,6 +1,6 @@
 package com.mariakomar.slackjsonreader;
 
-import com.mariakomar.slackjsonreader.service.UserSaver;
+import com.mariakomar.slackjsonreader.saver.UserSaver;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

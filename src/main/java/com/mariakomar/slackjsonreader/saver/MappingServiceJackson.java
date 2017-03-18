@@ -1,4 +1,4 @@
-package com.mariakomar.slackjsonreader.service;
+package com.mariakomar.slackjsonreader.saver;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
@@ -28,10 +28,9 @@ public class MappingServiceJackson implements MappingService {
      * Read files with json from filesystem.
      * SlackChannel is defined by folder name which contains files.
      *
-     * @return list of lists grouped by SlackChannel
-     * @throws IOException when file read is unsuccessful
+     * @return list of lists grouped by SlackChannel     *
      */
-    public List<List<SlackMessage>> readJsonArrayWithObjectMapper() throws IOException{
+    public List<List<SlackMessage>> readJsonArrayWithObjectMapper() {
         List<List<SlackMessage>> allMessages = new ArrayList<>();
         File mainDirectory = new File("/home/maria/!slack/json");
         // Read subfolders names, by names define enum, deserialize all files from subfolder
@@ -44,6 +43,7 @@ public class MappingServiceJackson implements MappingService {
                     String fileName = file.getAbsolutePath();
                     switch (dirName) {
                         case "general":
+
                             allMessages.add(
                                     jsonReader(new File(fileName), SlackChannel.GENERAL));
                             break;
@@ -78,16 +78,21 @@ public class MappingServiceJackson implements MappingService {
     }
 
     // Mapping json to List<SlackMessage>
-    private List<SlackMessage> jsonReader(File file, SlackChannel channel) throws IOException {
-        List<SlackMessage> sl;
+    private List<SlackMessage> jsonReader(File file, SlackChannel channel) {
+        List<SlackMessage> sl = new ArrayList<>();
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
         InjectableValues inject = new InjectableValues.Std()
                 .addValue(SlackChannel.class, channel);
-        sl = objectMapper
-                .reader(inject)
-                .forType(new TypeReference<List<SlackMessage>>() {})
-                .readValue(file);
+        try {
+            sl = objectMapper
+                    .reader(inject)
+                    .forType(new TypeReference<List<SlackMessage>>() {
+                    })
+                    .readValue(file);
+        } catch (IOException e) {
+            logger.warn("Json not mapped", e);
+        }
         // logger.info("For channel {} found {} messages", channel, sl.size());
         return sl;
     }

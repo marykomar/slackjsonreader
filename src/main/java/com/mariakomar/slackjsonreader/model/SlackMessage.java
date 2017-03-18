@@ -3,7 +3,7 @@ package com.mariakomar.slackjsonreader.model;
 
 import com.fasterxml.jackson.annotation.JacksonInject;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.mariakomar.slackjsonreader.service.CustomDateDeserializer;
+import com.mariakomar.slackjsonreader.saver.CustomDateDeserializer;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;

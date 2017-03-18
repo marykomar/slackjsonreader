@@ -1,4 +1,4 @@
-package com.mariakomar.slackjsonreader.service;
+package com.mariakomar.slackjsonreader.saver;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonProcessingException;

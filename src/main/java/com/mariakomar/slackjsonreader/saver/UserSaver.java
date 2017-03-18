@@ -1,10 +1,11 @@
-package com.mariakomar.slackjsonreader.service;
+package com.mariakomar.slackjsonreader.saver;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.mariakomar.slackjsonreader.model.SlackMessage;
 import com.mariakomar.slackjsonreader.model.SlackUser;
+import com.mariakomar.slackjsonreader.service.SlackAPIService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -41,7 +42,6 @@ public class UserSaver {
      */
     public Set<String> getAllUsersId() {
         Set<String> usersId = new HashSet<>();
-        try {
             List<List<SlackMessage>> allMessages = mappingService.readJsonArrayWithObjectMapper();
             for (List<SlackMessage> messageList : allMessages) {
                 for (SlackMessage message : messageList) {
@@ -51,9 +51,6 @@ public class UserSaver {
                 }
             }
             logger.info("User ids found: {}", usersId.size());
-        } catch (IOException e) {
-            logger.warn("Messages not get from slack archive", e);
-        }
         return usersId;
     }
 
@@ -126,11 +123,7 @@ public class UserSaver {
         for (SlackUser user : getUsersFromFile()) {
             String url = user.getAvatar();
             String name = user.getId();
-            try {
-                fos.downloadAndSaveWithNIO(url, path + name);
-            } catch (IOException e) {
-                logger.warn("Avatars not saved");
-            }
+            fos.downloadAndSaveWithNIO(url, path + name);
         }
         logger.info("Avatars saved to {}" + path);
     }
