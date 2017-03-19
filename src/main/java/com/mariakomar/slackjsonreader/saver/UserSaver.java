@@ -68,10 +68,11 @@ public class UserSaver {
 
     /**
      * Save users JSON to file, format it as array.
+     * Current path : "/home/maria/!slack/users.txt"
      */
-    public void saveUsersJsonToFile() {
-        String path = "/home/maria/!slack/users.txt";
-        try (PrintWriter out = new PrintWriter(path)) {
+    public void saveUsersJsonToFile(PrintWriter out) {
+//        String path = "/home/maria/!slack/users.txt";
+//        try (PrintWriter out = new PrintWriter(path)) {
             out.println("[");
             for (int i = 0; i < getUsersInfoFromSlack().size() - 1; i++) {
                 out.print(getUsersInfoFromSlack().get(i)
@@ -79,10 +80,10 @@ public class UserSaver {
             }
             out.print(getUsersInfoFromSlack().get(getUsersInfoFromSlack().size() - 1));
             out.println("]");
-        } catch (IOException e) {
-            logger.warn("File users.txt not filled", e);
-        }
-        logger.info("Users data written to {}", path);
+//        } catch (IOException e) {
+//            logger.warn("File users.txt not filled", e);
+//        }
+        logger.info("Users data written to output");
     }
 
     /**
