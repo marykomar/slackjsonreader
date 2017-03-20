@@ -11,8 +11,8 @@ import org.junit.Test;
 import org.mockito.Mockito;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import java.io.ByteArrayOutputStream;
 import java.io.PrintWriter;
+import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -63,14 +63,13 @@ public class UserSaverTest {
         assertEquals(foundUsers, userSaver.getUsersInfoFromSlack());
     }
 
-    // TODO fix test
     @Test
     public void testSaveUsersJsonToFile() {
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        PrintWriter out = new PrintWriter(baos);
+        StringWriter content = new StringWriter();
+        PrintWriter out = new PrintWriter(content);
         userSaver.saveUsersJsonToFile(out);
-        String result = new String(baos.toByteArray());
-        assertEquals("1", result);
+        out.close();
+        assertEquals("[\nproper user]\n", content.toString());
     }
 
     @Test
