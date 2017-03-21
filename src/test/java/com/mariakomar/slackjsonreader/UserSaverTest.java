@@ -11,13 +11,16 @@ import org.junit.Test;
 import org.mockito.Mockito;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import java.io.ByteArrayInputStream;
+import java.io.InputStream;
 import java.io.PrintWriter;
 import java.io.StringWriter;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
-import static org.mockito.Mockito.when;
+import static org.mockito.Mockito.*;
 
 /**
  * Tests for UserSaver.
@@ -74,11 +77,30 @@ public class UserSaverTest {
 
     @Test
     public void testGetUsersFromFile() {
-        userSaver.getUsersFromFile();
+        String usersInfo = "[\n" +
+                "{\n" +
+                "    \"ok\": true,\n" +
+                "    \"user\": {\n" +
+                "        \"id\": \"U2JEC1VTI\",\n" +
+                "        \"name\": \"odabc\",\n" +
+                "        \"profile\": {\n" +
+                "            \"first_name\": \"Name\",\n" +
+                "            \"last_name\": \"Last\",\n" +
+                "            \"image_72\": \"https:\\/\\/secure.gravatar.com\"\n" +
+                "        },\n" +
+                "        \"is_admin\": false,\n" +
+                "        \"is_bot\": false\n" +
+                "    }\n" +
+                "}\n]";
+        InputStream inputStream = new ByteArrayInputStream(usersInfo.getBytes(StandardCharsets.UTF_8));
+        assertEquals(1, userSaver.getUsersFromFile(inputStream).size());
     }
 
+    // TODO fix it
     @Test
     public void testSaveAvatars() {
-        userSaver.saveAvatars();
+        userSaver.saveAvatars("/testPath/", null);
+        verify(fos, times(1))
+                .downloadAndSaveWithNIO("testURL", "/testPath/nowname");
     }
 }

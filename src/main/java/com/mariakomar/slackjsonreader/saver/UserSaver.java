@@ -12,8 +12,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Service;
 
-import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.PrintWriter;
 import java.util.*;
 
@@ -88,16 +88,16 @@ public class UserSaver {
 
     /**
      * Read users from file and map them to List<SlackUser>
-     *
      * @return list containing all users from specified file
+     * Now saving to "/home/maria/!slack/users.txt"
      */
     // TODO move to different class?
-    public List<SlackUser> getUsersFromFile() {
+    public List<SlackUser> getUsersFromFile(InputStream inputStream) {
         List<SlackUser> users = new ArrayList<>();
-        File usersFile = new File("/home/maria/!slack/users.txt");
+//        File usersFile = new File("/home/maria/!slack/users.txt");
         ObjectMapper objectMapper = new ObjectMapper();
         try {
-            ArrayNode arrNode = objectMapper.readValue(usersFile, ArrayNode.class);
+            ArrayNode arrNode = objectMapper.readValue(inputStream, ArrayNode.class);
             Iterator<JsonNode> it = arrNode.elements();
             while (it.hasNext()) {
                 JsonNode node = it.next();
@@ -118,10 +118,11 @@ public class UserSaver {
 
     /**
      * Save avatars to filesystem.
+     * Current path "/home/maria/!slack/avatars/"
      */
-    public void saveAvatars() {
-        String path = "/home/maria/!slack/avatars/";
-        for (SlackUser user : getUsersFromFile()) {
+    public void saveAvatars(String path, List<SlackUser> users) {
+        //String path = "/home/maria/!slack/avatars/";
+        for (SlackUser user : users) {
             String url = user.getAvatar();
             String name = user.getId();
             fos.downloadAndSaveWithNIO(url, path + name);
