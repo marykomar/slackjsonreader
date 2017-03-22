@@ -127,7 +127,7 @@ public class UserSaver {
             String name = user.getId();
             fos.downloadAndSaveWithNIO(url, path + name);
         }
-        logger.info("Avatars saved to {}" + path);
+        logger.info("Avatars saved to {}", path);
     }
 
 }

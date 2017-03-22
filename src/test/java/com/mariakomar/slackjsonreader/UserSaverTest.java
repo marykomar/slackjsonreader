@@ -96,11 +96,14 @@ public class UserSaverTest {
         assertEquals(1, userSaver.getUsersFromFile(inputStream).size());
     }
 
-    // TODO fix it
     @Test
     public void testSaveAvatars() {
-        userSaver.saveAvatars("/testPath/", null);
+        SlackUser user = new SlackUser("id");
+        user.setAvatar("avatarURL");
+        List<SlackUser> users = new ArrayList<>();
+        users.add(user);
+        userSaver.saveAvatars("/testPath/", users);
         verify(fos, times(1))
-                .downloadAndSaveWithNIO("testURL", "/testPath/nowname");
+                .downloadAndSaveWithNIO("avatarURL", "/testPath/id");
     }
 }
