@@ -44,7 +44,6 @@ public class MappingServiceJackson implements MappingService {
                         String fileName = file.getAbsolutePath();
                         switch (dirName) {
                             case "general":
-
                                 allMessages.add(
                                         jsonReader(new File(fileName), SlackChannel.GENERAL));
                                 break;

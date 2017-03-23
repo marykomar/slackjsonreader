@@ -1,4 +1,4 @@
-package com.mariakomar.slackjsonreader.service;
+package com.mariakomar.slackjsonreader.saver;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -35,7 +35,6 @@ public class SlackAPIService {
     public SlackUser getAvatarAndName(SlackUser user) {
         RestTemplate restTemplate = new RestTemplate();
         String id = user.getId();
-        SlackUser updatedUser = new SlackUser();
         String message = restTemplate.getForObject
                 ("https://slack.com/api/users.info?token="
                         + token
@@ -54,7 +53,7 @@ public class SlackAPIService {
             logger.warn("User not mapped: {}", message, e);
         }
         logger.info("User updated: {}", user);
-        return updatedUser;
+        return user;
     }
 
     /**
