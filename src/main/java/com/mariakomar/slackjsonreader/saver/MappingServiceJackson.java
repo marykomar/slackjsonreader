@@ -78,6 +78,29 @@ public class MappingServiceJackson implements MappingService {
         return allMessages;
     }
 
+    // Current path "/home/maria/!slack/json"
+    public List<SlackMessage> readJsonArrayWithObjectMapper(String mainDirectoryPath) throws IOException {
+        List<SlackMessage> allMessages = new ArrayList<>();
+        File mainDirectory = new File(mainDirectoryPath);
+        File[] directories = mainDirectory.listFiles();
+        if (directories == null || directories.length == 0) {
+            throw new IOException("Main directory not exist or do not contain subdirectories");
+        }
+
+        for (File dir : directories) {
+            String dirName = dir.getName();
+            File[] jsonFiles = dir.listFiles();
+            for (File file : jsonFiles) {
+                String fileName = file.getAbsolutePath();
+                allMessages.addAll(new File(fileName), dirName);
+            }
+
+        }
+
+        logger.info("Found messages: {}", allMessages.size());
+        return allMessages;
+    }
+
     // Mapping json to List<SlackMessage>
     private List<SlackMessage> jsonReader(File file, SlackChannel channel) {
         List<SlackMessage> sl = new ArrayList<>();

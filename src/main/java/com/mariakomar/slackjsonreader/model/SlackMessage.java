@@ -45,6 +45,8 @@ public class SlackMessage {
     @Enumerated(EnumType.ORDINAL)
     private SlackChannel channel;
 
+    private String channelName;
+
     public SlackMessage(SlackUser user, String text, LocalDateTime ts, SlackChannel channel){
         this.user = user;
         this.text = text;
