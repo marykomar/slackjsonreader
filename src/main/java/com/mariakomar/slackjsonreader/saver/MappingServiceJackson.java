@@ -79,12 +79,12 @@ public class MappingServiceJackson implements MappingService {
     }
 
     // Current path "/home/maria/!slack/json"
-    public List<SlackMessage> readJsonArrayWithObjectMapper(String mainDirectoryPath) throws IOException {
+    public List<SlackMessage> readJsonArrayWithObjectMapper(String mainDirectoryPath) throws SaverException {
         List<SlackMessage> allMessages = new ArrayList<>();
         File mainDirectory = new File(mainDirectoryPath);
         File[] directories = mainDirectory.listFiles();
         if (directories == null || directories.length == 0) {
-            throw new IOException("Main directory not exist or do not contain subdirectories");
+            throw new SaverException("Main directory not exist or do not contain subdirectories");
         }
 
         for (File dir : directories) {
