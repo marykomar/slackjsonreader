@@ -20,7 +20,7 @@ public class MappingServiceJacksonTest {
     private MappingService ms;
 
     @Test
-    public void  testReadJsonArrayWithObjectMapper() throws Exception{
+    public void testReadJsonArrayWithObjectMapper() throws Exception {
         ms.readJsonArrayWithObjectMapper();
     }
 }

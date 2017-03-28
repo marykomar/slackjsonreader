@@ -1,10 +1,8 @@
 package com.mariakomar.slackjsonreader.service;
 
-import com.mariakomar.slackjsonreader.model.SlackChannel;
 import com.mariakomar.slackjsonreader.model.SlackMessage;
 import com.mariakomar.slackjsonreader.model.SlackUser;
 import com.mariakomar.slackjsonreader.repositories.SlackMessageRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
@@ -17,7 +15,7 @@ import java.util.List;
 @Primary
 @Service
 public class SlackMessageServiceJpa implements SlackMessageService{
-    @Autowired
+    //@Autowired
     private SlackMessageRepository repository;
 
     @Override
@@ -25,10 +23,10 @@ public class SlackMessageServiceJpa implements SlackMessageService{
         return repository.findAll();
     }
 
-    @Override
-    public List<SlackMessage> getMessagesByChannel(SlackChannel channel) {
-        return repository.findByChannel(channel);
-    }
+//    @Override
+//    public List<SlackMessage> getMessagesByChannel(SlackChannel channel) {
+//        return repository.findByChannel(channel);
+//    }
 
     @Override
     public List<SlackMessage> getMessagesByUser(SlackUser user) {

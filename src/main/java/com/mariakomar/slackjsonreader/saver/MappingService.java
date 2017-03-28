@@ -10,5 +10,6 @@ import java.util.List;
  * Created by Maria Komar on 30.01.17.
  */
 public interface MappingService {
-    List<List<SlackMessage>> readJsonArrayWithObjectMapper();
+    //List<List<SlackMessage>> readJsonArrayWithObjectMapper();
+    List<SlackMessage> readJsonArrayWithObjectMapper() throws SaverException;
 }

@@ -1,6 +1,5 @@
 package com.mariakomar.slackjsonreader.service;
 
-import com.mariakomar.slackjsonreader.model.SlackChannel;
 import com.mariakomar.slackjsonreader.model.SlackMessage;
 import com.mariakomar.slackjsonreader.model.SlackUser;
 
@@ -11,7 +10,8 @@ import java.util.List;
  */
 public interface SlackMessageService {
     public List<SlackMessage> getAllMessages();
-    public List<SlackMessage> getMessagesByChannel(SlackChannel channel);
+
+    //public List<SlackMessage> getMessagesByChannel(SlackChannel channel);
     public List<SlackMessage> getMessagesByUser(SlackUser user);
     public SlackMessage createMessage(SlackMessage message);
 }
