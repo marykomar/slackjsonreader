@@ -12,4 +12,8 @@ import java.util.List;
 public interface MappingService {
     //List<List<SlackMessage>> readJsonArrayWithObjectMapper();
     List<SlackMessage> readJsonArrayWithObjectMapper() throws SaverException;
+
+    public String getMainDirectoryPath();
+
+    public void setMainDirectoryPath(String mainDirectoryPath);
 }

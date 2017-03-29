@@ -28,7 +28,15 @@ public class MappingServiceJackson implements MappingService {
     @Value("${slack.directory}")
     private String mainDirectoryPath;
 
-//    /**
+    public String getMainDirectoryPath() {
+        return mainDirectoryPath;
+    }
+
+    public void setMainDirectoryPath(String mainDirectoryPath) {
+        this.mainDirectoryPath = mainDirectoryPath;
+    }
+
+    //    /**
 //     * Read files with json from filesystem.
 //     * SlackChannel is defined by folder name which contains files.
 //     *
