@@ -41,19 +41,16 @@ public class SlackMessage {
     @Transient
     private SlackFile file;
 
-//    @JacksonInject
-//    @Enumerated(EnumType.ORDINAL)
-//    private SlackChannel channel;
-
     @JacksonInject
+    @Column(nullable = false)
     private String channelName;
 
-//    public SlackMessage(SlackUser user, String text, LocalDateTime ts, SlackChannel channel){
-//        this.user = user;
-//        this.text = text;
-//        this.ts = ts;
-//        this.channel = channel;
-//    }
+    public SlackMessage(SlackUser user, String text, LocalDateTime ts, String channel) {
+        this.user = user;
+        this.text = text;
+        this.ts = ts;
+        this.channelName = channel;
+    }
 
     public SlackMessage(){
 
@@ -107,20 +104,20 @@ public class SlackMessage {
         this.ts = ts;
     }
 
-//    public SlackChannel getChannel() {
-//        return channel;
-//    }
-
-//    public void setChannel(SlackChannel channel) {
-//        this.channel = channel;
-//    }
-
     public SlackFile getFile() {
         return file;
     }
 
     public void setFile(SlackFile slackFile) {
         this.file = slackFile;
+    }
+
+    public String getChannelName() {
+        return channelName;
+    }
+
+    public void setChannelName(String channelName) {
+        this.channelName = channelName;
     }
 
     @Override
@@ -132,8 +129,8 @@ public class SlackMessage {
                 ", subtype='" + subtype + '\'' +
                 ", text='" + text + '\'' +
                 ", ts=" + ts +
-                ", file='" + file + '\'' +
-                // ", channel=" + channel +
+                ", file=" + file +
+                ", channelName='" + channelName + '\'' +
                 '}';
     }
 }

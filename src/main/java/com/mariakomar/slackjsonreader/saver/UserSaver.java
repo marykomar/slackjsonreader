@@ -3,6 +3,7 @@ package com.mariakomar.slackjsonreader.saver;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
+import com.mariakomar.slackjsonreader.model.SlackMessage;
 import com.mariakomar.slackjsonreader.model.SlackUser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,9 +13,8 @@ import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
+import java.io.PrintWriter;
+import java.util.*;
 
 /**
  * Get users data from Slack and save it to file.
@@ -36,55 +36,55 @@ public class UserSaver {
         this.fos = fos;
     }
 
-    // TODO fix arguments of mappingservice
     /**
      * Get all users id from JSON. Ignore messages without user.
      */
-//    public Set<String> getAllUsersId() {
-//        Set<String> usersId = new HashSet<>();
-//            List<List<SlackMessage>> allMessages = mappingService.readJsonArrayWithObjectMapper();
-//            for (List<SlackMessage> messageList : allMessages) {
-//                for (SlackMessage message : messageList) {
-//                    if (message.getUser() != null && !usersId.contains(message.getUser().getId())) {
-//                        usersId.add(message.getUser().getId());
-//                    }
-//                }
-//            }
-//            logger.info("User ids found: {}", usersId.size());
-//        return usersId;
-//    }
+    public Set<String> getAllUsersId() {
+        Set<String> usersId = new HashSet<>();
+        try {
+            for (SlackMessage message : mappingService.readJsonArrayWithObjectMapper()) {
+                if (message.getUser() != null && !usersId.contains(message.getUser().getId())) {
+                    usersId.add(message.getUser().getId());
+                }
+            }
+            logger.info("User ids found: {}", usersId.size());
+        } catch (SaverException e) {
+            logger.warn("Wrong path to files");
+        }
+        return usersId;
+    }
 
-//    /**
-//     * Stores users information in Strings with JSON
-//     */
-//    public List<String> getUsersInfoFromSlack() {
-//        List<String> allUsers = new LinkedList<>();
-//        for (String id : getAllUsersId()) {
-//            allUsers.add(slackAPIService.getUserAsString(id));
+    /**
+     * Stores users information in Strings with JSON
+     */
+    public List<String> getUsersInfoFromSlack() {
+        List<String> allUsers = new LinkedList<>();
+        for (String id : getAllUsersId()) {
+            allUsers.add(slackAPIService.getUserAsString(id));
+        }
+        logger.info("Users info get from slack: {}", allUsers.size());
+        return allUsers;
+    }
+
+    /**
+     * Save users JSON to file, format it as array.
+     * Current path : "/home/maria/!slack/users.txt"
+     */
+    public void saveUsersJsonToFile(PrintWriter out) {
+//        String path = "/home/maria/!slack/users.txt";
+//        try (PrintWriter out = new PrintWriter(path)) {
+        out.println("[");
+        for (int i = 0; i < getUsersInfoFromSlack().size() - 1; i++) {
+            out.print(getUsersInfoFromSlack().get(i)
+                    .substring(0, getUsersInfoFromSlack().get(i).length() - 1) + ",\n");
+        }
+        out.print(getUsersInfoFromSlack().get(getUsersInfoFromSlack().size() - 1));
+        out.println("]");
+//        } catch (IOException e) {
+//            logger.warn("File users.txt not filled", e);
 //        }
-//        logger.info("Users info get from slack: {}", allUsers.size());
-//        return allUsers;
-//    }
-
-//    /**
-//     * Save users JSON to file, format it as array.
-//     * Current path : "/home/maria/!slack/users.txt"
-//     */
-//    public void saveUsersJsonToFile(PrintWriter out) {
-////        String path = "/home/maria/!slack/users.txt";
-////        try (PrintWriter out = new PrintWriter(path)) {
-//            out.println("[");
-//            for (int i = 0; i < getUsersInfoFromSlack().size() - 1; i++) {
-//                out.print(getUsersInfoFromSlack().get(i)
-//                        .substring(0, getUsersInfoFromSlack().get(i).length() - 1) + ",\n");
-//            }
-//            out.print(getUsersInfoFromSlack().get(getUsersInfoFromSlack().size() - 1));
-//            out.println("]");
-////        } catch (IOException e) {
-////            logger.warn("File users.txt not filled", e);
-////        }
-//        logger.info("Users data written to output");
-//    }
+        logger.info("Users data written to output");
+    }
 
     /**
      * Read users from file and map them to List<SlackUser>
