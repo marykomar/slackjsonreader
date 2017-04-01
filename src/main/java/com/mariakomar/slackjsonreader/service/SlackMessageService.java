@@ -9,9 +9,11 @@ import java.util.List;
  * Created by Maria Komar on 29.01.17.
  */
 public interface SlackMessageService {
-    public List<SlackMessage> getAllMessages();
+    List<SlackMessage> getAllMessages();
 
-    //public List<SlackMessage> getMessagesByChannel(SlackChannel channel);
-    public List<SlackMessage> getMessagesByUser(SlackUser user);
-    public SlackMessage createMessage(SlackMessage message);
+    List<SlackMessage> getMessagesByChannel(String channel);
+
+    List<SlackMessage> getMessagesByUser(SlackUser user);
+
+    SlackMessage createMessage(SlackMessage message);
 }
