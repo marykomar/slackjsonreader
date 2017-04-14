@@ -32,7 +32,7 @@ public class SlackAPIService {
      * @param user for which additional information needed
      * @return updated SlackUser
      */
-    public SlackUser getAvatarAndName(SlackUser user) {
+    public SlackUser getAvatarAndName(SlackUser user) throws SaverException {
         RestTemplate restTemplate = new RestTemplate();
         String id = user.getId();
         String message = restTemplate.getForObject
@@ -43,6 +43,10 @@ public class SlackAPIService {
         ObjectMapper objectMapper = new ObjectMapper();
         try {
             JsonNode rootNode = objectMapper.readTree(message);
+            JsonNode okNode = rootNode.path("ok");
+            if (!okNode.asText().equals("true")) {
+                throw new SaverException("User not found");
+            }
             JsonNode userNode = rootNode.path("user");
             JsonNode nameNode = userNode.path("name");
             JsonNode profileNode = userNode.path("profile");
