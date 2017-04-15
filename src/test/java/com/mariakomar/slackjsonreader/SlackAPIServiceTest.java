@@ -17,7 +17,7 @@ import static org.junit.Assert.assertTrue;
 
 /**
  * Test for SlackAPIService
- * 
+ *
  * Created by Maria Komar on 11.02.17.
  */
 @RunWith(SpringRunner.class)
